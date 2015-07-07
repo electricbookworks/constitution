@@ -1,0 +1,661 @@
+/*
+ * Screen typography for the EBW book framework: https://github.com/electricbookworks/book-framework
+ */
+
+@charset "utf-8";
+
+/* 
+ * Structure 
+ */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "PT Serif", serif;
+	font-weight: 300;
+	line-height: 140%;
+	-moz-font-feature-settings: "liga", "kern";
+	-ms-font-feature-settings: "liga", "kern";
+	-o-font-feature-settings: "liga", "kern";
+	-webkit-font-feature-settings: "liga", "kern";
+	font-feature-settings: "liga", "kern";
+}
+#wrapper{
+	clear: both;
+	max-width: 960px;
+	margin: auto;
+	padding: 0 0.3em 0 0.3em;
+}
+
+/* 
+ * Footer
+ */
+
+#footer {
+	border-top: 1px solid #f2f2f2;
+	margin: 2em 0 0 0;
+	padding: 1em 0.3em 2em 0.3em;
+}
+.footer-content {
+	clear: both;
+	max-width: 960px;
+	margin: auto;
+	font-size: 0.8em;
+	color: grey;
+}
+#footer p {
+	text-indent: 0;
+	margin: 0 0 0.5em 0;
+}
+
+/* 
+ * Nav bar
+ */
+ 
+#nav-bar {
+	position: fixed;
+	top: 0;
+	background-color: white;
+	height: 2em;
+	width: 100%;
+	opacity: 0.9;
+	border-bottom: 1px solid #f2f2f2;
+	z-index: 1;
+}
+	@media only screen 
+	and (max-width: 480px), (max-height: 600px) { /* Let nav-bar scroll out of view on small screens */
+		#nav-bar {
+			position: relative;
+		}
+	}
+#nav-bar a {
+	font-family: initial;
+	text-decoration: none;
+	color: #dddddd;
+	float: right;
+	margin: 0.3em 1em 0 0;
+}
+#nav-bar a {
+	color: grey;
+}
+
+/* 
+ * General typography 
+ */
+ 
+h1, h2, h3, h4, h5, h6 {
+	font-family: "PT Sans", sans-serif;
+	line-height: 120%;
+	page-break-after: avoid;
+	margin: 2em 0 1em 0;
+}
+h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
+	padding-top: 3.5em; /* Prevents #-linked headings from disappearing below the fixed nav bar. */
+}
+h1 {
+	max-width: 80%;
+	line-height: 100%;
+	font-size: 1.5em;
+	background-color: black;
+	color: white;
+	padding: 0.2em;
+	border-radius: 0.2em;
+}
+h2 {
+	margin: 1em 0 0.5em 0;
+	padding-top: 0.5em;
+	font-size: 1.3em;
+}
+h3 {
+	margin: 1em 0 0.5em 0;
+	padding-top: 0.5em;
+	font-size: 1.1em;
+}
+p, ul, ol {
+	max-width: 35em;
+	line-height: 150%;
+	-moz-font-feature-settings: "onum";
+	-ms-font-feature-settings: "onum";
+	-o-font-feature-settings: "onum";
+	-webkit-font-feature-settings: "onum";
+	font-feature-settings: "onum";
+}
+p {
+	margin: 0 0 0.5em 0;
+	text-indent: 0;
+}
+ol ol {
+	list-style-type: lower-alpha;
+}
+sup, sub {
+	line-height: 100%;
+}
+
+/* 
+ * Special classes for paragraphs
+ */
+
+p.first { /* A paragraph that starts a new set of paragraphs, with a gap above it. */
+	margin: 2em 0 0 0;
+	text-indent: 0;
+}
+.source {
+	text-align: right;
+	max-width: 22.5em;
+	margin: 0 0 0 25%;
+}
+.valediction {
+	text-indent: 0;
+	margin: 1em 0;
+	font-style: italic;
+	text-align: right;
+}
+.valediction + p {
+	text-indent: 0; /* Paragraphs after a valediction should be flush left */
+}
+
+/*
+ * Verse, poetry, lyrics
+ */
+
+.verse {
+	text-indent: 0;
+	margin: 1em 0;
+}
+.verse + p {
+	text-indent: 0; /* Paragraphs after verse should be flush left */
+}
+ul.verse {
+	list-style-type: none;
+	padding: 0;
+	margin: 1em 0;
+}
+ul.verse li {
+	text-indent: -2em;
+	margin-left: 2em;
+}
+
+/* Finally, set flush left and override any top-margin inadvertently added with .first or similar on a paragraph after a heading, blockquote, list or definition list */
+
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p, blockquote + p, ol + p, ul + p, dl + p { 
+	text-indent: 0;
+	margin-top: 0; 
+}
+
+/* 
+ * Definition lists. Useful for sidebar-like notes, too. 
+ */
+
+dl {
+	color: #666;
+	max-width: 35em;
+}
+dt {
+	margin: 0 0 0.25em 0;
+	font-weight: 600;
+}
+dd {
+	margin: 0 0 1em 1em;
+}
+
+/*
+ * Code
+ */
+
+pre, code {
+	font-family: "Inconsolata", monospace;
+	white-space: pre-wrap;
+	background-color: #f9f9f9;
+	padding: 0.1em 0.3em;
+	border-radius: 0.2em;
+	font-weight: 200;
+	font-size: 0.9em;
+}
+
+/*
+ * Links
+ */
+
+a {
+	text-decoration: none;
+	color: #5f738c;
+}
+a.button {
+	display: inline-block;
+	background-color: #4f89d2;
+	color: white;
+	font-family: "PT Sans", sans-serif;
+	padding: 0.5em;
+	margin: 0;
+	border-radius: 0.2em;
+	text-align: center;
+	text-decoration: none;
+	line-height: 100%;
+	box-shadow: 0.02em 0.02em 0.02em 0.02em #ccc;
+	cursor: pointer;
+}
+a.button:hover {
+	background-color: #4faad2;
+}
+
+/* Blockquotes */
+
+blockquote {
+	margin: 1em 0 0.5em 0;
+	padding: 0 1em;
+	line-height: 120%;
+	max-width: 35em;
+	color: #444444;
+}
+blockquote p {
+	line-height: 140%;
+}
+blockquote p:first-of-type {
+	text-indent: 0;
+}
+blockquote p:last-of-type, blockquote ol, blockquote ul {
+	margin: 0 0 1em 0;
+}
+
+/*
+ * Bold elements, useful for blockquotes and definition lists 
+ */
+
+.shout {
+	font-size: 1.5em;
+	font-style: italic;
+	max-width: 20em;
+}
+.shout * {
+	line-height: 115%;
+}
+.box {
+	background-color: inherit;
+	color: inherit;
+	font-weight: inherit;
+	font-size: inherit;
+	border: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 1em 1em 0 1em;
+	max-width: 35em;
+	box-shadow: 2px 2px 2px 0 #f2f2f2;
+}
+p.box {
+	padding-bottom: 1em;
+	text-indent: 0;
+}
+.box + p {
+	text-indent: 0;
+}
+
+/*
+ * Tables 
+ */
+ 
+table {
+	border-collapse: collapse;
+	margin: 0 0 1em 0;
+}
+thead, th, .table-subhead {
+	page-break-after: avoid;
+	background-color: #F2F2F2;
+	line-height: 120%;
+}
+thead, th {
+	font-weight: 600;
+}
+th, td {
+	border: 1px solid #ccc;
+	padding: 0.5em;
+}
+.table-row-stub {
+	font-weight: 600;
+}
+td p, td ol, td ul {
+	margin: 0;
+	padding: 0;
+	-moz-font-feature-settings: "tnum";
+	-ms-font-feature-settings: "tnum";
+	-o-font-feature-settings: "tnum";
+	-webkit-font-feature-settings: "tnum";
+	font-feature-settings: "tnum";
+}
+td ul, td ol {
+	margin: 0;
+	padding: 0 0 0 1em;
+}
+.table-caption {
+	page-break-after:avoid;
+	font-style: italic;
+}
+.table-caption em {
+	font-style: normal;
+}
+
+/*
+ * Footnotes, endnotes and sidenotes
+ * Note: What kramdown creates as .footnotes are actually, in a paged book context, endnotes.
+ */
+
+.footnotes {
+  margin: 2em 0 0 0;
+  border-top: 1px solid #e9e9e9;
+  color: #555555;
+}
+.footnotes p {
+	text-indent: 0;
+}
+sup:target {
+	padding-top: 3.5em; /* Prevents footnote references from disappearing below the fixed nav bar when linked to. */
+}
+.sidenote {
+	font-family: "PT Sans", sans-serif;
+	font-weight: 300;
+	clear: both;
+	float: right;
+	max-width: 10em;
+	min-width: 5em;
+	margin: 0.5em -15em 0.5em 2em;
+	padding: 0.5em;
+	border-top: 1px solid #eeeeee;
+	text-indent: 0;
+	font-size: 0.8em;
+	font-style: inherit;
+	line-height: 120%;
+}
+	@media only screen 
+	and (max-width: 55em) { /* On narrow screens, text wraps around sidenotes */
+		.sidenote {
+			float: right;
+			position: relative;
+			max-width: 40%;
+			margin: 0.5em 0 0.5em 0.5em;
+		}
+	}
+
+.bottom {} /* Only used for print output, ignored for screen. */
+
+/* 
+ * Extra typographic control 
+ */
+
+ /* Use small-cap alternate glyphs */
+.smallcaps { 
+	-moz-font-feature-settings: "smcp", "onum";
+	-ms-font-feature-settings: "smcp", "onum";
+	-o-font-feature-settings: "smcp", "onum";
+	-webkit-font-feature-settings: "smcp", "onum";
+	font-feature-settings: "smcp", "onum";
+	font-style: inherit;
+}
+
+/* Convert both upper and lowercase to small caps (affects punctuation also) */
+.allsmallcaps { 
+	-moz-font-feature-settings: "c2sc", "smcp", "onum";
+	-ms-font-feature-settings: "c2sc", "smcp", "onum";
+	-o-font-feature-settings: "c2sc", "smcp", "onum";
+	-webkit-font-feature-settings: "c2sc", "smcp", "onum";
+	font-feature-settings: "c2sc", "smcp", "onum";
+	font-style: inherit;
+}
+
+/* Automatic fractions */
+.fractions { 
+	-moz-font-feature-settings: "frac"; 
+	-ms-font-feature-settings: "frac"; 
+	-o-font-feature-settings: "frac"; 
+	-webkit-font-feature-settings: "frac"; 
+	font-feature-settings: "frac"; 
+	font-style: inherit;
+}
+
+/* Tighten tracking */
+.xx-tight {
+	letter-spacing: -0.05em;
+	font-style: inherit;
+}
+.xxx-tight {
+	letter-spacing: -0.1em;
+	font-style: inherit;
+}
+
+/* Shrink the font size */
+.shrink {
+	font-size: 0.7em; /* Useful for wide tables */
+}
+
+/* 
+ * Figures 
+ */
+ 
+/* Figures. Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
+ * This keeps them EPUB2 compatible (unlike the <figure> element, which is not.)
+ * Use the .figure class for the blockquote wrapping an image and a caption. Add .fixed, .small and/or .large for layout and size options. */
+
+blockquote.figure {
+	clear: both;
+	page-break-inside: avoid;
+	background-color: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	color: #666;
+	margin: 1em 0;
+	padding: 0.5em;
+}
+.figure p {
+	clear: both;
+	text-align: center;
+	page-break-inside: avoid;
+	page-break-before: avoid;
+}
+.figure p img {
+	padding: 0.5em 0 1em 0;
+	margin: 0 auto;
+	max-width: 100%; 
+	object-fit: scale-down;
+}
+	@media screen and (max-height: 800px) {
+		blockquote.figure p img {
+			max-height: 400px;
+			}
+	}
+	@media screen and (max-height: 500px) {
+		blockquote.figure p img {
+			max-height: 200px;
+			}
+	}
+.figure p:nth-child(2) { /* This controls the appearance of captions added as a paragraph following the image inside the blockquote */
+	padding: 0.5em 0 0 0;
+	text-align: center;
+	text-indent: 0;
+}
+.figure.x-small p img {}
+.figure.small p img {}
+.figure.large p img {
+	max-height:inherit;
+}
+	@media screen and (min-width: 600px) {
+		.figure.large p img {
+			max-height: 600px;
+		}
+	}
+
+/*
+ * Video
+ */
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+	margin: 1em 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.videowrapper + p {
+	text-indent: 0; /* Don't indent a paragraph after a video. */
+}
+
+/*
+ * Cover image. This is useful for landing pages for individual books.
+ */
+
+body.cover {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+p.cover {
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	text-indent: 0;
+	height: 100vh;
+}
+img.cover {
+	max-height: 100%;
+	max-width: 100%;
+	border: 1px solid #f9f9f9;
+}
+img.thumbnail {
+	margin: 0 2em 0 0;
+	height: 10em;
+	float: left;
+	border: 1px solid #f9f9f9;
+}
+
+/*
+ * Title-page 
+ */
+
+.title-page-title {
+	font-size: 3em;
+	font-weight: 700;
+	margin: 20% 0 0 0;
+	line-height: 100%;
+	text-indent: 0;
+}
+.title-page-subtitle {
+	font-size: 3em;
+	font-weight: 400;
+	margin: 0 0 1em 0;
+	line-height: 100%;
+	text-indent: 0;
+}
+.title-page-author {
+	font-size: 1.5em;
+	margin: 0 0 2em 0;
+	text-indent: 0;
+}
+.title-page-logo {
+	width: 100px;
+}
+
+/*
+ * Copyright page
+ */
+
+.copyright-page p {
+	text-indent: 0;
+	margin: 0 0 0.5em 0;
+}
+.copyright-page h1, .copyright-page h2 {
+	font-size: 1em;
+	font-weight: normal;
+	font-style: italic;
+	margin-top: 3em;
+}
+
+/* 
+ * Dedications and epigraphs
+ */
+
+.epigraph-page, .dedication-page {
+	margin-top: 6em;
+}
+p.dedication {
+	text-indent: 0;
+	text-align: center;
+	max-width: 20em;
+	-moz-font-feature-settings: "c2sc", "smcp", "onum";
+	-ms-font-feature-settings: "c2sc", "smcp", "onum";
+	-o-font-feature-settings: "c2sc", "smcp", "onum";
+	-webkit-font-feature-settings: "c2sc", "smcp", "onum";
+	font-feature-settings: "c2sc", "smcp", "onum";
+	font-style: inherit;
+}
+p.epigraph {
+	font-style: italic;
+	text-indent: 0;
+	padding: 0 4em;
+	max-width: 20em;
+}
+p.epigraph-source {
+	text-indent: 0;
+	padding: 0 4em;
+	max-width: 20em;
+	-moz-font-feature-settings: "c2sc", "smcp", "onum";
+	-ms-font-feature-settings: "c2sc", "smcp", "onum";
+	-o-font-feature-settings: "c2sc", "smcp", "onum";
+	-webkit-font-feature-settings: "c2sc", "smcp", "onum";
+	font-feature-settings: "c2sc", "smcp", "onum";
+	font-style: inherit;
+}
+p.epigraph-source:before {
+	content: "—";
+}
+
+/*
+ * Tables of contents
+ */
+
+.contents-page h2 {
+	font-size: 1.25em;
+	margin: 0.5em 0;
+}
+.contents-page ol {
+	margin: 0;
+	padding: 0;
+}
+.contents-page ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.contents-page li {
+	margin: 0;
+}
+.contents-page a {
+	text-decoration: none;
+}
+
+/* TOCs in individual pages, created in kramdown with a placeholder ol/ul followed by {:toc} */
+
+ul#markdown-toc, ol#markdown-toc {
+	list-style-type: none;
+	border-top: 1px solid #f2f2f2;
+	border-bottom: 1px solid #f2f2f2;
+	padding: 1em 0;
+	margin: 2em 0;
+}
+#markdown-toc ul {
+	list-style-type: none;
+	margin: 0;
+}
+#markdown-toc ol {
+	margin: 0;
+}
+#markdown-toc li {
+}
+#markdown-toc a {
+	text-decoration: none;
+}

@@ -1,0 +1,6 @@
+/* Set page size to A4 */
+@page { 
+	size: A4; 
+	margin: 18mm 18mm 20mm 18mm;
+	padding: 0;
+}
