@@ -55,7 +55,6 @@ body {
 #nav-bar {
 	position: fixed;
 	top: 0;
-	background-color: white;
 	height: 2em;
 	width: 100%;
 	opacity: 0.9;
