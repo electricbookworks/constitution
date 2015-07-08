@@ -61,6 +61,7 @@ body {
 	opacity: 0.9;
 	border-bottom: 1px solid #f2f2f2;
 	z-index: 1;
+	background-image: url("/images/sa-flag-colour-blocks.png");
 }
 	@media only screen 
 	and (max-width: 480px), (max-height: 600px) { /* Let nav-bar scroll out of view on small screens */
@@ -71,11 +72,14 @@ body {
 #nav-bar a {
 	font-family: initial;
 	text-decoration: none;
-	color: #dddddd;
+	color: black;
 	float: right;
 	margin: 0.3em 1em 0 0;
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 1.5em;
 }
-#nav-bar a {
+#nav-bar a:hover {
 	color: grey;
 }
 
@@ -95,16 +99,31 @@ h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
 h1 {
 	max-width: 80%;
 	line-height: 100%;
-	font-size: 1.5em;
-	background-color: black;
-	color: white;
-	padding: 0.2em;
-	border-radius: 0.2em;
+	font-size: 3em;
+	text-transform: uppercase;
+	font-weight: normal;
+	letter-spacing: 0.05em;
+	color: #333333;
 }
+	@media only screen 
+	and (max-width: 480px) { /* Full width heading on small screens */
+		h1 {
+			max-width: 100%;
+		}
+	}
 h2 {
 	margin: 1em 0 0.5em 0;
 	padding-top: 0.5em;
 	font-size: 1.3em;
+	color: #333333;
+	font-weight: normal;
+}
+h2:before {
+	content: " ";
+	display: block;
+	border-top: 2px dashed #eeeeee;
+	max-width: 35em;
+	padding: 0 0 0.5em 0;
 }
 h3 {
 	margin: 1em 0 0.5em 0;
@@ -218,11 +237,11 @@ pre, code {
 
 a {
 	text-decoration: none;
-	color: #5f738c;
+	color: #2e4da1;
 }
 a.button {
 	display: inline-block;
-	background-color: #4f89d2;
+	background-color: #2e4da1;
 	color: white;
 	font-family: "PT Sans", sans-serif;
 	padding: 0.5em;
@@ -355,9 +374,9 @@ sup:target {
 	float: right;
 	max-width: 10em;
 	min-width: 5em;
-	margin: 0.5em -15em 0.5em 2em;
+	margin: 0 -15em 0.5em 2em;
 	padding: 0.5em;
-	border-top: 1px solid #eeeeee;
+	border-top: 5px solid #eeeeee;
 	text-indent: 0;
 	font-size: 0.8em;
 	font-style: inherit;
@@ -659,3 +678,12 @@ ul#markdown-toc, ol#markdown-toc {
 #markdown-toc a {
 	text-decoration: none;
 }
+
+/*
+ * Constitutional Court colours based on the South African flag
+ */
+
+.yellow {background-color: #e8e95c;}
+.blue {background-color: #2e4da1;}
+.red {background-color: #d2232a;}
+.green {background-color: #19845e;}
