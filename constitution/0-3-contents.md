@@ -4,7 +4,7 @@ title: Contents
 style: contents-page
 ---
 
-# The Constitution of the Republic of South Africa
+# The Constitution of&nbsp;the Republic of South&nbsp;Africa
 
 ##	[About this edition](0-4-about.html)
 

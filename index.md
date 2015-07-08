@@ -3,7 +3,7 @@ title: About
 layout: min
 ---
 
-# The Constitution of the Republic of South&nbsp;Africa
+# The Constitution of&nbsp;the Republic of South&nbsp;Africa
 
 [English](constitution/0-3-contents.html){:.button} 
 *Other languages coming soon.*{:.sidenote}
