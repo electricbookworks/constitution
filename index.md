@@ -3,9 +3,10 @@ title: About
 layout: min
 ---
 
-# [The Constitution of South Africa](constitution/0-3-contents.html)
+# The Constitution of South&nbsp;Africa
 
-[Open the Constitution](constitution/0-3-contents.html){:.button}
+[English](constitution/0-3-contents.html){:.button} 
+*Other languages coming soon.*{:.sidenote}
 
 This edition of the South African Constitution has been specially created to be easy to read, print and distribute.
 {:.first}
