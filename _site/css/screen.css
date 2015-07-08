@@ -64,7 +64,7 @@ body {
 	background-image: url("images/sa-flag-colour-blocks.png");
 }
 	@media only screen 
-	and (max-width: 480px), (max-height: 600px) { /* Let nav-bar scroll out of view on small screens */
+	and (max-width: 280px), (max-height: 600px) { /* Let nav-bar scroll out of view on small screens */
 		#nav-bar {
 			position: relative;
 		}
@@ -74,10 +74,16 @@ body {
 	text-decoration: none;
 	color: black;
 	float: right;
-	margin: 0.3em 1em 0 0;
+	margin: 1.5em 1em 0 0;
 	font-size: 2em;
 	font-weight: bold;
-	margin-top: 1.5em;
+	background-color: white;
+	padding: 0.1em 0.1em 0.1em 0.1em;
+	border-radius: 1em;
+	height: 0.75em;
+	width: 0.75em;
+	text-align: center;
+	border: 1px solid #eeeeee;
 }
 #nav-bar a:hover {
 	color: grey;
@@ -104,11 +110,13 @@ h1 {
 	font-weight: normal;
 	letter-spacing: 0.05em;
 	color: #333333;
+	margin: 3em 0 1em 0;
 }
 	@media only screen 
 	and (max-width: 480px) { /* Full width heading on small screens */
 		h1 {
-			max-width: 100%;
+			max-width: 95%;
+			font-size: 2em;
 		}
 	}
 h2 {
@@ -388,7 +396,7 @@ sup:target {
 			float: right;
 			position: relative;
 			max-width: 40%;
-			margin: 0.5em 0 0.5em 0.5em;
+			margin: 0 0 0.5em 0.5em;
 		}
 	}
 
