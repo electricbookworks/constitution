@@ -61,7 +61,7 @@ body {
 	opacity: 0.9;
 	border-bottom: 1px solid #f2f2f2;
 	z-index: 1;
-	background-image: url("/images/sa-flag-colour-blocks.png");
+	background-image: url("images/sa-flag-colour-blocks.png");
 }
 	@media only screen 
 	and (max-width: 480px), (max-height: 600px) { /* Let nav-bar scroll out of view on small screens */
