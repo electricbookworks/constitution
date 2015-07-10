@@ -5,9 +5,9 @@ style: home
 
 # The Constitution of&nbsp;the Republic of South&nbsp;Africa
 
-[Read in English](constitution/0-3-contents.html){:.button} *Other languages coming soon.*{:.sidenote}
+[Read in English](constitution/0-3-contents.html){:.button .eight-em} *Other languages coming soon.*{:.sidenote}
 
-[Download PDF](download/constitution-english.pdf){:.button} 
+[Download PDF](download/constitution-english.pdf){:.button .eight-em} 
 
 This edition of the South African Constitution has been specially created to be easy to read, print and distribute.
 {:.first}
