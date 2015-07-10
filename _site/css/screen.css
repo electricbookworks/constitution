@@ -11,7 +11,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: "PT Serif", serif;
+	font-family: "Noto Serif", "Droid Serif", serif;
 	font-weight: 300;
 	line-height: 140%;
 	-moz-font-feature-settings: "liga", "kern";
@@ -90,7 +90,6 @@ body {
 #nav-bar a:hover {
 	color: grey;
 }
-
 .home #nav-bar a {
 	display: none;
 }
@@ -100,7 +99,7 @@ body {
  */
  
 h1, h2, h3, h4, h5, h6 {
-	font-family: "PT Sans", sans-serif;
+	font-family: "Noto Sans", "Droid Sans", sans-serif;
 	line-height: 120%;
 	page-break-after: avoid;
 	margin: 2em 0 1em 0;
@@ -257,7 +256,7 @@ a.button {
 	display: inline-block;
 	background-color: #2e4da1;
 	color: white;
-	font-family: "PT Sans", sans-serif;
+	font-family: "Noto Sans", "Droid Sans", sans-serif;
 	padding: 0.5em;
 	margin: 0;
 	border-radius: 0.2em;
@@ -269,6 +268,12 @@ a.button {
 }
 a.button:hover {
 	background-color: #4faad2;
+}
+.eight-em {
+	width: 8em;
+}
+.twelve-em {
+	width: 12em;
 }
 
 /* Blockquotes */
@@ -382,7 +387,7 @@ sup:target {
 	padding-top: 3.5em; /* Prevents footnote references from disappearing below the fixed nav bar when linked to. */
 }
 .sidenote {
-	font-family: "PT Sans", sans-serif;
+	font-family: "Noto Sans", "Droid Sans", sans-serif;
 	font-weight: 300;
 	clear: both;
 	float: right;
