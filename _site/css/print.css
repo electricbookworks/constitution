@@ -323,6 +323,9 @@ li:last-of-type {
 li li:first-of-type {
 /*	page-break-before: avoid;*/
 }
+li.unnumbered {
+	list-style-type: none;
+}
 
 /* Blockquotes */
 

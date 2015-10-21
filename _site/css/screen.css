@@ -159,6 +159,12 @@ p {
 ol ol {
 	list-style-type: lower-alpha;
 }
+ol ol ol {
+	list-style-type: lower-roman;
+}
+li.unnumbered {
+	list-style-type: none;
+}
 sup, sub {
 	line-height: 100%;
 }
@@ -168,7 +174,7 @@ sup, sub {
  */
 
 p.first { /* A paragraph that starts a new set of paragraphs, with a gap above it. */
-	margin: 2em 0 0 0;
+	margin-top: 2em;
 	text-indent: 0;
 }
 .source {

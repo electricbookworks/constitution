@@ -5,19 +5,15 @@ style: home
 
 # The Constitution of&nbsp;the Republic of South&nbsp;Africa
 
-[Read in English](constitution/0-3-contents.html){:.button .eight-em} *Other languages coming soon.*{:.sidenote}
-
+[Read online](constitution/0-3-contents.html){:.button .eight-em}
 [Download PDF](download/constitution-english.pdf){:.button .eight-em} 
 
-This edition of the South African Constitution has been specially created to be easy to read, print and distribute.
+This edition of the South African Constitution has been specially created to be easy to read, print and distribute. We are working on versions in all South African languages.
 {:.first}
-
-*	Online, it is easy to read and uses very little bandwidth.
-*	The PDF version is for printing. It's designed to be space-efficient for cheap printing, while still being easy to read.
 
 You may freely copy and redistribute this edition of the Constitution. (There is no copyright in the text or the layout.)
 
-## Background
+## About this project
 
 There are many versions of the South African Constitution, but the ones we have found have drawbacks: 
 
@@ -37,3 +33,9 @@ We wanted to produce a better edition.
 *	There is no copyright in the layout.
 
 If you have suggestions for ways to make it even better, [let us know](http://electricbookworks.com/contact).
+
+## Licence
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [all contributors to this project](https://github.com/electricbookworks/constitution) waive all copyright and related or neighboring rights to its markdown and HTML versions of the text of the South African Constitution.
