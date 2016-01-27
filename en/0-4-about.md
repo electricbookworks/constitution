@@ -1,5 +1,5 @@
 ---
-title: Acknowledgements
+title: About this edition
 ---
 
 # About this edition
