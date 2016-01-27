@@ -28,13 +28,13 @@ We wanted to produce a better edition.
 *	A printable PDF on a standard A5 page size, which is easy to print (e.g. almost any printer can print two pages on an A4 sheet, and one folded to A5, it's easy to carry around)
 *	We’ve retained readability without wasting space.
 *	We’ve aimed for a simple, elegant design that doesn’t get in the way of just reading.
-*	We’ve used open-licensed fonts (PT Serif and PT Sans) that are easy to read and work well in many languages.
+*	We’ve used open-licensed fonts that are easy to read and work well in many languages.
 *	We’ve built a simple web version that is fast and low-bandwidth, and works well on phones, computers, and tablets.
-*	There is no copyright in the layout.
+*	There is no copyright in the text and layout. You may reuse it freely with attribution.
 
-If you have suggestions for ways to make it even better, [let us know](http://electricbookworks.com/contact).
+If you have suggestions for ways to make it even better, [email info@myconstitution.co.za](mailto:info@myconstitution.co.za).
 
 ## Licence
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-To the extent possible under law, [all contributors to this project](https://github.com/electricbookworks/constitution) waive all copyright and related or neighboring rights to the markdown and HTML versions of the text of the South African Constitution published here.
+To the extent possible under law, all contributors to this project waive all copyright and related or neighboring rights to the markdown and HTML versions of the text of the South African Constitution published here.
