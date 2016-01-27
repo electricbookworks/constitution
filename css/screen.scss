@@ -47,7 +47,7 @@ $line-height-default: 150%;
 // Import font files (@font-face) for fonts you specify
 // ----------------------------------------------------
 
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif&subset=latin,latin-ext); // Includes latin-ext for Tshivenda glyphs
 // @import "font-noto-sans";
 // @import "font-noto-serif";
 // @import "font-linux-libertine";
