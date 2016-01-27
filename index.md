@@ -10,7 +10,6 @@ style: home
 [Download PDF](download/constitution-english.pdf){:.button .eight-em} 
 
 This edition of the South African Constitution has been specially created to be easy to read, print and distribute. We are working on versions in all South African languages.
-{:.first}
 
 You may freely copy and redistribute this edition of the Constitution. (There is no copyright in the text or the layout.)
 
