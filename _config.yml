@@ -46,3 +46,157 @@ defaults:
             path: "" # an empty string here means all files in the project
         values:
             layout: "default"
+
+
+# Add your imprint or brand name here, it will appear in navigation.
+publisher: "South Africa"
+
+# Your publisher name will link to this URL in navigation.
+publisher-url: "http://myconstitution.co.za"
+
+# The name of the collection or series in this repo.
+name: "My Constitution"
+
+# A one-liner about this collection. Useful for Open Graph metadata.
+description: "The Constitution of South Africa"
+
+# The primary language used in this series. You can set the language for each book individually below at 'defaults'. 
+# To understand what language tags to use, read: http://www.w3.org/International/articles/language-tags/ 
+# For the registry of tags: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry 
+# Useful lookup tool: http://r12a.github.io/apps/subtags/
+language: en
+
+# Leave this unchanged as http://localhost:4000 unless you really know what you're doing here. This is the URL that Jekyll will run at by default locally.
+url: http://localhost:4000
+
+# Change this to the name of your series folder, e.g. /my-cool-books
+baseurl: /constitution
+
+# Leave this unchanged as kramdown unless you really know how and why to change your markdown processor
+markdown: kramdown
+
+# Leave this unchanged as none. This way, your book's chapters will all generate correctly named in one folder.
+# This is really useful for grabbing allyour HTML files at once for including in epubs or sending to PrinceXML.
+permalink: none
+
+# Leave this unchanged. It tells Jekyll where to find Sass partials. (See http://jekyllrb.com/docs/assets/#sassscss)
+sass:
+    sass_dir: css/_sass
+
+# These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
+defaults: 
+    -
+        scope: # First we set defaults for all files in this series folder (an empty string "" for path means all files).
+            path: ""
+        values:
+            author: "The Republic of South Africa"
+            language: "en"
+            publication-date: "2015-12-01"
+            layout: "default"
+            style: "chapter"
+            stylesheet: "screen.css"
+            stylesheet-child: "screen-child-constitution.css"
+            contents: "0-3-contents.html"
+            language: "en"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "af"
+        values:
+            book-title: "Die Grondwet van die Republiek van Suid-Afrika"
+            language: "af"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Now enter details for your first book. The `path` is the book's folder. The `values` are specific to the book in that folder. Add values to override the defaults above per book. Remember to indent with spaces, not tabs, for valid YAML.
+            path: "en"
+        values:
+            book-title: "The Constitution of South Africa"
+            language: "en"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "nd"
+        values:
+            book-title: "Die Grondwet van die Republiek van Suid-Afrika"
+            language: "nd"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "nso"
+        values:
+            book-title: "Molaotheo wa Rephabliki ya Afrika Borwa"
+            language: "nso"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "ss"
+        values:
+            book-title: "Dumtsetfosisekelo Weriphabhulik Hi Yase Ningizimu Afrika"
+            language: "ss"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "st"
+        values:
+            book-title: "Molaotheo wa Rephaboliki ya Afrika Borwa"
+            language: "st"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "tn"
+        values:
+            book-title: "Molaotheo wa Rephaboliki ya Aforika Borwa"
+            language: "tn"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "ts"
+        values:
+            book-title: "Vumbiwa ra Riphabliki ra Afrika Dzonga"
+            language: "ts"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "ve"
+        values:
+            book-title: "Ndayotewa ya Riphabuḽiki ya Afrika Tshipembe"
+            language: "ve"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "xh"
+        values:
+            book-title: "Umgaqo-Siseko Weriphablikhi Yomzantsi-Afrika"
+            language: "xh"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "zu"
+        values:
+            book-title: "Umthethosisekelo Weriphabhuliki Yaseningizimu Afrika"
+            language: "zu"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
