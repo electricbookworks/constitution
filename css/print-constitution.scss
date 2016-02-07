@@ -12,11 +12,11 @@
 // -------------
 
 // First, we set several variables related to overall page setup.
-$page-size: 129mm 198mm; // Width, then height. 129×198 is B-format (Lightning Source compatible)
-$margin-top: 15mm;
-$margin-bottom: 20mm;
-$margin-outside: 13mm;
-$margin-inside: 19mm;
+$page-size: A5; // Width, then height. 129×198 is B-format (Lightning Source compatible)
+$margin-top: 12mm;
+$margin-bottom: 18mm;
+$margin-outside: 12mm;
+$margin-inside: 12mm;
 $bleed: 3mm;
 $trim: 3mm;
 $crop-marks: crop; // crop | none
@@ -33,8 +33,8 @@ $font-display-secondary: "Linux Libertine", serif;
 $font-code: "Inconsolata", monospace;
 
 // Finally, we set variables related to text flow.
-$font-size-default: 11pt;
-$line-height-default: 14pt; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
+$font-size-default: 9.5pt;
+$line-height-default: 12pt; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
 $text-align: left;
 $orphans: 1; // Minimum number of lines that must be left at the bottom of the first page
 $widows: 1; // Minimum number of lines that must be left at the top of the second page
@@ -45,10 +45,12 @@ $hyphenation-dictionary: ""; // File name of dictionary in css/dictionaries.
 // Import font files (@font-face) for fonts you specify
 // ----------------------------------------------------
 
-@import "font-linux-libertine";
-@import "font-source-sans-pro";
-@import "font-inconsolata";
-// @import "font-crimson";
+//@import "font-linux-libertine";
+//@import "font-source-sans-pro";
+//@import "font-inconsolata";
+//@import "font-crimson";
+@import "font-noto-serif";
+@import "font-noto-sans";
 
 // ------------------------
 // Import your master theme
@@ -81,3 +83,10 @@ $hyphenation-dictionary: ""; // File name of dictionary in css/dictionaries.
 // -------------
 
 // Add any custom style rules here.
+
+.chapter {
+	column-count: 2;
+}
+h1, h2, h3, h4, h5, h6 {
+	column-break-after: avoid;
+}

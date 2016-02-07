@@ -10,7 +10,10 @@ name: "My Constitution"
 # A one-liner about this collection. Useful for Open Graph metadata.
 description: "The Constitution of South Africa"
 
-# The primary language of the books in this collection.
+# The primary language used in this series. You can set the language for each book individually below at 'defaults'. 
+# To understand what language tags to use, read: http://www.w3.org/International/articles/language-tags/ 
+# For the registry of tags: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry 
+# Useful lookup tool: http://r12a.github.io/apps/subtags/
 language: en
 
 # Leave this unchanged as http://localhost:4000 unless you really know what you're doing here. This is the URL that Jekyll will run at by default locally.
@@ -22,19 +25,15 @@ baseurl: /constitution
 # Leave this unchanged as kramdown unless you really know how and why to change your markdown processor
 markdown: kramdown
 
-# Leave this unchanged as none. This way, your book's chapters will all generate correctly named in one folder, really useful for grabbing them all at once, e.g. for sending to PrinceXML for PDF.
+# Leave this unchanged as none. This way, your book's chapters will all generate correctly named in one folder.
+# This is really useful for grabbing allyour HTML files at once for including in epubs or sending to PrinceXML.
 permalink: none
 
-# Users with GitHub contributor access can edit your book with http://prose.io. These settings control what they see. See https://github.com/prose/prose/wiki/Prose-Configuration for more info.
-prose: 
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
+# Leave this unchanged. It tells Jekyll where to find Sass partials. (See http://jekyllrb.com/docs/assets/#sassscss)
+sass:
+    sass_dir: css/_sass
 
-# These are default YAML values that apply to multiple documents. 
+# These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
 defaults: 
     -
         scope: # Set the filename of each book's outputted contents page for use in navigation. For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults
@@ -93,9 +92,11 @@ defaults:
             language: "en"
             publication-date: "2015-12-01"
             layout: "default"
+#            layout: "epub"
             style: "chapter"
-            stylesheet: "screen.css"
-            stylesheet-child: "screen-child-constitution.css"
+            stylesheet-print: "print-constitution.css"
+            stylesheet-web: "web-constitution.css"
+            stylesheet-epub: "epub-constitution.css"
             contents: "0-3-contents.html"
             language: "en"
             isbn-print: ""
