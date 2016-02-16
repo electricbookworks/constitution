@@ -229,3 +229,20 @@ style: contents-page
     1.	[195. Basic values and principles governing public administration](10.html#basic-values-and-principles-governing-public-administration)
     1.	[196. Public Service Commission](10.html#public-service-commission)
     1.	[197. Public Service](10.html#public-service)
+1.	[Chapter 11: Security Services (ss 198–210)](11.html#chapter-11-security-services-ss-198210)
+    1.	[198. Governing principles](11.html#governing-principles)
+    1.	[199. Establishment, structuring and conduct of security services](11.html#establishment-structuring-and-conduct-of-security-services)
+    1.	[Defence](11.html#defence){:.subhead}
+        1.	[200. Defence force](11.html#defence-force)
+        1.	[201. Political responsibility](11.html#political-responsibility)
+        1.	[202. Command of defence force](11.html#command-of-defence-force)
+        1.	[203. State of national defence](11.html#state-of-national-defence)
+        1.	[204. Defence civilian secretariat](11.html#defence-civilian-secretariat)
+    1.	[Police](11.html#police){:.subhead}
+        1.	[205. Police service](11.html#police-service)
+        1.	[206. Political responsibility](11.html#political-responsibility-1)
+        1.	[207. Control of police service](11.html#control-of-police-service)
+        1.	[208. Police civilian secretariat](11.html#police-civilian-secretariat)
+    1.	[Intelligence](11.html#intelligence){:.subhead}
+        1.	[209. Establishment and control of intelligence services](11.html#establishment-and-control-of-intelligence-services)
+        1.	[210. Powers, functions and monitoring](11.html#powers-functions-and-monitoring)
