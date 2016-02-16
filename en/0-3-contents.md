@@ -56,7 +56,7 @@ style: contents-page
 	1.	[43. Legislative authority of the Republic](4.html#legislative-authority-of-the-republic)
 	1.	[44. National legislative authority](4.html#national-legislative-authority)
 	1.	[45. Joint rules and orders and joint committees](4.html#joint-rules-and-orders-and-joint-committees)
-	1.	{:.subhead}[The National Assembly](4.html#the-national-assembly)
+	1.	[The National Assembly](4.html#the-national-assembly){:.subhead}
 		1.	[46. Composition and election](4.html#composition-and-election)
 		1.	[47. Membership](4.html#membership)
 		1.	[48. Oath or affirmation](4.html#oath-or-affirmation)
@@ -71,7 +71,7 @@ style: contents-page
 		1.	[57. Internal arrangements, proceedings and procedures of National Assembly](4.html#internal-arrangements-proceedings-and-procedures-of-national-assembly)
 		1.	[58. Privilege](4.html#privilege)
 		1.	[59. Public access to and involvement in National Assembly](4.html#public-access-to-and-involvement-in-national-assembly)
-	1.	{:.subhead}[National Council of Provinces](4.html#national-council-of-provinces)
+	1.	[National Council of Provinces](4.html#national-council-of-provinces){:.subhead}
 		1.	[60. Composition of National Council](4.html#composition-of-national-council)
 		1.	[61. Allocation of delegates](4.html#allocation-of-delegates)
 		1.	[62. Permanent delegates](4.html#permanent-delegates)
@@ -85,7 +85,7 @@ style: contents-page
 		1.	[70. Internal arrangements, proceedings and procedures of National Council](4.html#internal-arrangements-proceedings-and-procedures-of-national-council)
 		1.	[71. Privilege](4.html#privilege-1)
 		1.	[72. Public access to and involvement in National Council](4.html#public-access-to-and-involvement-in-national-council)
-	1.	{:.subhead}[National Legislative Process](4.html#national-legislative-process)
+	1.	[National Legislative Process](4.html#national-legislative-process){:.subhead}
 		1.	[73. All Bills](4.html#all-bills)
 		1.	[74. Bills amending the Constitution](4.html#bills-amending-the-constitution)
 		1.	[75. Ordinary Bills not affecting provinces](4.html#ordinary-bills-not-affecting-provinces)
@@ -119,7 +119,7 @@ style: contents-page
 	1.	[102. Motions of no confidence](5.html#motions-of-no-confidence)
 1.	[Chapter 6: Provinces (ss 103–150)](6.html#chapter-6-provinces)
 	1.	[103. Provinces](6.html#provinces)
-	1.	{:.subhead}[Provincial Legislatures](6.html#provincial-legislatures)
+	1.	[Provincial Legislatures](6.html#provincial-legislatures){:.subhead}
 		1.	[104. Legislative authority of provinces](6.html#legislative-authority-of-provinces)
 		1.	[105. Composition and election of provincial legislatures](6.html#composition-and-election-of-provincial-legislatures)
 		1.	[106. Membership](6.html#membership)
@@ -141,7 +141,7 @@ style: contents-page
 		1.	[122. Application by members to Constitutional Court](6.html#application-by-members-to-constitutional-court)
 		1.	[123. Publication of provincial Acts](6.html#publication-of-provincial-acts)
 		1.	[124. Safekeeping of provincial Acts](6.html#safekeeping-of-provincial-acts)
-	1.	{:.subhead}[Provincial Executives](6.html#provincial-executives)
+	1.	[Provincial Executives](6.html#provincial-executives){:.subhead}
 		1.	[125. Executive authority of provinces](6.html#executive-authority-of-provinces)
 		1.	[126. Assignment of functions](6.html#assignment-of-functions)
 		1.	[127. Powers and functions of Premiers](6.html#powers-and-functions-of-premiers)
@@ -159,12 +159,12 @@ style: contents-page
 		1.	[139. Provincial intervention in local government](6.html#provincial-intervention-in-local-government)
 		1.	[140. Executive decisions](6.html#executive-decisions)
 		1.	[141. Motions of no confidence](6.html#motions-of-no-confidence)
-	1.	{:.subhead}[Provincial Constitutions](6.html#provincial-constitutions)
+	1.	[Provincial Constitutions](6.html#provincial-constitutions){:.subhead}
 		1.	[142. Adoption of provincial constitutions](6.html#adoption-of-provincial-constitutions)
 		1.	[143. Contents of provincial constitutions](6.html#contents-of-provincial-constitutions)
 		1.	[144. Certification of provincial constitutions](6.html#certification-of-provincial-constitutions)
 		1.	[145. Signing, publication and safekeeping of provincial constitutions](6.html#signing-publication-and-safekeeping-of-provincial-constitutions)
-	1.	{:.subhead}[Conflicting Laws](6.html#conflicting-laws)
+	1.	[Conflicting Laws](6.html#conflicting-laws){:.subhead}
 		1.	[Conflicts between national and provincial legislation](6.html#conflicts-between-national-and-provincial-legislation)
 		1.	[147. Other conflicts](6.html#other-conflicts)
 		1.	[148. Conflicts that cannot be resolved](6.html#conflicts-that-cannot-be-resolved)
@@ -185,3 +185,47 @@ style: contents-page
     1.	[162. Publication of municipal by-laws](7.html#publication-of-municipal-by-laws)
     1.	[163. Organised local government](7.html#organised-local-government)
     1.	[164. Other matters](7.html#other-matters)
+1.	[Chapter 8: Courts and Administration of Justice (ss 165–180)](8.html#chapter-8-courts-and-administration-of-justice-ss-165180)
+    1.	[165. Judicial authority](8.html#judicial-authority)
+    1.	[166. Judicial system](8.html#judicial-system)
+    1.	[167. Constitutional Court](8.html#constitutional-court)
+    1.	[168. Supreme Court of Appeal](8.html#supreme-court-of-appeal)
+    1.	[169. High Court of South Africa](8.html#high-court-of-south-africa)
+    1.	[170. Other courts](8.html#other-courts)
+    1.	[171. Court procedures](8.html#court-procedures)
+    1.	[172. Powers of courts in constitutional matters](8.html#powers-of-courts-in-constitutional-matters)
+    1.	[173. Inherent power](8.html#inherent-power)
+    1.	[174. Appointment of judicial officers](8.html#appointment-of-judicial-officers)
+    1.	[175. Appointment of acting judges](8.html#appointment-of-acting-judges)
+    1.	[176. Terms of office and remuneration](8.html#terms-of-office-and-remuneration)
+    1.	[177. Removal](8.html#removal)
+    1.	[178. Judicial Service Commission](8.html#judicial-service-commission)
+    1.	[179. Prosecuting authority](8.html#prosecuting-authority)
+    1.	[180. Other matters concerning administration of justice](8.html#other-matters-concerning-administration-of-justice)
+1.	[Chapter 9: State Institutions Supporting Constitutional Democracy (ss 181–194)](9.html#chapter-9-state-institutions-supporting-constitutional-democracy-ss-181194)
+    1.	[181. Establishment and governing principles](9.html#establishment-and-governing-principles)
+    1.	[Public Protector](9.html#public-protector){:.subhead}
+        1.	[182. Functions of Public Protector](9.html#functions-of-public-protector)
+        1.	[183. Tenure](9.html#tenure)
+    1.	[South African Human Rights Commission](9.html#south-african-human-rights-commission){:.subhead}
+        1.	[184. Functions of South African Human Rights Commission](9.html#functions-of-south-african-human-rights-commission)
+    1.	[Commission for the Promotion and Protection of the Rights of Cultural, Religious and Linguistic Communities](9.html#commission-for-the-promotion-and-protection-of-the-rights-of-cultural-religious-and-linguistic-communities){:.subhead}
+        1.	[185. Functions of Commission](9.html#functions-of-commission)
+        1.	[186. Composition of Commission](9.html#composition-of-commission)
+    1.	[Commission for Gender Equality](9.html#commission-for-gender-equality){:.subhead}
+        1.	[187. Functions of Commission for Gender Equality](9.html#functions-of-commission-for-gender-equality)
+    1.	[Auditor-General](9.html#auditor-general){:.subhead}
+        1.	[188. Functions of Auditor-General](9.html#functions-of-auditor-general)
+        1.	[189. Tenure](9.html#tenure-1)
+    1.	[Electoral Commission](9.html#electoral-commission){:.subhead}
+        1.	[190. Functions of Electoral Commission](9.html#functions-of-electoral-commission)
+        1.	[191. Composition of Electoral Commission](9.html#composition-of-electoral-commission)
+    1.	[Independent Authority to Regulate Broadcasting](9.html#independent-authority-to-regulate-broadcasting){:.subhead}
+        1.	[193. Broadcasting Authority](9.html#broadcasting-authority)
+    1.	[General Provisions](9.html#general-provisions){:.subhead}
+        1.	[193. Appointments](9.html#appointments)
+        1.	[194. Removal from office](9.html#removal-from-office)
+1.	[Chapter 10: Public Administration (ss 195–197)](10.html#chapter-10-public-administration-ss-195197)
+    1.	[195. Basic values and principles governing public administration](10.html#basic-values-and-principles-governing-public-administration)
+    1.	[196. Public Service Commission](10.html#public-service-commission)
+    1.	[197. Public Service](10.html#public-service)
