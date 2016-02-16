@@ -64,6 +64,23 @@ $line-height-default: 150%;
 
 // Add any custom style rules here.
 
+// General typography
+p, ul, ol, dl {
+	text-indent: 0;
+	margin-bottom: 1em;
+}
+li {
+	list-style-type: decimal;
+}
+li li {
+	list-style-type: lower-alpha;
+}
+li li li {
+    list-style-type: lower-roman;
+}
+
+// Home page
+
 .home #nav-bar {
 	display: block;
 	background-image: url("images/sa-flag-colour-blocks.png");
@@ -71,7 +88,23 @@ $line-height-default: 150%;
 .home #nav-bar p {
 	visibility: hidden;
 }
-p, ul, ol, dl {
-	text-indent: 0;
-	margin-bottom: 1em;
+
+// Contents page
+
+.contents-page ol li {
+    list-style-type: none;
+}
+.contents-page li {
+    margin: 1em 0 0 0;
+    font-weight: bold;
+}
+.contents-page li li {
+    font-weight: normal;
+    border-top: 0;
+    margin: 0 0 0 1em;
+}
+.contents-page .subhead {
+	display: block;
+	margin-top: 1em;
+	font-style: italic;
 }
