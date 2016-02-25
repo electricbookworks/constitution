@@ -43,10 +43,10 @@ To the extent possible under law, all contributors to this project waive all cop
 
 While this open-source project will always be a work in progress (for instance, content will need updating when the constitution is amended from time to time), the initial setup will happen in four parts. These project parts may happen simultaneously.
 
-1. **Set up website with English version of the constitution.** This site is staged at [github.com/electricbookworks/constitution](https://github.com/electricbookworks/constitution). This site is built with the [Electric Book Workflow](https://github.com/electricbookworks/electric-book-workflow), an open framework for using markdown and Jekyll to publish long-form content in multiple formats. When ready, the static HTML is moved to a production site at [myconstitution.co.za](http://myconstitution.co.za).
-2. **Create and add text of remaining 10 official languages**. This is done by converting the offical (DOJ) PDF versions of the constitution into markdown files for each part of the constitution in each language (following the structure established in the English edition).
-3. **Quality assurance on the conversion to markdown**. Professional proofreaders cross-check our versions of the text in each language against the official DOF versions.
-4. **Add embedded audio files**. The CSIR's Meraka Institute is creating text-to-speech audio of each section of the constitution generated from our text. These audio files will be hosted on a free, cloud-based audio service and embedded as streaming audio at appropriate places in the text.
+1. **Set up the website with the English version of the constitution.** This site is staged at [github.com/electricbookworks/constitution](https://github.com/electricbookworks/constitution). This site is built with the [Electric Book Workflow](https://github.com/electricbookworks/electric-book-workflow), an open framework for using markdown and Jekyll to publish long-form content in multiple formats. When ready, the static HTML is moved to a production site at [myconstitution.co.za](http://myconstitution.co.za).
+2. **Create and add the text of the remaining 10 official languages.** This is done by converting the offical (DOJ) PDF versions of the constitution into markdown files for each part of the constitution in each language (following the structure established in the English edition).
+3. **Quality assurance on the conversion to markdown.** Professional proofreaders cross-check our versions of the text in each language against the official DOJ versions.
+4. **Add embedded audio files.** The CSIR's Meraka Institute is creating text-to-speech audio of each section of the constitution generated from our text. These audio files will be hosted on a free, cloud-based audio service and embedded as streaming audio at appropriate places in the text.
 
 ## Contributors
 
@@ -57,3 +57,4 @@ This project developed out of discussions between [Arthur Attwell](http://arthur
 * Barbara Attwell: markdown
 * [Bangula Language Services](http://www.blc.co.za/): language consulting
 
+If you'd like to help, [email info@myconstitution.co.za](mailto:info@myconstitution.co.za). You can also [log issues on GitHub](https://github.com/electricbookworks/constitution/issues).
