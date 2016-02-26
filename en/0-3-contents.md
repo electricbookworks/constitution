@@ -246,3 +246,6 @@ style: contents-page
     1.	[Intelligence](11.html#intelligence){:.subhead}
         1.	[209. Establishment and control of intelligence services](11.html#establishment-and-control-of-intelligence-services)
         1.	[210. Powers, functions and monitoring](11.html#powers-functions-and-monitoring)
+*   [Chapter 12: Traditional Leaders (ss 211–212)](12.html#chapter-12-traditional-leaders)
+    *   [211. Recognition](12.html#recognition)
+    *   [212. Role of traditional leaders](12.html#role-of-traditional-leaders)
