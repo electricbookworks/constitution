@@ -69,14 +69,29 @@ p, ul, ol, dl {
 	text-indent: 0;
 	margin-bottom: 1em;
 }
-li {
+blockquote {
+	border-left: 3px solid silver;
+}
+
+// Nested ordered lists
+ol li {
 	list-style-type: decimal;
 }
-li li {
+ol li li {
 	list-style-type: lower-alpha;
 }
-li li li {
+ol li li li {
     list-style-type: lower-roman;
+}
+// Nested ordered lists in blockquotes in lists
+ol li blockquote li {
+	list-style-type: decimal;
+}
+ol li blockquote li li {
+	list-style-type: lower-alpha;
+}
+ol li blockquote li li li {
+	list-style-type: lower-roman;
 }
 
 // Home page

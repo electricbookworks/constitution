@@ -15,9 +15,9 @@ $margin-top: 12mm;
 $margin-bottom: 18mm;
 $margin-outside: 12mm;
 $margin-inside: 12mm;
-$bleed: 3mm;
-$trim: 3mm;
-$crop-marks: crop; // crop | none
+$bleed: 0;
+$trim: 0;
+$crop-marks: none; // crop | none
 
 // We name font variables for two categories:
 // - 'text' fonts are used for body text and some page features;
@@ -136,9 +136,49 @@ $highlight-loosened: inherit;
 
 // Add any custom style rules here.
 
+
+// Two columns
 .chapter {
 	column-count: 2;
 }
+
+// Headings
 h1, h2, h3, h4, h5, h6 {
+	font-size: ($font-size-default * 1.2);
+	font-weight: bold;
+	line-height: $line-height-default;
+	margin-top: $line-height-default;
 	column-break-after: avoid;
+	clear: both; // where sidenotes float in the way
+}
+
+// Lists
+li {
+	list-style-type: decimal;
+}
+li li {
+	list-style-type: lower-alpha;
+}
+li li li {
+    list-style-type: lower-roman;
+}
+
+// Contents page
+
+.contents-page ol li {
+    list-style-type: none;
+}
+.contents-page li {
+    margin: $line-height-default 0 0 0;
+    font-weight: bold;
+}
+.contents-page li li {
+    font-weight: normal;
+    border-top: 0;
+    margin: 0 0 0 $line-height-default;
+}
+.contents-page .subhead {
+	display: block;
+	margin-top: $line-height-default;
+	font-style: italic;
 }
