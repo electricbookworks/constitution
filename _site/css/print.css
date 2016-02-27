@@ -1259,6 +1259,86 @@ h6 {
     content: normal; }
   @bottom-right-corner {
     content: normal; } }
+@page frontmatter:left {
+  @top {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right-corner {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @bottom {
+    content: counter(page,lower-roman); }
+  @bottom-left {
+    content: normal; }
+  @bottom-right {
+    content: normal; }
+  @bottom-left-corner {
+    content: normal; }
+  @bottom-right-corner {
+    content: normal; } }
+@page frontmatter:right {
+  @top {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right-corner {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @bottom {
+    content: counter(page,lower-roman); }
+  @bottom-left {
+    content: normal; }
+  @bottom-right {
+    content: normal; }
+  @bottom-left-corner {
+    content: normal; }
+  @bottom-right-corner {
+    content: normal; } }
+.frontmatter {
+  prince-page-group: start; }
+
+@page frontmatter:first {
+  @top {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @top-right-corner {
+    content: normal; } }
+@page frontmatter:blank {
+  @top {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @top-right-corner {
+    content: normal; }
+  @bottom {
+    content: normal; }
+  @bottom-left {
+    content: normal; }
+  @bottom-right {
+    content: normal; }
+  @bottom-left-corner {
+    content: normal; }
+  @bottom-right-corner {
+    content: normal; } }
+.page-1 {
+  counter-reset: page 1; }
+
 @page chapter:left {
   @top {
     font-family: "Linux Libertine", serif;
@@ -1321,6 +1401,128 @@ h6 {
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); } }
 @page chapter:right {
+  @top {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); } }
+@page frontmatter:left {
+  @top {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right-corner {
+    font-family: "Linux Libertine", serif;
+    font-size: 8.8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); } }
+@page frontmatter:right {
   @top {
     font-family: "Linux Libertine", serif;
     font-size: 8.8pt;

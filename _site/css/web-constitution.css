@@ -972,6 +972,31 @@ table + p.sidenote + p,
   text-indent: 0;
   margin-top: 0; }
 
+p, ul, ol, dl {
+  text-indent: 0;
+  margin-bottom: 1em; }
+
+blockquote {
+  border-left: 3px solid silver; }
+
+ol li {
+  list-style-type: decimal; }
+
+ol li li {
+  list-style-type: lower-alpha; }
+
+ol li li li {
+  list-style-type: lower-roman; }
+
+ol li blockquote li {
+  list-style-type: decimal; }
+
+ol li blockquote li li {
+  list-style-type: lower-alpha; }
+
+ol li blockquote li li li {
+  list-style-type: lower-roman; }
+
 .home #nav-bar {
   display: block;
   background-image: url("images/sa-flag-colour-blocks.png"); }
@@ -979,6 +1004,19 @@ table + p.sidenote + p,
 .home #nav-bar p {
   visibility: hidden; }
 
-p, ul, ol, dl {
-  text-indent: 0;
-  margin-bottom: 1em; }
+.contents-page ol li {
+  list-style-type: none; }
+
+.contents-page li {
+  margin: 1em 0 0 0;
+  font-weight: bold; }
+
+.contents-page li li {
+  font-weight: normal;
+  border-top: 0;
+  margin: 0 0 0 1em; }
+
+.contents-page .subhead {
+  display: block;
+  margin-top: 1em;
+  font-style: italic; }

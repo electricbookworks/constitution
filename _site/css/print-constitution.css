@@ -63,9 +63,9 @@
   margin-outside: 12mm;
   margin-inside: 12mm;
   padding: 0;
-  marks: crop;
-  prince-bleed: 3mm;
-  prince-trim: 3mm; }
+  marks: none;
+  prince-bleed: 0;
+  prince-trim: 0; }
 /* Name our book-part styles as divs. PrinceXML needs the pages named for @page rules. */
 .title-page {
   page: title-page; }
@@ -1218,6 +1218,86 @@ h6 {
     content: normal; }
   @bottom-right-corner {
     content: normal; } }
+@page frontmatter:left {
+  @top {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right-corner {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @bottom {
+    content: counter(page,lower-roman); }
+  @bottom-left {
+    content: normal; }
+  @bottom-right {
+    content: normal; }
+  @bottom-left-corner {
+    content: normal; }
+  @bottom-right-corner {
+    content: normal; } }
+@page frontmatter:right {
+  @top {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right-corner {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @bottom {
+    content: counter(page,lower-roman); }
+  @bottom-left {
+    content: normal; }
+  @bottom-right {
+    content: normal; }
+  @bottom-left-corner {
+    content: normal; }
+  @bottom-right-corner {
+    content: normal; } }
+.frontmatter {
+  prince-page-group: start; }
+
+@page frontmatter:first {
+  @top {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @top-right-corner {
+    content: normal; } }
+@page frontmatter:blank {
+  @top {
+    content: normal; }
+  @top-left {
+    content: normal; }
+  @top-right {
+    content: normal; }
+  @top-left-corner {
+    content: normal; }
+  @top-right-corner {
+    content: normal; }
+  @bottom {
+    content: normal; }
+  @bottom-left {
+    content: normal; }
+  @bottom-right {
+    content: normal; }
+  @bottom-left-corner {
+    content: normal; }
+  @bottom-right-corner {
+    content: normal; } }
+.page-1 {
+  counter-reset: page 1; }
+
 @page chapter:left {
   @top {
     font-family: "Noto Serif", serif;
@@ -1340,8 +1420,161 @@ h6 {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); } }
+@page frontmatter:left {
+  @top {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); } }
+@page frontmatter:right {
+  @top {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-right-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @top-left-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-left-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); }
+  @bottom-right-corner {
+    font-family: "Noto Serif", serif;
+    font-size: 7.6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-variant: prince-opentype(c2sc, smcp, onum); } }
 .chapter {
   column-count: 2; }
 
 h1, h2, h3, h4, h5, h6 {
-  column-break-after: avoid; }
+  font-size: 11.4pt;
+  font-weight: bold;
+  line-height: 12pt;
+  margin-top: 12pt;
+  column-break-after: avoid;
+  clear: both; }
+
+li {
+  list-style-type: decimal; }
+
+li li {
+  list-style-type: lower-alpha; }
+
+li li li {
+  list-style-type: lower-roman; }
+
+.contents-page ol li {
+  list-style-type: none; }
+
+.contents-page li {
+  margin: 12pt 0 0 0;
+  font-weight: bold; }
+
+.contents-page li li {
+  font-weight: normal;
+  border-top: 0;
+  margin: 0 0 0 12pt; }
+
+.contents-page .subhead {
+  display: block;
+  margin-top: 12pt;
+  font-style: italic; }
