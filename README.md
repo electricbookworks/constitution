@@ -17,7 +17,7 @@ That's pretty straightforward if you can read English, and have a good Internet 
 However, there are problems from there:
 
 * If you don't read English, you have to download a PDF version. There are no plain-HTML versions of the constitution in all official languages. The official PDF versions are [on the DOJ's site](http://www.justice.gov.za/legislation/constitution/pdf.html). Thing is, if you're using a basic phone on a slow, expensive data connection, a PDF is not going to work for you. Not only is it slow to download, it's hard to read a PDF on a small screen, if your phone opens PDFs at all.
-* PDFs are also unsuitable for accessibility: many people who're visually impaired (or disabled in other ways) use software that reads text to them. PDFs are often difficult for this software to read properly.
+* PDFs are also unsuitable for accessibility: many people who're visually impaired (or disabled in other ways) use software that reads text to them. PDFs are often difficult for this software to read properly. For instance, they often don't include PDF bookmarks for navigation (as is the case with the official DOJ PDFs).
 * And what are your options if you're illiterate? Should there be audio versions of the constitution in all languages? 
 * Several versions available on the Internet are copyrighted. That means it's illegal to reuse them without permission. Versions published by government departments are not copyrighted (they can't be in terms of the South African Copyright Act 12:8a), but amended editions assembled by private people and companies are copyrighted. This makes it tricky to quickly reuse the text of the constitution in a new project. 
  
