@@ -95,6 +95,15 @@ ve,
 xh, 
 zu,
 _source,
+css/debug,
+css/fonts,
+css/dictionaries,
+css/epub.scss,
+css/print.scss,
+css/web.scss,
+css/print-no-bleed.css,
+css/print-no-crop-marks.css,
+README.md,
 ]
 
 # These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
