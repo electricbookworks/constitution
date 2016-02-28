@@ -69,8 +69,32 @@ p, ul, ol, dl {
 	text-indent: 0;
 	margin-bottom: 1em;
 }
+
+// Blockquotes
+
 blockquote {
 	border-left: 3px solid silver;
+	padding-left: 1.75em;
+}
+blockquote.figure {
+	border: 0;
+}
+
+// Note blockquotes
+
+blockquote.note {
+	padding: 0;
+	border: 0;
+	p {
+		margin: 0 0 1em 0;
+		font-style: italic;
+	}
+}
+
+// Lists
+
+ul, ol {
+	padding-left: 1em;
 }
 
 // Nested ordered lists
@@ -102,6 +126,9 @@ ol li blockquote li li li {
 }
 .home #nav-bar p {
 	visibility: hidden;
+}
+.home .footer-content {
+    display: none;
 }
 
 // Contents page
