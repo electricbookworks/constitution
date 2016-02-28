@@ -4,7 +4,8 @@ title: Schedule 6. Transitional Arrangements
 
 # Schedule 6: Transitional Arrangements
 
-*[Schedule 6 amended by s. 3 of Constitution First Amendment Act of 1997, by s. 5 of Constitution Second Amendment Act of 1998 and by s. 20 of Constitution Sixth Amendment Act of 2001.]*{:.sidenote}
+> [Schedule 6 amended by s. 3 of Constitution First Amendment Act of 1997, by s. 5 of Constitution Second Amendment Act of 1998 and by s. 20 of Constitution Sixth Amendment Act of 2001.]
+{:.note}
 
 ## 1. Definitions
 
@@ -156,11 +157,17 @@ In this Schedule, unless inconsistent with the context—
 1.	
 	1.	The Constitutional Court established by the previous Constitution becomes the Constitutional Court under the new Constitution.
 	1.	….
-*[Subitem (b) deleted by s. 20(a) of the Constitution Sixth Amendment Act of 2001.]*{:.sidenote}
+
+		> [Subitem (b) deleted by s. 20(a) of the Constitution Sixth Amendment Act of 2001.]
+		{:.note}
+
 1.	
 	1.	The Appellate Division of the Supreme Court of South Africa becomes the Supreme Court of Appeal under the new Constitution.
 	1.	….
-*[Subitem (b) deleted by s. 20(a) of the Constitution Sixth Amendment Act of 2001.]*{:.sidenote}
+
+		> [Subitem (b) deleted by s. 20(a) of the Constitution Sixth Amendment Act of 2001.]
+		{:.note}
+
 1.	
 	1.	A provincial or local division of the Supreme Court of South Africa or a supreme court of a homeland or a general division of such a court, becomes a High Court under the new Constitution without any alteration in its area of jurisdiction, subject to any rationalisation contemplated in subitem (6).
 	1.	Anyone holding office or deemed to hold office as the Judge President, the Deputy Judge President or a judge of a court referred to in paragraph (a) when the new Constitution takes effect, becomes the Judge President, the Deputy Judge President or a judge of such a court under the new Constitution, subject to any rationalisation contemplated in subitem (6).
@@ -178,7 +185,10 @@ In this Schedule, unless inconsistent with the context—
 		1.	the Chief Justice, becomes the President of the Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution; and (iv) the Deputy Chief Justice, becomes the Deputy President of the Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution.
 	1.	All rules, regulations or directions made by the President of the Constitutional Court or the Chief Justice in force immediately before the Constitution of the Republic of South Africa Amendment Act, 2001, takes effect, continue in force until repealed or amended.
 	1.	Unless inconsistent with the context or clearly inappropriate, a reference in any law or process to the Chief Justice or to the President of the Constitutional Court, must be construed as a reference to the Chief Justice as contemplated in section 167(1) of the new Constitution.
-*[Subitem (7) added by s. 20(b) of the Constitution Sixth Amendment Act of 2001.]*{:.sidenote}
+
+	> [Subitem (7) added by s. 20(b) of the Constitution Sixth Amendment Act of 2001.]
+	{:.note}
+
 
 ## 17. Cases pending before courts
 
@@ -198,7 +208,10 @@ A person who continues in office in terms of this Schedule and who has taken the
 1.	In this section “constitutional institution” means—
 	1.	the Public Protector;
 	1.	the South African Human Rights Commission;
-*[Para (b) amended by s. 4 of the Constitution Second Amendment Act of 1998.]*{:.sidenote}
+
+		> [Para (b) amended by s. 4 of the Constitution Second Amendment Act of 1998.]
+		{:.note}
+
 	1.	the Commission on Gender Equality;
 	1.	the Auditor-General;
 	1.	the South African Reserve Bank;
@@ -229,7 +242,10 @@ A person who continues in office in terms of this Schedule and who has taken the
 
 1.	Notwithstanding the other provisions of the new Constitution and despite the repeal of the previous Constitution, all the provisions relating to amnesty contained in the previous Constitution under the heading “National Unity and Reconciliation” are deemed to be part of the new Constitution for the purposes of the Promotion of National Unity and Reconciliation Act, 1995 (Act 34 of 1995), as amended, including for the purposes of its validity.
 1.	For the purposes of subitem (1), the date “6 December 1993”, where it appears in the provisions of the previous Constitution under the heading “National Unity and Reconciliation”, must be read as “11 May 1994”.
-*[Subitem (2) added by s. 3 of the Constitution First Amendment Act of 1997.]*{:.sidenote}
+
+	> [Subitem (2) added by s. 3 of the Constitution First Amendment Act of 1997.]
+	{:.note}
+
 
 ## 23. Bill of Rights
 
@@ -271,11 +287,20 @@ A person who continues in office in terms of this Schedule and who has taken the
 
 1.	Notwithstanding the provisions of sections 151, 155, 156 and 157 of the new Constitution—
 	1.	the provisions of the Local Government Transition Act, 1993 (Act 209 of 1993), as may be amended from time to time by national legislation consistent with the new Constitution, remain in force in respect of a Municipal Council until a Municipal Council replacing that Council has been declared elected as a result of the first general election of Municipal Councils after the commencement of the new Constitution; and
-*[Subitem (a) substituted by s. 5(a) of the Constitution Second Amendment Act of 1998.]*{:.sidenote}
+
+		> [Subitem (a) substituted by s. 5(a) of the Constitution Second Amendment Act of 1998.]
+		{:.note}
+
 	1.	a traditional leader of a community observing a system of indigenous law and residing on land within the area of a transitional local council, transitional rural council or transitional representative council, referred to in the Local Government Transition Act, 1993, and who has been identified as set out in section 182 of the previous Constitution, is ex officio entitled to be a member of that council until a Municipal Council replacing that council has been declared elected as a result of the first general election of Municipal Councils after the commencement of the new Constitution.
-*[Subitem (b) substituted by s. 5(a) of the Constitution Second Amendment Act of 1998.]*{:.sidenote}
+
+		> [Subitem (b) substituted by s. 5(a) of the Constitution Second Amendment Act of 1998.]
+		{:.note}
+		
 1.	Section 245(4) of the previous Constitution continues in force until the application of that section lapses. Section 16(5) and (6) of the Local Government Transition Act, 1993, may not be repealed before 30 April 2000.
-*[Sub item (2) amended by s. 5 (b) of Constitution Second Amendment Act of 1998.]*{:.sidenote}
+
+	> [Sub item (2) amended by s. 5 (b) of Constitution Second Amendment Act of 1998.]
+	{:.note}
+
 
 ## 27. Safekeeping of Acts of Parliament and Provincial Acts
 

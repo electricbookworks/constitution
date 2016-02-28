@@ -14,22 +14,6 @@
   src: url(fonts/NotoSerif-BoldItalic.ttf);
   font-style: italic;
   font-weight: bold; }
-@font-face {
-  font-family: "Noto Sans";
-  src: url(fonts/NotoSans-Regular.ttf); }
-@font-face {
-  font-family: "Noto Sans";
-  src: url(fonts/NotoSans-Italic.ttf);
-  font-style: italic; }
-@font-face {
-  font-family: "Noto Sans";
-  src: url(fonts/NotoSans-Bold.ttf);
-  font-weight: bold; }
-@font-face {
-  font-family: "Noto Sans";
-  src: url(fonts/NotoSans-BoldItalic.ttf);
-  font-weight: bold;
-  font-style: italic; }
 /* 
  * Footer
  */
@@ -57,11 +41,11 @@
   prince-pdf-script: ""; }
 /* Set up our basic page margins */
 @page {
-  size: A5;
-  margin-top: 12mm;
-  margin-bottom: 18mm;
-  margin-outside: 12mm;
-  margin-inside: 12mm;
+  size: A4;
+  margin-top: 25mm;
+  margin-bottom: 15mm;
+  margin-outside: 15mm;
+  margin-inside: 15mm;
   padding: 0;
   marks: none;
   prince-bleed: 0;
@@ -221,7 +205,7 @@ p, ul, ol, dl {
  */
 body {
   font-family: "Noto Serif", serif;
-  font-size: 9.5pt;
+  font-size: 9pt;
   line-height: 12pt;
   margin: 0;
   padding: 0;
@@ -237,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0; }
 
 h1 {
-  font-size: 28.5pt;
+  font-size: 27pt;
   line-height: 36pt;
   margin: 0 0 36pt 0; }
 
@@ -247,7 +231,7 @@ h1 strong:first-of-type {
   margin: 0 0 12pt 0; }
 
 h2 {
-  font-size: 19pt;
+  font-size: 18pt;
   line-height: 24pt;
   margin: 48pt 0 12pt 0; }
 
@@ -257,18 +241,18 @@ h3 {
   margin: 24pt 0 12pt 0; }
 
 h4 {
-  font-size: 9.5pt;
+  font-size: 9pt;
   line-height: 12pt;
   margin: 24pt 0 0 0;
   font-style: italic; }
 
 h5 {
-  font-size: 9.5pt;
+  font-size: 9pt;
   line-height: 12pt;
   margin: 12pt 0 0 0; }
 
 h6 {
-  font-size: 9.5pt;
+  font-size: 9pt;
   line-height: 12pt;
   margin: 0 12pt 0 0;
   display: inline;
@@ -682,7 +666,7 @@ p.dedication {
 
 .pullquote {
   text-indent: 0;
-  font-size: 19pt;
+  font-size: 18pt;
   font-style: italic;
   text-align: center;
   margin: 12pt 0;
@@ -755,7 +739,7 @@ pre + p {
 table {
   border-collapse: collapse;
   margin: 12pt 0;
-  font-size: 7.6pt;
+  font-size: 7.2pt;
   font-variant: prince-opentype(tnum); }
 
 th, td {
@@ -872,7 +856,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 
 .footnotes {
   margin: 24pt 0 0 0;
-  font-size: 8.55pt;
+  font-size: 8.1pt;
   line-height: 10.8pt; }
 
 .footnotes p {
@@ -882,7 +866,7 @@ ol li blockquote.figure, ul li blockquote.figure {
   display: none; }
 
 .sidenote {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", sans-serif;
   clear: both;
   float: right;
   max-width: 10em;
@@ -891,7 +875,7 @@ ol li blockquote.figure, ul li blockquote.figure {
   padding: 6pt;
   border-top: 0.5pt solid #eeeeee;
   text-indent: 0;
-  font-size: 7.6pt;
+  font-size: 7.2pt;
   font-style: inherit;
   line-height: 9.6pt; }
 
@@ -913,14 +897,14 @@ ol li blockquote.figure, ul li blockquote.figure {
   text-align: left; }
 
 .title-page-title {
-  font-size: 28.5pt;
+  font-size: 27pt;
   line-height: 36pt;
   font-variant: prince-opentype(dlig);
   margin: 72pt 0 12pt 0;
   string-set: book-title content; }
 
 .title-page-subtitle {
-  font-size: 19pt;
+  font-size: 18pt;
   line-height: 24pt;
   font-style: italic;
   margin: 12pt 0 12pt 0;
@@ -928,7 +912,7 @@ ol li blockquote.figure, ul li blockquote.figure {
   string-set: book-subtitle content; }
 
 .title-page-author {
-  font-size: 19pt;
+  font-size: 18pt;
   line-height: 24pt;
   margin: 12pt 0;
   font-variant: prince-opentype(dlig);
@@ -947,7 +931,7 @@ ol li blockquote.figure, ul li blockquote.figure {
   bottom: 0; }
 
 .copyright-page h1 {
-  font-size: 7.6pt;
+  font-size: 7.2pt;
   line-height: 9.6pt;
   margin: 12pt 0;
   letter-spacing: 0.025em;
@@ -957,7 +941,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 .copyright-page p, .copyright-page li {
   margin: 0 0 9.6pt 0;
   text-indent: 0;
-  font-size: 7.6pt;
+  font-size: 7.2pt;
   line-height: 9.6pt;
   hyphens: none;
   /* Prince will not hyphenate here */ }
@@ -978,7 +962,7 @@ ol li blockquote.figure, ul li blockquote.figure {
   .contents-page li li {
     margin: 0; }
   .contents-page h2 {
-    font-size: 11.4pt;
+    font-size: 10.8pt;
     margin: 12pt 0 6pt 0; }
 
 /* TOCs in individual pages, created in kramdown with a placeholder ol/ul followed by {:toc} */
@@ -1067,13 +1051,13 @@ p.first {
 
 p.chapter-number {
   font-weight: bold;
-  font-size: 38pt;
+  font-size: 36pt;
   line-height: 48pt;
   margin: 0 0 12pt 0; }
 
 .reference-index {
   columns: 2;
-  font-size: 7.6pt; }
+  font-size: 7.2pt; }
 
 .reference-index li {
   list-style-type: none;
@@ -1143,19 +1127,19 @@ h6 {
 
 @page chapter:left {
   @top {
-    content: normal; }
+    content: string(h1-text, last); }
   @top-right {
-    content: normal; }
+    content: " "; }
   @top-left {
-    content: normal; }
+    content: counter(page); }
   @top-right-corner {
     content: normal; }
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: string(h1-text, last); }
+    content: normal; }
   @bottom-left {
-    content: counter(page); }
+    content: normal; }
   @bottom-right {
     content: normal; }
   @bottom-left-corner {
@@ -1164,21 +1148,21 @@ h6 {
     content: normal; } }
 @page chapter:right {
   @top {
-    content: normal; }
+    content: string(h2-text, first); }
   @top-right {
-    content: normal; }
+    content: counter(page); }
   @top-left {
-    content: normal; }
+    content: " "; }
   @top-right-corner {
     content: normal; }
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: string(h2-text, last); }
+    content: normal; }
   @bottom-left {
     content: normal; }
   @bottom-right {
-    content: counter(page); }
+    content: normal; }
   @bottom-left-corner {
     content: normal; }
   @bottom-right-corner {
@@ -1230,7 +1214,7 @@ h6 {
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: counter(page,lower-roman); }
+    content: normal; }
   @bottom-left {
     content: normal; }
   @bottom-right {
@@ -1251,7 +1235,7 @@ h6 {
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: counter(page,lower-roman); }
+    content: normal; }
   @bottom-left {
     content: normal; }
   @bottom-right {
@@ -1301,280 +1285,362 @@ h6 {
 @page chapter:left {
   @top {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); } }
 @page chapter:right {
   @top {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); } }
 @page frontmatter:left {
   @top {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); } }
 @page frontmatter:right {
   @top {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @top-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-left-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); }
   @bottom-right-corner {
     font-family: "Noto Serif", serif;
-    font-size: 7.6pt;
+    font-size: 7.2pt;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-variant: prince-opentype(c2sc, smcp, onum); } }
-.chapter {
+.halftitle-page, .title-page, .dedication-page, .epigraph-page, .contents-page, .chapter {
+  margin-top: 0; }
+
+.contents-page, .chapter {
   column-count: 2; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 11.4pt;
+  font-size: 10.8pt;
   font-weight: bold;
   line-height: 12pt;
   margin-top: 12pt;
   column-break-after: avoid;
   clear: both; }
 
+h1 {
+  font-size: 18pt;
+  line-height: 24pt;
+  margin-top: 0;
+  column-span: all; }
+
+ol, ul {
+  padding-left: 1.75em; }
+
 li {
+  margin: 0; }
+
+li:first-of-type {
+  page-break-after: auto; }
+
+li:last-of-type {
+  page-break-before: auto; }
+
+li li:first-of-type {
+  page-break-before: auto; }
+
+ol li {
   list-style-type: decimal; }
 
-li li {
+ol li li {
   list-style-type: lower-alpha; }
 
-li li li {
+ol li li li {
   list-style-type: lower-roman; }
 
+ol li blockquote li {
+  list-style-type: decimal; }
+
+ol li blockquote li li {
+  list-style-type: lower-alpha; }
+
+ol li blockquote li li li {
+  list-style-type: lower-roman; }
+
+blockquote {
+  border-left: 3pt solid cmyk(0, 0, 0, 0.3);
+  padding-left: 9pt; }
+
+blockquote.figure {
+  border: 0; }
+
+blockquote.note {
+  padding: 0;
+  border: 0; }
+  blockquote.note p {
+    margin: 0 0 12pt 0;
+    font-style: italic; }
+
+.contents-page ol {
+  padding: 0; }
 .contents-page ol li {
   list-style-type: none; }
-
 .contents-page li {
   margin: 12pt 0 0 0;
-  font-weight: bold; }
-
+  font-weight: bold;
+  hyphens: none; }
 .contents-page li li {
   font-weight: normal;
   border-top: 0;
   margin: 0 0 0 12pt; }
-
 .contents-page .subhead {
   display: block;
   margin-top: 12pt;
   font-style: italic; }
+
+@page chapter:left {
+  @top {
+    width: 90%;
+    vertical-align: top;
+    text-align: left;
+    margin: 15mm 0 5mm 0;
+    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
+@page chapter:right {
+  @top {
+    width: 90%;
+    vertical-align: top;
+    text-align: right;
+    margin: 15mm 0 5mm 0;
+    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
+@page chapter:left {
+  @top-left {
+    vertical-align: top;
+    margin: 15mm 0 5mm 0;
+    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
+@page chapter:right {
+  @top-right {
+    vertical-align: top;
+    margin: 15mm 0 5mm 0;
+    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
+@page chapter:left {
+  @top-right {
+    vertical-align: top;
+    margin: 15mm 0 5mm 0;
+    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
+@page chapter:right {
+  @top-left {
+    vertical-align: top;
+    margin: 15mm 0 5mm 0;
+    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }

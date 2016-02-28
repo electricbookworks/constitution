@@ -3,7 +3,9 @@ title: Schedule 2. Oaths and Solemn Affirmations
 ---
 
 # Schedule 2: Oaths and Solemn Affirmations
-*[Schedule 2 amended by s. 2 of Constitution First Amendment Act of 1997 (Eng text only) and substituted by s. 18 of Constitution Sixth Amendment Act of 2001.]*{:.sidenote}
+
+> [Schedule 2 amended by s. 2 of Constitution First Amendment Act of 1997 (Eng text only) and substituted by s. 18 of Constitution Sixth Amendment Act of 2001.]
+{:.note}
 
 ## 1. Oath or solemn affirmation of President and Acting President
 
