@@ -288,7 +288,7 @@ style: contents-page
 		1.	[240. Inconsistencies between different texts](14.html#inconsistencies-between-different-texts)
 		1.	[241. Transitional arrangements](14.html#transitional-arrangements)
 		1.	[242. Repeal of laws](14.html#repeal-of-laws)
-		1.	[234. Short title and commencement](14.html#short-title-and-commencement)
+		1.	[243. Short title and commencement](14.html#short-title-and-commencement)
 1.	[Schedule 1: National Flag](schedule-1.html#schedule-1-national-flag)
 1.	[Schedule 1A: Geographical Areas of Provinces](schedule-1a.html#schedule-1a-geographical-areas-of-provinces)
 	1.	[The Province of the Eastern Cape](schedule-1a.html#the-province-of-the-eastern-cape)
