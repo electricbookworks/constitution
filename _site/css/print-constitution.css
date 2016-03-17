@@ -1579,6 +1579,9 @@ ol li blockquote li li {
 ol li blockquote li li li {
   list-style-type: lower-roman; }
 
+li ol + p {
+  margin-top: 12pt; }
+
 blockquote {
   border-left: 3pt solid cmyk(0, 0, 0, 0.3);
   padding-left: 9pt; }
