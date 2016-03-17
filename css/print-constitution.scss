@@ -202,6 +202,10 @@ ol li blockquote li li {
 ol li blockquote li li li {
 	list-style-type: lower-roman;
 }
+// Paragraphs within lists (e.g. s239)
+li ol + p {
+    margin-top: $line-height-default;
+}
 
 // Blockquotes
 
