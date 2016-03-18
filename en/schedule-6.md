@@ -182,7 +182,8 @@ In this Schedule, unless inconsistent with the context—
 	1.	Anyone holding office, when the Constitution of the Republic of South Africa Amendment Act, 2001, takes effect, as—
 		1.	the President of the Constitutional Court, becomes the Chief Justice as contemplated in section 167(1) of the new Constitution;
 		1.	the Deputy President of the Constitutional Court, becomes the Deputy Chief Justice as contemplated in section 167(1) of the new Constitution;
-		1.	the Chief Justice, becomes the President of the Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution; and (iv) the Deputy Chief Justice, becomes the Deputy President of the Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution.
+		1.	the Chief Justice, becomes the President of the Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution; and 
+		1. the Deputy Chief Justice, becomes the Deputy President of the Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution.
 	1.	All rules, regulations or directions made by the President of the Constitutional Court or the Chief Justice in force immediately before the Constitution of the Republic of South Africa Amendment Act, 2001, takes effect, continue in force until repealed or amended.
 	1.	Unless inconsistent with the context or clearly inappropriate, a reference in any law or process to the Chief Justice or to the President of the Constitutional Court, must be construed as a reference to the Chief Justice as contemplated in section 167(1) of the new Constitution.
 
