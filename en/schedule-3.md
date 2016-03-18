@@ -12,9 +12,9 @@ title: Schedule 3. Election Procedures
 ### 1. Application
 
 1.	The procedure set out in this Schedule applies whenever—
-(a) the National Assembly meets to elect the President, or the Speaker or Deputy Speaker of the Assembly;
-(b) the National Council of Provinces meets to elect its Chairperson or a Deputy Chairperson; or
-(c) a provincial legislature meets to elect the Premier of the province or the Speaker or Deputy Speaker of the legislature.
+	1.	the National Assembly meets to elect the President, or the Speaker or Deputy Speaker of the Assembly;
+	1.	the National Council of Provinces meets to elect its Chairperson or a Deputy Chairperson; or
+	1.	a provincial legislature meets to elect the Premier of the province or the Speaker or Deputy Speaker of the legislature.
 
 ### 2. Nominations
 
