@@ -1,12 +1,12 @@
 ---
-title: Okujotshelelwe C. Uhulumeni Wobumbano Lwesizwe: Umkhakha Wesifundazwe
+title: Okujotshelelwe C. Uhulumeni Wobumbano Lwesizwe&#58; Umkhakha Wesifundazwe
 ---
 
 # Okujotshelelwe C: Uhulumeni Wobumbano Lwesizwe: Umkhakha Wesifundazwe
 
 1.	Isigaba se 132 soMthethosisekelo omusha sithathwa ngokuthi sifundeka ngendlela elandelayo:
 
-	> 132. ImiKhandlu Ephethe
+	> 132\. ImiKhandlu Ephethe
 	> 
 	> 1.	UMkhandlu Omkhulu isifundazwe wakhiwe uNdunankulu kanye namalungu angengaphezulu kwayi 10 aqokwe nguNdunankulu ngokulandela lesi sigaba.
 	> 2.	Iqembu elinezihlalo ezingamaphesenti ayi 10 okungenani
@@ -83,3 +83,4 @@ title: Okujotshelelwe C. Uhulumeni Wobumbano Lwesizwe: Umkhakha Wesifundazwe
     uma ilungu lingelona eleqembu likaNdunankulu noma lingeyena umholi
     weqembu elibamba iqhaza, nangemuva kokubonisana nomholi weqembu
     lelungu lelo.
+    > {:start='3'}

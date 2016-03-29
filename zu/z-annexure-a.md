@@ -1,5 +1,5 @@
 ---
-title: Okujotshelelwe A: Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandulela Lona
+title: Okujotshelelwe A. Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandulela Lona
 ---
 
 # Okujotshelelwe A: Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandulela Lona
@@ -70,6 +70,7 @@ title: Okujotshelelwe A: Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandul
 11.	Ukufakwa kwephuzu elilandelayo esikhundleni sephuzu le 19:
 
 	> 19. Izinhla zabamele ukhetho beqembu elishiwo ephuzwini le 16(1)zinganezezelwa kube kanye kuphele noma ngasiphi isikhathi phakathi kwezinyanga zokuqala eziyi 12 ngemuva kokuthi ukuqokwa kwabameleli ngokwephuzu le 16 kuqediwe, ukuze kugcwaliswe izikhala ezivela zingalindelwe: Inqobo uma ukunezezelwa lokho kwenziwa ekugcineni kohlu.
+    > {:start="19"}
 
 12.	Ukufakwa kwephuzu elilandelayo esikhundleni sephuzu lama 23:
 

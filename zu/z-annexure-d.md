@@ -1,5 +1,5 @@
 ---
-title: Okujotshelelwe D. Izidingo Zokuphathwa Kanye Nezokuphepha Komphakathi&#58; Izichibiyelo Ezigabeni Zomthethosisekelo Owendulela Lo
+title: # Okujotshelelwe D. Izidingo Zokuphathwa Kanye Nezokuphepha Komphakathi&#58; Izichibiyelo Ezigabeni Zomthethosisekelo Owendulela Lo
 ---
 
 # Okujotshelelwe D: Izidingo Zokuphathwa Kanye Nezokuphepha Komphakathi: Izichibiyelo Ezigabeni Zomthethosisekelo Owendulela Lo

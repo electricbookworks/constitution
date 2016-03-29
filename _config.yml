@@ -84,16 +84,17 @@ sass:
 
 # These directories are not ready for publishing yet, or should not be published. Jekyll will ignore them.
 exclude: [
-af, 
-nd, 
+#af, 
+#en,
+#nd, 
 nso, 
-ss, 
+#ss, 
 st, 
 tn, 
 ts, 
 ve, 
-xh, 
-zu,
+#xh, 
+#zu,
 _source,
 css/debug,
 css/dictionaries,
