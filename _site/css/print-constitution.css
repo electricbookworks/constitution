@@ -1,3 +1,6 @@
+/* Minimum letters on new line after hyphen */
+/* Minimum letters at end of line before hyphen */
+/* Maximum number of consecutive lines ending with hyphens */
 @font-face {
   font-family: "Noto Serif";
   src: url(fonts/NotoSerif-Regular.ttf); }
@@ -26,24 +29,38 @@
 #nav-bar {
   display: none; }
 
-/* Set the initial default view when this PDF is opened. See http://www.princexml.com/forum/topic/2650/prince-pdf */
 @prince-pdf {
-  prince-pdf-open-action: none;
-  /* none | print | command(ident) */
-  prince-pdf-page-layout: two-column-right;
-  /* single-page | one-column | two-column | two-column-left | two-column-right */
+  prince-pdf-open-action: command(FitPage);
+  prince-pdf-page-layout: two-page-right;
   prince-pdf-page-mode: show-bookmarks;
-  /* auto | show-attachments | show-bookmarks | fullscreen */
   prince-pdf-paper-tray: auto;
-  /* auto | pick-tray-by-pdf-size */
   prince-pdf-print-scaling: auto;
-  /* auto | none */
   prince-pdf-script: ""; }
+@page cover {
+  prince-pdf-page-label: counter(page,lower-alpha); }
+@page halftitle-page {
+  prince-pdf-page-label: counter(page,decimal); }
+@page title-page {
+  prince-pdf-page-label: counter(page,decimal); }
+@page previous-publications-page {
+  prince-pdf-page-label: counter(page,decimal); }
+@page copyright-page {
+  prince-pdf-page-label: counter(page,decimal); }
+@page frontispiece-page {
+  prince-pdf-page-label: counter(page,decimal); }
+@page dedication-page {
+  prince-pdf-page-label: counter(page,decimal); }
+@page contents-page {
+  prince-pdf-page-label: counter(page,decimal); }
+@page frontmatter {
+  prince-pdf-page-label: counter(page,decimal); }
+@page chapter {
+  prince-pdf-page-label: counter(page); }
 /* Set up our basic page margins */
 @page {
   size: A4;
-  margin-top: 25mm;
-  margin-bottom: 15mm;
+  margin-top: 20mm;
+  margin-bottom: 20mm;
   margin-outside: 15mm;
   margin-inside: 15mm;
   padding: 0;
@@ -66,6 +83,9 @@
 .dedication-page {
   page: dedication-page; }
 
+.frontispiece-page {
+  page: frontispiece-page; }
+
 .chapter {
   page: chapter; }
 
@@ -79,25 +99,18 @@
   page: frontmatter;
   /* Use for any other frontmatter */ }
 
-/* For a manual page break before an element, apply this class to it */
 .page-break-before {
   page-break-before: always; }
 
-/* For a manual page break after an element, apply this class to it */
 .page-break-after {
   page-break-after: always; }
 
-/* To keep an element on the same page as the next element, apply this class */
 .keep-with-next {
   page-break-after: avoid; }
 
-/* To prevent an element breaking across pages, apply this class */
 .keep-together {
   page-break-inside: avoid; }
 
-/* To allow a break where default styles would normally avoid one. Apply the class to the parent element.
- * These are !important because they must override rules that might appear later in generated CSS.
- */
 .allow-break {
   page-break-before: auto !important;
   page-break-after: auto !important;
@@ -107,6 +120,12 @@
   page-break-before: inherit !important;
   page-break-after: inherit !important;
   page-break-inside: inherit !important; }
+
+.end-on-left {
+  page-break-after: left !important; }
+
+.end-on-right {
+  page-break-after: right !important; }
 
 /*
  * Hide screen-only and non-printing elements. The framework by default adds the .non-printing class to screen-only elements like #nav-bar and #footer.
@@ -123,7 +142,6 @@
 /* 
  * Extra typographic control for fitting text and elements
  */
-/* Float an element, like a box, to the top of bottom of a page (print only) */
 .float-top {
   float: top; }
 
@@ -133,57 +151,63 @@
 .float-top + p, .float-bottom + p {
   text-indent: 12pt; }
 
-/* Use these classes to control tracking, usually to save widows and orphans. */
+.tighten {
+  letter-spacing: -0.003em;
+  font-style: inherit;
+  background-color: inherit; }
+
 .tight {
   letter-spacing: -0.0075em;
-  font-style: inherit; }
+  font-style: inherit;
+  background-color: inherit; }
 
 .x-tight {
   letter-spacing: -0.01em;
-  font-style: inherit; }
+  font-style: inherit;
+  background-color: inherit; }
 
 .xx-tight {
   letter-spacing: -0.02em;
-  font-style: inherit; }
+  font-style: inherit;
+  background-color: inherit; }
 
 .xxx-tight {
   letter-spacing: -0.5em;
-  font-style: inherit; }
+  font-style: inherit;
+  background-color: inherit; }
+
+.loosen {
+  letter-spacing: 0.003em;
+  font-style: inherit;
+  background-color: inherit; }
 
 .loose {
   letter-spacing: 0.0075em;
-  font-style: inherit; }
+  font-style: inherit;
+  background-color: inherit; }
 
 .x-loose {
   letter-spacing: 0.01em;
-  font-style: inherit; }
+  font-style: inherit;
+  background-color: inherit; }
 
-/* Shrink the font size */
 .shrink {
   font-size: 0.7em;
   /* Useful for wide tables */ }
 
-/*
- * Set hyphenation dictionary
- * By default this is off
- * Avoid specifying here unless every book in this collection uses the same, unchanging dictionary
- * Otherwise, specify a dictionary for each book in its child stylesheet.
- */
-body {
-  prince-hyphenate-patterns: url("dictionaries/"); }
-
+/* Hyphenation */
 p, ul, ol, dl {
+  prince-hyphenate-patterns: url("dictionaries/");
   hyphens: auto;
   hyphenate-after: 3;
-  /* Minimum letters on new line after hyphen */
   hyphenate-before: 3;
-  /* Minimum letters at end of line before hyphen */
-  hyphenate-lines: 2;
-  /* Maximum number of consecutive lines ending with hyphens */ }
+  hyphenate-lines: 1; }
+
+.halftitle-page,
+.title-page {
+  page-break-before: right; }
 
 .frontmatter,
-.halftitle-page,
-.title-page,
 .dedication-page,
 .epigraph-page,
 .contents-page,
@@ -193,6 +217,7 @@ p, ul, ol, dl {
 .frontmatter,
 .dedication-page,
 .epigraph-page,
+.contents-page,
 .chapter {
   page-break-before: auto; }
 
@@ -894,7 +919,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 .title-page p {
   text-indent: 0;
   hyphens: none;
-  text-align: left; }
+  text-align: center; }
 
 .title-page-title {
   font-size: 27pt;
@@ -921,7 +946,13 @@ ol li blockquote.figure, ul li blockquote.figure {
 .title-page-logo {
   width: 3em;
   position: absolute;
-  bottom: 0; }
+  text-align: center;
+  bottom: 0;
+  transform: translateX(-50%);
+  margin-left: 50%; }
+
+.title-page-logo img {
+  width: 100%; }
 
 /*
  * Copyright page
@@ -986,13 +1017,8 @@ ul#markdown-toc, ol#markdown-toc {
 #markdown-toc a::after {
   content: leader(" ") target-counter(attr(href), page); }
 
-/*
- * Cover-page styling. Creates a single-page low-res cover for web PDFs.
- */
 @page cover {
   margin: 0; }
-@prince-pdf {
-  prince-pdf-page-layout: single-page; }
 body.cover, div.cover {
   margin: 0;
   padding: 0; }
@@ -1005,6 +1031,9 @@ p.cover {
 img.cover {
   height: 100%;
   width: 100%; }
+
+body.cover {
+  page-break-after: left; }
 
 /* Use small-cap alternate glyphs */
 .smallcaps {
@@ -1131,13 +1160,13 @@ h6 {
   @top-right {
     content: " "; }
   @top-left {
-    content: counter(page); }
+    content: " "; }
   @top-right-corner {
     content: normal; }
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: normal; }
+    content: counter(page); }
   @bottom-left {
     content: normal; }
   @bottom-right {
@@ -1150,7 +1179,7 @@ h6 {
   @top {
     content: string(h2-text, first); }
   @top-right {
-    content: counter(page); }
+    content: " "; }
   @top-left {
     content: " "; }
   @top-right-corner {
@@ -1158,7 +1187,7 @@ h6 {
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: normal; }
+    content: counter(page); }
   @bottom-left {
     content: normal; }
   @bottom-right {
@@ -1214,7 +1243,7 @@ h6 {
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: normal; }
+    content: counter(page); }
   @bottom-left {
     content: normal; }
   @bottom-right {
@@ -1235,7 +1264,7 @@ h6 {
   @top-left-corner {
     content: normal; }
   @bottom {
-    content: normal; }
+    content: counter(page); }
   @bottom-left {
     content: normal; }
   @bottom-right {
@@ -1615,35 +1644,35 @@ blockquote.note {
 
 @page chapter:left {
   @top {
-    width: 90%;
     vertical-align: top;
-    text-align: left;
-    margin: 15mm 0 5mm 0;
+    margin: 10mm 0 5mm 0;
     border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
 @page chapter:right {
   @top {
-    width: 90%;
     vertical-align: top;
-    text-align: right;
-    margin: 15mm 0 5mm 0;
+    margin: 10mm 0 5mm 0;
     border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
 @page chapter:left {
-  @top-left {
+  @bottom {
     vertical-align: top;
-    margin: 15mm 0 5mm 0;
-    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
+    margin: 7mm 0 0 0; } }
 @page chapter:right {
-  @top-right {
+  @bottom {
     vertical-align: top;
-    margin: 15mm 0 5mm 0;
-    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
-@page chapter:left {
-  @top-right {
+    margin: 7mm 0 0 0; } }
+@page frontmatter:left {
+  @bottom {
     vertical-align: top;
-    margin: 15mm 0 5mm 0;
-    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
-@page chapter:right {
-  @top-left {
+    margin: 7mm 0 0 0; } }
+@page frontmatter:right {
+  @bottom {
     vertical-align: top;
-    margin: 15mm 0 5mm 0;
-    border-bottom: 0.5pt solid cmyk(0, 0, 0, 0.5); } }
+    margin: 7mm 0 0 0; } }
+@page contents-page:left {
+  @bottom {
+    vertical-align: top;
+    margin: 7mm 0 0 0; } }
+@page contents-page:right {
+  @bottom {
+    vertical-align: top;
+    margin: 7mm 0 0 0; } }

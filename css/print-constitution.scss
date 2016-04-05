@@ -1,5 +1,9 @@
 ---
-# Print styles
+Description: Print-output settings for the Electric Book Workflow
+Author: Electric Book Works
+URL: http://github.com/electricbookworks/electric-book-workflow
+Version: 1.0.0
+Syntax: Sass
 ---
 
 // First, let's set character encoding. Don't change this.
@@ -9,10 +13,16 @@
 // Set variables
 // -------------
 
+// Edition suffix: identifies this edition in page-fitting classes (in _print-fitting.scss).
+// For instance, a .tighten class in HTML might apply to your bookshop edition, but not the schools edition.
+// A suffix '-schools-edn' would mean only tags with that suffix would apply to that edition, e.g. {:.tighten-schools-edn}
+// If you're only planning one edition and use default tags ({:.tighten} not {:.tighten-schools-edn}), leave as null.
+$edition-suffix: null;
+
 // First, we set several variables related to overall page setup.
 $page-size: A4;
-$margin-top: 25mm;
-$margin-bottom: 15mm;
+$margin-top: 20mm;
+$margin-bottom: 20mm;
 $margin-outside: 15mm;
 $margin-inside: 15mm;
 $bleed: 0;
@@ -37,8 +47,14 @@ $text-align: left;
 $orphans: 1; // Minimum number of lines that must be left at the bottom of the first page
 $widows: 1; // Minimum number of lines that must be left at the top of the second page
 $letter-spacing-text: 0em; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
+
+// Hyphenation
+// Variables here apply to p, ul, ol, dl
 $hyphenation: auto; // Can be auto, none, or manual (only breaks on hyphens and soft hyphens)
-$hyphenation-dictionary: ""; // File name of dictionary in css/dictionaries.
+$hyphenation-dictionary: ""; // File name of dictionary in css/dictionaries. Overrides PrinceXML built-in hyphenation.
+$hyphenate-after: 3; /* Minimum letters on new line after hyphen */
+$hyphenate-before: 3; /* Minimum letters at end of line before hyphen */
+$hyphenate-lines: 1; /* Maximum number of consecutive lines ending with hyphens */
 
 // Should chapters start on a right-hand page (recto) or on any page?
 // This setting applies to the frontmatter, dedication-page, epigraph-page and chapter page styles.
@@ -64,10 +80,10 @@ $frontmatter-reference-style: decimal; // lower-roman, decimal, see http://www.p
 // Verso (left-hand-page)
 $verso-top: string(h1-text, last);
 $verso-top-right: " ";
-$verso-top-left: counter(page);
+$verso-top-left: " ";
 $verso-top-left-corner: normal;
 $verso-top-right-corner: normal;
-$verso-bottom: normal;
+$verso-bottom: counter(page);
 $verso-bottom-left: normal;
 $verso-bottom-right: normal;
 $verso-bottom-left-corner: normal;
@@ -75,11 +91,11 @@ $verso-bottom-right-corner: normal;
 
 // Recto (right-hand-page)
 $recto-top: string(h2-text, first);
-$recto-top-right: counter(page);
+$recto-top-right: " ";
 $recto-top-left: " ";
 $recto-top-left-corner: normal;
 $recto-top-right-corner: normal;
-$recto-bottom: normal;
+$recto-bottom: counter(page);
 $recto-bottom-left: normal;
 $recto-bottom-right: normal;
 $recto-bottom-left-corner: normal;
@@ -91,7 +107,7 @@ $verso-top-left-frontmatter: normal;
 $verso-top-right-frontmatter: normal;
 $verso-top-left-corner-frontmatter: normal;
 $verso-top-right-corner-frontmatter: normal;
-$verso-bottom-frontmatter: normal;
+$verso-bottom-frontmatter: counter(page);
 $verso-bottom-left-frontmatter: normal;
 $verso-bottom-right-frontmatter: normal;
 $verso-bottom-left-corner-frontmatter: normal;
@@ -103,7 +119,7 @@ $recto-top-left-frontmatter: normal;
 $recto-top-right-frontmatter: normal;
 $recto-top-left-corner-frontmatter: normal;
 $recto-top-right-corner-frontmatter: normal;
-$recto-bottom-frontmatter: normal;
+$recto-bottom-frontmatter: counter(page);
 $recto-bottom-left-frontmatter: normal;
 $recto-bottom-right-frontmatter: normal;
 $recto-bottom-left-corner-frontmatter: normal;
@@ -257,49 +273,43 @@ blockquote.note {
 
 // Footer
 
+@mixin running-heads() {
+	vertical-align: top;
+	margin: 10mm 0 5mm 0;
+	border-bottom: 0.5pt solid cmyk(0,0,0,0.5);
+}
+@mixin footers() {
+	vertical-align: top;
+	margin: 7mm 0 0 0;
+}
+
 @page chapter:left {
 	@top {
-		width: 90%;
-		vertical-align: top;
-		text-align: left;
-		margin: 15mm 0 5mm 0;
-		border-bottom: 0.5pt solid cmyk(0,0,0,0.5);
+		@include running-heads();
 	}
 }
 @page chapter:right {
 	@top {
-		width: 90%;
-		vertical-align: top;
-		text-align: right;
-		margin: 15mm 0 5mm 0;
-		border-bottom: 0.5pt solid cmyk(0,0,0,0.5);
+		@include running-heads();
 	}
 }
 @page chapter:left {
-	@top-left {
-		vertical-align: top;
-		margin: 15mm 0 5mm 0;
-		border-bottom: 0.5pt solid cmyk(0,0,0,0.5);
+	@bottom {
+		@include footers();
 	}
 }
 @page chapter:right {
-	@top-right {
-		vertical-align: top;
-		margin: 15mm 0 5mm 0;
-		border-bottom: 0.5pt solid cmyk(0,0,0,0.5);
+	@bottom {
+		@include footers();
 	}
 }
-@page chapter:left {
-	@top-right {
-		vertical-align: top;
-		margin: 15mm 0 5mm 0;
-		border-bottom: 0.5pt solid cmyk(0,0,0,0.5);
+@page frontmatter:left {
+	@bottom {
+		@include footers();
 	}
 }
-@page chapter:right {
-	@top-left {
-		vertical-align: top;
-		margin: 15mm 0 5mm 0;
-		border-bottom: 0.5pt solid cmyk(0,0,0,0.5);
+@page frontmatter:right {
+	@bottom {
+		@include footers();
 	}
 }

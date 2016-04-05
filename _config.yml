@@ -115,12 +115,13 @@ defaults:
             author: "The Republic of South Africa"
             language: "en"
             publication-date: "2015-12-01"
-            layout: "default"
+#            layout: "default"
 #            layout: "epub"
-            style: "chapter"
+            layout: "pdf-ebook"
             stylesheet-print: "print-constitution.css"
             stylesheet-web: "web-constitution.css"
             stylesheet-epub: "epub-constitution.css"
+            style: "chapter"
             contents: "0-3-contents.html"
             language: "en"
             isbn-print: ""
@@ -148,7 +149,7 @@ defaults:
         scope: # Repeat for each book.
             path: "nd"
         values:
-            book-title: "Umthethosisekelo Weriphabliki Yesewula Afrika"
+            book-title: "UmThethosisekelo weRiphabliki yeSewula Afrika"
             language: "nd"
             isbn-print: ""
             isbn-epub: ""
@@ -166,7 +167,7 @@ defaults:
         scope: # Repeat for each book.
             path: "ss"
         values:
-            book-title: "Dumtsetfosisekelo Weriphabhulik Hi Yase Ningizimu Afrika"
+            book-title: "UMtsetfosisekelo weRiphabhuliki yaseNingizimu Afrika"
             language: "ss"
             isbn-print: ""
             isbn-epub: ""
@@ -211,7 +212,7 @@ defaults:
         scope: # Repeat for each book.
             path: "xh"
         values:
-            book-title: "Umgaqo-Siseko Weriphablikhi Yomzantsi-Afrika"
+            book-title: "UMgaqo-siseko weRiphablikhi yoMzantsi-Afrika"
             language: "xh"
             isbn-print: ""
             isbn-epub: ""
@@ -220,7 +221,7 @@ defaults:
         scope: # Repeat for each book.
             path: "zu"
         values:
-            book-title: "Umthethosisekelo Weriphabhuliki Yaseningizimu Afrika"
+            book-title: "UMthethosisekelo weRiphabhuliki yaseNingizimu Afrika"
             language: "zu"
             isbn-print: ""
             isbn-epub: ""

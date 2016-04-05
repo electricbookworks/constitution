@@ -183,10 +183,6 @@ dd {
 .home #footer a.footer-book {
   display: none; }
 
-/*
- * Cover image. This is useful for landing pages for individual books.
- */
-/* No nav bar obscuring cover image */
 .cover #nav-bar {
   display: none; }
 
@@ -194,6 +190,10 @@ body.cover {
   margin: 0;
   padding: 0;
   text-align: center; }
+
+.cover h1 {
+  line-height: 0;
+  font-size: 0; }
 
 p.cover {
   margin: 0 auto;
@@ -1014,28 +1014,47 @@ ol li blockquote li li li {
 li ol + p {
   margin-top: 1em; }
 
+#nav-bar a.nav-series {
+  color: #AAA; }
+
 .home #nav-bar {
   display: block;
   background-image: url("images/sa-flag-colour-blocks.png"); }
-
 .home #nav-bar p {
   visibility: hidden; }
+
+.contents-page #nav-bar a.nav-book:after {
+  content: ""; }
+.contents-page #nav-bar a.nav-page {
+  display: none; }
 
 .home .footer-content {
   display: none; }
 
+.home .chooser {
+  float: right;
+  padding: 0 0 0 1em;
+  margin: 0 0 1em 1em; }
+  .home .chooser p:last-of-type {
+    margin: 0; }
+  .home .chooser .button {
+    border: 1px solid #4f89d2;
+    min-width: 5em; }
+  .home .chooser .button.light {
+    background-color: #ffffff;
+    color: #4f89d2;
+    border: 1px solid #ccc;
+    min-width: 2em; }
+
 .contents-page ol li {
   list-style-type: none; }
-
 .contents-page li {
   margin: 1em 0 0 0;
   font-weight: bold; }
-
 .contents-page li li {
   font-weight: normal;
   border-top: 0;
   margin: 0 0 0 1em; }
-
 .contents-page .subhead {
   display: block;
   margin-top: 1em;

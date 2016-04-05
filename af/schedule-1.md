@@ -24,4 +24,4 @@ Green = Groen
 
 Red = Rooi 
 
-Blue= Blou
+Blue = Blou

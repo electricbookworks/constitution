@@ -122,35 +122,82 @@ li ol + p {
     margin-top: 1em;
 }
 
+
+// Nav bar
+
+#nav-bar a.nav-series {
+    color: #AAA;
+}
+
+.home {
+    #nav-bar {
+    	display: block;
+    	background-image: url("images/sa-flag-colour-blocks.png");
+    }
+    #nav-bar p {
+    	visibility: hidden;
+    }
+}
+
+.contents-page {
+    #nav-bar a.nav-book:after {
+        content: "";
+    }
+    #nav-bar a.nav-page {
+        display: none;
+    }
+}
+
+
+// Footer
+
+.home {
+    .footer-content {
+        display: none;
+    }
+}
+
 // Home page
 
-.home #nav-bar {
-	display: block;
-	background-image: url("images/sa-flag-colour-blocks.png");
-}
-.home #nav-bar p {
-	visibility: hidden;
-}
-.home .footer-content {
-    display: none;
+// Picking a language or download on the home page
+
+.home .chooser {
+    float: right;
+    padding: 0 0 0 1em;
+    margin: 0 0 1em 1em;
+    p:last-of-type {
+        margin: 0;
+    }
+    .button {
+        border: 1px solid #4f89d2;
+        min-width: 5em;
+    }
+    .button.light {
+        background-color: #ffffff;
+        color: #4f89d2;
+        border: 1px solid #ccc;
+        min-width: 2em;
+    }
 }
 
 // Contents page
 
-.contents-page ol li {
-    list-style-type: none;
-}
-.contents-page li {
-    margin: 1em 0 0 0;
-    font-weight: bold;
-}
-.contents-page li li {
-    font-weight: normal;
-    border-top: 0;
-    margin: 0 0 0 1em;
-}
-.contents-page .subhead {
-	display: block;
-	margin-top: 1em;
-	font-style: italic;
+.contents-page {
+    ol li {
+        list-style-type: none;
+    }
+    li {
+        margin: 1em 0 0 0;
+        font-weight: bold;
+    }
+    li li {
+        font-weight: normal;
+        border-top: 0;
+        margin: 0 0 0 1em;
+    }
+    .subhead {
+    	display: block;
+    	margin-top: 1em;
+    	font-style: italic;
+    }
 }

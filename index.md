@@ -6,8 +6,24 @@ style: home
 
 # The Constitution of&nbsp;the Republic of South&nbsp;Africa
 
-[Read online](en/0-3-contents.html){:.button .eight-em}
-[Download PDF](download/constitution-english.pdf){:.button .eight-em} 
+> [Afrikaans](af/0-3-contents.html){:.button}
+> [PDF](download/constitution-afrikaans.pdf){:.button.light}
+> 
+> [English](en/0-3-contents.html){:.button}
+> [PDF](download/constitution-english.pdf){:.button.light}
+> 
+> [IsiNdebele](nd/0-3-contents.html){:.button}
+> [PDF](download/constitution-isindebele.pdf){:.button.light}
+> 
+> [Siswati](ss/0-3-contents.html){:.button}
+> [PDF](download/constitution-siswati.pdf){:.button.light}
+> 
+> [IsiXhosa](xh/0-3-contents.html){:.button}
+> [PDF](download/constitution-isixhosa.pdf){:.button.light}
+> 
+> [IsiZulu](zu/0-3-contents.html){:.button}
+> [PDF](download/constitution-isizulu.pdf){:.button.light}
+{:.chooser}
 
 This edition of the South African Constitution has been specially created to be easy to access, read, print and distribute. We are working on versions in all South African languages.
 
