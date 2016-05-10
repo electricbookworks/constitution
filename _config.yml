@@ -16,6 +16,18 @@ description: "The Constitution of South Africa"
 # Useful lookup tool: http://r12a.github.io/apps/subtags/
 language: en
 
+# Afrikaans (af)    af
+# English (en)    en
+# Ndebele (nd)    nr
+# Sepedi/Nothern Sotho (nso)    nso
+# siSwati (ss)    ss
+# Sesotho (st)    st
+# Setswana (tn)    tn
+# Xitsonga (ts)    ts
+# Tshivenḓa (ve)    ve
+# isiXhosa (xh)    xh
+# isiZulu (zu)    zu
+
 # Leave this unchanged as http://localhost:4000 unless you really know what you're doing here. This is the URL that Jekyll will run at by default locally.
 url: http://localhost:4000
 
@@ -147,10 +159,10 @@ defaults:
             uuid: ""
     -
         scope: # Repeat for each book.
-            path: "nd"
+            path: "nr"
         values:
             book-title: "UmThethosisekelo weRiphabliki yeSewula Afrika"
-            language: "nd"
+            language: "nr"
             isbn-print: ""
             isbn-epub: ""
             uuid: ""

@@ -12,7 +12,7 @@ style: home
 > [English](en/0-3-contents.html){:.button}
 > [PDF](download/constitution-english.pdf){:.button.light}
 > 
-> [IsiNdebele](nd/0-3-contents.html){:.button}
+> [IsiNdebele](nr/0-3-contents.html){:.button}
 > [PDF](download/constitution-isindebele.pdf){:.button.light}
 > 
 > [Siswati](ss/0-3-contents.html){:.button}
