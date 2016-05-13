@@ -1668,11 +1668,3 @@ blockquote.note {
   @bottom {
     vertical-align: top;
     margin: 7mm 0 0 0; } }
-@page contents-page:left {
-  @bottom {
-    vertical-align: top;
-    margin: 7mm 0 0 0; } }
-@page contents-page:right {
-  @bottom {
-    vertical-align: top;
-    margin: 7mm 0 0 0; } }

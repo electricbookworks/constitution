@@ -18,6 +18,9 @@ style: home
 > [Siswati](ss/0-3-contents.html){:.button}
 > [PDF](download/constitution-siswati.pdf){:.button.light}
 > 
+> [Sepedi](nso/0-3-contents.html){:.button}
+> [PDF](download/constitution-sepedi.pdf){:.button.light}
+> 
 > [IsiXhosa](xh/0-3-contents.html){:.button}
 > [PDF](download/constitution-isixhosa.pdf){:.button.light}
 > 
