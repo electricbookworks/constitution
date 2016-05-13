@@ -15,11 +15,14 @@ style: home
 > [IsiNdebele](nr/0-3-contents.html){:.button}
 > [PDF](download/constitution-isindebele.pdf){:.button.light}
 > 
-> [Siswati](ss/0-3-contents.html){:.button}
-> [PDF](download/constitution-siswati.pdf){:.button.light}
-> 
 > [Sepedi](nso/0-3-contents.html){:.button}
 > [PDF](download/constitution-sepedi.pdf){:.button.light}
+> 
+> [Setswana](tn/0-3-contents.html){:.button}
+> [PDF](download/constitution-setswana.pdf){:.button.light}
+> 
+> [Siswati](ss/0-3-contents.html){:.button}
+> [PDF](download/constitution-siswati.pdf){:.button.light}
 > 
 > [IsiXhosa](xh/0-3-contents.html){:.button}
 > [PDF](download/constitution-isixhosa.pdf){:.button.light}
