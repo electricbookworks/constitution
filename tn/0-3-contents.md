@@ -5,6 +5,7 @@ style: contents-page
 
 # Molaotheo wa Rephaboliki ya Aforika Borwa
 
+*   [Pulamadibogo](0-5-preamble.html#pulamadibogo)
 *   [Kgaolo 1: Dikaelo tsa Motheo (1-6)](01.html#kgaolo-1-dikaelo-tsa-motheo-1-6)
     *   [1\. Rephaboliki ya Aforika Borwa](01.html#rephaboliki-ya-aforika-borwa)
     *   [2\. Bogolo jwa Molaotheo](01.html#bogolo-jwa-molaotheo)
@@ -116,7 +117,6 @@ style: contents-page
     *   [100\. Thuso ya bosetšhaba go tsamaiso ya diporofense](05.html#thuso-ya-bosethaba-go-tsamaiso-ya-diporofense)
     *   [101\. Ditshwetso tsa khuduthamaga](05.html#ditshwetso-tsa-khuduthamaga)
     *   [102\. Ditshitsinyo ya go tlhoka boikanyego](05.html#ditshitsinyo-ya-go-tlhoka-boikanyego)
-*   [Pulamadibogo](05.html#pulamadibogo)
 *   [Kgaolo 6: Diporofense (103-150)](06.html#kgaolo-6-diporofense-103-150)
     *   [103\. Diporofense](06.html#diporofense)
     *   [Dikgotla-peomolao tsa Diporofense](06.html#dikgotla-peomolao-tsa-diporofense)

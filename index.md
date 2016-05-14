@@ -6,30 +6,29 @@ style: home
 
 # The Constitution of&nbsp;the Republic of South&nbsp;Africa
 
-> [Afrikaans](af/0-3-contents.html){:.button}
-> [PDF](download/constitution-afrikaans.pdf){:.button.light}
-> 
-> [English](en/0-3-contents.html){:.button}
-> [PDF](download/constitution-english.pdf){:.button.light}
-> 
-> [IsiNdebele](nr/0-3-contents.html){:.button}
-> [PDF](download/constitution-isindebele.pdf){:.button.light}
-> 
-> [Sepedi](nso/0-3-contents.html){:.button}
-> [PDF](download/constitution-sepedi.pdf){:.button.light}
-> 
-> [Setswana](tn/0-3-contents.html){:.button}
-> [PDF](download/constitution-setswana.pdf){:.button.light}
-> 
-> [Siswati](ss/0-3-contents.html){:.button}
-> [PDF](download/constitution-siswati.pdf){:.button.light}
-> 
-> [IsiXhosa](xh/0-3-contents.html){:.button}
-> [PDF](download/constitution-isixhosa.pdf){:.button.light}
-> 
-> [IsiZulu](zu/0-3-contents.html){:.button}
-> [PDF](download/constitution-isizulu.pdf){:.button.light}
-{:.chooser}
+*	[Afrikaans](af/0-3-contents.html){:.button}
+	[PDF](download/constitution-afrikaans.pdf){:.button.light}
+*	[English](en/0-3-contents.html){:.button}
+	[PDF](download/constitution-english.pdf){:.button.light}
+*	[IsiNdebele](nr/0-3-contents.html){:.button}
+	[PDF](download/constitution-isindebele.pdf){:.button.light}
+*	[IsiXhosa](xh/0-3-contents.html){:.button}
+	[PDF](download/constitution-isixhosa.pdf){:.button.light}
+*	[IsiZulu](zu/0-3-contents.html){:.button}
+	[PDF](download/constitution-isizulu.pdf){:.button.light}
+*	[Sepedi](nso/0-3-contents.html){:.button}
+	[PDF](download/constitution-sepedi.pdf){:.button.light}
+*	[Sesotho](st/0-3-contents.html){:.button}
+	[PDF](download/constitution-sesotho.pdf){:.button.light}
+*	[Setswana](tn/0-3-contents.html){:.button}
+	[PDF](download/constitution-setswana.pdf){:.button.light}
+*	[Siswati](ss/0-3-contents.html){:.button}
+	[PDF](download/constitution-siswati.pdf){:.button.light}
+*	[Tshivenda](ve/0-3-contents.html){:.button}
+	[PDF](download/constitution-tshivenda.pdf){:.button.light}
+*	[Xitsonga](ts/0-3-contents.html){:.button}
+	[PDF](download/constitution-xitsonga.pdf){:.button.light}
+{:.lang-select}
 
 This edition of the South African Constitution has been specially created to be easy to access, read, print and distribute. We are working on versions in all South African languages.
 

@@ -5,6 +5,7 @@ style: contents-page
 
 # Molaotheo wa Rephabliki ya Afrika Borwa
 
+*   [Ketapele](0-5-preamble.html#ketapele)
 *   [Kgaolo ya 1: Mabakatheo (1-6)](01.html#kgaolo-ya-1-mabakatheo-1-6)
     *   [1\. Repabliki ya Afrika Borwa](01.html#repabliki-ya-afrika-borwa)
     *   [2\. Bogolo bja Molaotheo](01.html#bogolo-bja-molaotheo)
@@ -116,7 +117,6 @@ style: contents-page
     *   [100\. Tsenogare ya bosetšhaba taolong ya diprofense](05.html#tsenogare-ya-bosethaba-taolong-ya-diprofense)
     *   [101\. Diphetho tša phetišo](05.html#diphetho-ta-phetio)
     *   [102\. Ditšhišinyo tša go hloka kholofelo](05.html#dithiinyo-ta-go-hloka-kholofelo)
-*   [Ketapele](05.html#ketapele)
 *   [Kgaolo ya 6: Diprofense (103-150)](06.html#kgaolo-ya-6-diprofense-103-150)
     *   [103\. Diprofense](06.html#diprofense)
     *   [Makgotlapeamelao a Diprofense](06.html#makgotlapeamelao-a-diprofense)

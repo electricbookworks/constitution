@@ -22,17 +22,17 @@ title: Isheduli 1. Ifulegi Likazwelonke
     elilele ngezansi libe luhlaza okwesibhakabhaka. La mabhande
     angokukodwa kokuthathu lilinye ebubanzini befulegi.
 
-> ![South African flag diagram](images/south-african-flag-diagram-en.jpg)
+> ![](images/south-african-flag-diagram-en.jpg)
 {:.figure}
-> 
-> Black - omnyama
->
-> Gold - osagolide
->
-> Red - obomvu 
-> 
-> White - omhlophe
->
-> Green - oluhlaza okotshani
->
-> Blue - oluhlaza okwesibhakabhaka
+
+Black - omnyama
+
+Gold - osagolide
+
+Red - obomvu 
+ 
+White - omhlophe
+
+Green - oluhlaza okotshani
+
+Blue - oluhlaza okwesibhakabhaka

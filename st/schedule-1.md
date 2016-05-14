@@ -11,7 +11,8 @@ title: Shejulu 1. Folakga ya Naha
 5.	Kgutlotharo e haufi le palo ya folakga e ntsho.
 6.	Motako o ka hodimo o tshekaletseng o bokgubedu ba tjhilisi, mme bo ka tlase bo botala ba lehodimo. Metako ena e na le bophara ba bonngwe borarong jwalo ka ba folakga.
 
-![](media/image1.png){width="2.8438506124234473in" height="1.9in"}
+> ![](images/south-african-flag-diagram-en.jpg)
+{:.figure}
 
 Black – Botsho
 

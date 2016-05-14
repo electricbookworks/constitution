@@ -161,12 +161,12 @@ li ol + p {
 
 // Picking a language or download on the home page
 
-.home .chooser {
-    float: right;
-    padding: 0 0 0 1em;
-    margin: 0 0 1em 1em;
-    p:last-of-type {
-        margin: 0;
+.home ul.lang-select {
+    padding: 0;
+    li {
+        list-style-type: none;
+        float: left;
+        margin: 0 2em 0.5em 0;
     }
     .button {
         border: 1px solid #4f89d2;
@@ -177,6 +177,10 @@ li ol + p {
         color: #4f89d2;
         border: 1px solid #ccc;
         min-width: 2em;
+    }
+    + p {
+        clear: both;
+        padding-top: 2em;
     }
 }
 

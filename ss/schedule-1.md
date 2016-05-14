@@ -14,14 +14,9 @@ title: Ishejuli 1. Umjeka Welive
 > ![](images/south-african-flag-diagram-en.jpg)
 {:.figure}
 
-Black - Mnyama 
-
-Gold - Golide 
-
-White - Mhlophe 
-
-Green - Luhlata 
-
-Red - Bovu
-
-Blue - Lingangane
+*	Black - Mnyama 
+*	Gold - Golide 
+*	White - Mhlophe 
+*	Green - Luhlata 
+*	Red - Bovu
+*	Blue - Lingangane

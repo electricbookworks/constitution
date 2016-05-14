@@ -11,7 +11,8 @@ title: Mametlelelo 1. Folaga ya Bosetšhaba
 5.	Khutlotharo e e fa thoko ga seikokotlelo sa folaga e ntsho.
 6.	Lebanta le le rapaletseng kwa godimo, le bokhibidu jwa tšhilisi, mme lebanta le le rapaletseng kwa tlase le botala jwa loapi. Bophara jwa lebanta lengwe le lengwe le bophara jwa nngwe-tharo ya fologa.
 
-![](media/image1.png){width="2.948624234470691in" height="1.97in"}
+> ![](images/south-african-flag-diagram-en.jpg)
+{:.figure}
 
 Black = Bontšho
 

@@ -11,7 +11,8 @@ title: Šetulo 1. Folaga ya Setšhaba
 5.	Khutlotharo ya kgauswi le kota ya folaga ke ye ntsho.
 6.	Mokgako wa go rapama wa ka godimo ke wa bohwibidu bja tšhilisi gomme wa ka tlase wa go rapama ke wa botalalerata. Mokgako wo mongwe wo mongwe ke teetharong ya bophara bja folaga.
 
-![](media/image1.png){width="2.993526902887139in" height="2.0in"}
+> ![](images/south-african-flag-diagram-en.jpg)
+{:.figure}
 
 Black = Ntsho
 

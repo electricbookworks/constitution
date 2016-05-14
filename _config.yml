@@ -101,18 +101,29 @@ exclude: [
 #nd, 
 #nso, 
 #ss, 
-st, 
+#st, 
 #tn, 
-ts, 
-ve, 
+#ts, 
+#ve, 
 #xh, 
 #zu,
+css,
 _source,
 css/debug,
 css/dictionaries,
 css/epub.scss,
 css/print.scss,
 css/web.scss,
+css/print-no-bleed.css,
+css/print-no-crop-marks.css,
+README.md,
+]
+
+# Can be useful to stop Jekyll overwriting files in _site.
+# E.g. generate CSS once, then exclude above but keep here to make content regeneration faster.
+keep_files: [
+css,
+css/dictionaries,
 css/print-no-bleed.css,
 css/print-no-crop-marks.css,
 README.md,

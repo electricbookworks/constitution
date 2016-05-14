@@ -1031,20 +1031,23 @@ li ol + p {
 .home .footer-content {
   display: none; }
 
-.home .chooser {
-  float: right;
-  padding: 0 0 0 1em;
-  margin: 0 0 1em 1em; }
-  .home .chooser p:last-of-type {
-    margin: 0; }
-  .home .chooser .button {
+.home ul.lang-select {
+  padding: 0; }
+  .home ul.lang-select li {
+    list-style-type: none;
+    float: left;
+    margin: 0 2em 0.5em 0; }
+  .home ul.lang-select .button {
     border: 1px solid #4f89d2;
     min-width: 5em; }
-  .home .chooser .button.light {
+  .home ul.lang-select .button.light {
     background-color: #ffffff;
     color: #4f89d2;
     border: 1px solid #ccc;
     min-width: 2em; }
+  .home ul.lang-select + p {
+    clear: both;
+    padding-top: 2em; }
 
 .contents-page ol li {
   list-style-type: none; }
