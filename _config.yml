@@ -107,7 +107,7 @@ exclude: [
 #ve, 
 #xh, 
 #zu,
-css,
+#css,
 _source,
 css/debug,
 css/dictionaries,
@@ -122,7 +122,7 @@ README.md,
 # Can be useful to stop Jekyll overwriting files in _site.
 # E.g. generate CSS once, then exclude above but keep here to make content regeneration faster.
 keep_files: [
-css,
+#css,
 css/dictionaries,
 css/print-no-bleed.css,
 css/print-no-crop-marks.css,
