@@ -1,0 +1,6 @@
+mp4: |
+  <audio 
+  src="audio/clip.mp4"
+  controls="controls">
+    {{ site.data.messages.no-audio-suuport.[page.language] }}
+  </audio>
