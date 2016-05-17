@@ -8,6 +8,9 @@ prose:
     - .gitignore
     - _config.yml
     - _prose.yml
+    - /_data
+    - /_source
+    - /download
     - /_layouts
     - /_includes
     - /_site
@@ -15,6 +18,7 @@ prose:
     - /*/.gitattributes
     - /*/.gitignore
     - /*/_config.yml
+    - /*/_config.en.yml
     - /*/_prose.yml
     - /*/_layouts
     - /*/_includes
