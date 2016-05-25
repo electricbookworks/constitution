@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Bylae 2. Ampsede en Plegtige Verklarings
+published: true
+layout: default
+style: chapter
 ---
 
 # Bylae 2: Ampsede en Plegtige Verklarings
 
-> [Bylae 2 gewysig by a. 2 van die“Constitution First Amendment Act of 1997”en vervang by a. 18 van die Sesde Wysigingswet op die Grondwet van 2001.]
+> [Bylae 2 gewysig by a. 2 van die Eerste Wysigingswet op die Grondwet van 1997 en vervang by a. 18 van die Sesde Wysigingswet op die Grondwet van 2001.]
 {:.note}
 
 ## 1. Ampseed of plegtige verklaring van President en Waarnemende President
@@ -19,7 +23,7 @@ In die teenwoordigheid van almal hier vergader en in die volle besef van die ho�
 *	aan almal reg sal laat geskied; en
 *	my aan die welsyn van die Republiek en al sy mense sal wy. 
 
-(In die geval van ŉ eed: So help my God.)
+(In die geval van 'n eed: So help my God.)
 
 ## 2. Ampseed of plegtige verklaring van Adjunkpresident
 
@@ -28,12 +32,12 @@ Die Adjunkpresident moet voor die Hoofregter of ŉ ander regter deur die Hoofreg
 In die teenwoordigheid van almal hier vergader en in die volle besef van die hoë roeping wat ek as Adjunkpresident van die Republiek van Suid-Afrika aanvaar, sweer ek, A.B./ verklaar ek, A.B., plegtig trou aan die Republiek van Suid-Afrika, en dat ek die Grondwet en die ander reg van die Republiek sal gehoorsaam, eerbiedig, onderhou en handhaaf; en belowe ek plegtig en opreg dat ek te alle tye–
 
 *	sal bevorder wat tot die voordeel van die Republiek is en sal afweer wat die Republiek kan skaad;
-*	ŉ opregte en getroue raadgewer sal wees;
+*	'n opregte en getroue raadgewer sal wees;
 *	my pligte met al my kragte en talente na my beste kennis en vermoë en getrou aan die stem van my gewete sal verrig;
 *	aan almal reg sal laat geskied; en
 *	my aan die welsyn van die Republiek en al sy mense sal wy. 
 
-(In die geval van ŉ eed: So help my God.)
+(In die geval van 'n eed: So help my God.)
 
 ## 3. Ampseed of plegtige verklaring van Ministers en Adjunkministers
 
@@ -61,7 +65,7 @@ Ek, A.B., sweer/verklaar plegtig trou aan die Republiek van Suid-Afrika en dat e
 
 (In die geval van 'n eed: So help my God.)
 
-### Ampseed of plegtige verklaring van Regterlike Beamptes
+## 6. Ampseed of plegtige verklaring van Regterlike Beamptes
 
 1.	Elke regter of waarnemende regter moet voor die Hoofregter of ŉ ander regter deur die Hoofregter aangewys, ŉ eed aflê/plegtig verklaar, soos volg:
 
