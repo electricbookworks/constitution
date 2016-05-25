@@ -258,7 +258,7 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 2.	Totdat die wetgewing beoog in artikels 32(2) en 33(3) van die nuwe Grondwet verorden word–
 	1.	word artikel 32(1) geag soos volg te lui:
 
-		“(1) Elke persoon het die reg op toegang tot alle inligting wat deur diestaat of enige van sy organe in enige regeringsfeer gehou word vir soverdaardie inligting benodig word vir die uitoefening of beskerming vanenige van hul regte.”; en
+		“(1) Elke persoon het die reg op toegang tot alle inligting wat deur die staat of enige van sy organe in enige regeringsfeer gehou word vir sover daardie inligting benodig word vir die uitoefening of beskerming van enige van hul regte.”; en
 
 	1.	word artikel 33(1) en (2) geag soos volg te lui: 
 	
