@@ -99,7 +99,7 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 
 ## 8. Voormalige senatore
 
-1.	‘n Voormalige senator wat nie as ŉ vaste afgevaardigde na die Nasionale Raad van Provinsies aangestel word nie, is geregtig om ŉ ten volle stemgeregtigde lid te word van die wetgewer van die provinsie waaruit daardie persoon ingevolge artikel 48 van die vorige Grondwet as    ŉ senator benoem is.
+1.	'n Voormalige senator wat nie as ŉ vaste afgevaardigde na die Nasionale Raad van Provinsies aangestel word nie, is geregtig om ŉ ten volle stemgeregtigde lid te word van die wetgewer van die provinsie waaruit daardie persoon ingevolge artikel 48 van die vorige Grondwet as    ŉ senator benoem is.
 2.	Indien ŉ voormalige senator kies om nie ŉ lid van ŉ provinsiale wetgewer te word nie, word daar beskou dat daardie persoon as senator bedank het op die dag voordat die nuwe Grondwet in werking getree het.
 3.	Die salaris, toelaes en voordele van ŉ voormalige senator wat as ŉ    vaste afgevaardigde of as ŉ lid van ŉ provinsiale wetgewer aangestel is, mag nie slegs vanweë daardie aanstelling verminder word nie.
 
@@ -116,7 +116,7 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 3.	Vir die duur van sy termyn wat op 30 April 1999 verstryk, en behoudens artikel 108(4), bestaan ŉ provinsiale wetgewer uit die getal lede kragtens die vorige Grondwet vir daardie wetgewer bepaal sowel as die getal voormalige senatore wat ingevolge item 8 van hierdie Bylae lede van die wetgewer geword het.
 4.	Die reëls en orders van ŉ provinsiale wetgewer wat van krag was toe die nuwe Grondwet in werking getree het, bly van krag behoudens enige wysiging of herroeping.
 
-## 11. Verkiesings van provinsiale wetgewers
+## 11. Verkiesing van provinsiale wetgewers
 
 1.	Ondanks die herroeping van die vorige Grondwet, is Bylae 2 by daardie Grondwet, soos gewysig deur Aanhangsel A by hierdie Bylae, van toepassing–
 	1.	op die eerste verkiesing van ŉ provinsiale wetgewer kragtens die nuwe Grondwet;
@@ -139,7 +139,7 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 geadministreer is, kan deur die President by proklamasie opgedra word aan ŉ gesag binne ŉ provinsiale uitvoerende gesag wat deur die Uitvoerende Raad van die provinsie aangewys word.
 2.	In die mate waarin dit vir die doeltreffende uitvoering van ŉ opdrag van wetgewing kragtens subitem (1) nodig is, kan die President by proklamasie–
 	1.	die wetgewing wysig of aanpas om die uitleg of toepassing daarvan te reël;
-	1.	waar die opdrag nie op ŉ stuk wetgewing as geheel van toepassing is nie, dié bepalings daarvan waarop die opdrag van toepassing is of in die mate waarin die opdrag daarop van toepassing is, met of sonder enigewysigings of aanpassings in paragraaf (a) bedoel, herroep enherverorden; of
+	1.	waar die opdrag nie op ŉ stuk wetgewing as geheel van toepassing is nie, dié bepalings daarvan waarop die opdrag van toepassing is of in die mate waarin die opdrag daarop van toepassing is, met of sonder enige wysigings of aanpassings in paragraaf (a) bedoel, herroep en herverorden; of
 	1.	enige ander aangeleentheid reël wat as gevolg van die opdrag nodig is, met inbegrip van die oorplasing of afstaan van personeel, of die oordrag van bates, laste, regte en verpligtinge na of van die nasionale of ŉ provinsiale uitvoerende gesag of ŉ staatsdepartement, administrasie, veiligheidsdiens of ander instelling.
 3.	
 	1.	ŉ Afskrif van elke proklamasie wat ingevolge subitem (1) of (2)    uitgereik is, moet binne tien dae na die publisering van die proklamasie aan die Nasionale Vergadering en die Nasionale Raad van Provinsies voorgelê word.
@@ -151,7 +151,7 @@ geadministreer is, kan deur die President by proklamasie opgedra word aan ŉ ges
 
 ## 15. Bestaande wetgewing buite die Parlement se wetgewende bevoegdheid
 
-1.	‘n Gesag binne die nasionale uitvoerende gesag wat, wanneer die nuwe Grondwet in werking tree, enige wetgewing administreer wat buite die Parlement se wetgewende bevoegdheid val, bly bevoeg om daardie wetgewing te administreer totdat dit ingevolge item 14 van hierdie Bylae aan ŉ    gesag binne ŉ provinsiale uitvoerende gesag opgedra word.
+1.	'n Gesag binne die nasionale uitvoerende gesag wat, wanneer die nuwe Grondwet in werking tree, enige wetgewing administreer wat buite die Parlement se wetgewende bevoegdheid val, bly bevoeg om daardie wetgewing te administreer totdat dit ingevolge item 14 van hierdie Bylae aan ŉ    gesag binne ŉ provinsiale uitvoerende gesag opgedra word.
 2.	Subitem (1) verval twee jaar nadat die nuwe Grondwet in werking getree het.
 
 ## 16. Howe
@@ -175,7 +175,7 @@ geadministreer is, kan deur die President by proklamasie opgedra word aan ŉ ges
 		{:.note}
 
 4.	
-	1.	‘n Provinsiale of plaaslike afdeling van die Hooggeregshof van Suid-Afrika of ŉ hooggeregshof van ŉ tuisland of ŉ algemene afdeling van so ŉ hof, word ŉ Hoë Hof kragtens die nuwe Grondwet sonder verandering van sy regsgebied, behoudens enige rasionalisering in subitem (6) beoog.
+	1.	'n Provinsiale of plaaslike afdeling van die Hooggeregshof van Suid-Afrika of ŉ hooggeregshof van ŉ tuisland of ŉ algemene afdeling van so ŉ hof, word ŉ Hoë Hof kragtens die nuwe Grondwet sonder verandering van sy regsgebied, behoudens enige rasionalisering in subitem (6) beoog.
 	1.	Enigiemand wat die amp van Regter-president, Adjunk-regter-president of regter van ŉ hof in paragraaf (a) genoem, beklee of geag word dit te beklee wanneer die nuwe Grondwet in werking tree, word die Regter-president, die Adjunk-regter-president of ŉ regter van so ŉ hof kragtens die nuwe Grondwet, behoudens enige rasionalisering in subitem (6) beoog.
 5.	Tensy dit onbestaanbaar met die konteks of duidelik onvanpas is, word ŉ verwysing in enige wetgewing of proses na–
 	1.	die Konstitusionele Hof kragtens die vorige Grondwet, uitgelê as        ŉ verwysing na die Konstitusionele Hof kragtens die nuwe Grondwet;
