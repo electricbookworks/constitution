@@ -1,8 +1,12 @@
 ---
+stylesheet: screen.css
 title: Bylae 4. Funksionele Gebiede Van Konkurrente Nasionale En Provinsiale Wetgewende Bevoegdheid
+published: true
+layout: default
+style: chapter
 ---
 
-# Bylae 4: Funksionele Gebiede Van Konkurrente Nasionale En Provinsiale Wetgewende Bevoegdheid
+# Bylae 4: Funksionele Gebiede van Konkurrente Nasionale en Provinsiale Wetgewende Bevoegdheid
 
 ## Deel A
 
