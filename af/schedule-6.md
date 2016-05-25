@@ -35,7 +35,7 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 ## 3. Uitleg van bestaande wetgewing
 
 1.	Tensy dit onbestaanbaar met die konteks of duidelik onvanpas is, word ŉ verwysing in enige wetgewing wat bestaan het toe die nuwe Grondwet in werking getree het–
-	1.	na die Republiek van Suid-Afrika of ŉ tuisland (behalwe wanneer dit na ŉ grondgebied verwys), uitgelê as ŉ verwysing na die Republiek vanSuid-Afrika kragtens die nuwe Grondwet;
+	1.	na die Republiek van Suid-Afrika of ŉ tuisland (behalwe wanneer dit na ŉ grondgebied verwys), uitgelê as ŉ verwysing na die Republiek van Suid-Afrika kragtens die nuwe Grondwet;
 	1.	na die Parlement, die Nasionale Vergadering of die Senaat, uitgelê    as ŉ verwysing na die Parlement, die Nasionale Vergadering of die Nasionale Raad van Provinsies kragtens die nuwe Grondwet;
 	1.	na die President, ŉ Uitvoerende Adjunkpresident, ŉ Minister, ŉ    Adjunkminister of die Kabinet, behoudens item 9 van hierdie Bylae uitgelê as ŉ verwysing na die President, die Adjunkpresident, ŉ    Minister, ŉ Adjunkminister of die Kabinet kragtens die nuwe Grondwet;
 	1.	na die President van die Senaat, uitgelê as ŉ verwysing na die voorsitter van die Nasionale Raad van Provinsies;
@@ -74,7 +74,7 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 ## 7. Nasionale Raad van Provinsies
 
 1.	Vir die tydperk wat eindig onmiddellik voor die eerste sitting van ŉ provinsiale wetgewer gehou na sy eerste verkiesing kragtens die nuwe Grondwet–
-	1.	moet die verhouding van partyverteenwoordiging in die provinsie se afvaardiging na die Nasionale Raad van Provinsies dieselfde wees as dieverhouding waarin die provinsie se tien senatore ingevolge artikel 48 van die vorige Grondwet benoem is; en
+	1.	moet die verhouding van partyverteenwoordiging in die provinsie se afvaardiging na die Nasionale Raad van Provinsies dieselfde wees as die verhouding waarin die provinsie se tien senatore ingevolge artikel 48 van die vorige Grondwet benoem is; en
 	1.	is die toekenning van vaste afgevaardigdes en spesiale afgevaardigdes aan die partye wat in die provinsiale wetgewer verteenwoordig is, soos volg: 
 
 		| Provinsie | Vaste Afgevaardigdes | Spesiale Afgevaardigdes
@@ -89,10 +89,10 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 		8. Noordwes | ANC 4, FF 1, NP 1 | ANC 4
 		9. Wes-Kaap | ANC 2, DP 1, NP 3 | ANC 1, NP 3
 
-2.	‘n Party wat in ŉ provinsiale wetgewer verteenwoordig is–
+2.	'n Party wat in ŉ provinsiale wetgewer verteenwoordig is–
 	1.	moet sy vaste afgevaardigdes benoem uit die persone wat senatore was toe die nuwe Grondwet in werking getree het en wat beskikbaar is om as vaste afgevaardigdes te dien; en
 	1.	kan ander persone as vaste afgevaardigdes benoem slegs indien daar geen of ŉ onvoldoende getal van sy voormalige senatore beskikbaar is.
-3.	‘n Provinsiale wetgewer moet sy vaste afgevaardigdes ooreenkomstig die benoemings van die partye aanstel.
+3.	'n Provinsiale wetgewer moet sy vaste afgevaardigdes ooreenkomstig die benoemings van die partye aanstel.
 4.	Subitems (2) en (3) is van toepassing slegs op die eerste aanstelling van vaste afgevaardigdes na die Nasionale Raad van Provinsies.
 5.	Artikel 62(1) van die nuwe Grondwet is nie van toepassing op die benoeming en aanstelling van voormalige senatore as vaste afgevaardigdes ingevolge hierdie item nie.
 6.	Die reëls en orders van die Senaat wat van krag was toe die nuwe Grondwet in werking getree het, moet ten opsigte van die werk van die Nasionale Raad toegepas word in die mate waarin dit toegepas kan word, behoudens enige wysiging of herroeping.
