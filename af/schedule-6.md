@@ -291,19 +291,19 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 ## 26. Plaaslike regering
 
 1.	Ondanks die bepalings van artikels 151, 155, 156 en 157 van die nuwe Grondwet–
-	1.	bly die bepalings van die Oorgangswet op Plaaslike Regering, 1993 (Wet 209 van 1993), soos dit van tyd tot tyd gewysig kan word deur nasionale wetgewing wat met die nuwe Grondwet bestaanbaar is, van krag ten opsigte van ŉ Munisipale Raad totdat ŉ Munisipale Raad wat daardie Raad vervang, verkose verklaar is as gevolg van die eerste algemeneverkiesing van Munisipale Rade na die inwerkingtrede van die nuweGrondwet; en
+	1.	bly die bepalings van die Oorgangswet op Plaaslike Regering, 1993 (Wet 209 van 1993), soos dit van tyd tot tyd gewysig kan word deur nasionale wetgewing wat met die nuwe Grondwet bestaanbaar is, van krag ten opsigte van ŉ Munisipale Raad totdat ŉ Munisipale Raad wat daardie Raad vervang, verkose verklaar is as gevolg van die eerste algemene verkiesing van Munisipale Rade na die inwerkingtrede van die nuwe Grondwet; en
 
-		> [Par. (a) vervang by a. 5(a) van die“Constitution Second Amendment Act of 1998”.]
+		> [Par. (a) vervang by a. 5(a) van die Tweede Wysigingswet op die Grondwet van 1999.]
 		{:.note}
 
-	1.	is ŉ tradisionele leier van ŉ gemeenskap wat ŉ stelsel van inheemse reg naleef en woon op grond binne die gebied van ŉ plaaslike oorgangsraad, landelike oorgangsraad of verteenwoordigende oorgangsraad in die Oorgangswet op Plaaslike Regering, 1993, genoem en wat geïdentifiseer is soos inartikel 182 van die vorige Grondwet uiteengesit, ampshalwe daaropgeregtig om ŉ lid van daardie raad te wees totdat ŉ Munisipale Raad watdaardie Raad vervang, verkose verklaar is as gevolg van die eerste algemeneverkiesing van Munisipale Rade na die inwerkingtrede van die nuweGrondwet.
+	1.	is ŉ tradisionele leier van ŉ gemeenskap wat ŉ stelsel van inheemse reg naleef en woon op grond binne die gebied van ŉ plaaslike oorgangsraad, landelike oorgangsraad of verteenwoordigende oorgangsraad in die Oorgangswet op Plaaslike Regering, 1993, genoem en wat geïdentifiseer is soos in artikel 182 van die vorige Grondwet uiteengesit, ampshalwe daarop geregtig om ŉ lid van daardie raad te wees totdat ŉ Munisipale Raad wat daardie Raad vervang, verkose verklaar is as gevolg van die eerste algemene verkiesing van Munisipale Rade na die inwerkingtrede van die nuwe Grondwet.
 
-		> [Par. (b) vervang by a. 5(a) van die“Constitution Second Amendment Act of 1998”.]
+		> [Par. (b) vervang by a. 5(a) van die Tweede Wysigingswet op die Grondwet van 1998.]
 		{:.note}
 
 2.	Artikel 245(4) van die vorige Grondwet bly van krag totdat die toepassing van daardie artikel verval. Artikel 16(5) en (6) van die Oorgangswet op Plaaslike Regering, 1993, mag nie voor 30 April 2000 herroep word nie.
 
-	> [Subitem (2) gewysig by a. 5(b) van die“Constitution Second Amendment Act of 1998”.]
+	> [Subitem (2) gewysig by a. 5(b) van die Tweede Wysigingswet op die Grondwet van 1998.]
 	{:.note}
 
 ## 27. Veilige bewaring van Parlementswette en provinsiale Wette
