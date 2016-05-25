@@ -73,7 +73,7 @@ Indien slegs een kandidaat genomineer word, moet die voorsittende persoon verkla
 2.	Indien ŉ berekening ingevolge item 1 ŉ surplus oplewer wat nie opgeneem word deur die afgevaardigdes wat ingevolge daardie item aan    ŉ party toegewys word nie, moet die surplus meeding met soortgelyke surplusse wat enige ander party of partye toekom, en enige afgevaardigdes in die afvaardiging wat nie toegeken is nie, moet aan die party of partye in volgorde van die hoogste surplus toegeken word.
 3.	Indien die mededingende surplusse in item 2 beoog gelyk is, word die onverdeelde afgevaardigdes in die afvaardiging toegeken aan die party of partye met dieselfde surplus in die volgorde van die hoogste tot die laagste getal stemme wat vir daardie partye aangeteken is tydens die vorige verkiesing van die betrokke provinsiale wetgewer.
 
-	> [Item 3 bygevoeg by a. 2 van die “Constitution Fourth Amendment Act of 1999” en vervang by a. 3 van die Negende Wysigingswet op die Grondwet van 2002 en by a. 5(a) van die Veertiende Wysigingswet op die Grondwet van 2008.]
+	> [Item 3 bygevoeg by a. 2 van die Vierde Wysigingswet op die Grondwet van 1999 en vervang by a. 3 van die Negende Wysigingswet op die Grondwet van 2002 en by a. 5(a) van die Veertiende Wysigingswet op die Grondwet van 2008.]
 	{:.note}
 
 4.	Indien meer as een party met dieselfde surplus dieselfde getal stemme gedurende die vorige verkiesing van die betrokke provinsiale wetgewer aangeteken het, moet die betrokke wetgewer die onverdeelde afgevaardigdes in die afvaardiging toeken aan die party of partye met dieselfde surplus op ŉ wyse wat met demokrasie bestaanbaar is.
