@@ -11,7 +11,7 @@ style: chapter
 > [Bylae 3 gewysig by a. 2 van die Vierde Wysigingswet op die Grondwet van 1999, by a. 19 van die Sesde Wysigingswet op die Grondwet van 2001, by artikel 3 van die Negende Wysigingswet op die Grondwet van 2002 en by a. 5 van die Veertiende Wysigingswet op die Grondwet van 2008.]
 {:.note}
 
-## Deel A: Verkiesingsprosedures Vir Grondwetlike Ampsdraers
+## Deel A: Verkiesingsprosedures vir Grondwetlike Ampsdraers
 
 ### 1. Toepassing
 
@@ -26,12 +26,12 @@ Die persoon wat voorsit op ŉ vergadering waarop hierdie Bylae van toepassing is
 
 ### 3. Formele vereistes
 
-1.	‘n Nominasie moet voorgelê word op die vorm wat voorgeskryf word deur die reëls in item 9 vermeld.
+1.	'n Nominasie moet voorgelê word op die vorm wat voorgeskryf word deur die reëls in item 9 vermeld.
 2.	Die vorm waarop ŉ nominasie voorgelê word, moet geteken wees–
 	1.	deur twee lede van die Nasionale Vergadering, indien die President of die Speaker of Adjunkspeaker van die Vergadering verkies moet word;
 	1.	namens twee provinsiale afvaardigings, indien die Voorsitter of ŉ Adjunkvoorsitter van die Nasionale Raad van Provinsies verkies moet word; of
 	1.	deur twee lede van die betrokke provinsiale wetgewer, indien die Premier van die provinsie of die Speaker of Adjunkspeaker van die wetgewer verkies moet word.
-3.	‘n Persoon wat genomineer word, moet aanname van die nominasie te kenne gee deur óf die nominasievorm óf enige ander vorm van skriftelike bevestiging te teken.
+3.	'n Persoon wat genomineer word, moet aanname van die nominasie te kenne gee deur óf die nominasievorm óf enige ander vorm van skriftelike bevestiging te teken.
 
 ### 4. Aankondiging van name van kandidate
 
@@ -67,7 +67,7 @@ Indien slegs een kandidaat genomineer word, moet die voorsittende persoon verkla
 	1.	die wyse waarop die stemming moet geskied.
 2.	Hierdie reëls moet bekend gemaak word op die wyse wat die Hoofregter bepaal.
 
-## Deel B: Formule Om Partydeelname Aan Provinsiale Afvaardigings Na Die Nasionale Raad Van Provinsies Te Bepaal
+## Deel B: Formule om Partydeelname aan Provinsiale Afvaardigings na die Nasionale Raad van Provinsies te Bepaal
 
 1.	Die getal afgevaardigdes in ŉ provinsiale afvaardiging na die Nasionale Raad van Provinsies waarop ŉ party geregtig is, moet bepaal word deur die getal setels wat die party in die provinsiale wetgewer het met tien te vermenigvuldig en die resultaat te deel deur die getal setels in die wetgewer, plus een.
 2.	Indien ŉ berekening ingevolge item 1 ŉ surplus oplewer wat nie opgeneem word deur die afgevaardigdes wat ingevolge daardie item aan    ŉ party toegewys word nie, moet die surplus meeding met soortgelyke surplusse wat enige ander party of partye toekom, en enige afgevaardigdes in die afvaardiging wat nie toegeken is nie, moet aan die party of partye in volgorde van die hoogste surplus toegeken word.
