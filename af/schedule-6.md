@@ -224,7 +224,7 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 	1.	die Finansiële en Fiskale Kommissie;
 	1.	die Regterlike Dienskommissie; of
 	1.	die Pan-Suid-Afrikaanse Taalraad.
-2.	‘n Grondwetlike instelling wat ingevolge die vorige Grondwet ingestel is, gaan voort om te funksioneer ingevolge die wetgewing wat daarop van toepassing is, en enigiemand wat die amp van kommissielid, lid van die raad van die Reserwebank of die Pan-Suid-Afrikaanse Taalraad, Openbare Beskermer of Ouditeur-generaal beklee wanneer die nuwe Grondwet in werking tree, gaan voort om die amp te beklee ingevolge die wetgewing wat op daardie amp van toepassing is, behoudens–
+2.	'n Grondwetlike instelling wat ingevolge die vorige Grondwet ingestel is, gaan voort om te funksioneer ingevolge die wetgewing wat daarop van toepassing is, en enigiemand wat die amp van kommissielid, lid van die raad van die Reserwebank of die Pan-Suid-Afrikaanse Taalraad, Openbare Beskermer of Ouditeur-generaal beklee wanneer die nuwe Grondwet in werking tree, gaan voort om die amp te beklee ingevolge die wetgewing wat op daardie amp van toepassing is, behoudens–
 	1.	enige wysiging of herroeping van daardie wetgewing; en
 	1.	bestaanbaarheid met die nuwe Grondwet.
 3.	Artikels 199(1), 200(1), (3) en (5) tot (11) en 201 tot 206 van die vorige Grondwet bly van krag totdat dit herroep word deur ŉ    Parlementswet wat ingevolge artikel 75 van die nuwe Grondwet aangeneem word.
@@ -249,7 +249,7 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 1.	Ondanks die ander bepalings van die nuwe Grondwet en ondanks die herroeping van die vorige Grondwet, word al die bepalings met betrekking tot amnestie wat in die vorige Grondwet onder die opskrif “Nasionale Eenheid en Versoening” vervat is, geag deel van die nuwe Grondwet uit te maak vir die doeleindes van die Wet op die Bevordering van Nasionale Eenheid en Versoening, 1995 (Wet 34 van 1995), soos gewysig, asook vir die doeleindes van die geldigheid daarvan.
 2.	Vir die doeleindes van subitem (1) word die datum “6 Desember 1993” waar dit in die bepalings van die vorige Grondwet onder die opskrif van “Nasionale Eenheid en Versoening” verskyn, geag “11 Mei 1994” te lui.
 
-	> [Subitem (2) bygevoeg by a. 3 van die“Constitution First Amendment Act of 1997”.]
+	> [Subitem (2) bygevoeg by a. 3 van die “Constitution First Amendment Act of 1997”.]
 	{:.note}
 
 ## 23. Handves van Regte
