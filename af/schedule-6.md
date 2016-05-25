@@ -203,11 +203,11 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 ## 18. Vervolgingsgesag
 
 1.	Artikel 108 van die vorige Grondwet bly van krag totdat die Parlementswet beoog in artikel 179 van die nuwe Grondwet in werking tree. Hierdie subitem raak nie die aanstelling van die Nasionale Direkteur van Openbare Vervolgings ingevolge artikel 179 nie.
-2.	‘n Prokureur-generaal wat die amp beklee wanneer die nuwe Grondwet in werking tree, bly funksioneer ingevolge die wetgewing wat op daardie amp van toepassing is, behoudens subitem (1).
+2.	'n Prokureur-generaal wat die amp beklee wanneer die nuwe Grondwet in werking tree, bly funksioneer ingevolge die wetgewing wat op daardie amp van toepassing is, behoudens subitem (1).
 
 ## 19. Ede en plegtige verklarings
 
-‘n Persoon wat ingevolge hierdie Bylae in ŉ amp aanbly en wat kragtens die vorige Grondwet ŉ ampseed of ŉ plegtige verklaring afgelê het, is nie verplig om die ampseed of plegtige verklaring kragtens die nuwe Grondwet te herhaal nie.
+'n Persoon wat ingevolge hierdie Bylae in ŉ amp aanbly en wat kragtens die vorige Grondwet ŉ ampseed of ŉ plegtige verklaring afgelê het, is nie verplig om die ampseed of plegtige verklaring kragtens die nuwe Grondwet te herhaal nie.
 
 ## 20. Ander grondwetlike instellings
 
@@ -215,7 +215,7 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 	1.	die Openbare Beskermer;
 	1.	die Menseregtekommissie;
 
-		> [Par. (b) gewysig by a. 4 van die “Constitution Second Amendment Act of 1998”.]
+		> [Par. (b) gewysig by a. 4 van die Tweede Wysigingswet op die Grondwet van 1998.]
 		{:.note}
 
 	1.	die Kommissie op Geslagsgelykheid;
