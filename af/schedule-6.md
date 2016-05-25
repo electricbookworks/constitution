@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Bylae 6. Oorgangsreëlings
+published: true
+layout: default
+style: chapter
 ---
 
 # Bylae 6: Oorgangsreëlings
 
-> [Bylae 6 gewysig by a. 3 van die“Constitution First Amendment Act of 1997”, by a. 5(a) van die “Constitution Second Amendment Act of 1998”en by a. 20 van die Sesde Wysigingswet op die Grondwet van 2001.]
+> [Bylae 6 gewysig by a. 3 van die Eerste Wysigingswet op die Grondwet van 1997, by a. 5(a) van die Tweede Wysigingswet op die Grondwet van 1998 en by a. 20 van die Sesde Wysigingswet op die Grondwet van 2001.]
 {:.note}
 
 ## 1. Woordomskrywing
