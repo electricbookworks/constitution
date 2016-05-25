@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Bylae 3. Verkiesingsprosedures
+published: true
+layout: default
+style: chapter
 ---
 
 # Bylae 3: Verkiesingsprosedures
 
-> [Bylae 3 gewysig by a. 2 van die“Constitution Fourth Amendment Act of 1999”, by a. 19 van die Sesde Wysigingswet op die Grondwet van 2001, by artikel 3 van die Negende Wysigingswet op die Grondwet van 2002 en by a. 5 van die Veertiende Wysigingswet op die Grondwet van 2008.]
+> [Bylae 3 gewysig by a. 2 van die Vierde Wysigingswet op die Grondwet van 1999, by a. 19 van die Sesde Wysigingswet op die Grondwet van 2001, by artikel 3 van die Negende Wysigingswet op die Grondwet van 2002 en by a. 5 van die Veertiende Wysigingswet op die Grondwet van 2008.]
 {:.note}
 
 ## Deel A: Verkiesingsprosedures Vir Grondwetlike Ampsdraers
