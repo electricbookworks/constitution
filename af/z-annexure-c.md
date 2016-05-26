@@ -1,5 +1,9 @@
 ---
-title: Aanhangsel C. Regering Van Nasionale Eenheid&#58; Provinsiale Sfeer
+stylesheet: screen.css
+title: "Aanhangsel C. Regering Van Nasionale Eenheid&#58; Provinsiale Sfeer"
+published: true
+layout: default
+style: chapter
 ---
 
 # Aanhangsel C: Regering Van Nasionale Eenheid: Provinsiale Sfeer
@@ -8,8 +12,8 @@ title: Aanhangsel C. Regering Van Nasionale Eenheid&#58; Provinsiale Sfeer
 
 	> 132\. Uitvoerende Rade
 	> 
-	> 1.	Die Uitvoerende Raad van ŉ provinsie bestaan uit die Premier enhoogstens tien lede ooreenkomstig hierdie artikel deur die Premieraangestel.
-	> 2.	ŉ Party wat minstens tien persent van die setels in ŉ provinsiale wetgewer het en wat besluit het om aan die regering van nasionale eenheid deel teneem, is geregtig op die toekenning aan hom van een of meer van dieportefeuljes in die Uitvoerende Raad in verhouding tot die getal setelswat die party in die wetgewer het teenoor die getal setels wat die ander deelnemende partyehet.
+	> 1.	Die Uitvoerende Raad van ŉ provinsie bestaan uit die Premier en hoogstens tien lede ooreenkomstig hierdie artikel deur die Premieraangestel.
+	> 2.	ŉ Party wat minstens tien persent van die setels in ŉ provinsiale wetgewer het en wat besluit het om aan die regering van nasionale eenheid deel te neem, is geregtig op die toekenning aan hom van een of meer van die portefeuljes in die Uitvoerende Raad in verhouding tot die getal setels wat die party in die wetgewer het teenoor die getal setels wat die ander deelnemende partye het.
 	> 3.	Portefeuljes in die Uitvoerende Raad moet aan die onderskeie deelnemende partye toegeken word ooreenkomstig dieselfde formule as dié wat in artikel 91(9) uiteengesit word, en by die toepassing van daardie formule word ŉ verwysing in daardie artikel na–
 	>	1.	die Kabinet, as ŉ verwysing na ŉ Uitvoerende Raad uitgelê;
 	>	1.	ŉ Minister, as ŉ verwysing na ŉ lid van ŉ Uitvoerende Raad uitgelê; en
