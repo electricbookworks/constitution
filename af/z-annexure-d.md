@@ -1,8 +1,12 @@
 ---
-title: Aanhangsel D. Staatsadministrasie En Veiligheidsdienste&#58; Wysigings Van Artikels Van Die Vorige Grondwet
+stylesheet: screen.css
+title: "Aanhangsel D. Staatsadministrasie En Veiligheidsdienste&#58; Wysigings Van Artikels Van Die Vorige Grondwet"
+published: true
+layout: default
+style: chapter
 ---
 
-# Aanhangsel D: Staatsadministrasie En Veiligheidsdienste: Wysigings Van Artikels Van Die Vorige Grondwet
+# Aanhangsel D: Staatsadministrasie en Veiligheidsdienste: Wysigings van Artikels van die Vorige Grondwet
 
 1.	Die wysiging van artikel 218 van die vorige Grondwet–
 	1.	deur in subartikel (1) die woorde wat paragraaf (a) voorafgaan deur die volgende woorde te vervang;
@@ -39,7 +43,7 @@ title: Aanhangsel D. Staatsadministrasie En Veiligheidsdienste&#58; Wysigings Va
 5.	Die wysiging van artikel 236 van die vorige Grondwet–
 	1.	deur subartikel (1) deur die volgende subartikel te vervang:
 
-		> 1.	‘n Staatsdiens, staatsdepartement, administrasie of veiligheidsdiens wat onmiddellik voor die inwerkingtreding van dieGrondwet van die Republiek van Suid-Afrika, 1996 (hieronder“die nuwe Grondwet”genoem),regeringswerksaamhede verrig het, bly ingevolge die wetgewing wat daaropvan toepassing is, funksioneer totdat dit afgeskaf word of geïnkorporeerword in of geïntegreer word met enige toepaslike instelling ofgerasionaliseer of gekonsolideer word met enige ander instelling.
+		> 1.	'n Staatsdiens, staatsdepartement, administrasie of veiligheidsdiens wat onmiddellik voor die inwerkingtreding van die Grondwet van die Republiek van Suid-Afrika, 1996 (hieronder “die nuwe Grondwet” genoem),regeringswerksaamhede verrig het, bly ingevolge die wetgewing wat daarop van toepassing is, funksioneer totdat dit afgeskaf word of geïnkorporeer word in of geïntegreer word met enige toepaslike instelling of gerasionaliseer of gekonsolideer word met enige ander instelling.
 
 	1.	deur subartikel (6) deur die volgende subartikel te vervang:
 
@@ -73,8 +77,3 @@ title: Aanhangsel D. Staatsadministrasie En Veiligheidsdienste&#58; Wysigings Va
 
 	> 4.	Behoudens en ooreenkomstig enige toepaslike wet, gaan die bates, regte, pligte en verpligtinge van alle magte bedoel in artikel 224(2) oor op die Nasionale Weermag ooreenkomstig die voorskrifte van die Minister van Verdediging.
 	> {:start='4'}
-
-
-
-
-
