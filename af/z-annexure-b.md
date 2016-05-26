@@ -1,8 +1,12 @@
 ---
-title: Aanhangsel B. Regering Van Nasionale Eenheid&#58; Nasionale Sfeer
+stylesheet: screen.css
+title: "Aanhangsel B. Regering Van Nasionale Eenheid&#58; Nasionale Sfeer"
+published: true
+layout: default
+style: chapter
 ---
 
-# Aanhangsel B: Regering Van Nasionale Eenheid: Nasionale Sfeer
+# Aanhangsel B: Regering van Nasionale Eenheid: Nasionale Sfeer
 
 1.	Artikel 84 van die nuwe Grondwet word geag die volgende bykomende subartikel te bevat:
 
@@ -23,7 +27,7 @@ title: Aanhangsel B. Regering Van Nasionale Eenheid&#58; Nasionale Sfeer
 
 3.	Paragraaf (a) van artikel 90(1) van die nuwe Grondwet word geag soos volg te lui:
 
-	> (a) ‘n Uitvoerende Adjunkpresident wat deur die President aangewys is;
+	> (a) 'n Uitvoerende Adjunkpresident wat deur die President aangewys is;
 
 4.	Artikel 91 van die nuwe Grondwet word geag soos volg te lui:
 
@@ -39,10 +43,10 @@ title: Aanhangsel B. Regering Van Nasionale Eenheid&#58; Nasionale Sfeer
 	> 6.	ŉ Uitvoerende Adjunkpresident beklee die amp–
 	>	1.	tot 30 April 1999 tensy hy of sy deur die party wat ingevolge subartikels (2) en (3) geregtig is om die aanwysing te doen, vervang of teruggeroep word; of
 	>	1.	totdat die persoon wat na ŉ verkiesing van die Nasionale Vergadering wat voor 30 April 1999 gehou word, as President verkies word, die amp aanvaar.
-	> 7.	‘n Vakature in die amp van Uitvoerende Adjunkpresident kan gevul word deur die party wat daardie Adjunkpresident aangewys het.
+	> 7.	'n Vakature in die amp van Uitvoerende Adjunkpresident kan gevul word deur die party wat daardie Adjunkpresident aangewys het.
 	> 8.	ŉ Party wat minstens 20 setels in die Nasionale Vergadering het en wat besluit het om aan die regering van nasionale eenheid deel te neem, is geregtig op die toekenning aan hom van een of meer van die Kabinetsportefeuljes ten opsigte waarvan Ministers bedoel in subartikel (1)(a) aangestel staan te word, in verhouding tot die getal setels wat die party in die Vergadering het teenoor die getal setels wat die ander deelnemende partye het.
 	> 9.	Kabinetsportefeuljes word aan die onderskeie deelnemende partye toegeken ooreenkomstig die volgende formule:
-	>	1.	‘n Kwota setels per portefeulje word bepaal deur die totale getal setels in die Nasionale Vergadering wat die deelnemende partye gesamentlik het, te deel deur die getal portefeuljes ten opsigte waarvan Ministers bedoel in subartikel (1)(a) aangestel staan te word, plus een.
+	>	1.	'n Kwota setels per portefeulje word bepaal deur die totale getal setels in die Nasionale Vergadering wat die deelnemende partye gesamentlik het, te deel deur die getal portefeuljes ten opsigte waarvan Ministers bedoel in subartikel (1)(a) aangestel staan te word, plus een.
 	>	1.	Die resultaat, met weglating van derde en daaropvolgende desimale breuke, as daar is, is die kwota setels per portefeulje.
 	>	1.	Die getal portefeuljes wat aan ŉ deelnemende party toegeken moet word, word bepaal deur die totale getal setels wat daardie party in die Nasionale Vergadering het, te deel deur die kwota in paragraaf (b) bedoel.
 	>	1.	Die resultaat dui, behoudens paragraaf (e), die getal portefeuljes aan wat aan daardie party toegeken moet word.
@@ -62,7 +66,7 @@ title: Aanhangsel B. Regering Van Nasionale Eenheid&#58; Nasionale Sfeer
 	> 12.	Indien ŉ bepaling van portefeuljetoekennings kragtens subartikel (10)(c) gewysig word, ontruim die betrokke Ministers hul portefeuljes, maar kan hulle, waar toepaslik, weer aangestel word in ander portefeuljes wat ingevolge die gewysigde bepaling aan hulle onderskeie partye toegeken word.
 	> 13.	Die President moet–
 	>	1.	in oorleg met die Uitvoerende Adjunkpresidente en die leiers van die deelnemende partye–
-	>		1.	‘n spesifieke portefeulje bepaal vir ŉ Minister bedoel in subartikel (1)(b) indien dit nodig word na aanleiding van ŉ            besluit van die President kragtens daardie subartikel;
+	>		1.	'n spesifieke portefeulje bepaal vir ŉ Minister bedoel in subartikel (1)(b) indien dit nodig word na aanleiding van ŉ besluit van die President kragtens daardie subartikel;
 	>		1.	ten opsigte van daardie portefeulje ŉ persoon wat nie ŉ lid van die Nasionale Vergadering is nie, aanstel as die Minister wat vir daardie portefeulje verantwoordelik is; en
 	>		1.	indien nodig, ŉ vakature ten opsigte van daardie portefeulje vul; of
 	>	1.	na oorleg met die Uitvoerende Adjunkpresidente en die leiers van die deelnemende partye ŉ aanstelling kragtens paragraaf (a)        beëindig indien dit vir die doeleindes van die Grondwet of in die belang van goeie regering nodig word.
