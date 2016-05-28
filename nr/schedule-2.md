@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: IHlelo 2. IimFungo Kanye NeemBopho
+published: true
+layout: default
+style: chapter
 ---
 
 # IHlelo 2: IimFungo Kanye NeemBopho
@@ -22,7 +26,7 @@ Phambi kwabantu boke abahlangene lapha, ngokwamukela ngokuzeleko isimemezelo esi
 
 (Nangabe kuthathwa isifungo: UZimu ngibawa angisize.)
 
-## 2. Iimfungo Kunye Neembopho ZeSekela LikaMongameli
+## 2. Iimfungo Kanye Neembopho ZeSekela LikaMongameli
 
 ISekela likaMongameli, ngaphambi kweJaji eliKhulu namkha elinye ijaji elibekwe liJaji eliKhulu, kumele lifunge/lizibophe ngokulandelako:
 
