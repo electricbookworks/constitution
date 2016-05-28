@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: IHlelo 6. AmaLungiselelo WesiKhatjhana
+published: true
+layout: default
+style: chapter
 ---
 
 # IHlelo 6: AmaLungiselelo WesiKhatjhana
@@ -28,7 +32,7 @@ EHlelweneli, ngaphandle kwanyana kungakhambisani nomtlolo—
 	1.	awunakho ukusetjenziswa okubanzi, ngokwesifunda nanyana gayiphi indlela, kunokobana beyinjalo ngaphambi komThethosisekelo odlulileko usetjenziswe ngaphandle usulwe ngokulandelana bona ube nokusetjenziswa okubanzi; begodu
 	1.	uragela phambili nokusetjenziswa baphathi labo egade bawusebenzisa ngesikhathi umThethosisekelo omutjha uthoma ukusebenza.
 
-## 3. Ihlathululo Lomthetho Osesekhona
+## 3. Ihlathululo Lomthetho Osese Khona
 
 1.	Ngaphandle kwanyana ungakhambisani nomqondo namkha ungakhambisani, kwananyana ngiwuphi umThetho lowo obukade ukhona lokha nakuthoma ukusebenza umThethosisekelo omutjha—
 	1.	kuRiphabliki yeSewula Afrika namkha umbuso onomaziphathe, kumele kuthathwe bona kutjhiwo kuRiphabliki yeSewula Afrika ngaphasi komThethosisekelo omutjha;
