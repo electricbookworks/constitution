@@ -10,7 +10,7 @@ layout: default
 
 *   [Sendlalelo](0-5-preamble.html#sendlalelo)
 *   [Sehluko 1: Timiso Letisisekelo (1-6)](01.html#sehluko-1-timiso-letisisekelo-1-6)
-    *   [1\. iRiphabhulikhi yeNingizimu Afrika](01.html#iriphabhulikhi-yeningizimu-afrika)
+    *   [1\. IRiphabhulikhi yeNingizimu Afrika](01.html#iriphabhulikhi-yeningizimu-afrika)
     *   [2\. Kuphakama kweMtsetfosisekelo kunayo yonkhe imitsetfo](01.html#kuphakama-kwemtsetfosisekelo-kunayo-yonkhe-imitsetfo)
     *   [3\. Buve](01.html#buve)
     *   [4\. Liculo lesive](01.html#liculo-lesive)
