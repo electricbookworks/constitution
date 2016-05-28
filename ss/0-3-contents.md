@@ -130,7 +130,7 @@ layout: default
         *   [109\. Kuhlakatwa kwesishayamtsetfo sesifundza kungakapheli sikhatsi saso sekusebenta](06.html#kuhlakatwa-kwesishayamtsetfo-sesifundza-kungakapheli-sikhatsi-saso-sekusebenta)
         *   [110\. Tikhatsi tekuhlangana netekuphumula](06.html#tikhatsi-tekuhlangana-netekuphumula)
         *   [111\. BoSomlomo nemaSekela aboSomlomo](06.html#bosomlomo-nemasekela-abosomlomo)
-        *   [112\. Tincumo](06.html#tincumo-2)
+        *   [112\. Tincumo](06.html#tincumo)
         *   [113\. Emalungelo etitfunywa letingesuswa kutishayamtsetfo tetifundza](06.html#emalungelo-etitfunywa-letingesuswa-kutishayamtsetfo-tetifundza)
         *   [114\. Emandla etishayamtsetfo tetifundza](06.html#emandla-etishayamtsetfo-tetifundza)
         *   [115\. Bufakazi noma imininingwane embi kwetishayamtsetfo tetifundza](06.html#bufakazi-noma-imininingwane-embi-kwetishayamtsetfo-tetifundza)
