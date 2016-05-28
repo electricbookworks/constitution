@@ -1,9 +1,12 @@
 ---
+stylesheet: screen.css
 title: Contents
-style: contents-page
+style: "contents-page"
+published: true
+layout: default
 ---
 
-# UmTsetfosisekelo weRiphabhulikhi yaseNingizimu Afrika
+# Umtsetfosisekelo WeRiphabhuliki YaseNingizimu Afrika
 
 *   [Sendlalelo](0-5-preamble.html#sendlalelo)
 *   [Sehluko 1: Timiso LetiSisekelo (1-6)](01.html#sehluko-1-timiso-letisisekelo-1-6)
