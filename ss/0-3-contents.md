@@ -350,7 +350,7 @@ layout: default
     *   [20\. Letinye tikhungo temtsetfosisekelo](schedule-6.html#letinye-tikhungo-temtsetfosisekelo)
     *   [21\. Kushaywa kwemitsetfo lefunwa ngumtsetfosisekelo lomusha](schedule-6.html#kushaywa-kwemitsetfo-lefunwa-ngumtsetfosisekelo-lomusha)
     *   [22\. Lubumbano lwavelonkhe nekubuyisana](schedule-6.html#lubumbano-lwavelonkhe-nekubuyisana)
-    *   [23\. luCwebu lwemalungelo eluntfu](schedule-6.html#lucwebu-lwemalungelo-eluntfu)
+    *   [23\. Umculu Wemalungelo Eluntfu](schedule-6.html#lucwebu-lwemalungelo-eluntfu)
     *   [24\. Kuphatfwa kwembuso nemibutfo yetekuphepha](schedule-6.html#kuphatfwa-kwembuso-nemibutfo-yetekuphepha)
     *   [25\. Kungavumeleki kwebulunga lokwengetwe betishayamtsetfo](schedule-6.html#kungavumeleki-kwebulunga-lokwengetwe-betishayamtsetfo)
     *   [26\. Hulumende wasekhaya](schedule-6.html#hulumende-wasekhaya)
