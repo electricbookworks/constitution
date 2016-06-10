@@ -1,12 +1,16 @@
 ---
+stylesheet: screen.css
 title: Isendlalelo
+published: true
+layout: default
+style: chapter
 ---
 
 # Isendlalelo
 
 Thina, abantu beSewula Afrika, 
 
-Siyakwazi ukungakaphatheki kwethu ngokomThetho kwesikhathi sakade;
+Siyakwazi ukungangaphatheki kuhle kwethu kwesikhathi sakade;
 
 Sihlonipha labo abahlukumezekako ngerhuluphelo yokobana kube khona ubulungiswa nekululeko enarhenekhethu;
 
@@ -14,11 +18,11 @@ Sihlonipha labo abasebenzileko ekwakhiweni nekuthuthukisweni kwephasi lekhethu; 
 
 Bakholwa bona iSewula Afrika ingeyabo boke abahlala kiyo, sibambene ngokwahlukahlukana kwethu.
 
-Ngokujanyelwa bajameli bethu abakhethwe ngokutjhaphulukileko, samukela umThethosisekelo lo njengomThetho wokuthoma weRiphabliki oza  -
+Ngokujanyelwa bajameli bethu abakhethwe ngokutjhaphulukileko, samukela umThethosisekelo lo njengomthetho wokuthoma weRiphabliki oza  -
 
 *   Kuqeda ukuhlukana okwadlulako begodu sakhe umphakathi odzimelele eminqopheni yentando yenengi, ubulungiswa begodu namalungelo wobuntu wangokomThetho;
 
-*   Ukubeka isisekelo sentando yenengi nomphakathi otjhaphulukileko lapha uRhulumende adzimelele khona eemfunweni zabantu begodu nalapha isakhamuzi ngasinye sivikelwe mThetho ngokulinganakho;
+*   Ukubeka isisekelo sentando yenengi nomphakathi otjhaphulukileko lapha urhulumende adzimelele khona eemfunweni zabantu begodu nalapha isakhamuzi ngasinye sivikelwe mthetho ngokulinganakho;
 
 *   Ukwenza ngcono izinga lepilo yazo zoke izakhamuzi begodu nokuveza amakghono womunye nomunye umuntu; begodu
 
