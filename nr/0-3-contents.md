@@ -328,7 +328,7 @@ layout: default
 *   [IHlelo 6: AmaLungiselelo WesiKhatjhana](schedule-6.html#ihlelo-6-amalungiselelo-wesikhatjhana)
     *   [1\. Iinhlathululo](schedule-6.html#iinhlathululo-1)
     *   [2\. Ukuragela Phambili Komthetho Okhona](schedule-6.html#ukuragela-phambili-komthetho-okhona)
-    *   [3\. Ihlathululo Lomthetho Osesekhona](schedule-6.html#ihlathululo-lomthetho-osesekhona)
+    *   [3\. Ihlathululo Lomthetho Osese khona](schedule-6.html#ihlathululo-lomthetho-osesekhona)
     *   [4\. IsiBethamthetho seNarha](schedule-6.html#isibethamthetho-senarha-1)
     *   [5\. Umsebenzi Ongakaqedwa Ngaphambi KwePalamende](schedule-6.html#umsebenzi-ongakaqedwa-ngaphambi-kwepalamende)
     *   [6\. Amakhetho WesiBethamthetho SeNarha](schedule-6.html#amakhetho-wesibethamthetho-senarha)
