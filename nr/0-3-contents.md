@@ -1,6 +1,9 @@
 ---
+stylesheet: screen.css
 title: Contents
 style: contents-page
+published: true
+layout: default
 ---
 
 # UmThethosisekelo weRiphabliki yeSewula Afrika
@@ -147,7 +150,7 @@ style: contents-page
         *   [130\. Isikhathi Somsebenzi Esibekelwe UNdunakulu Nokususwa Kwakhe](06.html#isikhathi-somsebenzi-esibekelwe-undunakulu-nokususwa-kwakhe)
         *   [131\. AboMjaphethe BaboNdunakulu](06.html#abomjaphethe-babondunakulu)
         *   [132\. Imikhandlu Yezokuphatha](06.html#imikhandlu-yezokuphatha)
-        *   [133\. Ubuziphendulelo Neembopho](06.html#ubuziphendulelo-neembopho)
+        *   [133\. Ukuziphendulelo Neembopho](06.html#ubuziphendulelo-neembopho)
         *   [134\. Ukuragela Phambili KomKhandlu Wezokuphatha Emva Kwamakhetho](06.html#ukuragela-phambili-komkhandlu-wezokuphatha-emva-kwamakhetho)
         *   [135\. Ukufunga Namkha Ukuzibopha](06.html#ukufunga-namkha-ukuzibopha-1)
         *   [136\. Ukuziphatha Kwamalunga WemiKhandlu YezokuPhatha](06.html#ukuziphatha-kwamalunga-wemikhandlu-yezokuphatha)
