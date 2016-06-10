@@ -302,7 +302,7 @@ layout: default
     *   [IsiFunda SeTjhingalanga Kapa](schedule-1a.html#isifunda-setjhingalanga-kapa)
 *   [IHlelo 2: IimFungo Kanye NeemBopho](schedule-2.html#ihlelo-2-iimfungo-kanye-neembopho)
     *   [1\. Isifungo Namkha Isibopho SikaMongameli Kunye NoMjaphethe KaMongameli](schedule-2.html#isifungo-namkha-isibopho-sikamongameli-kunye-nomjaphethe-kamongameli)
-    *   [2\. Iimfungo Kunye Neembopho ZeSekela LikaMongameli](schedule-2.html#iimfungo-kunye-neembopho-zesekela-likamongameli)
+    *   [2\. Iimfungo Kanye Neembopho ZeSekela LikaMongameli](schedule-2.html#iimfungo-kunye-neembopho-zesekela-likamongameli)
     *   [3\. Isifungo Namkha Isibopho SaboNgqongqotjhe NamaSekela WaboNgqongqotjhe](schedule-2.html#isifungo-namkha-isibopho-sabongqongqotjhe-namasekela-wabongqongqotjhe)
     *   [4\. Iimfungo Namkha Iimbopho Zamalunga WesiBethamthetho SeNarha Iinthunywa Zasafuthi ZomKhandlu Ongamele IimFunda Namalunga WeemBethamthetho ZeemFunda](schedule-2.html#iimfungo-namkha-iimbopho-zamalunga-wesibethamthetho-senarha-iinthunywa-zasafuthi-zomkhandlu-ongamele-iimfunda-namalunga-weembethamthetho-zeemfunda)
     *   [5\. Isifungo Namkha Isibopho SaboNdunakulu, AboMjaphethe BaboNdunakulu Begodu Namalunga WeenGungu ZemiKhandlu YeemFunda](schedule-2.html#isifungo-namkha-isibopho-sabondunakulu-abomjaphethe-babondunakulu-begodu-namalunga-weengungu-zemikhandlu-yeemfunda)
