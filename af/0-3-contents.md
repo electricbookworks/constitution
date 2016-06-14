@@ -87,7 +87,7 @@ layout: default
         *   [70\. Interne reëlings, verrigtinge en prosedures van Nasionale Raad](04.html#interne-relings-verrigtinge-en-prosedures-van-nasionale-raad)
         *   [71\. Voorreg](04.html#voorreg-1)
         *   [72\. Publieke toegang tot en betrokkenheid in Nasionale Raad](04.html#publieke-toegang-tot-en-betrokkenheid-in-nasionale-raad)
-    *   [Nasionale Wetgewende Proses](04.html#nasionale-wetgewende-proses)
+    *   [Nasionale Wetgewende Proses](04.html#nasionale-wetgewende-proses){:.subhead}
         *   [73\. Alle Wetsontwerpe](04.html#alle-wetsontwerpe)
         *   [74\. Wetsontwerpe wat die Grondwet wysig](04.html#wetsontwerpe-wat-die-grondwet-wysig)
         *   [75\. Gewone Wetsontwerpe wat nie provinsies raak nie](04.html#gewone-wetsontwerpe-wat-nie-provinsies-raak-nie)
@@ -121,7 +121,7 @@ layout: default
     *   [102\. Voorstelle van wantroue](05.html#voorstelle-van-wantroue)
 *   [Hoofstuk 6: Provinsies (artikels 103-150)](06.html#hoofstuk-6-provinsies-artikels-103-150)
     *   [103\. Provinsies](06.html#provinsies)
-    *   [Provinsiale Wetgewers](06.html#provinsiale-wetgewers)
+    *   [Provinsiale Wetgewers](06.html#provinsiale-wetgewers){:.subhead}
         *   [104\. Wetgewende gesag van provinsies](06.html#wetgewende-gesag-van-provinsies)
         *   [105\. Samestelling en verkiesing van provinsiale wetgewers](06.html#samestelling-en-verkiesing-van-provinsiale-wetgewers)
         *   [106\. Lidmaatskap](06.html#lidmaatskap-1)
@@ -143,7 +143,7 @@ layout: default
         *   [122\. Aansoek by Konstitusionele Hof deur lede](06.html#aansoek-by-konstitusionele-hof-deur-lede)
         *   [123\. Publikasie van provinsiale Wette](06.html#publikasie-van-provinsiale-wette)
         *   [124\. Veilige bewaring van provinsiale Wette](06.html#veilige-bewaring-van-provinsiale-wette)
-    *   [Provinsiale Uitvoerende Gesag](06.html#provinsiale-uitvoerende-gesag)
+    *   [Provinsiale Uitvoerende Gesag](06.html#provinsiale-uitvoerende-gesag){:.subhead}
         *   [125\. Uitvoerende gesag van provinsies](06.html#uitvoerende-gesag-van-provinsies)
         *   [126\. Opdra van werksaamhede](06.html#opdra-van-werksaamhede)
         *   [127.Bevoegdhede en funksies van Premiers](06.html#bevoegdhede-en-funksies-van-premiers)
@@ -161,7 +161,7 @@ layout: default
         *   [139\. Provinsiale ingryping in plaaslike regering](06.html#provinsiale-ingryping-in-plaaslike-regering)
         *   [140\. Uitvoerende besluite](06.html#uitvoerende-besluite-1)
         *   [141\. Voorstelle van wantroue](06.html#voorstelle-van-wantroue-1)
-    *   [Provinsiale Grondwette](06.html#provinsiale-grondwette)
+    *   [Provinsiale Grondwette](06.html#provinsiale-grondwette){:.subhead}
         *   [142\. Aanname van provinsiale grondwette](06.html#aanname-van-provinsiale-grondwette)
         *   [143\. Inhoud van provinsiale grondwette](06.html#inhoud-van-provinsiale-grondwette)
         *   [144\. Sertifisering van provinsiale grondwette](06.html#sertifisering-van-provinsiale-grondwette)
