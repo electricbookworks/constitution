@@ -109,7 +109,7 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 2.	Tot 30 April 1999 word artikels 84, 89, 90, 91, 93 en 96 van die nuwe Grondwet geag te lui soos in Aanhangsel B by hierdie Bylae uiteengesit.
 3.	Subitem (2) belet nie ŉ Minister wat ŉ senator was toe die nuwe Grondwet in werking getree het, om aan te bly nie as ŉ Minister genoem in artikel 91(1)(a) van die nuwe Grondwet, soos dié artikel in Aanhangsel B lui.
 
-### 10. Provinsiale wetgewers
+## 10. Provinsiale wetgewers
 
 1.	Enigiemand wat ŉ lid of ampsdraer van ŉ provinsie se wetgewer was toe die nuwe Grondwet in werking getree het, word ŉ lid of ampsdraer van die wetgewer vir daardie provinsie kragtens die nuwe Grondwet, en beklee die amp van lid of ampsdraer ingevolge die nuwe Grondwet en ŉ    provinsiale grondwet wat verorden mag word.
 2.	ŉ Provinsiale wetgewer soos ingevolge subitem (1) saamgestel, word beskou as kragtens die nuwe Grondwet verkies te wees vir ŉ termyn wat op 30 April 1999 verstryk.
