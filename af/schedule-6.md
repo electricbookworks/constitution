@@ -306,7 +306,7 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 	> [Subitem (2) gewysig by a. 5(b) van die Tweede Wysigingswet op die Grondwet van 1998.]
 	{:.note}
 
-## 27. Veilige bewaring van Parlementswette en provinsiale Wette
+## 27. Veilige bewaring van Parlementswette en Provinsiale Wette
 
 Artikels 82 en 124 van die nuwe Grondwet raak nie die veilige bewaring van Parlementswette of provinsiale Wette wat aangeneem is voordat die nuwe Grondwet in werking getree het nie.
 
