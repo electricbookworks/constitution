@@ -1,6 +1,8 @@
 ---
 stylesheet: screen.css
-title: "Aanhangsel D. Staatsadministrasie En Veiligheidsdienste&#58; Wysigings Van Artikels Van Die Vorige Grondwet"
+title: >-
+  Aanhangsel D. Staatsadministrasie En Veiligheidsdienste&#58; Wysigings Van
+  Artikels Van Die Vorige Grondwet
 published: true
 layout: default
 style: chapter
