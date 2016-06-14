@@ -166,7 +166,7 @@ layout: default
         *   [143\. Inhoud van provinsiale grondwette](06.html#inhoud-van-provinsiale-grondwette)
         *   [144\. Sertifisering van provinsiale grondwette](06.html#sertifisering-van-provinsiale-grondwette)
         *   [145\. Ondertekening, publikasie en veilige bewaring van provinsiale grondwette](06.html#ondertekening-publikasie-en-veilige-bewaring-van-provinsiale-grondwette)
-    *   [Wetsteenstrydighede](06.html#wetsteenstrydighede)
+    *   [Wetsteenstrydighede](06.html#wetsteenstrydighede){:.subhead}
         *   [146\. Teenstrydighede tussen nasionale en provinsiale wetgewing](06.html#teenstrydighede-tussen-nasionale-en-provinsiale-wetgewing)
         *   [147\. Ander wetsteenstrydighede](06.html#ander-wetsteenstrydighede)
         *   [148\. Wetsteenstrydighede wat nie opgelos kan word nie](06.html#wetsteenstrydighede-wat-nie-opgelos-kan-word-nie)
@@ -206,25 +206,25 @@ layout: default
     *   [180\. Ander aangeleenthede betreffende regspleging](08.html#ander-aangeleenthede-betreffende-regspleging)
 *   [Hoofstuk 9: Staatsinstellings Ter Ondersteuning Van Grondwetlike Demokrasie (artikels 181-194)](09.html#hoofstuk-9-staatsinstellings-ter-ondersteuning-van-grondwetlike-demokrasie-artikels-181-194)
     *   [181\. Instelling en bepalende beginsels](09.html#instelling-en-bepalende-beginsels)
-    *   [Openbare Beskermer](09.html#openbare-beskermer)
+    *   [Openbare Beskermer](09.html#openbare-beskermer){:.subhead}
         *   [182\. Funksies van Openbare Beskermer](09.html#funksies-van-openbare-beskermer)
         *   [183\. Ampstermyn](09.html#ampstermyn)
-    *   [Menseregtekommissie](09.html#menseregtekommissie)
+    *   [Menseregtekommissie](09.html#menseregtekommissie){:.subhead}
         *   [184\. Funksies van Menseregtekommissie](09.html#funksies-van-menseregtekommissie)
-    *   [Kommissie vir die Bevordering en Beskerming van die Regte van Kultuur-, Godsdiens- en Taalgemeenskappe](09.html#kommissie-vir-die-bevordering-en-beskerming-van-die-regte-van-kultuur--godsdiens--en-taalgemeenskappe)
+    *   [Kommissie vir die Bevordering en Beskerming van die Regte van Kultuur-, Godsdiens- en Taalgemeenskappe](09.html#kommissie-vir-die-bevordering-en-beskerming-van-die-regte-van-kultuur--godsdiens--en-taalgemeenskappe){:.subhead}
         *   [185\. Funksies van Kommissie](09.html#funksies-van-kommissie)
         *   [186\. Samestelling van Kommissie](09.html#samestelling-van-kommissie)
-    *   [Kommissie vir Geslagsgelykheid](09.html#kommissie-vir-geslagsgelykheid)
+    *   [Kommissie vir Geslagsgelykheid](09.html#kommissie-vir-geslagsgelykheid){:.subhead}
         *   [187\. Funksies van Kommissie vir Geslagsgelykheid](09.html#funksies-van-kommissie-vir-geslagsgelykheid)
-    *   [Ouditeur-generaal](09.html#ouditeur-generaal)
+    *   [Ouditeur-generaal](09.html#ouditeur-generaal){:.subhead}
         *   [188\. Werksaamhede van Ouditeur-generaal](09.html#werksaamhede-van-ouditeur-generaal)
         *   [189\. Ampstermyn](09.html#ampstermyn-1)
-    *   [Verkiesingskommissie](09.html#verkiesingskommissie)
+    *   [Verkiesingskommissie](09.html#verkiesingskommissie){:.subhead}
         *   [190\. Funksies van Verkiesingskommissie](09.html#funksies-van-verkiesingskommissie)
         *   [191\. Samestelling van Verkiesingskommissie](09.html#samestelling-van-verkiesingskommissie)
-    *   [Onafhanklike Owerheid om die uitsaaiwese te Reguleer](09.html#onafhanklike-owerheid-om-die-uitsaaiwese-te-reguleer)
+    *   [Onafhanklike Owerheid om die uitsaaiwese te Reguleer](09.html#onafhanklike-owerheid-om-die-uitsaaiwese-te-reguleer){:.subhead}
         *   [192\. Uitsaai-owerheid](09.html#uitsaai-owerheid)
-    *   [Algemene Bepalings](09.html#algemene-bepalings)
+    *   [Algemene Bepalings](09.html#algemene-bepalings){:.subhead}
         *   [193\. Aanstellings](09.html#aanstellings)
         *   [194\. Ampsontheffing](09.html#ampsontheffing)
 *   [Hoofstuk 10: Openbare Administrasie (artikels 195-197)](10.html#hoofstuk-10-openbare-administrasie-artikels-195-197)
