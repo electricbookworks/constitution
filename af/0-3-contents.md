@@ -234,25 +234,25 @@ layout: default
 *   [Hoofstuk 11: Veiligheidsdienste (artikels 198-210)](11.html#hoofstuk-11-veiligheidsdienste-artikels-198-210)
     *   [198\. Grondliggende beginsels](11.html#grondliggende-beginsels)
     *   [199\. Instelling, struktuur en optrede van veiligheidsdienste](11.html#instelling-struktuur-en-optrede-van-veiligheidsdienste)
-    *   [Verdediging](11.html#verdediging)
+    *   [Verdediging](11.html#verdediging){:.subhead}
         *   [200\. Weermag](11.html#weermag)
         *   [201\. Politieke verantwoordelikheid](11.html#politieke-verantwoordelikheid)
         *   [202\. Bevel oor weermag](11.html#bevel-oor-weermag)
         *   [203\. Staat van nasionale verdediging](11.html#staat-van-nasionale-verdediging)
         *   [204\. Burgerlike sekretariaat vir verdediging](11.html#burgerlike-sekretariaat-vir-verdediging)
-    *   [Polisie](11.html#polisie)
+    *   [Polisie](11.html#polisie){:.subhead}
         *   [205\. Polisiediens](11.html#polisiediens)
         *   [206\. Politieke verantwoordelikheid](11.html#politieke-verantwoordelikheid-1)
         *   [207\. Beheer oor polisiediens](11.html#beheer-oor-polisiediens)
         *   [208\. Burgerlike sekretariaat vir polisie](11.html#burgerlike-sekretariaat-vir-polisie)
-    *   [Intelligensie](11.html#intelligensie)
+    *   [Intelligensie](11.html#intelligensie){:.subhead}
         *   [209\. Instelling van en beheer oor intelligensiedienste](11.html#instelling-van-en-beheer-oor-intelligensiedienste)
         *   [Bevoegdhede, funksies en monitering](11.html#bevoegdhede-funksies-en-monitering)
 *   [Hoofstuk 12: Tradisionele Leiers (artikels 211-212)](12.html#hoofstuk-12-tradisionele-leiers-artikels-211-212)
     *   [211\. Erkenning](12.html#erkenning)
     *   [212\. Rol van tradisionele leiers](12.html#rol-van-tradisionele-leiers)
 *   [Hoofstuk 13: Finansies (artikels 213-230A)](13.html#hoofstuk-13-finansies-artikels-213-230a)
-    *   [Algemene Finansiële Aangeleenthede](13.html#algemene-finansile-aangeleenthede)
+    *   [Algemene Finansiële Aangeleenthede](13.html#algemene-finansile-aangeleenthede){:.subhead}
         *   [213\. Nasionale Inkomstefonds](13.html#nasionale-inkomstefonds)
         *   [214\. Billike dele en toekennings van inkomste](13.html#billike-dele-en-toekennings-van-inkomste)
         *   [215\. Nasionale, provinsiale en munisipale begrotings](13.html#nasionale-provinsiale-en-munisipale-begrotings)
@@ -260,15 +260,15 @@ layout: default
         *   [217\. Verkryging](13.html#verkryging)
         *   [218\. Regeringswaarborge](13.html#regeringswaarborge)
         *   [219\. Besoldiging van persone wat openbare ampte beklee](13.html#besoldiging-van-persone-wat-openbare-ampte-beklee)
-    *   [Finansiële en Fiskale Kommissie](13.html#finansile-en-fiskale-kommissie)
+    *   [Finansiële en Fiskale Kommissie](13.html#finansile-en-fiskale-kommissie){:.subhead}
         *   [220\. Instelling en werksaamhede](13.html#instelling-en-werksaamhede)
         *   [221\. Aanstelling en ampstermyn van lede](13.html#aanstelling-en-ampstermyn-van-lede)
         *   [222\. Verslae](13.html#verslae)
-    *   [Sentrale Bank](13.html#sentrale-bank)
+    *   [Sentrale Bank](13.html#sentrale-bank){:.subhead}
         *   [223\. Instelling](13.html#instelling)
         *   [224\. Hoofoogmerk](13.html#hoofoogmerk)
         *   [225\. Bevoegdhede en werksaamhede](13.html#bevoegdhede-en-werksaamhede)
-    *   [Provinsiale en Plaaslike Finansiële Aangeleenthede](13.html#provinsiale-en-plaaslike-finansile-aangeleenthede)
+    *   [Provinsiale en Plaaslike Finansiële Aangeleenthede](13.html#provinsiale-en-plaaslike-finansile-aangeleenthede){:.subhead}
         *   [226\. Provinsiale Inkomstefondse](13.html#provinsiale-inkomstefondse)
         *   [227\. Nasionale befondsingsbronne van provinsiale en plaaslike regering](13.html#nasionale-befondsingsbronne-van-provinsiale-en-plaaslike-regering)
         *   [228\. Provinsiale belastings](13.html#provinsiale-belastings)
@@ -276,11 +276,11 @@ layout: default
         *   [230\. Provinsiale lenings](13.html#provinsiale-lenings)
         *   [230A. Munisipale lenings](13.html#a-munisipale-lenings)
 *   [Hoofstuk 14: Algemene Bepalings (artikels 231-243)](14.html#hoofstuk-14-algemene-bepalings-artikels-231-243)
-    *   [Volkereg](14.html#volkereg)
+    *   [Volkereg](14.html#volkereg){:.subhead}
         *   [231\. Internasionale ooreenkomste](14.html#internasionale-ooreenkomste)
         *   [232\. Volkeregtelike gewoontereg](14.html#volkeregtelike-gewoontereg)
         *   [233\. Toepassing van volkereg](14.html#toepassing-van-volkereg)
-    *   [Ander Aangeleenthede](14.html#ander-aangeleenthede-1)
+    *   [Ander Aangeleenthede](14.html#ander-aangeleenthede-1){:.subhead}
         *   [234\. Handveste van Regte](14.html#handveste-van-regte)
         *   [235\. Selfbeskikking](14.html#selfbeskikking)
         *   [236\. Befondsing vir politieke partye](14.html#befondsing-vir-politieke-partye)
@@ -310,7 +310,7 @@ layout: default
     *   [5\. Ampseed of plegtige verklaring van Premiers, Waarnemende Premiers en lede van provinsiale Uitvoerende Rade](schedule-2.html#ampseed-of-plegtige-verklaring-van-premiers-waarnemende-premiers-en-lede-van-provinsiale-uitvoerende-rade)
     *   [6\. Ampseed of plegtige verklaring van Regterlike Beamptes](schedule-2.html#ampseed-of-plegtige-verklaring-van-regterlike-beamptes)
 *   [Bylae 3: Verkiesingsprosedures](schedule-3.html#bylae-3-verkiesingsprosedures)
-    *   [Deel A: Verkiesingsprosedures Vir Grondwetlike Ampsdraers](schedule-3.html#deel-a-verkiesingsprosedures-vir-grondwetlike-ampsdraers)
+    *   [Deel A: Verkiesingsprosedures Vir Grondwetlike Ampsdraers](schedule-3.html#deel-a-verkiesingsprosedures-vir-grondwetlike-ampsdraers){:.subhead}
         *   [1\. Toepassing](schedule-3.html#toepassing-1)
         *   [2\. Nominasies](schedule-3.html#nominasies)
         *   [3\. Formele vereistes](schedule-3.html#formele-vereistes)
@@ -320,7 +320,7 @@ layout: default
         *   [7\. Uitskakelingsprosedure](schedule-3.html#uitskakelingsprosedure)
         *   [8\. Verdere vergaderings](schedule-3.html#verdere-vergaderings)
         *   [9\. Reëls](schedule-3.html#rels)
-    *   [Deel B: Formule Om Partydeelname Aan Provinsiale Afvaardigings Na Die Nasionale Raad Van Provinsies Te Bepaal](schedule-3.html#deel-b-formule-om-partydeelname-aan-provinsiale-afvaardigings-na-die-nasionale-raad-van-provinsies-te-bepaal)
+    *   [Deel B: Formule Om Partydeelname Aan Provinsiale Afvaardigings Na Die Nasionale Raad Van Provinsies Te Bepaal](schedule-3.html#deel-b-formule-om-partydeelname-aan-provinsiale-afvaardigings-na-die-nasionale-raad-van-provinsies-te-bepaal){:.subhead}
 *   [Bylae 4: Funksionele Gebiede Van Konkurrente Nasionale En Provinsiale Wetgewende Bevoegdheid](schedule-4.html#bylae-4-funksionele-gebiede-van-konkurrente-nasionale-en-provinsiale-wetgewende-bevoegdheid)
     *   [Deel A](schedule-4.html#deel-a)
     *   [Deel B](schedule-4.html#deel-b)
