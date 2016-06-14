@@ -1,7 +1,7 @@
 ---
 stylesheet: screen.css
 title: Contents
-style: "contents-page"
+style: contents-page
 published: true
 layout: default
 ---
@@ -58,7 +58,7 @@ layout: default
     *   [43\. Wetgewende gesag van die Republiek](04.html#wetgewende-gesag-van-die-republiek)
     *   [44\. Nasionale wetgewende gesag](04.html#nasionale-wetgewende-gesag)
     *   [45\. Gesamentlike reëls en orders en gesamentlike komitees](04.html#gesamentlike-rels-en-orders-en-gesamentlike-komitees)
-    *   [Die Nasionale Vergadering](04.html#die-nasionale-vergadering)
+    *   [Die Nasionale Vergadering](04.html#die-nasionale-vergadering){:.subhead}
         *   [46\. Samestelling en verkiesing](04.html#samestelling-en-verkiesing)
         *   [47\. Lidmaatskap](04.html#lidmaatskap)
         *   [48\. Eed of plegtige verklaring](04.html#eed-of-plegtige-verklaring)
@@ -73,7 +73,7 @@ layout: default
         *   [57\. Interne reëlings, verrigtinge en prosedures van Nasionale Vergadering](04.html#interne-relings-verrigtinge-en-prosedures-van-nasionale-vergadering)
         *   [58\. Voorreg](04.html#voorreg)
         *   [59\. Publieke toegang tot en betrokkenheid in Nasionale Vergadering](04.html#publieke-toegang-tot-en-betrokkenheid-in-nasionale-vergadering)
-    *   [Nasionale Raad van Provinsies](04.html#nasionale-raad-van-provinsies)
+    *   [Nasionale Raad van Provinsies](04.html#nasionale-raad-van-provinsies){:.subhead}
         *   [60\. Samestelling van Nasionale Raad](04.html#samestelling-van-nasionale-raad)
         *   [61\. Toewysing van afgevaardigdes](04.html#toewysing-van-afgevaardigdes)
         *   [62\. Vaste afgevaardigdes](04.html#vaste-afgevaardigdes)
