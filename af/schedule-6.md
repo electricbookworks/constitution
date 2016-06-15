@@ -131,7 +131,7 @@ In hierdie Bylae, tensy uit die samehang anders blyk, beteken–
 
 ## 13. Provinsiale grondwette
 
-‘n Provinsiale grondwet wat aangeneem is voordat die nuwe Grondwet in werking getree het, moet aan artikel 143 van die nuwe Grondwet voldoen.
+1.	‘n Provinsiale grondwet wat aangeneem is voordat die nuwe Grondwet in werking getree het, moet aan artikel 143 van die nuwe Grondwet voldoen.
 
 ## 14. Opdra van wetgewing aan provinsies
 
@@ -249,7 +249,7 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 1.	Ondanks die ander bepalings van die nuwe Grondwet en ondanks die herroeping van die vorige Grondwet, word al die bepalings met betrekking tot amnestie wat in die vorige Grondwet onder die opskrif “Nasionale Eenheid en Versoening” vervat is, geag deel van die nuwe Grondwet uit te maak vir die doeleindes van die Wet op die Bevordering van Nasionale Eenheid en Versoening, 1995 (Wet 34 van 1995), soos gewysig, asook vir die doeleindes van die geldigheid daarvan.
 2.	Vir die doeleindes van subitem (1) word die datum “6 Desember 1993” waar dit in die bepalings van die vorige Grondwet onder die opskrif van “Nasionale Eenheid en Versoening” verskyn, geag “11 Mei 1994” te lui.
 
-	> [Subitem (2) bygevoeg by a. 3 van die “Constitution First Amendment Act of 1997”.]
+	> [Subitem (2) bygevoeg by a. 3 van die Eerste Wysigingswet op die Grondwet van 1997.]
 	{:.note}
 
 ## 23. Handves van Regte
@@ -308,7 +308,7 @@ Alle verrigtinge wat voor ŉ hof hangende is wanneer die nuwe Grondwet in werkin
 
 ## 27. Veilige bewaring van Parlementswette en Provinsiale Wette
 
-Artikels 82 en 124 van die nuwe Grondwet raak nie die veilige bewaring van Parlementswette of provinsiale Wette wat aangeneem is voordat die nuwe Grondwet in werking getree het nie.
+1.	Artikels 82 en 124 van die nuwe Grondwet raak nie die veilige bewaring van Parlementswette of provinsiale Wette wat aangeneem is voordat die nuwe Grondwet in werking getree het nie.
 
 ## 28. Registrasie van onroerende eiendom van die staat
 
