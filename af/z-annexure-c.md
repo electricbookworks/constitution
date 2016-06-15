@@ -1,12 +1,12 @@
 ---
 stylesheet: screen.css
-title: "Aanhangsel C. Regering Van Nasionale Eenheid&#58; Provinsiale Sfeer"
+title: 'Aanhangsel C. Regering Van Nasionale Eenheid&#58; Provinsiale Sfeer'
 published: true
 layout: default
 style: chapter
 ---
 
-# Aanhangsel C: Regering Van Nasionale Eenheid: Provinsiale Sfeer
+# Aanhangsel C: Regering van Nasionale Eenheid: Provinsiale Sfeer
 
 1.	Artikel 132 van die nuwe Grondwet word geag soos volg te lui:
 
