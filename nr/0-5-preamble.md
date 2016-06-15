@@ -8,9 +8,9 @@ style: chapter
 
 # Isendlalelo
 
-Thina, abantu beSewula Afrika, 
+Thina, bantu beSewula Afrika, 
 
-Siyakwazi ukungangaphatheki kuhle kwethu kwesikhathi sakade;
+Siyakwazi ukungangaphatheki kuhle kwethu esikhathini esidlulileko;
 
 Sihlonipha labo abahlukumezekako ngerhuluphelo yokobana kube khona ubulungiswa nekululeko enarhenekhethu;
 
@@ -20,7 +20,7 @@ Sikholwa bona iSewula Afrika ingeyabo boke abahlala kiyo, sibambene ngokwahlukah
 
 Ngokujanyelwa bajameli bethu abakhethwe ngokutjhaphulukileko, samukela umThethosisekelo lo njengomthetho wokuthoma weRiphabliki -
 
-*   Kuqeda ukuhlukana okwadlulako begodu sakhe umphakathi odzimelele eminqopheni yentando yenengi, ubulungiswa begodu namalungelo wobuntu wangokomThetho;
+*   Ozokuqeda ukuhlukana okwadlulako begodu sakhe umphakathi odzimelele eminqopheni yentando yenengi, ubulungiswa begodu namalungelo wobuntu wangokomThetho;
 
 *   Ukubeka isisekelo sentando yenengi nomphakathi otjhaphulukileko lapha urhulumende adzimelele khona eemfunweni zabantu begodu nalapha isakhamuzi ngasinye sivikelwe mthetho ngokulinganakho;
 
