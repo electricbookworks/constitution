@@ -1,5 +1,9 @@
 ---
-title: Annexure C. Government of National Unity&#58; Provincial Sphere
+stylesheet: screen.css
+title: 'Annexure C. Government of National Unity&#58; Provincial Sphere'
+published: true
+layout: default
+style: chapter
 ---
 
 # Annexure C: Government of National Unity: Provincial Sphere
