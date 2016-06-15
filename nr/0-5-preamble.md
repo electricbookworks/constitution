@@ -16,7 +16,7 @@ Sihlonipha labo abahlukumezekako ngerhuluphelo yokobana kube khona ubulungiswa n
 
 Sihlonipha labo abasebenzileko ekwakhiweni nekuthuthukisweni kwephasi lekhethu; begodu 
 
-Bakholwa bona iSewula Afrika ingeyabo boke abahlala kiyo, sibambene ngokwahlukahlukana kwethu.
+Sikholwa bona iSewula Afrika ingeyabo boke abahlala kiyo, sibambene ngokwahlukahlukana kwethu.
 
 Ngokujanyelwa bajameli bethu abakhethwe ngokutjhaphulukileko, samukela umThethosisekelo lo njengomthetho wokuthoma weRiphabliki oza  -
 
