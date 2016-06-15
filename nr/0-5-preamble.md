@@ -12,7 +12,7 @@ Thina, bantu beSewula Afrika,
 
 Siyakwazi ukungangaphatheki kuhle kwethu esikhathini esidlulileko;
 
-Sihlonipha labo abahlukumezekako ngerhuluphelo yokobana kube khona ubulungiswa nekululeko enarhenekhethu;
+Sihlonipha labo abahlukumezekako ngobulungiswa nekululeko enarhenekhethu;
 
 Sihlonipha labo abasebenzileko ekwakhiweni nekuthuthukisweni kwephasi lekhethu; begodu 
 
