@@ -20,13 +20,13 @@ Sikholwa bona iSewula Afrika ingeyabo boke abahlala kiyo, sibambene ngokwahlukah
 
 Ngokujanyelwa bajameli bethu abakhethwe ngokutjhaphulukileko, samukela umThethosisekelo lo njengomthetho wokuthoma weRiphabliki -
 
-*   Ozokuqeda ukuhlukana okwadlulako begodu sakhe umphakathi odzimelele eminqopheni yentando yenengi, ubulungiswa begodu namalungelo wobuntu wangokomThetho;
+*   Ozokuqeda ukuhlukana okwadlulako begodu kwakhiwe umphakathi odzimelele eminqopheni yentando yenengi, ubulungiswa begodu namalungelo wobuntu wangokomThetho;
 
-*   Ukubeka isisekelo sentando yenengi nomphakathi otjhaphulukileko lapha urhulumende adzimelele khona eemfunweni zabantu begodu nalapha isakhamuzi ngasinye sivikelwe mthetho ngokulinganakho;
+*   Ozakubeka isisekelo sentando yenengi nomphakathi otjhaphulukileko lapha urhulumende adzimelele khona eemfunweni zabantu begodu nalapha isakhamuzi ngasinye sivikelwe mthetho ngokulinganakho;
 
-*   Ukwenza ngcono izinga lepilo yazo zoke izakhamuzi begodu nokuveza amakghono womunye nomunye umuntu; begodu
+*   Ozakwenza ngcono izinga lepilo yazo zoke izakhamuzi begodu nokuveza amakghono womunye nomunye umuntu; begodu
 
-*   Nokwakha iSewula Afrika ebumbeneko neyentando yenengi ezokukghona ukuthatha indawo yayo njengenarha ezijameleko emndenini weentjhabatjhaba.
+*   Ngokwakha iSewula Afrika ebumbeneko neyentando yenengi ezokukghona ukuthatha indawo yayo njengenarha ezijameleko emndenini weentjhabatjhaba.
 
 Kwanga uZimu angavikela abantu bekhethu.\\
 Kosi Sikelel’ i-Afrika.\\
