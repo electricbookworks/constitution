@@ -1,9 +1,12 @@
 ---
+stylesheet: screen.css
 title: Contents
 style: contents-page
+published: true
+layout: default
 ---
 
-# Molaotheo wa Rephabliki ya Afrika Borwa
+# Molaotheo wa Repabliki ya Afrika Borwa
 
 *   [Ketapele](0-5-preamble.html#ketapele)
 *   [Kgaolo ya 1: Mabakatheo (1-6)](01.html#kgaolo-ya-1-mabakatheo-1-6)
