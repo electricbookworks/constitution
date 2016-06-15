@@ -1,5 +1,11 @@
 ---
-title: Isikhibelelo D. Ukuphathwa Kwezomphakathi Nemisebenzi Yezokuphepha&#58; Amatjhuguluko Weengaba Zomthethosisekelo Ongadungileko 
+stylesheet: screen.css
+title: >-
+  Isikhibelelo D. Ukuphathwa Kwezomphakathi Nemisebenzi Yezokuphepha&#58;
+  Amatjhuguluko Weengaba Zomthethosisekelo Ongadungileko
+published: true
+layout: default
+style: chapter
 ---
 
 # Isikhibelelo D: Ukuphathwa Kwezomphakathi Nemisebenzi Yezokuphepha: Amatjhuguluko Weengaba Zomthethosisekelo Ongadungileko 
