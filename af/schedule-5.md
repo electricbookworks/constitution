@@ -1,6 +1,8 @@
 ---
 stylesheet: screen.css
-title: Bylae 5. Funksionele Gebiede Van Eksklusiewe Provinsiale Wetgewende Bevoegdheid
+title: >-
+  Bylae 5. Funksionele Gebiede Van Eksklusiewe Provinsiale Wetgewende
+  Bevoegdheid
 published: true
 layout: default
 style: chapter
