@@ -63,7 +63,7 @@ style: chapter
 6.	Die wysiging van artikel 237 van die vorige Grondwet–
 	1.	deur paragraaf (a) van subartikel (1) deur die volgende paragraaf te vervang:
 
-	> (a) Die rasionalisering van alle instansies bedoel in artikel 236(1),uitgesonderd militêre magte bedoel in artikel 224(2), gaan na die inwerkingtreding van die Grondwet van die Republiek van Suid-Afrika, 1996, voort ten einde–
+	> (a) Die rasionalisering van alle instansies bedoel in artikel 236(1), uitgesonderd militêre magte bedoel in artikel 224(2), gaan na die inwerkingtreding van die Grondwet van die Republiek van Suid-Afrika, 1996, voort ten einde–
 	> 
 	> (i) 'n doeltreffende administrasie in die nasionale regeringsfeer in te stel om met aangeleenthede binne die regsbevoegdheid van die nasionale sfeer te handel; en
 	>
