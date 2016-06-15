@@ -18,7 +18,7 @@ Sihlonipha labo abasebenzileko ekwakhiweni nekuthuthukisweni kwephasi lekhethu; 
 
 Sikholwa bona iSewula Afrika ingeyabo boke abahlala kiyo, sibambene ngokwahlukahlukana kwethu.
 
-Ngokujanyelwa bajameli bethu abakhethwe ngokutjhaphulukileko, samukela umThethosisekelo lo njengomthetho wokuthoma weRiphabliki oza  -
+Ngokujanyelwa bajameli bethu abakhethwe ngokutjhaphulukileko, samukela umThethosisekelo lo njengomthetho wokuthoma weRiphabliki -
 
 *   Kuqeda ukuhlukana okwadlulako begodu sakhe umphakathi odzimelele eminqopheni yentando yenengi, ubulungiswa begodu namalungelo wobuntu wangokomThetho;
 
