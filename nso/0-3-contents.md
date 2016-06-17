@@ -209,22 +209,22 @@ layout: default
     *   [Mošireletši wa Setšhaba](09.html#moireleti-wa-sethaba){:.subhead}
         *   [182\. Mešomo ya Mošireletši wa Setšhaba](09.html#meomo-ya-moireleti-wa-sethaba)
         *   [183\. Pakatiro](09.html#pakatiro)
-    *   [Khomišene ya Ditokelo tša Botho ya Afrika Borwa](09.html#khomiene-ya-ditokelo-ta-botho-ya-afrika-borwa)
+    *   [Khomišene ya Ditokelo tša Botho ya Afrika Borwa](09.html#khomiene-ya-ditokelo-ta-botho-ya-afrika-borwa){:.subhead}
         *   [184\. Mešomo ya Khomišene ya Ditokelo tša Botho ya Afrika Borwa](09.html#meomo-ya-khomiene-ya-ditokelo-ta-botho-ya-afrika-borwa)
-    *   [Khomišene ya Tšwetšopele le Tšhireletšo ya Ditokelo tša Ditšo, Bodumedi le Maleme a Ditšhaba](09.html#khomiene-ya-twetopele-le-thireleto-ya-ditokelo-ta-dito-bodumedi-le-maleme-a-dithaba)
+    *   [Khomišene ya Tšwetšopele le Tšhireletšo ya Ditokelo tša Ditšo, Bodumedi le Maleme a Ditšhaba](09.html#khomiene-ya-twetopele-le-thireleto-ya-ditokelo-ta-dito-bodumedi-le-maleme-a-dithaba){:.subhead}
         *   [185\. Mešomo ya Khomišene](09.html#meomo-ya-khomiene)
         *   [186\. Sebopego sa Khomišene](09.html#sebopego-sa-khomiene)
-    *   [Khomišene ya Tekatekano ya Bong](09.html#khomiene-ya-tekatekano-ya-bong)
+    *   [Khomišene ya Tekatekano ya Bong](09.html#khomiene-ya-tekatekano-ya-bong){:.subhead}
         *   [187\. Mešomo ya Khomišene ya Tekatekano ya Bong](09.html#meomo-ya-khomiene-ya-tekatekano-ya-bong)
-    *   [Mohlakišikakaretšo](09.html#mohlakiikakareto)
+    *   [Mohlakišikakaretšo](09.html#mohlakiikakareto){:.subhead}
         *   [188\. Mešomo ya Mohlakišikakaretšo](09.html#meomo-ya-mohlakiikakareto)
         *   [189\. Pakatiro](09.html#pakatiro-1)
-    *   [Khomišene ya Dikgetho](09.html#khomiene-ya-dikgetho)
+    *   [Khomišene ya Dikgetho](09.html#khomiene-ya-dikgetho){:.subhead}
         *   [190\. Mešomo ya Khomišene ya Dikgetho](09.html#meomo-ya-khomiene-ya-dikgetho)
         *   [191\. Sebopego sa Khomišene ya Dikgetho](09.html#sebopego-sa-khomiene-ya-dikgetho)
-    *   [Bolaodi bjo bo Ikemetšego bja go Laola Kgašo](09.html#bolaodi-bjo-bo-ikemetego-bja-go-laola-kgao)
+    *   [Bolaodi bjo bo Ikemetšego bja go Laola Kgašo](09.html#bolaodi-bjo-bo-ikemetego-bja-go-laola-kgao){:.subhead}
         *   [192\. Bolaodi bja Kgašo](09.html#bolaodi-bja-kgao)
-    *   [Ditaba tša Kakaretšo](09.html#ditaba-ta-kakareto)
+    *   [Ditaba tša Kakaretšo](09.html#ditaba-ta-kakareto){:.subhead}
         *   [193\. Go thwala](09.html#go-thwala)
         *   [194\. Go rolwa modiro](09.html#go-rolwa-modiro)
 *   [Kgaolo ya 10: Taolo ya Merero ya Setšhaba (195-197)](10.html#kgaolo-ya-10-taolo-ya-merero-ya-sethaba-195-197)
@@ -234,25 +234,25 @@ layout: default
 *   [Kgaolo ya 11: Ditirelo tša Tšhireletšo (198-210)](11.html#kgaolo-ya-11-ditirelo-ta-thireleto-198-210)
     *   [198\. Metheotaolo](11.html#metheotaolo)
     *   [199\. Tlhomo, tlhamo le maitshwaro a ditirelo tša setšhaba](11.html#tlhomo-tlhamo-le-maitshwaro-a-ditirelo-ta-sethaba)
-    *   [Tšhireletšo](11.html#thireleto)
+    *   [Tšhireletšo](11.html#thireleto){:.subhead}
         *   [200\. Mašole a tšhireletšo](11.html#maole-a-thireleto)
         *   [201\. Maikarabelo a Sepolitiki](11.html#maikarabelo-a-sepolitiki)
         *   [202\. Taolo ya Mašole a Tšhireletšo](11.html#taolo-ya-maole-a-thireleto)
         *   [203\. Maemo a tšhireletšo ya setšhaba](11.html#maemo-a-thireleto-ya-sethaba)
         *   [204\. Bongwaledi bja tšhireletšo ya baagi](11.html#bongwaledi-bja-thireleto-ya-baagi)
-    *   [Maphodisa](11.html#maphodisa)
+    *   [Maphodisa](11.html#maphodisa){:.subhead}
         *   [205\. Tirelo ya Maphodisa](11.html#tirelo-ya-maphodisa)
         *   [206\. Maikarabelo a sepolitiki](11.html#maikarabelo-a-sepolitiki-1)
         *   [207\. Taolo ya Tirelo ya Maphodisa](11.html#taolo-ya-tirelo-ya-maphodisa)
         *   [208\. Bongwaledi bja maphodisa a baagi](11.html#bongwaledi-bja-maphodisa-a-baagi)
-    *   [Bohlodi](11.html#bohlodi)
+    *   [Bohlodi](11.html#bohlodi){:.subhead}
         *   [209\. Tlhomo le taolo ya ditirelo tša bohlodi](11.html#tlhomo-le-taolo-ya-ditirelo-ta-bohlodi)
         *   [210\. Maatla, mešomo le tlhokomelo](11.html#maatla-meomo-le-tlhokomelo)
 *   [Kgaolo ya 12: Baetapele ba Setšo (211-212)](12.html#kgaolo-ya-12-baetapele-ba-seto-211-212)
     *   [211\. Kamogelo](12.html#kamogelo)
     *   [212\. Tema ya baetapele ba setšo](12.html#tema-ya-baetapele-ba-seto)
 *   [Kgaolo ya 13: Ditšhelete (213-230A)](13.html#kgaolo-ya-13-dithelete-213-230a)
-    *   [Merero ya Ditšhelete ka Kakaretšo](13.html#merero-ya-dithelete-ka-kakareto)
+    *   [Merero ya Ditšhelete ka Kakaretšo](13.html#merero-ya-dithelete-ka-kakareto){:.subhead}
         *   [213\. Sekhwama sa Ditseno sa Setšhaba](13.html#sekhwama-sa-ditseno-sa-sethaba)
         *   [214\. Dikabelo tša go lekana le dikabo tša ditseno](13.html#dikabelo-ta-go-lekana-le-dikabo-ta-ditseno)
         *   [215\. Ditekanyetšo tša setšhaba, tša diprofense le tša bommasepala](13.html#ditekanyeto-ta-sethaba-ta-diprofense-le-ta-bommasepala)
@@ -260,15 +260,15 @@ layout: default
         *   [217\. Borekedi](13.html#borekedi)
         *   [218\. Ditiišetšo tša mmušo](13.html#ditiieto-ta-mmuo)
         *   [219\. Meputso ya batho bao ba šomelago setšhaba](13.html#meputso-ya-batho-bao-ba-omelago-sethaba)
-    *   [Khomišene ya Ditšhelete le Matlotlo](13.html#khomiene-ya-dithelete-le-matlotlo)
+    *   [Khomišene ya Ditšhelete le Matlotlo](13.html#khomiene-ya-dithelete-le-matlotlo){:.subhead}
         *   [220\. Tlhomo le mešomo](13.html#tlhomo-le-meomo)
         *   [221\. Go thwalwa le pakatiro ya maloko](13.html#go-thwalwa-le-pakatiro-ya-maloko)
         *   [222\. Dipego](13.html#dipego)
-    *   [Pankakgolo](13.html#pankakgolo)
+    *   [Pankakgolo](13.html#pankakgolo){:.subhead}
         *   [223\. Tlhomo](13.html#tlhomo)
         *   [224\. Maikemišetšomagolo](13.html#maikemietomagolo)
         *   [225\. Maatla le mešomo](13.html#maatla-le-meomo)
-    *   [Merero ya Ditšhelete ya Diprofense le ya Tikologo](13.html#merero-ya-dithelete-ya-diprofense-le-ya-tikologo)
+    *   [Merero ya Ditšhelete ya Diprofense le ya Tikologo](13.html#merero-ya-dithelete-ya-diprofense-le-ya-tikologo){:.subhead}
         *   [226\. Sekhwama sa Ditseno tša Profense](13.html#sekhwama-sa-ditseno-ta-profense)
         *   [227\. Methopo ya setšhaba ya go thekga mebušo ya profense le dipušoselegae ka ditšhelete](13.html#methopo-ya-sethaba-ya-go-thekga-mebuo-ya-profense-le-dipuoselegae-ka-dithelete)
         *   [228\. Metšhelo ya Profense](13.html#methelo-ya-profense)
@@ -276,11 +276,11 @@ layout: default
         *   [230\. Dikadimo tša Profense](13.html#dikadimo-ta-profense)
         *   [230A. Dikadimo tša Mmasepala](13.html#a-dikadimo-ta-mmasepala)
 *   [Kgaolo ya 14: Ditlhagišokakaretšo (231-243)](14.html#kgaolo-ya-14-ditlhagiokakareto-231-243)
-    *   [Molao wa Ditšhabatšhaba](14.html#molao-wa-dithabathaba)
+    *   [Molao wa Ditšhabatšhaba](14.html#molao-wa-dithabathaba){:.subhead}
         *   [231\. Dikwano tša ditšhabatšhaba](14.html#dikwano-ta-dithabathaba)
         *   [232\. Molaosetlwaedi wa ditšhabatšhaba](14.html#molaosetlwaedi-wa-dithabathaba)
         *   [233\. Tirišo ya molao wa ditšhabatšhaba](14.html#tirio-ya-molao-wa-dithabathaba)
-    *   [Ditaba tše dingwe](14.html#ditaba-te-dingwe-1)
+    *   [Ditaba tše dingwe](14.html#ditaba-te-dingwe-1){:.subhead}
         *   [234\. Melaokakanywa ya Ditokelo](14.html#melaokakanywa-ya-ditokelo)
         *   [235\. Boipopo](14.html#boipopo)
         *   [236\. Thekgo ya ditšhelete go diphathi tša dipolitiki](14.html#thekgo-ya-dithelete-go-diphathi-ta-dipolitiki)
@@ -310,7 +310,7 @@ layout: default
     *   [5\. Kano goba boitlamo bja mmakgonthe bja Ditonakgolo, Ditonakgolo tša Motšwaoswere le maloko a Khuduthamaga ya profense](schedule-2.html#kano-goba-boitlamo-bja-mmakgonthe-bja-ditonakgolo-ditonakgolo-ta-motwaoswere-le-maloko-a-khuduthamaga-ya-profense)
     *   [6\. Kano goba boitlamo bja mmakgonthe bja Bahlankedi ba Toka](schedule-2.html#kano-goba-boitlamo-bja-mmakgonthe-bja-bahlankedi-ba-toka)
 *   [Šetulo ya 3: Ditshepedišo tša Dikgetho](schedule-3.html#etulo-3-ditshepedio-ta-dikgetho)
-    *   [Karolo ya A: Ditshepedišo tša go kgetha Bahlankedi ba Molaotheo](schedule-3.html#karolo-ya-a-ditshepedio-ta-go-kgetha-bahlankedi-ba-molaotheo)
+    *   [Karolo ya A: Ditshepedišo tša go kgetha Bahlankedi ba Molaotheo](schedule-3.html#karolo-ya-a-ditshepedio-ta-go-kgetha-bahlankedi-ba-molaotheo){:.subhead}
         *   [1\. Tirišo](schedule-3.html#tirio-1)
         *   [2\. Go kgetha](schedule-3.html#go-kgetha)
         *   [3\. Dinyakwa tša molao](schedule-3.html#dinyakwa-ta-molao)
@@ -320,7 +320,7 @@ layout: default
         *   [7\. Tsela ya go ntšha](schedule-3.html#tsela-ya-go-ntha)
         *   [8\. Dikopano tše dingwe gape](schedule-3.html#dikopano-te-dingwe-gape)
         *   [9\. Melawana](schedule-3.html#melawana)
-    *   [Karolo ya B: Fomula ya go laetša go kgatha tema ga diphathi ka boemeding bja profense ka go Khansele ya Setšhaba ya Diprofense](schedule-3.html#karolo-b-fomula-ya-go-laeta-go-kgatha-tema-ga-diphathi-ka-boemeding-bja-profense-ka-go-khansele-ya-sethaba-ya-diprofense)
+    *   [Karolo ya B: Fomula ya go laetša go kgatha tema ga diphathi ka boemeding bja profense ka go Khansele ya Setšhaba ya Diprofense](schedule-3.html#karolo-b-fomula-ya-go-laeta-go-kgatha-tema-ga-diphathi-ka-boemeding-bja-profense-ka-go-khansele-ya-sethaba-ya-diprofense){:.subhead}
 *   [Šetulo ya 4: Makalatirišwa ao a Amago Sammaletee Bolaodi bja Mebušo ya Diprofense le wa Setšhaba](schedule-4.html#etulo-4-makalatiriwa-ao-a-amago-sammaletee-bolaodi-bja-mebuo-ya-diprofense-le-wa-sethaba)
     *   [Karolo ya A](schedule-4.html#karolo-a)
     *   [Karolo ya B](schedule-4.html#karolo-b)
