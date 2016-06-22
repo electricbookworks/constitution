@@ -69,7 +69,7 @@ layout: default
         *   [53\. Diphetho](04.html#diphetho)
         *   [54\. Ditokelo tša maloko a itšego a Kabinete le Batlatšatona Sebokeng sa Maloko a Palamente](04.html#ditokelo-ta-maloko-a-itego-a-kabinete-le-batlatatona-sebokeng-sa-maloko-a-palamente)
         *   [55\. Maatla a Seboka sa Maloko a Palamente](04.html#maatla-a-seboka-sa-maloko-a-palamente)
-        *   [56\. Bohlatse goba tshedimošo pele ga Seboka sa Moloko a Palamente](04.html#bohlatse-goba-tshedimoo-pele-ga-seboka-sa-moloko-a-palamente)
+        *   [56\. Bohlatse goba tshedimošo pele ga Seboka sa Maloko a Palamente](04.html#bohlatse-goba-tshedimoo-pele-ga-seboka-sa-maloko-a-palamente)
         *   [57\. Dithulaganyo tša ka gare, ditherišano le ditshepedišo tša Seboka sa Maloko a Palamente](04.html#dithulaganyo-ta-ka-gare-ditheriano-le-ditshepedio-ta-seboka-sa-maloko-a-palamente)
         *   [58\. Tshwanelo](04.html#tshwanelo)
         *   [59\. Phihlelelo le go tšea karolo ga setšhaba Sebokeng sa Maloko a Palamente](04.html#phihlelelo-le-go-tea-karolo-ga-sethaba-sebokeng-sa-maloko-a-palamente)
