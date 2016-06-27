@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Šetulo 1A. Mafelo ao Diprofense di Hwetšagalago go Wona
+published: true
+layout: default
+style: chapter
 ---
 
-# Šetulo 1A: Mafelo ao Diprofense di Hwetšagalago go Wona
+# Šetulo ya 1A: Mafelo ao Diprofense di Hwetšagalago go Wona
 
-> [Šetulo 1A e tsentšwe ke karolo 4 ya Molaophetošo wa Bolesomepedi wa Molaotheo wa 2005 mme ya fetošwa ka karolo 1 ya 2007 gape le ka ya Molaophetošwa wa Bolesometshela wa Molaotheo wa 2009.]
+> [Šetulo ya 1A e tsentšwe ke karolo ya 4 ya Molaophetošo wa Bolesomepedi wa Molaotheo wa 2005 mme ya fetošwa ka karolo ya 1 ya 2007 gape le ka ya Molaophetošwa wa Bolesometshela wa Molaotheo wa 2009.]
 {:.note}
 
 ## Profense ya Kapa Bohlabela
@@ -33,12 +37,12 @@ title: Šetulo 1A. Mafelo ao Diprofense di Hwetšagalago go Wona
 > [Kgaoganyo ya Profense ya Gauteng e fetolwa ke Molaophetošwa wa Bolesometshela wa Molaotheo wa 2009.]
 {:.note}
 
-*	Mmepe wa 4 ka go Tsebišo 1490 ya 2008
+*	Mmepe wa 4 ka go Tsebišo ya 1490 ya 2008
 
-	> [Tšhupetšo go Mmepe wa 4 e emelwa ke karolo 1(a) Molaophetošwa wa Bolesometshela wa Molaotheo wa 2009.]
+	> [Tšhupetšo go Mmepe wa 4 e emelwa ke karolo ya 1(a) Molaophetošwa wa Bolesometshela wa Molaotheo wa 2009.]
 	{:.note}
 
-*	Mmepe wa 17 wa Šetulo ya 2 go Tsebišo ya1998 ya 2005
+*	Mmepe wa 17 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 18 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 19 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 20 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
@@ -57,14 +61,14 @@ title: Šetulo 1A. Mafelo ao Diprofense di Hwetšagalago go Wona
 *	Mmepe wa 27 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 28 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 29 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
-*	Mmepe wa 30 wa Šetulo 2 go Tsebišo ya 1998 ya 2005
+*	Mmepe wa 30 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 31 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 32 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 
 ## Profense ya Limpopo
 
 *	Mmepe wa 33 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
-*	Mmepe wa 34 wa Šetulo 2 go Tsebišo ya 1998 ya 2005
+*	Mmepe wa 34 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 35 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 36 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 37 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
@@ -73,7 +77,7 @@ title: Šetulo 1A. Mafelo ao Diprofense di Hwetšagalago go Wona
 
 *	Mmepe wa 38 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 *	Mmepe wa 39 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
-*	Mmepe wa 40 wa Šetulo ya 2 go Tsebišo 1998 ya 2005
+*	Mmepe wa 40 wa Šetulo ya 2 go Tsebišo ya 1998 ya 2005
 
 ## Profense ya Kapa Leboa
 
@@ -88,7 +92,7 @@ title: Šetulo 1A. Mafelo ao Diprofense di Hwetšagalago go Wona
 > [Kgaoganyo ya Profense ya Leboa-Bobikela e fetolwa ke Molaophetošwa wa Bolesometshela wa Molaotheo wa 2009.]
 {:.note}
 
-*	Mmepe wa 5 ka go Tsebišo 1490 ya 2008
+*	Mmepe wa 5 ka go Tsebišo ya 1490 ya 2008
 
 	> [Tšhupetšo go Mmepe 5 wo emetšego ke karolo 1(b) ya Molaophetošo wa Bolesometshela wa Molaotheo wa 2009.]
 	{:.note}
