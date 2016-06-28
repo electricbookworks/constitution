@@ -120,6 +120,11 @@ css/web.scss,
 css/print-no-bleed.css,
 css/print-no-crop-marks.css,
 README.md,
+linux-pdf.bat,
+mac-pdf.bat,
+win-pdf.bat,
+win-web.bat,
+win-epub.bat,
 ]
 
 # Can be useful to stop Jekyll overwriting files in _site.
