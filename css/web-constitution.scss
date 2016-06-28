@@ -161,8 +161,9 @@ li ol + p {
 
 // Picking a language or download on the home page
 
-.home ul.lang-select {
+.home .lang-select {
     padding: 0;
+    border: 0; // for where .lang-select is a blockquote
     li {
         list-style-type: none;
         float: left;

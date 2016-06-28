@@ -45,6 +45,9 @@ permalink: none
 sass:
     sass_dir: css/_sass
 
+# Turn audio on or off
+audio: true
+
 # These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
 defaults: 
     -

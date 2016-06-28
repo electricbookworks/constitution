@@ -1,6 +1,12 @@
-mp4: |
-  <audio 
-  src="audio/clip.mp4"
-  controls="controls">
-    {{ site.data.messages.no-audio-suuport.[page.language] }}
-  </audio>
+mp4:
+  af: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  en: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  nd: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  nso: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  ss: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  st: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  tn: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  ts: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  ve: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+  xh: <audio src="audio/filename.mp4" controls="controls">Uxolo!</audio>
+  zu: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>

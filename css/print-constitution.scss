@@ -313,3 +313,9 @@ blockquote.note {
 		@include footers();
 	}
 }
+
+// Audio elements
+
+audio {
+	display: none;
+}

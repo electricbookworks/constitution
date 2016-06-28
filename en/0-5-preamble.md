@@ -4,7 +4,9 @@ title: Preamble
 
 # Preamble
 
-{{ site.data.snip.mp4 | replace: "clip", "preamble_000_000_000" }}
+{% if site.audio == true %}
+{{ site.data.snip.mp4.[page.language] | replace: "filename", "preamble_000_000_000" }}
+{% endif %}
 
 We, the people of South Africa,
 

@@ -65,7 +65,7 @@ style: contents-page
 		1.	[51. Sittings and recess periods](04.html#sittings-and-recess-periods)
 		1.	[53. Speaker and Deputy Speaker](04.html#speaker-and-deputy-speaker)
 		1.	[53. Decisions](04.html#decisions)
-		1.	[54. Assembly](04.html#assembly)
+		1.	[54. Rights of certain Cabinet members and Deputy Ministers in the National Assembly](04.html#rights-of-certain-cabinet-members-and-deputy-ministers-in-the-national-assembly)
 		1.	[55. Powers of National Assembly](04.html#powers-of-national-assembly)
 		1.	[56. Evidence or information before National Assembly](04.html#evidence-or-information-before-national-assembly)
 		1.	[57. Internal arrangements, proceedings and procedures of National Assembly](04.html#internal-arrangements-proceedings-and-procedures-of-national-assembly)
