@@ -8,6 +8,9 @@ style: home
 
 {% if site.github %}
 
+> Note: You're at the testing site for the MyConstitution project. This version includes new, untested content, so you should not use it for reference. To see the most reliable versions, go to [MyConstitution.co.za](http://myconstitution.co.za).
+{:.box}
+
 > * [Afrikaans](af/0-3-contents.html){:.button} [PDF](download/constitution-afrikaans.pdf){:.button.light} 
 > * [English](en/0-3-contents.html){:.button} [PDF](download/constitution-english.pdf){:.button.light} 
 > * [IsiNdebele](nr/0-3-contents.html){:.button} [PDF](download/constitution-isindebele.pdf){:.button.light} 
