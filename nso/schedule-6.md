@@ -286,7 +286,7 @@ Motho yoo a tšwelago pele ka modiro wa gagwe go ya ka dipeelano tša    Šetulo
 
 ## 25. Dithibelo tše dingwe go makgotlapeamelao
 
-1.	Mang le mang yo, ge Molaotheo wo mofsa o thoma go šoma, a bego a goga sekwebo mono Repabliking sa dikgwedi tša go feta 12 ka ntle le go fiwa kgetho ya faene, ga a swanela go kgethwa go ba leloko la Kopan ya Maloko a Palamente ka Moka goba lekgotlapeamelao la profense.
+1.	Mang le mang yo, ge Molaotheo wo mofsa o thoma go šoma, a bego a goga sekwebo mono Repabliking sa dikgwedi tša go feta tše 12 ka ntle le go fiwa kgetho ya faene, ga a swanela go kgethwa go ba leloko la Kopan ya Maloko a Palamente ka Moka goba lekgotlapeamelao la profense.
 2.	Thibelo ya motho go ya ka dipeelano tša karolwana ya (1) –
 	1.	e a fela ge kotlo ye e beelwa ka thoko nakong ya boipiletšo, goba ge kotlo e fokoditšwe mo boipiletšong go ba kotlo yeo e sa thibelego motho yoo; gomme
 	1.	e fela mengwaga ye mehlano morago ga ge kotlo e phethilwe.
@@ -294,7 +294,7 @@ Motho yoo a tšwelago pele ka modiro wa gagwe go ya ka dipeelano tša    Šetulo
 ## 26. Pušoselegae
 
 1.	Go sa šetšwe ditlhagišo tša dikarolo tša 151, 155, 156 le 157 tša Molaotheo wo mofsa –
-	1.	ditlhagišo tša Molao wa Phetišetšo wa Pušoselegae, wa 1993 (Molao wa 209 wa 1993), bjalo ka ge o ka fetošwa nako le nako ke molao wa naga woo sepelelanago le Molaotheo wo mofsa, o fela o na le maatla go ya kaKhansele ya Mmasepala go fihlela ge Khansele ya Mmasepala yeo e ntšhagoKhansele yeo e begilwego gore e kgethilwe ka morago ga dikgetho tšamathomo tša kakaretšo tša Dikhansele tša Bommasepala morago ga go thomago šoma ga Molaotheo wo mofsa; le
+	1.	ditlhagišo tša Molao wa Phetišetšo wa Pušoselegae, wa 1993 (Molao wa 209 wa 1993), bjalo ka ge o ka fetošwa nako le nako ke molao wa naga woo sepelelanago le Molaotheo wo mofsa, o fela o na le maatla go ya ka Khansele ya Mmasepala go fihlela ge Khansele ya Mmasepala yeo e ntšhago Khansele yeo e begilwego gore e kgethilwe ka morago ga dikgetho tša mathomo tša kakaretšo tša Dikhansele tša Bommasepala morago ga go thomago šoma ga Molaotheo wo mofsa; le
 
 		> [Karolwana ya (a) e tšeetšwe legato ke karolwana ya 5 (a) ya Molaophetošo wa Bobedi wa Molaotheo wa 1998.]
 		{:.note}
