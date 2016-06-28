@@ -6,7 +6,7 @@ style: home
 
 # The Constitution of&nbsp;the Republic of South&nbsp;Africa
 
-{% if jekyll.environment == "development" %}
+{% if site.github %}
 
 > * [Afrikaans](af/0-3-contents.html){:.button} [PDF](download/constitution-afrikaans.pdf){:.button.light} 
 > * [English](en/0-3-contents.html){:.button} [PDF](download/constitution-english.pdf){:.button.light} 
