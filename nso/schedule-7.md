@@ -1,8 +1,12 @@
 ---
+stylesheet: screen.css
 title: Šetulo 7. Melao ye e Phumotšwego
+published: true
+layout: default
+style: chapter
 ---
 
-# Šetulo 7: Melao ye e Phumotšwego
+# Šetulo ya 7: Melao ye e Phumotšwego
 
 | Nomoro le Ngwaga wa Molao | Leina
 | --- | ---
@@ -17,4 +21,3 @@ title: Šetulo 7. Melao ye e Phumotšwego
 | Molao wa 44 wa 1995 | Molaophetošwa wa Bobedi wa Molaotheo wa Repabliki ya Afrika Borwa, 1995
 | Molao wa 7 wa 1996 | Molaophetošwa wa Molaotheo wa Repabliki ya Afrika Borwa, 1996
 | Molao wa 26 wa 1996 | Molaophetošwa wa Boraro wa Molaotheo wa Repabliki ya Afrika Borwa, 1996
-
