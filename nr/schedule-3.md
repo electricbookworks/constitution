@@ -3,9 +3,6 @@ stylesheet: screen.css
 layout: default
 style: chapter
 published: false
-title: Untitled
----
----
 title: IHlelo 3. IKambiso YamaKhetho
 ---
 

@@ -41,17 +41,35 @@ To the extent possible under law, all contributors to this project waive all cop
 
 ## Project roadmap
 
+### Status summary
+
+| Language                   | Date       | Status
+|----------------------------|------------|-------
+| Afrikaans (af)             | 2016-06-28 | Corrections done, to be made live
+| English (en)               | 2016-06-28 | Live
+| Ndebele (nr)               | 2016-06-28 | Corrections done, to be made live
+| Sepedi/Nothern Sotho (nso) | 2016-06-28 | Corrections done, final checks underway
+| siSwati (ss)               | 2016-06-28 | Corrections underway, many changes to negotiate
+| Sesotho (st)               | 2016-06-28 | Corrections underway
+| Setswana (tn)              | 2016-06-28 | Corrections underway
+| Xitsonga (ts)              | 2016-06-28 | Very problematic translation, assessing next steps
+| Tshivenḓa (ve)             | 2016-06-28 | Corrections underway
+| isiXhosa (xh)              | 2016-06-28 | Corrections underway
+| isiZulu (zu)               | 2016-06-28 | Corrections underway
+
+### Status detail
+
 While this open-source project will always be a work in progress (for instance, content will need updating when the constitution is amended from time to time), the initial setup will happen in four parts. These project parts may happen simultaneously.
 
 1. **Set up the website with the English version of the constitution.** This site is staged at [github.com/electricbookworks/constitution](https://github.com/electricbookworks/constitution). This site is built with the [Electric Book Workflow](https://github.com/electricbookworks/electric-book-workflow), an open framework for using markdown and Jekyll to publish long-form content in multiple formats. When ready, the static HTML is moved to a production site at [myconstitution.co.za](http://myconstitution.co.za).
-2. **Create and add the text of the remaining 10 official languages.** This is done by converting the offical (DOJ) PDF versions of the constitution into markdown files for each part of the constitution in each language (following the structure established in the English edition).
-3. **Quality assurance on the conversion to markdown.** Professional language experts cross-check our versions of the text in each language against the official DOJ versions. Process:
-	1.	The language expert will receive two PDF versions of the constitution in the relevant language: (1) the official DOJ edition, and (2) a PDF of our new version. 
-	2.	The language expert must read through our edition, cross checking against the DOJ original for inconsistencies. Given our file-creation process, the most likely problems will be missing or incorrect list numbering. Note that the language expert is not proofreading closely, since our budget does not allow for this.
-	3.	It is up to the expert whether to work on a print-out of each PDF or directly on screen. Either way, any corrections *must* be noted in the digital PDF of our edition, using the Comments function in a good PDF reader like Adobe Acrobat.This will allow the production team to work through the corrections systematically. This marked-up PDF must then be sent to the project team, who'll implement the changes.
-	4.	Please note that the production team implementing the changes will not be familiar with the language being checked. So corrections must be marked and explained very clearly and specifically. See [the Adobe Acrobat guidance](https://helpx.adobe.com/acrobat/using/commenting-pdfs.html) to learn how to use Commenting well in Acrobat.
-	5.	Once the production team have received and implemented the expert's corrections, that language edition will be made live on [myconstitution.co.za](http://myconstitution.co.za).
-4. **Add embedded audio files.** The CSIR's Meraka Institute is creating text-to-speech audio of each section of the constitution generated from our text. These audio files will be hosted on a free, cloud-based audio service and embedded as streaming audio at appropriate places in the text.
+2. **Create and add the text of the remaining 10 official languages.** This has been done by converting the offical (DOJ) PDF versions of the constitution into markdown files for each part of the constitution in each language (following the structure established in the English edition). We are aware that there are many problems with the official translations. Most are small, and one (Xitsonga) is very problematic.
+3. **Quality assurance on the conversion to markdown.** Professional language experts have cross-checked our versions of the text in each language against the official DOJ versions, to ensure they are the same in this first phase. Process:
+	1.	The language expert received two PDF versions of the constitution in the relevant language: (1) the official DOJ edition, and (2) a PDF of our new version. 
+	2.	The language expert read through our edition, cross checking against the DOJ original for inconsistencies. 	It was up to the expert whether to work on a print-out of each PDF or directly on screen. Either way, any corrections *must* be noted in the digital PDF of our edition, using the Comments function in a good PDF reader like Adobe Acrobat.This will allow the production team to work through the corrections systematically. This marked-up PDF must then be sent to the project team, who'll implement the changes.\\
+	The production team implementing the changes was not necessarily familiar with the language being checked. So corrections needed to be marked and explained very clearly and specifically. (See [the Adobe Acrobat guidance](https://helpx.adobe.com/acrobat/using/commenting-pdfs.html) to learn how to use Commenting well in Acrobat.)\\
+	Given our file-creation process, we expected the most likely problems would be missing or incorrect list numbering. Note that the language expert was not proofreading closely, since our budget does not allow for this. That said, in addition to a few small errors in our digitisation, the experts mostly found errors or problems with the actual official translations. We have fixed these where they are minor typos (e.g. punctuation), but we have not made changes to words that might affect its legal meaning. This is because in the first phase we do not have legal experts on our team. In a later phase, we hope to involve legal experts to help us improve on the official translations we are working from.
+	5.	The production team have received the experts' corrections, and are implementing their changes. Once each language version is complete, we make it live on [myconstitution.co.za](http://myconstitution.co.za).
+4. **Add embedded audio files.** The CSIR's Meraka Institute is creating text-to-speech audio of each section of the constitution generated from our text. These audio files are to be embedded in the text. (Originally, audio files were going to be hosted on a free, cloud-based audio service and embedded as streaming audio at appropriate places in the text. Instead, we now hosting and embedding the audio directly, since it's faster and gives us more control over UI to use HTML5 audio elements for this.)
 
 ## Contributors
 

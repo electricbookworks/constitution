@@ -45,3 +45,4 @@ Temporary Items
 *.sass-cache*
 .jekyll-metadata
 _site
+_output
