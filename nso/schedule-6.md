@@ -232,7 +232,7 @@ Motho yoo a tšwelago pele ka modiro wa gagwe go ya ka dipeelano tša    Šetulo
 3.	Dikarolo tša 199 (1), 200(1), (3) le 5 go fihla go (11) le 201 go fihla go 206 tša Molaotheo wa pele di tšwelapele ka go šoma go fihlela ge di phumotšwe ke Molao wa Palamente wo o dirilwego go ya ka karolo ya 75 ya Molaotheo wo mofsa.
 4.	Maloko a Khomišene ya Tirelo ya Toka ao a ukangwego karolong ya 105 (1)(h) a Molaotheo wa pele a emiša go ba maloko a Khomišene ge maloko ao a ukangwego mo karolong ya 178 (1)(i) ya Molaotheo o mofsa a beilwe.
 5.	
-	1.	Khansele ya Volkstaat yeo e theilwego go ya ka dipeelano tša Molaotheo wa pele e tšwela pele ka go šoma go ya ka molao wo o šomago go yona, mme mang le mang yo a šomago go yona bjalo ka setho sa Khansele ge Molaotheo wo mofsa o thoma go šoma, o tšwela pele ka maemo a gagwe go ya ka dipeelano tša molao wo o šomago maemong ao, fela ka taolo ya–
+	1.	Khansele ya Volkstaat yeo e theilwego go ya ka dipeelano tša Molaotheo wa pele e tšwela pele ka go šoma go ya ka molao wo o šomago go yona, mme mang le mang yo a šomago go yona bjalo ka setho sa Khansele ge Molaotheo wo mofsa o thoma go šoma, o tšwela pele ka maemo a gagwe go ya ka dipeelano tša molao wo o šomago maemong ao, fela ka taolo ya –
 		1.	phetošo efe goba efe goba phumolo ya molao woo; le
 		1.	tshepelelano le Molaotheo wo mofsa.
 	1.	Dikarolo tša 184A le 184B (1)(a), (b) le (d) tša Molaotheo wa pele, di tšwela pele ka go šoma go fihlela ge di phumotšwe ke Molao wa Palamente wo o dirilwego go ya ka karolo ya 75 ya Molaotheo wo mofsa.
@@ -242,45 +242,45 @@ Motho yoo a tšwelago pele ka modiro wa gagwe go ya ka dipeelano tša    Šetulo
 1.	Moo Molaotheo wo mofsa o nyakago go beiwa ga molao wa naga goba wa profense, molao woo o swanetše go dirwa ke bolaodi bjo bo lebanego lebakeng le swanetšego go tloga tšatšikgweding leo Molaotheo wo mofsa o thomilego go šoma ka lona.
 2.	Karolo ya 198(b) ya Molaotheo wo mofsa e ka no se dirišwe go fihla ge molao woo o ukangwago karolong yeo o beilwe.
 3.	Karolo ya 199(3)(a) ya Molaotheo wo mofsa e ka no se dirišwe pele ga go fela ga dikgwedi tše tharo morago ga ge molao wo o ukangwago karolong yeo o beilwe.
-4.	Molao wa setšhaba wo o ukangwago mo karolong ya 217(3) ya Molaotheo wo mofsa o swanetše go bewa lebakeng la mengwaga ye meraro go tloga tšatšikgweding leo Molaotheo wo mofsa o thomilego go šoma, fela go se be gona ga molao wo nakong yeo ga go thibele tšhomišo ya morero wo o ukangwego mo go karolo 217(2.)
-5.	Go fihla ge Molao wa Palamente wo o umakilwego mo karolong 65(2) ya Molaotheo wo mofsa o thoma go šoma , lekgotla la profense ye nngwe le ye nngwe, le ka itlhamela ditshepetšo tša lona go ya ka mabaka ao e lego gore maatla a abelwa baemedi ba lona go ka dira bouto legatong la yona mo Khanseleng ya Bosetšhaba ya Diprofense.
-6.	Go fihla ge peomolao ye e ukangwego mo karolong 229(1)(b) ya Molaotheo wo mofsa e thoma go šoma, mmasepala o sa ntše o ka tšwelapele go lefiša lekgetho le lengwe le le lengwe, makgethwana le makgetho a dithoto ao o dumeletšwego go a lefiša ge Molaotheo o thoma go šoma.
+4.	Molao wa setšhaba wo o ukangwago mo karolong ya 217(3) ya Molaotheo wo mofsa o swanetše go bewa lebakeng la mengwaga ye meraro go tloga tšatšikgweding leo Molaotheo wo mofsa o thomilego go šoma, fela go se be gona ga molao wo nakong yeo ga go thibele tšhomišo ya morero wo o ukangwego mo go karolo ya 217(2.)
+5.	Go fihla ge Molao wa Palamente wo o umakilwego mo karolong ya 65(2) ya Molaotheo wo mofsa o thoma go šoma, lekgotla la profense ye nngwe le ye nngwe, le ka itlhamela ditshepetšo tša lona go ya ka mabaka ao e lego gore maatla a abelwa baemedi ba lona go ka dira bouto legatong la yona mo Khanseleng ya Bosetšhaba ya Diprofense.
+6.	Go fihla ge peomolao ye e ukangwego mo karolong ya 229(1)(b) ya Molaotheo wo mofsa e thoma go šoma, mmasepala o sa ntše o ka tšwelapele go lefiša lekgetho le lengwe le le lengwe, makgethwana le makgetho a dithoto ao o dumeletšwego go a lefiša ge Molaotheo o thoma go šoma.
 
 ## 22. Kopano ya setšhaba le poelano
 
-1.	Go sa lebelelwe ditlhagišo tše dingwe tša Molaotheo wo mofsa gape ntle phumolo ya Molaotheo wa peleng, ditlhagišo ka moka tšeo di amanago le tshwarelo yeo e lego ka Molaotheong wa pele ka tlase ga hlogo ya‘Kopano ya Setšhaba le Poelano’ di tšewa gore ke karolwana ya Molaotheo wo mofsa maikemišetšong a Tšwetšopele ya Molao wa Kopano ya Setšhaba le Poelano, wa 1995 (Molao wa 34 wa 1995), bjalo ka ge di fetošitšwe, go akaretša le mohola wa maatla a tšona.
-2.	Mabakeng a karolwana ya (1), letšatšikgwedi la ‘6 Desemere 1993’moo le tšwelelago ka tlhagišong ya Molaotheo wa peleng ka tlase ga hlogo ya‘Kopano ya Setšhaba le Poelano’, e swanetše go balwa bjalo ka‘11 Mei 1994’.
+1.	Go sa lebelelwe ditlhagišo tše dingwe tša Molaotheo wo mofsa gape ntle phumolo ya Molaotheo wa peleng, ditlhagišo ka moka tšeo di amanago le tshwarelo yeo e lego ka Molaotheong wa pele ka tlase ga hlogo ya ‘Kopano ya Setšhaba le Poelano’ di tšewa gore ke karolwana ya Molaotheo wo mofsa maikemišetšong a Tšwetšopele ya Molao wa Kopano ya Setšhaba le Poelano, wa 1995 (Molao wa 34 wa 1995), bjalo ka ge di fetošitšwe, go akaretša le mohola wa maatla a tšona.
+2.	Mabakeng a karolwana ya (1), letšatšikgwedi la ‘6 Desemere 1993’ moo le tšwelelago ka tlhagišong ya Molaotheo wa peleng ka tlase ga hlogo ya ‘Kopano ya Setšhaba le Poelano’, e swanetše go balwa bjalo ka ‘11 Mei 1994’.
 
 	> [Karolwana ya (2) e okeditšwe ke karolwana ya 3 Molao wa 35 wa 1997.]
 	{:.note}
 
 ## 23. Molao wa Ditokelo
 
-1.	Molao wa setšhaba wo o ukangwago mo go ya karolo 9(4), 32(2) le 33(3) ya Molaotheo wo mofsa o swanetše go bewa lebakeng la mengwaga ye meraro go tloga tšatšikgweding leo Molaotheo wo mofsa o thomilego go šoma.
+1.	Molao wa setšhaba wo o ukangwago mo go ya karolo ya 9(4), 32(2) le 33(3) ya Molaotheo wo mofsa o swanetše go bewa lebakeng la mengwaga ye meraro go tloga tšatšikgweding leo Molaotheo wo mofsa o thomilego go šoma.
 2.	Go fihla ge molao wo o ukangwago mo dikarolong tša 32 (2) le 33 (3) tša Molaotheo wo mofsa di bewa-
-	1.	karolo 32 (1) e swanetše go tšewa gore e balega ka tsela ye:
+	1.	karolo ya 32 (1) e swanetše go tšewa gore e balega ka tsela ye:
 
-		"(1) motho yo mongwe le yo mongwe o na le tokelo ya go fihlelelatshedimošo ka moka ye e swerwego ke mmušo goba setho se sengwe le sesengwe lekaleng lefe goba lefe la mmušo ge e le gore tshedimošo yeo enyakelwa tšhomišo goba tšhireletšo ya ye nngwe ya ditokelo tša bona.”; le
+		"(1) motho yo mongwe le yo mongwe o na le tokelo ya go fihlelela tshedimošo ka moka ye e swerwego ke mmušo goba setho se sengwe le se sengwe lekaleng lefe goba lefe la mmušo ge e le gore tshedimošo yeo e nyakelwa tšhomišo goba tšhireletšo ya ye nngwe ya ditokelo tša bona.”; le
 
 	1.	Karolo ya 33(1) le (2) di swanetše go tšewa gore di balega ka tsela ye: 
 	
-		“Motho mang le mang o na le tokelo go—\\
-		(a) go kgata tema ya semolao moo ye nngwe le ye nngwe ya ditokelo goba dikgahlego tša bona di angwago goba di tšhošetšwago;\\
+		“Motho mang le mang o na le tokelo go -\\
+		(a) kgata tema ya semolao moo ye nngwe le ye nngwe ya ditokelo goba dikgahlego tša bona di angwago goba di tšhošetšwago;\\
 		(b) kgatotaolo ye e sepedišwago thwii ka toka moo efe le efe ya ditokelo tša bona goba ditetelo tša mmakgonthe di angwago goba di tšhošetšwago;\\
 		(c) fiwa mabaka a a ngwadilwego mabapi le kgatotaolo yeo e amago efe goba le efe ya ditokelo tša bona goba dikgahlego ge e se fela ge mabaka a kgato yeo a tsebišitšwe phatlalatša; le\\
 		(d) kgatotaolo yeo e e swanetšego mabapi le mabaka ao a filwego go yona moo efe goba efe ya ditokelo tša bona e amegago goba e tšhošetšwago.”.
 
-3.	Dikarolo 32(2) le 33(3) tša Molaotheo wo mofsa di a fela ge molao woo o ukangwago mo dikarolong tše, ka go latelana, o sa bewe lebakeng la nywaga ye meraro go tloga tšatšikgweding leo Molaotheo wo mofsa o thomilego go šoma.
+3.	Dikarolo tše 32(2) le 33(3) tša Molaotheo wo mofsa di a fela ge molao woo o ukangwago mo dikarolong tše, ka go latelana, o sa bewe lebakeng la nywaga ye meraro go tloga tšatšikgweding leo Molaotheo wo mofsa o thomilego go šoma.
 
 ## 24. Tshepedišo ya merero ya setšhaba le ditirelo tša tšhireletšo
 
 1.	Dikarolo tša 82 (4)(b), 215, 218(1), 219(1), 224 go fihla go 228, 236(1), (2), (3), (6),
-(7)(b) le (8), 237(1) le (2)(a) le 239(4) le(5) tša Molaotheo wa pele di tšwela pele ka go šoma bjalo ka ge nke Molaotheo wa pele ga se wa phumolwa, fela ka taolo ya–
-	1.	diphetošo tša dikarolo tšeo bjalo ka ge go laeditšwe mo go Koketšo D;
-	1.	phetošo efe le efe gape goba phumolo efe le efe ya dikarolo tšeo ke Molao wa Palamente wo o bewago go ya ka dipeelano tša karolo 75 ya Molaotheo wo mofsa; le
+(7)(b) le (8), 237(1) le (2)(a) le 239(4) le(5) tša Molaotheo wa pele di tšwela pele ka go šoma bjalo ka ge nke Molaotheo wa pele ga se wa phumolwa, fela ka taolo ya –
+	1.	diphetošo tša dikarolo tšeo bjalo ka ge go laeditšwe mo go Koketšo ya D;
+	1.	phetošo efe le efe gape goba phumolo efe le efe ya dikarolo tšeo ke Molao wa Palamente wo o bewago go ya ka dipeelano tša karolo ya 75 ya Molaotheo wo mofsa; le
 	1.	tshepelelano le Molaotheo o mofsa.
-2.	Khomišene ya Tirelo ya Setšhaba le Dikhomišene tša tirelo ya diprofense tše di ukangwego mo go Kgaolo 13 ya Molaotheo wa pele, di sa tšwela pele ka go šoma go ya ka dipeelano tša Kgaolo yeo le molao woo o di amago bjalo ka ge nke Kgaolo yeo ga se be ya phumolwa, go fihla ge Khomišene le dikhomišene tša tirelo ya diprofense di fedišwa go ya ka dipeelano tša karolo 75 ya Molaotheo wo mofsa.
-3.	Go phumolwa ga Molaotheo wa pele ga go ame kgoeletšo efe goba efe yeo e dirilwego ka tlase ga karolo ya 237(3), ya Molaotheo wa peleng gomme kgoeletšo efe goba efe ya mohuta woo e tšwelapele ka go šoma, fela e laolwa ke–
+2.	Khomišene ya Tirelo ya Setšhaba le Dikhomišene tša tirelo ya diprofense tše di ukangwego mo go Kgaolo ya 13 ya Molaotheo wa pele, di sa tšwela pele ka go šoma go ya ka dipeelano tša Kgaolo yeo le molao woo o di amago bjalo ka ge nke Kgaolo yeo ga se be ya phumolwa, go fihla ge Khomišene le dikhomišene tša tirelo ya diprofense di fedišwa go ya ka dipeelano tša karolo ya 75 ya Molaotheo wo mofsa.
+3.	Go phumolwa ga Molaotheo wa pele ga go ame kgoeletšo efe goba efe yeo e dirilwego ka tlase ga karolo ya 237(3), ya Molaotheo wa peleng gomme kgoeletšo efe goba efe ya mohuta woo e tšwelapele ka go šoma, fela e laolwa ke –
 	1.	phetošo efe goba efe goba phumolo; le
 	1.	tshepelelano le Molaotheo wo mofsa.
 
