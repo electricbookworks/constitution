@@ -1,19 +1,25 @@
 ---
-title: Koketšo D. Tshepedišo ya Merero ya Setšhaba le Ditirelo tša Tšhireletšo&#58; Diphetošo go Dikarolo tša Molaotheo wa peleng
+stylesheet: screen.css
+title: >-
+  Koketšo D. Tshepedišo ya Merero ya Setšhaba le Ditirelo tša Tšhireletšo&#58;
+  Diphetošo go Dikarolo tša Molaotheo wa peleng
+published: true
+layout: default
+style: chapter
 ---
 
-# Koketšo D: Tshepedišo ya Merero ya Setšhaba le Ditirelo tša Tšhireletšo: Diphetošo go Dikarolo tša Molaotheo wa peleng
+# Koketšo ya D: Tshepedišo ya Merero ya Setšhaba le Ditirelo tša Tšhireletšo: Diphetošo go Dikarolo tša Molaotheo wa peleng
 
 1.	Phetošo ya karolo ya 218 ya Molaotheo wa peleng-
-	1.	ka go tloša mo karolwaneng (1) mantšu ao a tlago pele ga temana (a) mme gwa bewa mantšu a a latelago:
+	1.	ka go tloša mo karolwaneng ya (1) mantšu ao a tlago pele ga temana ya (a) mme gwa bewa mantšu a a latelago:
 
-	> 1.	Go ya ka ditaelo tša Tona ya Polokego le Tšhireletšo, Komišenare ya Setšhaba e tla rwala maikarabelo godimo ga-
+	> 1.	Go ya ka ditaelo tša Tona ya Polokego le Tšhireletšo, Komišenare ya Setšhaba e tla rwala maikarabelo godimo ga -
 
-	2.	ka go tloša temana ya (b) ya karolwana (1) mme gwa bewa temana ye e latelago:
+	2.	ka go tloša temana ya (b) ya karolwana ya (1) mme gwa bewa temana ye e latelago:
 
 	> (b) peo ya dikomišenara tša diprofense;
 	
-	3.	ka go tloša temana (d) ya karolwana (1) mme gwa bewa temana ye e latelago:
+	3.	ka go tloša temana ya (d) ya karolwana ya (1) mme gwa bewa temana ye e latelago:
 
 	> (d) nyakišišo le thibelo bosenyi bja dihlopha goba bosenyi bjo bo nyakago nyakišišo le thibelo ya setšhaba goba botsebi bjo ikgethago
 	
@@ -39,12 +45,12 @@ title: Koketšo D. Tshepedišo ya Merero ya Setšhaba le Ditirelo tša Tšhirele
 5.	Phetošo ya karolo ya 236 ya Molaotheo wa peleng-
 	1.	ka go tloša karolwana ya (1) ka karolwana ye e latelago:
 
-		> 1.	Tirelo ya setšhaba, kgoro ya mmušo, taolo goba tirelo yatšhireletšo yeo pejana ga go thoma ga Molaotheo wa Repabliki yaAfrika-Borwa, 1996 (moragonyana o bitšwago “Molaotheo wo mofsa”), di begodi phetagatša mešomo ya mmušo, di tšwela pele ka mediro ya tšona go ya ka dipeelanotša molao wo o šomago go yona go fihla ge e fedišwa goba e kopanywa goba e amantšhwa le sehlongwa se maleba goba e ntšhiwa ka phokotšo goba etlemagantšhwa le sehlongwa se sengwe le se sengwe.
+		> 1.	Tirelo ya setšhaba, kgoro ya mmušo, taolo goba tirelo ya tšhireletšo yeo pejana ga go thoma ga Molaotheo wa Repabliki ya Afrika Borwa, 1996 (moragonyana o bitšwago “Molaotheo wo mofsa”), di bego di phetagatša mešomo ya mmušo, di tšwela pele ka mediro ya tšona go ya ka dipeelano tša molao wo o šomago go yona go fihla ge e fedišwa goba e kopanywa goba e amantšhwa le sehlongwa se maleba goba e ntšhiwa ka phokotšo goba e tlemagantšhwa le sehlongwa se sengwe le se sengwe.
 
 	2.	ka go tloša karolwana ya (6) ka karolwana ye e latelago:
 
 		> 6.	
-		>	1.	Mopresidente a ka bea khomišene go lekola phetšo goba phetošoya kwano, peo goba tšwetšopele goba kabelo ya pakatiro goba peelano yatirelo goba dikholo tše dingwe, tšeo di hlolegilego magareng a 27 Aprele1993 le 30 Setemere 1994 malebana le motho mang le mang yo a ukangwegomo go karolwana (2) goba batho ba mohuta woo.
+		>	1.	Mopresidente a ka bea khomišene go lekola phetšo goba phetošo ya kwano, peo goba tšwetšopele goba kabelo ya pakatiro goba peelano ya tirelo goba dikholo tše dingwe, tšeo di hlolegilego magareng a 27 Aprele 1993 le 30 Setemere 1994 malebana le motho mang le mang yo a ukangwegomo go karolwana ya (2) goba batho ba mohuta woo.
 		>	1.	Khomišene e ka bušetša morago goba ya fetola kwano, peo, tlhatlošo goba kabo ge e sa loka goba ge e sa kgotsofatše mabakeng a taba yeo.
 		> {:start='6'}
 	
@@ -57,7 +63,7 @@ title: Koketšo D. Tshepedišo ya Merero ya Setšhaba le Ditirelo tša Tšhirele
 6.	Phetošo ya karolo ya 237 ya Molaotheo wa peleng -
 	1.	ka go tloša temana ya (a) ya karolwana ya (1) ka karolwana ye e latelago:
 	
-	> (a) Peakanyo ya dihlongwa ka moka tše di ukangwego mo karolong ya 236(1), ka ntle le mefato ya madira yeo e ukangwego karolong ya 224(2), e tla tšwela pele ka go šoma morago ga go thoma go šoma ga Molaotheo wa Repabliki ya Afrika Borwa, wa 1996, ka nepo ya go hloma—
+	> (a) Peakanyo ya dihlongwa ka moka tše di ukangwego mo karolong ya 236(1), ka ntle le mefato ya madira yeo e ukangwego karolong ya 224(2), e tla tšwela pele ka go šoma morago ga go thoma go šoma ga Molaotheo wa Repabliki ya Afrika Borwa, wa 1996, ka nepo ya go hloma -
 	> 
 	> (i) tshepedišo ye kaone makaleng a setšhaba a mmušo go phethagatša merero yeo e lego taolong ya lekala la setšhaba; le
 	> 
@@ -65,9 +71,9 @@ title: Koketšo D. Tshepedišo ya Merero ya Setšhaba le Ditirelo tša Tšhirele
 	
 	le
 
-	2.	ka go tloša temanyana (i) ya karolwana ya (2)(a) gomme gwa bewa temanyana ye e latelago:
+	2.	ka go tloša temanyana ya (i) ya karolwana ya (2)(a) gomme gwa bewa temanyana ye e latelago:
 
-	> (i) dihlongwa tšeo di ukangwego karolong ya 236(1), ka ntle le masolo a mašole, di tla ba magetleng a mmušo wa setšhaba, woo o tlogo šikara boikarabelo bja tšona ka thušano le mebušo ya diprofense;
+	> (i) dihlongwa tšeo di ukangwego karolong ya 236(1), ka ntle le masolo a mašole, di tla ba magetleng a mmušo wa setšhaba, woo o tlogo rwala maikarabelo bja tšona ka thušano le mebušo ya diprofense;
 
 7.	Phetošo ya karolo ya 239 ya Molaotheo wa peleng ka go tloša karolwana ya (4) ka karolwana ye e latelago:
 
