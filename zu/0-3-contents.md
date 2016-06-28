@@ -1,6 +1,9 @@
 ---
+stylesheet: screen.css
 title: Contents
 style: contents-page
+published: true
+layout: default
 ---
 
 # UMthethosisekelo weRiphabhuliki yaseNingizimu Afrika
@@ -59,7 +62,7 @@ style: contents-page
     *   [43\. Igunya lokushaya imithetho eRiphabhuliki](04.html#igunya-lokushaya-imithetho-eriphabhuliki)
     *   [44\. Igunya lokushaya imithetho kazwelonke](04.html#igunya-lokushaya-imithetho-kazwelonke)
     *   [45\. Imitheshwana nezinqumo ezihlanganyelwe namakomiti ahlanganyelwe](04.html#imitheshwana-nezinqumo-ezihlanganyelwe-namakomiti-ahlanganyelwe)
-    *   [IsiGungu sikaZwelonke](04.html#isigungu-sikazwelonke)
+    *   [IsiGungu sikaZwelonke](04.html#isigungu-sikazwelonke){:.subhead}
         *   [46\. Ukwakheka nokukhethwa](04.html#ukwakheka-nokukhethwa)
         *   [47\. Ubulungu](04.html#ubulungu)
         *   [48\. Isifungo noma ukuvuma ngokuzibophelela](04.html#isifungo-noma-ukuvuma-ngokuzibophelela)
