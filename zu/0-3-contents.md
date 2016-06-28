@@ -77,7 +77,7 @@ layout: default
         *   [57\. Amalungiselelo angaphakathi, okuqhubekayo kanye nezinqubo ezilandelwayo zoMkhandlu kaZwelonke](04.html#amalungiselelo-angaphakathi-okuqhubekayo-kanye-nezinqubo-ezilandelwayo-zomkhandlu-kazwelonke)
         *   [58\. Ilungelomvume](04.html#ilungelomvume)
         *   [59\. Ukukwazi ukufinyelela kanye nokubamba iqhaza komphakathi kusiGungu sikaZwelonke](04.html#ukukwazi-ukufinyelela-kanye-nokubamba-iqhaza-komphakathi-kusigungu-sikazwelonke)
-    *   [UMkhandlu kaZwelonke weziFundazwe](04.html#umkhandlu-kazwelonke-wezifundazwe)
+    *   [UMkhandlu kaZwelonke weziFundazwe](04.html#umkhandlu-kazwelonke-wezifundazwe){:.subhead}
         *   [60\. Ukwakheka koMkhandlu kaZwelonke](04.html#ukwakheka-komkhandlu-kazwelonke)
         *   [61\. Ukwabiwa kwezithunywa](04.html#ukwabiwa-kwezithunywa)
         *   [62\. Izithunywa eziqokwe ngokugcwele](04.html#izithunywa-eziqokwe-ngokugcwele)
@@ -91,7 +91,7 @@ layout: default
         *   [70\. Amalungiselelo angaphakathi, okwenzekayo nezinqubo ezilandelwayo zoMkhandlu kaZwelonke](04.html#amalungiselelo-angaphakathi-okwenzekayo-nezinqubo-ezilandelwayo-zomkhandlu-kazwelonke)
         *   [71\. Amalungelomvume](04.html#amalungelomvume)
         *   [72\. Ukufinyelela komphakathi eMkhandlwini kaZwelonke nokubamba kwawo iqhaza](04.html#ukufinyelela-komphakathi-emkhandlwini-kazwelonke-nokubamba-kwawo-iqhaza)
-    *   [Inqubo Yokushaywa Kwemithetho Kazwelonke](04.html#inqubo-yokushaywa-kwemithetho-kazwelonke)
+    *   [Inqubo Yokushaywa Kwemithetho Kazwelonke](04.html#inqubo-yokushaywa-kwemithetho-kazwelonke){:.subhead}
         *   [73\. Yonke imithethosivivinywa](04.html#yonke-imithethosivivinywa)
         *   [74\. IMithethosivivinywa echibiyela uMthethosisekelo](04.html#imithethosivivinywa-echibiyela-umthethosisekelo)
         *   [75\. IMithethosivivinywa engathinti izifundazwe](04.html#imithethosivivinywa-engathinti-izifundazwe)
@@ -125,7 +125,7 @@ layout: default
     *   [102\. Iziphakamiso zokungethembeki](05.html#iziphakamiso-zokungethembeki)
 *   [Isahluko 6: Izifundazwe (103 - 150)](06.html#isahluko-6-izifundazwe-103---150)
     *   [103\. Izifundazwe](06.html#izifundazwe)
-    *   [Izishayamthetho zesifundazwe](06.html#izishayamthetho-zesifundazwe)
+    *   [Izishayamthetho zesifundazwe](06.html#izishayamthetho-zesifundazwe){:.subhead}
         *   [104\. Igunya lokushaya imithetho yezifundazwe](06.html#igunya-lokushaya-imithetho-yezifundazwe)
         *   [105\. Ukwakheka nokhetho lwezishayamthetho zezifundazwe](06.html#ukwakheka-nokhetho-lwezishayamthetho-zezifundazwe)
         *   [106\. Ubulungu](06.html#ubulungu-1)
@@ -147,7 +147,7 @@ layout: default
         *   [122\. Izicelo ezifakwa ngamalungu eNkantolo yoMthethosisekelo](06.html#izicelo-ezifakwa-ngamalungu-enkantolo-yomthethosisekelo)
         *   [123\. Ukushicilelwa kweMithetho](06.html#ukushicilelwa-kwemithetho-1)
         *   [124\. Ukugcinwa ngokuphepha kwemithetho yesifundazwe](06.html#ukugcinwa-ngokuphepha-kwemithetho-yesifundazwe)
-    *   [IziPhathimandla zeziFundazwe](06.html#iziphathimandla-zezifundazwe)
+    *   [IziPhathimandla zeziFundazwe](06.html#iziphathimandla-zezifundazwe){:.subhead}
         *   [125\. Igunya lokuphatha lesifundazwe](06.html#igunya-lokuphatha-lesifundazwe)
         *   [126\. Ukwabiwa kwemisebenzi](06.html#ukwabiwa-kwemisebenzi-1)
         *   [127\. Amandla nemisebenzi yoNdunankulu](06.html#amandla-nemisebenzi-yondunankulu)
@@ -165,12 +165,12 @@ layout: default
         *   [139\. Ukungenelela kwesifundazwe kuhulumeni wendawo](06.html#ukungenelela-kwesifundazwe-kuhulumeni-wendawo)
         *   [140\. Izinqumo zeziPhathimandla](06.html#izinqumo-zeziphathimandla)
         *   [141\. Iziphakamiso zokungethembeki](06.html#iziphakamiso-zokungethembeki-1)
-    *   [Imithethosisekelo Yezifundazwe](06.html#imithethosisekelo-yezifundazwe)
+    *   [Imithethosisekelo Yezifundazwe](06.html#imithethosisekelo-yezifundazwe){:.subhead}
         *   [142\. Ukwamukelwa kwemithethosisekelo yezifundazwe](06.html#ukwamukelwa-kwemithethosisekelo-yezifundazwe)
         *   [143\. Okuqukethwe yimithethosisekelo yezifundazwe](06.html#okuqukethwe-yimithethosisekelo-yezifundazwe)
         *   [144\. Ukuqinisekiswa kwemithethosisekelo wezifundazwe](06.html#ukuqinisekiswa-kwemithethosisekelo-wezifundazwe)
         *   [145\. Ukusayinwa, ukushicilelwa nokugcinwa ngokuphepha kwemithethosisekelo yezifundazwe](06.html#ukusayinwa-ukushicilelwa-nokugcinwa-ngokuphepha-kwemithethosisekelo-yezifundazwe)
-    *   [Ukungqubuzana koMthetho](06.html#ukungqubuzana-komthetho)
+    *   [Ukungqubuzana koMthetho](06.html#ukungqubuzana-komthetho){:.subhead}
         *   [146\. Ukungqubuzana phakathi komthetho kazwelonke nomthetho wesifundazwe](06.html#ukungqubuzana-phakathi-komthetho-kazwelonke-nomthetho-wesifundazwe)
         *   [147\. Okunye ukungqubuzana](06.html#okunye-ukungqubuzana)
         *   [148\. Ukungqubuzana okungaxazululeki](06.html#ukungqubuzana-okungaxazululeki)
@@ -211,25 +211,25 @@ layout: default
     *   [180\. Ezinye izindaba ezimayelana nokuphathwa kwezobulungiswa](08.html#ezinye-izindaba-ezimayelana-nokuphathwa-kwezobulungiswa)
 *   [Isahluko 9: Izikhungo Zombuso Ezeseka Umthethosisekelo Wentando Yeningi (181–194)](09.html#isahluko-9-izikhungo-zombuso-ezeseka-umthethosisekelo-wentando-yeningi-181194)
     *   [181\. Ukumiswa nemigomo ephethe](09.html#ukumiswa-nemigomo-ephethe)
-    *   [UMvikeli Womphakathi](09.html#umvikeli-womphakathi)
+    *   [UMvikeli Womphakathi](09.html#umvikeli-womphakathi){:.subhead}
         *   [182\. Imisebenzi Yomvikeli Womphakathi](09.html#imisebenzi-yomvikeli-womphakathi)
         *   [183\. Isikhathi sesikhundla](09.html#isikhathi-sesikhundla)
-    *   [Ikhomishani YaseNingizimu Afrika YamaLungelo Esintu](09.html#ikhomishani-yaseningizimu-afrika-yamalungelo-esintu)
+    *   [Ikhomishani YaseNingizimu Afrika YamaLungelo Esintu](09.html#ikhomishani-yaseningizimu-afrika-yamalungelo-esintu){:.subhead}
         *   [184\. Imisebenzi Yekhomishani Yamalungelo Esintu](09.html#imisebenzi-yekhomishani-yamalungelo-esintu)
-    *   [IKhomishani Yokuthuthukiswa Nokuvikelwa KwamaLungelo Amasiko, Enkolo Nezilimi Zemiphakathi](09.html#ikhomishani-yokuthuthukiswa-nokuvikelwa-kwamalungelo-amasiko-enkolo-nezilimi-zemiphakathi)
+    *   [IKhomishani Yokuthuthukiswa Nokuvikelwa KwamaLungelo Amasiko, Enkolo Nezilimi Zemiphakathi](09.html#ikhomishani-yokuthuthukiswa-nokuvikelwa-kwamalungelo-amasiko-enkolo-nezilimi-zemiphakathi){:.subhead}
         *   [185\. Imisebenzi yeKhomishani](09.html#imisebenzi-yekhomishani)
         *   [186\. Ukwakheka kweKhomishani](09.html#ukwakheka-kwekhomishani)
-    *   [IKhomishani Yokulingana Ngokobulili](09.html#ikhomishani-yokulingana-ngokobulili)
+    *   [IKhomishani Yokulingana Ngokobulili](09.html#ikhomishani-yokulingana-ngokobulili){:.subhead}
         *   [187\. Imisebenzi yeKhomishana yokuLingana ngokoBulili](09.html#imisebenzi-yekhomishana-yokulingana-ngokobulili)
-    *   [UMcubunguli-Mabhuku Jikelele Wezimali Zombuso](09.html#umcubunguli-mabhuku-jikelele-wezimali-zombuso)
+    *   [UMcubunguli-Mabhuku Jikelele Wezimali Zombuso](09.html#umcubunguli-mabhuku-jikelele-wezimali-zombuso){:.subhead}
         *   [188\. Imisebenzi yoMcubunguli-Mabhuku Jikelele Wezimali Zombuso](09.html#imisebenzi-yomcubunguli-mabhuku-jikelele-wezimali-zombuso)
         *   [189\. Isikhathi sesikhundla](09.html#isikhathi-sesikhundla-1)
-    *   [IKhomishani Yokhetho](09.html#ikhomishani-yokhetho)
+    *   [IKhomishani Yokhetho](09.html#ikhomishani-yokhetho){:.subhead}
         *   [190\. Imisebenzi yeKhomishani yoKhetho](09.html#imisebenzi-yekhomishani-yokhetho)
         *   [191\. Ukwakhekha kweKhomishani Yokhetho](09.html#ukwakhekha-kwekhomishani-yokhetho)
-    *   [IsiPhathimandla Esizimele Esilawula Ukusakaza](09.html#isiphathimandla-esizimele-esilawula-ukusakaza)
-        *   [193\. IsiPhathimandla Sokusakaza](09.html#isiphathimandla-sokusakaza)
-    *   [Izimiso ezejwayelekile](09.html#izimiso-ezejwayelekile)
+    *   [IsiPhathimandla Esizimele Esilawula Ukusakaza](09.html#isiphathimandla-esizimele-esilawula-ukusakaza){:.subhead}
+        *   [192\. IsiPhathimandla Sokusakaza](09.html#isiphathimandla-sokusakaza)
+    *   [Izimiso ezejwayelekile](09.html#izimiso-ezejwayelekile){:.subhead}
         *   [193\. Ukuqokelwa ezikhundleni](09.html#ukuqokelwa-ezikhundleni)
         *   [194\. Ukususwa esikhundleni](09.html#ukususwa-esikhundleni-1)
 *   [Isahluko 10: Ukuphathwa Kwemisebenzi Yombuso (195–197)](10.html#isahluko-10-ukuphathwa-kwemisebenzi-yombuso-195197)
@@ -239,25 +239,25 @@ layout: default
 *   [Isahluko 11: Amaziko Ezokuphepha (198–210)](11.html#isahluko-11-amaziko-ezokuphepha-198210)
     *   [198\. Imigomo ebusayo](11.html#imigomo-ebusayo)
     *   [199.Ukumiswa, ukuhleleka nokuziphatha kwezikhungo zezokuphepha**](11.html#ukumiswa-ukuhleleka-nokuziphatha-kwezikhungo-zezokuphepha)
-    *   [Ezokuvikela](11.html#ezokuvikela)
+    *   [Ezokuvikela](11.html#ezokuvikela){:.subhead}
         *   [200.Umbutho wezokuvikela](11.html#umbutho-wezokuvikela)
         *   [201\. Izibopho ngokwezombusazwe](11.html#izibopho-ngokwezombusazwe)
         *   [202\. Ukukhuzwa kombutho wokuvikela](11.html#ukukhuzwa-kombutho-wokuvikela)
         *   [203\. Isimo sezokuvikelwa kwezwe](11.html#isimo-sezokuvikelwa-kwezwe)
         *   [204\. Abasebenzela ukuvikela umphakathi abangamalungu omphakathi](11.html#abasebenzela-ukuvikela-umphakathi-abangamalungu-omphakathi)
-    *   [Amaphoyisa](11.html#amaphoyisa)
+    *   [Amaphoyisa](11.html#amaphoyisa){:.subhead}
         *   [205\. Iziko lezamaphoyisa](11.html#iziko-lezamaphoyisa)
         *   [206\. Izibopho ngokwezombusazwe](11.html#izibopho-ngokwezombusazwe-1)
         *   [207\. Ukulawulwa kweziko lamaphoyisa](11.html#ukulawulwa-kweziko-lamaphoyisa)
         *   [208\. Abasebenzela amaphoyisa bengamalungu omphakathi](11.html#abasebenzela-amaphoyisa-bengamalungu-omphakathi)
-    *   [Ubunhloli](11.html#ubunhloli)
+    *   [Ubunhloli](11.html#ubunhloli){:.subhead}
         *   [209\. Ukumiswa nokulawulwa kwemisebenzi yobunhloli](11.html#ukumiswa-nokulawulwa-kwemisebenzi-yobunhloli)
         *   [210\. Amandla, imisebenzi kanye nokuqapha](11.html#amandla-imisebenzi-kanye-nokuqapha)
 *   [Isahluko 12: Abaholi Bendabuko (211–212)](12.html#isahluko-12-abaholi-bendabuko-211212)
     *   [211\. Ukuvunywa](12.html#ukuvunywa)
     *   [212\. Iqhaza eibanjwa ngabaholi bendabuko](12.html#iqhaza-eibanjwa-ngabaholi-bendabuko)
 *   [Isahluko 13: Izimali (213-230A)](13.html#isahluko-13-izimali-213-230a)
-    *   [Okuphathene nezimali ngokubanzi](13.html#okuphathene-nezimali-ngokubanzi)
+    *   [Okuphathene nezimali ngokubanzi](13.html#okuphathene-nezimali-ngokubanzi){:.subhead}
         *   [213\. Isikhwama seMali sikaZwelonke](13.html#isikhwama-semali-sikazwelonke)
         *   [214\. Ukwabiwa ngokulingana kanye nokwabiwa kwezimali](13.html#ukwabiwa-ngokulingana-kanye-nokwabiwa-kwezimali)
         *   [215\. Izabelozimali zikazwelonke, zesifundazwe nezomasipala](13.html#izabelozimali-zikazwelonke-zesifundazwe-nezomasipala)
@@ -265,15 +265,15 @@ layout: default
         *   [217\. Impahla nemisebenzi ekhokhelwa ngezimali zikahulumeni](13.html#impahla-nemisebenzi-ekhokhelwa-ngezimali-zikahulumeni)
         *   [218\. Iziqinisekiso zikahulumeni](13.html#iziqinisekiso-zikahulumeni)
         *   [219\. Ukukhokhelwa kwabantu abasezikhundleni zikahulumeni](13.html#ukukhokhelwa-kwabantu-abasezikhundleni-zikahulumeni)
-    *   [IKhomishani Yezezimali Neyesikhwama Sombuso](13.html#ikhomishani-yezezimali-neyesikhwama-sombuso)
+    *   [IKhomishani Yezezimali Neyesikhwama Sombuso](13.html#ikhomishani-yezezimali-neyesikhwama-sombuso){:.subhead}
         *   [220\. Ukumiswa nokusebenza kwayo](13.html#ukumiswa-nokusebenza-kwayo)
         *   [221\. Ukuqokelwa esikhundleni nesikhathi sesikhundla samalungu](13.html#ukuqokelwa-esikhundleni-nesikhathi-sesikhundla-samalungu)
         *   [222\. Imibiko](13.html#imibiko)
-    *   [IBhange Elikhulu Lesizwe](13.html#ibhange-elikhulu-lesizwe)
+    *   [IBhange Elikhulu Lesizwe](13.html#ibhange-elikhulu-lesizwe){:.subhead}
         *   [223\. Ukumiswa](13.html#ukumiswa)
         *   [224\. Inhloso ebalulekile](13.html#inhloso-ebalulekile)
         *   [225\. Amandla nemisebenzi](13.html#amandla-nemisebenzi)
-    *   [IziNdaba Eziphathelene Nezezimali Zesifundazwe Nezendawo](13.html#izindaba-eziphathelene-nezezimali-zesifundazwe-nezendawo)
+    *   [IziNdaba Eziphathelene Nezezimali Zesifundazwe Nezendawo](13.html#izindaba-eziphathelene-nezezimali-zesifundazwe-nezendawo){:.subhead}
         *   [226\. IsiKhwama seziMali zesiFundazwe](13.html#isikhwama-sezimali-zesifundazwe)
         *   [227\. Imithombo kazwelonke yezimali zesifundazwe nezikahulumeni wasekhaya](13.html#imithombo-kazwelonke-yezimali-zesifundazwe-nezikahulumeni-wasekhaya)
         *   [228\. Izintela zesifundazwe](13.html#izintela-zesifundazwe)
@@ -281,11 +281,11 @@ layout: default
         *   [230\. Imali ebolekwa yisifundazwe](13.html#imali-ebolekwa-yisifundazwe)
         *   [230A. Imali ebolekwa ngumasipala](13.html#a-imali-ebolekwa-ngumasipala)
 *   [Isahluko 14: Izimiso Ezixubile (231-243)](14.html#isahluko-14-izimiso-ezixubile-231-243)
-    *   [Umthetho wamazwengamazwe](14.html#umthetho-wamazwengamazwe)
+    *   [Umthetho wamazwengamazwe](14.html#umthetho-wamazwengamazwe){:.subhead}
         *   [231\. Izivumelwano zamazwe ngamazwe](14.html#izivumelwano-zamazwe-ngamazwe)
         *   [232\. Umthetho wamazwe ngamazwe osuyisiko](14.html#umthetho-wamazwe-ngamazwe-osuyisiko)
         *   [233\. Ukusetshenziswa komthetho wamazwe ngamazwe](14.html#ukusetshenziswa-komthetho-wamazwe-ngamazwe)
-    *   [Ezinye izindaba](14.html#ezinye-izindaba-1)
+    *   [Ezinye izindaba](14.html#ezinye-izindaba-1){:.subhead}
         *   [234\. Imiqulu yamaLungelo](14.html#imiqulu-yamalungelo)
         *   [235\. Ukuzimela](14.html#ukuzimela)
         *   [236\. Ukwesekwa ngezimali kwamaqembu ezombusazwe](14.html#ukwesekwa-ngezimali-kwamaqembu-ezombusazwe)
@@ -316,7 +316,7 @@ layout: default
     *   [5\. Izifungo neziqinisekiso zoNdunankulu, amaBamba ONdunankulu namalungu emiKhandlu ePhethe yesifundazwe](schedule-2.html#izifungo-neziqinisekiso-zondunankulu-amabamba-ondunankulu-namalungu-emikhandlu-ephethe-yesifundazwe)
     *   [6\. Isifungo noma isiqinisekiso sabenza umsebenzi wezamajaji](schedule-2.html#isifungo-noma-isiqinisekiso-sabenza-umsebenzi-wezamajaji)
 *   [Isheduli 3: Inqubo Elandelwayo Ngokhetho](schedule-3.html#isheduli-3-inqubo-elandelwayo-ngokhetho)
-    *   [Ingxenye A: Inqubo yokhetho lwabaphathi bezikhundla abahlinzekelwe nguMthethosisekelo](schedule-3.html#ingxenye-a-inqubo-yokhetho-lwabaphathi-bezikhundla-abahlinzekelwe-ngumthethosisekelo)
+    *   [Ingxenye A: Inqubo yokhetho lwabaphathi bezikhundla abahlinzekelwe nguMthethosisekelo](schedule-3.html#ingxenye-a-inqubo-yokhetho-lwabaphathi-bezikhundla-abahlinzekelwe-ngumthethosisekelo){:.subhead}
         *   [1\. Ukusetshenziswa](schedule-3.html#ukusetshenziswa)
         *   [2\. Ukuphakanyiswa Kwamagama](schedule-3.html#ukuphakanyiswa-kwamagama)
         *   [3\. Okudingekayo okungumthetho](schedule-3.html#okudingekayo-okungumthetho)
@@ -326,7 +326,7 @@ layout: default
         *   [7\. Inqubo elandelwayo yokuchitha abanye](schedule-3.html#inqubo-elandelwayo-yokuchitha-abanye)
         *   [8\. Eminye imihlangano](schedule-3.html#eminye-imihlangano)
         *   [9\. Imitheshwana](schedule-3.html#imitheshwana)
-    *   [Ingxenye B: Indlela yokunquma ukuthi amaqembu alibamba kanjani iqhaza kuzithunywa zemiKhandlu Yezifundazwe Kazwelonke](schedule-3.html#ingxenye-b-indlela-yokunquma-ukuthi-amaqembu-alibamba-kanjani-iqhaza-kuzithunywa-zemikhandlu-yezifundazwe-kazwelonke)
+    *   [Ingxenye B: Indlela yokunquma ukuthi amaqembu alibamba kanjani iqhaza kuzithunywa zemiKhandlu Yezifundazwe Kazwelonke](schedule-3.html#ingxenye-b-indlela-yokunquma-ukuthi-amaqembu-alibamba-kanjani-iqhaza-kuzithunywa-zemikhandlu-yezifundazwe-kazwelonke){:.subhead}
 *   [Isheduli 4: Izindawo Okusetshenziswa Kuzo Amandla Okushaya Umthetho Kazwelonke Nowezifundazwe](schedule-4.html#isheduli-4-izindawo-okusetshenziswa-kuzo-amandla-okushaya-umthetho-kazwelonke-nowezifundazwe)
     *   [Ingxenye A](schedule-4.html#ingxenye-a)
     *   [Ingxenye B](schedule-4.html#ingxenye-b)
