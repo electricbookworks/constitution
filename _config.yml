@@ -45,6 +45,9 @@ permalink: none
 sass:
     sass_dir: css/_sass
 
+# Default Jekyll environment
+environment: development
+
 # Turn audio on or off
 audio: true
 
