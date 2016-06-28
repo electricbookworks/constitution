@@ -1,12 +1,18 @@
 ---
-title: Šetulo 5. Makalatirišwa ao a Amago Fela Bolaodi bja Lekgotlapeamelao la Profense
+stylesheet: screen.css
+title: >-
+  Šetulo 5. Makalatirišwa ao a Amago Fela Bolaodi bja Lekgotlapeamelao la
+  Profense
+published: true
+layout: default
+style: chapter
 ---
 
-# Šetulo 5: Makalatirišwa ao a Amago Fela Bolaodi bja Lekgotlapeamelao la Profense
+# Šetulo ya 5: Makalatirišwa ao a Amago Fela Bolaodi bja Lekgotlapeamelao la Profense
 
-## Karolo A
+## Karolo ya A
 
-*	Maselagapale/Bohlabelo
+*	Maselagapane/Bohlabelo
 *	Ditirelo tša diampulense
 *	Diakhaebe, ka ntle le diakhaebe tša setšhaba
 *	Makgobapuku, ka ntle le makgobapuku a setšhaba
@@ -16,10 +22,10 @@ title: Šetulo 5. Makalatirišwa ao a Amago Fela Bolaodi bja Lekgotlapeamelao la
 *	Merero ya setšo ya diprofense
 *	Boitapološo le boithabišo profenseng
 *	Dipapadi tša diprofense
-*	Ditsela le trafiki ya diprofense
+*	Ditsela le sephethephethe ya diprofense
 *	Ditirelo tša malwetši a diphoofolo ka ntle le taolo ya profešene
 
-## Karolo B
+## Karolo ya B
 
 Ditaba tše di latelago tša pušoselegae go fihla ka moo go laeditšwego ka go karolo ya 155 (6)(a) le ya (7):
 
@@ -36,7 +42,7 @@ Ditaba tše di latelago tša pušoselegae go fihla ka moo go laeditšwego ka go 
 *	Ditlabakelo tša boithabišo tša selegae
 *	Ditlabakelo tša dipapadi tša selegae
 *	Mebaraka
-*	Maselagapala a bommasepala
+*	Maselagapane a bommasepala
 *	Diphaka tša mmasepala le boitapološo
 *	Ditsela tša bommasepala
 *	Tšhilafatšo ya lešata
@@ -45,4 +51,4 @@ Ditaba tše di latelago tša pušoselegae go fihla ka moo go laeditšwego ka go 
 *	Tlošo ya matlakala, mekgobo ya matlakala le dilahlwa tše thata
 *	Kgwebo ya mekgotheng
 *	Mabone a mebileng
-*	Trafiki le go phaka
+*	Sephethephethe le go phaka
