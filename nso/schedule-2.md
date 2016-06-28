@@ -1,21 +1,25 @@
 ---
+stylesheet: screen.css
 title: Šetulo 2. Dikano le Maitlamo a Mmakgonthe
+published: true
+layout: default
+style: chapter
 ---
 
-# Šetulo 2: Dikano le Maitlamo a Mmakgonthe
+# Šetulo ya 2: Dikano le Maitlamo a Mmakgonthe
 
-> [Šetulo 2 e fetošitšwe ke karolwana ya 2 ya Molaophetošo wa Mathomo ya Molaotheo wa 1997 (Seisemane fela) gape e tšeetšwe legato ke karolwana ya 18 ya Molaophetošo wa Botshela ya Molaotheo wa 2001.]
+> [Šetulo ya 2 e fetošitšwe ke karolwana ya 2 ya Molaophetošo wa Mathomo ya Molaotheo wa 1997 (Seisemane fela) gape e tšeetšwe legato ke karolwana ya 18 ya Molaophetošo wa Botshela ya Molaotheo wa 2001.]
 {:.note}
 
 ## 1. Kano goba boitlamo bja mmakgonthe bja Mopresidente le Mopresidente wa Motšwaoswere
 
 Mopresidente, goba Mopresidente wa Motšwaoswere, pele ga Moahlodimogolo, goba pele ga moahlodi o mongwe yoo a rometšwego ke Moahlodimogolo, o swanetše go ikana/go itlama ka tsela ye e latelago:
 
-Pele ga mang le mang yo a kgobakanego mo, e bile ke kwešiša bohlokwa bja maikarabelo ao ke a tšeago a go ba Mopresidente/Mopresidente wa motšwaoswere wa Repabliki ya Afrika Borwa, Nna, A.B., ke ikana/itlama ka mmakgonthe gore ke tla botegela Repabliki ya Afrika Borwa, gomme ke tla obamela, ka sekegela, ka lota Molaotheo le melao e mengwe ka moka ya Repabliki; gomme ka mmakgonthe le ka boikokobetšo ke tshepiša gore ka dinako tšohle ke tla-
+Pele ga mang le mang yo a kgobakanego mo, ebile ke kwešiša bohlokwa bja maikarabelo ao ke a tšeago a go ba Mopresidente/Mopresidente wa motšwaoswere wa Repabliki ya Afrika Borwa, Nna, A.B., ke ikana/itlama ka mmakgonthe gore ke tla botegela Repabliki ya Afrika Borwa, gomme ke tla obamela, ka sekegela, ka lota Molaotheo le melao e mengwe ka moka ya Repabliki; gomme ka mmakgonthe le ka boikokobetšo ke tshepiša gore ka dinako tšohle ke tla-
 
 *	tšwetšapele tšohle tšeo di tlogo godiša Repabliki, mme ka lwantšha tšohle tšeo di ka e kwešago bohloko;
 *	šireletša le go tšwetšapele ditokelo tša Maafrika Borwa ka moka;
-*	phetha mešomo ya ka ka maatla a ka moka, le ka bokgoni bjaka ka moka, gomme ke tla dira tšeo ka go šomiša tsebo le bokgoni bja ka, ka dira tšeo letswalo la ka le dumelelanago natšo;
+*	phetha mešomo ya ka ka maatla a ka moka, le ka bokgoni bjaka ka moka, gomme ke tla dira tšeo ka go šomiša tsebo le bokgoni bjaka, ka dira tšeo letswalo la ka le dumelelanago natšo;
 *	dira toka go bohle; gomme
 *	ka ineela go tliša boitekanelo go Repabliki le go batho ka moka ba yona 
 
