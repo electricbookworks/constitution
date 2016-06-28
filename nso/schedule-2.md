@@ -21,7 +21,7 @@ Pele ga mang le mang yo a kgobakanego mo, ebile ke kwešiša bohlokwa bja maikar
 *	šireletša le go tšwetšapele ditokelo tša Maafrika Borwa ka moka;
 *	phetha mešomo ya ka ka maatla a ka moka, le ka bokgoni bjaka ka moka, gomme ke tla dira tšeo ka go šomiša tsebo le bokgoni bjaka, ka dira tšeo letswalo la ka le dumelelanago natšo;
 *	dira toka go bohle; gomme
-*	ka ineela go tliša boitekanelo go Repabliki le go batho ka moka ba yona 
+*	ka ineela go tliša boitekanelo go Repabliki le go batho ka moka ba yona.
 
 (Lebakeng la kano: Ka bjalo Modimo Nthuše.)
 
@@ -29,13 +29,13 @@ Pele ga mang le mang yo a kgobakanego mo, ebile ke kwešiša bohlokwa bja maikar
 
 Motlatšamopresidente, pele ga Moahlodimogolo, goba pele ga moahlodi o mongwe yoo a rometšwego ke Moahlodimogolo, o swanetše go ikana/go itlama ka tsela ye e latelago:
 
-Pele ga mang le mang yo a kgobakanego mo, e bile ke kwešiša bohlokwa bja maikarabelo ao ke a tšeago a go ba Mopresidente/Mopresidente wa motšwaoswere wa Repabliki ya Afrika Borwa, Nna, A.B., ke ikana/itlama ka mmakgonthe gore ke tla botegela Repabliki ya Afrika-Borwa, gomme ke tla obamela, ka sekegela, ka lota Molaotheo le melao e mengwe ka moka ya Repabliki; gomme ka mmakgonthe le ka boikokobetšo ke tshepiša gore ka dinako tšohle ke tla-
+Pele ga mang le mang yo a kgobakanego mo, ebile ke kwešiša bohlokwa bja maikarabelo ao ke a tšeago a go ba Mopresidente/Mopresidente wa motšwaoswere wa Repabliki ya Afrika Borwa, Nna, A.B., ke ikana/itlama ka mmakgonthe gore ke tla botegela Repabliki ya Afrika Borwa, gomme ke tla obamela, ka sekegela, ka lota Molaotheo le melao e mengwe ka moka ya Repabliki; gomme ka mmakgonthe le ka boikokobetšo ke tshepiša gore ka dinako tšohle ke tla-
 
 *	tšwetšapele tšohle tšeo di tlogo godiša Repabliki, mme ka lwantšha tšohle tšeo di ka e kwešago bohloko;
 *	go ba moeletši wa mmakgonthe le wa go botega;
-*	phetha mešomo ya ka ka maatla a ka moka, le ka bokgoni bjaka moka, gomme ke tla dira tšeo ka go šomiša tsebo le bokgoni bja ka, ka dira tšeo letswalo la ka le dumelelanago natšo;
+*	phetha mešomo ya ka ka maatla a ka moka, le ka bokgoni bjaka ka moka, gomme ke tla dira tšeo ka go šomiša tsebo le bokgoni bjaka, ka dira tšeo letswalo la ka le dumelelanago natšo;
 *	dira toka go bohle; gomme
-*	ka ineela go tliša boitekanelo go Repabliki le go batho ka moka ba yona 
+*	ka ineela go tliša boitekanelo go Repabliki le go batho ka moka ba yona. 
 
 (Lebakeng la kano: Ka bjalo Modimo Nthuše.)
 
@@ -52,7 +52,7 @@ Nna, A.B., ke ikana/itlama ka mmakgonthe gore ke tla botegela Repabliki ya Afrik
 1.	Maloko a Seboka sa Maloko a Palamente, Baemedi ba go ya go ile ba Khansele ya Setšhaba ya Diprofense le maloko a makgotlapeamelao a diprofense, pele ga
 Moahlodimogolo, goba pele ga moahlodi yo a rometšwego ke Moahlodimogolo, ba swanetše go ikana/go itlama ka tsela ye e latelago:
 
-	Nna, A.B., ke ikana/itlama ka mmakgonthe gore ke tla botegela Repabliki ya Afrika Borwa, gomme ke tla obamela, ka sekegela, ka lota Molaotheo le melao e mengwe ka moka ya Repabliki; ke ikana ka mmakgonthe gore ke tla phethagatša mešomo ya ka bjalo ka leloko la Seboka sa Maloko a Palamente/leloko la go ya go ile la Khansele ya Setšhaba ya Diprofense/ leloko la lekgotlapeamelao la profense ya Temokrasi ya Molaotheo ka bokgoni bja ka moka.
+	Nna, A.B., ke ikana/itlama ka mmakgonthe gore ke tla botegela Repabliki ya Afrika Borwa, gomme ke tla obamela, ka sekegela, ka lota Molaotheo le melao e mengwe ka moka ya Repabliki; ke ikana ka mmakgonthe gore ke tla phethagatša mešomo ya ka bjalo ka leloko la Seboka sa Maloko a Palamente/leloko la go ya go ile la Khansele ya Setšhaba ya Diprofense/ leloko la lekgotlapeamelao la profense ya Temokrasi ya Molaotheo ka bokgoni bjaka moka.
 
 	(Lebakeng la kano: Ka bjalo Modimo Nthuše.)
 
