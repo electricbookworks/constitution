@@ -45,9 +45,9 @@ To the extent possible under law, all contributors to this project waive all cop
 
 | Language                   | Date       | Status
 |----------------------------|------------|-------
-| Afrikaans (af)             | 2016-06-28 | Corrections done, to be made live
+| Afrikaans (af)             | 2016-06-28 | Live
 | English (en)               | 2016-06-28 | Live
-| Ndebele (nr)               | 2016-06-28 | Corrections done, to be made live
+| Ndebele (nr)               | 2016-06-28 | Live
 | Sepedi/Nothern Sotho (nso) | 2016-06-28 | Corrections done, final checks underway
 | siSwati (ss)               | 2016-06-28 | Corrections underway, many changes to negotiate
 | Sesotho (st)               | 2016-06-28 | Corrections underway
