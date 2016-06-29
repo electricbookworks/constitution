@@ -81,5 +81,5 @@ style: chapter
 
 7.	Ukuguqulwa kwesigaba sama 239 soMthethosisekelo owendulela lo ngokufaka esikhundleni sesigatshana sesi (4) isigatshana esilandelayo:
 
-	> 4.	Ngokwencika nangokulandela yinoma yimuphi umthetho osebenzayo,izimpahla, amalungelo, imisebenzi kanye nezindleko zayo yonke imibutho ephawulwe esigabeni sama 224(2) zizokwehlela phezu koMbutho Kazwelonke Wezokuvikela ngokulandlela imiyalelo kaNgqongqoshe wezokuVikela.
+	> 4.	Ngokwencika nangokulandela yinoma yimuphi umthetho osebenzayo,izimpahla, amalungelo, imisebenzi kanye nezindleko zayo yonke imibutho ephawulwe esigabeni sama 224(2) zizokwehlela phezu koMbutho Kazwelonke Wezokuvikela ngokulandela imiyalelo kaNgqongqoshe wezokuVikela.
 	> {:start='4'}
