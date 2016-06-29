@@ -1,5 +1,11 @@
 ---
-title: Okujotshelelwe A. Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandulela Lona
+stylesheet: screen.css
+title: >-
+  Okujotshelelwe A. Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandulela
+  Lona
+published: true
+layout: default
+style: chapter
 ---
 
 # Okujotshelelwe A: Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandulela Lona
@@ -38,7 +44,7 @@ title: Okujotshelelwe A. Ukuchibiyela Kusheduli yesi 2 YoMthethosisekelo Owandul
 
 	1.	nangokufaka esikhundleni sendima (a) indima elandelayo:
 
-		> (a) Isabelo samavoti esihlalo ngasinye sizobalwa ngokwehlukanisa isamba samavoti afakwe kukazwelonke ngenani lezihlalo eziseMkhandlwini kaZwelonke, kuhlanganiswe nesisodwa, bese kuthi umphumela uhlanganiswe nokukodwa, kunganakwa izingcezu ezingaphelele, ube yisabelo samavoti aya esihlalweni ngasinye.
+		> (a) Isabelo samavoti esihlalo ngasinye sizobalwa ngokwehlukanisa isamba samavoti afakwe kuzwelonke ngenani lezihlalo eziseMkhandlwini kaZwelonke, kuhlanganiswe nesisodwa, bese kuthi umphumela uhlanganiswe nokukodwa, kunganakwa izingcezu ezingaphelele, ube yisabelo samavoti aya esihlalweni ngasinye.
 
 6.	Ukuchitshiyelwa kwephuzu lesi 7(3) ngokufaka indima elandelayo esikhundleni sendima (b):
 
