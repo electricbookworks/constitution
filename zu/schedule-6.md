@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Isheduli 6. Amalungiselelo Esikhashana
+published: true
+layout: default
+style: chapter
 ---
 
 # Isheduli 6: Amalungiselelo Esikhashana
@@ -350,7 +354,7 @@ Umthethosisekelo owamukelwe ngaphambi kokuthi uMthethosisekelo omusha uqale ukus
 6.	
 	1.	Ngokushesha okungase kwenzeke ngemuva kokuthi uMthethosisekelo
     omusha uqalile ukusebenza zonke izinkantolo, kumbandakanya isakhiwo
-    sazo, ukukwakheka kwazo, ukusebenza kanye namandla azo, kanye nayo yonke
+    sazo, ukwakheka kwazo, ukusebenza kanye namandla azo, kanye nayo yonke
     imithetho ethintekayo, kufanele ididiyelwe ngenhloso yokumisa uhlelo
     lwezinkantolo oluhambisana nezidingo zoMthethosisekelo omusha.
 	1.	Ilungu leKhabhinethi elibhekene nokulawulwa kwezobulungiswa, ngemuva kokubonisana neKhomishani Yezemisebenzi Yezinkantolo, kufanele liphathe ukudidiyelwa okucatshangwa endimeni (a).
