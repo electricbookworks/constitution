@@ -48,7 +48,7 @@ style: chapter
 
 6.	Ukuchitshiyelwa kwephuzu lesi 7(3) ngokufaka indima elandelayo esikhundleni sendima (b):
 
-	> (b) Isabelo esichitshiyelwe samavoti esihlalweni ngasinye sizobalwa ngokwehlukanisa isamba samavoti afakwe ngokukazwelonke, kususwe inani lamavoti afakelwe iqembu okukhulunywa ngalo endimeni (a) ngokukazwelonke, ngenani lezihlalo esiGugwini, kuhlanganiswe nesisodwa, bese kususwa inani lezihlalo eligcine labelwe iqembu elishiwo ngokwesigaba (a).
+	> (b) Isabelo esichitshiyelwe samavoti esihlalweni ngasinye sizobalwa ngokwehlukanisa isamba samavoti afakwe ngokukazwelonke, kususwe inani lamavoti afakelwe iqembu okukhulunywa ngalo endimeni (a) ngokukazwelonke, ngenani lezihlalo esiGungwini, kuhlanganiswe nesisodwa, bese kususwa inani lezihlalo eligcine labelwe iqembu elishiwo ngokwesigaba (a).
 
 7.	Ukufakwa kwephuzu elilandelayo esikhundleni sephuzu le 10:
 
