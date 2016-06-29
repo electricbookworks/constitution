@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Isheduli 7. Imithetho Ephelisiwe
+published: true
+layout: default
+style: chapter
 ---
 
 # Isheduli 7: Imithetho Ephelisiwe
 
-| INombolo kanye Non- yaka Womthetho | Isihloko |
+| INombolo kanye Nonyaka Womthetho | Isihloko |
 | --- | ---
 | UMthetho wama-200 we-1993 | UMthethosisekelo weRiphabhuliki yaseNingizimu Afrika, we-1993                                 
 | UMthetho wesi-2 we- 1994 | UMthetho Wokuchibiyela uMthethosisekelo weRiphabhuliki yaseNingizimu Afrika, we-1994
