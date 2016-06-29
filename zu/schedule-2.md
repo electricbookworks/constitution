@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Isheduli 2. Izifungo Neziqinisekiso
+published: true
+layout: default
+style: chapter
 ---
 
 # Isheduli 2: Izifungo Neziqinisekiso
@@ -13,13 +17,13 @@ UMongameli noma iBamba LikaMongameli, kufanele afunge noma aqinisekise phambi ku
 
 Phambi kwabo bonke abantu ababuthene lapha, futhi ngicacelwa kahle ukubaluleka kwesikhundla engibizelwe kuso njengoMongameli/njengeBamba LikaMongameli WeRiphabhuliki YaseNingizimu Afrika, mina, A.B. ngiyafunga/ngiyaqinisekisa ukuthi ngizokwethembeka kuRiphabhuliki YaseNingizimu Afrika, futhi ngizothobela ngilandele, ngiphakamise futhi ngigcine uMthethosisekelo kanye nayo yonke eminye imithetho yaseRiphabhuliki; futhi ngokuqinisekile nangokuzinikela ngiyethembisa ukuthi ngiyohlala njalo –
 
-*	ngiqhubela phambili konke okuzothuthukisa iRiphabhuliki; futhi ngiphikise konke okungayikhinyabeza;
-*	ngivikela futhi ngiqhubela phambili amalungelo abo bonke abantu
+*	ngiqhubekisela phambili konke okuzothuthukisa iRiphabhuliki; futhi ngiphikise konke okungayikhinyabeza;
+*	ngivikela futhi ngiqhubekisela phambili amalungelo abo bonke abantu
     baseNingizimu Afrika;
 *	ngenza imisebenzi yami ngawo wonke amandla namakhono ami ngokwazi
     kwami okuphelele nekhono lokwenza futhi ngilandela iziyalo
     zikanembeza wami;
-*	ngenza ubulungiswa kubo bonke; futhi
+*	ngenza ubulungisa kubo bonke; futhi
 *	ngizinikezela kunhlalakahle yeRiphabhuliki nabo bonke abantu bayo.
 
 (Uma kuthathwa isifungo: INkosi ingisize.)
@@ -30,10 +34,10 @@ IPhini LikaMongameli, kufanele lifunge noma liqinisekise phambi kukaMongameli We
 
 Phambi kwabo bonke abantu ababuthene lapha, futhi ngicacelwa kahle ukubaluleka kwesikhundla engibizelwe kuso njengePhini LikaMongameli eRiphabhuliki YaseNingizimu Afrika, mina, A.B., ngiyafunga/ngiyaqinisekisa ukuthi ngizokwethembeka kuRiphabhuliki yaseNingizimu Afrika, futhi ngizothobela, ngilandele, ngiphakamise futhi ngigcine uMthethosisekelo nayo yonke eminye imithetho yaseRiphabhuliki; futhi ngokuqinisekile nangokuzinikela ngiyethembisa ukuthi ngiyohlala njalo –
 
-*	ngiqhubela phambili lokho okuzothuthukisa, futhi ngiphikisa konke okungayikhinyabeza;
+*	ngiqhubekisela phambili lokho okuzothuthukisa, futhi ngiphikisa konke okungayikhinyabeza;
 *	ngingumeluleki weqiniso nowethembekile;
 *	ngenza imisebenzi yami ngawo wonke amandla namakhono ami ngokwazi kwami okuphelele nekhono lokwenza futhi ngilandela iziyalo zikanembeza wami;
-*	ngenza ubulungiswa kubo bonke; futhi
+*	ngenza ubulungisa kubo bonke; futhi
 *	ngizinikezela kunhlalakahle yeRiphabhuliki nabo bonke abantu bayo.
 
 (Uma kuthathwa isifungo: INkosi ingisize.)
