@@ -43,7 +43,7 @@ style: chapter
 5.	Ukuguqulwa kwesigaba sama-236 soMthethosisekelo owendulela lo –
 	1.	ngokufaka esikhundleni sesigatshana soku (1) isigatshana esilandelayo:
 
-		> 1.	Uhulumeni, umnyango kahulumeni, ukuphathwa kukahulumeni noma ezokuphepha okwathi masinyane ngaphambi kokuqaliswa koMthethosisekelo waseNingizimu Afrika, we 1996 (ngemuva kwalapha obizwa ngokuthi ‘uMthethosisekelo omusha’), wabe wenza imimsebenzi kahulumeni,uyaqhubeka nokusebenza ngokomthetho osebenza lapho kuze kube ukuthi uyaqedwa noma ufakwa noma uhlanganiswa kunoma iyiphi inhlangano efanele noma udidiyelwa noma uqiniswe kanye nanoma iyiphi enye inhlangano.
+		> 1.	Uhulumeni, umnyango kahulumeni, ukuphathwa kukahulumeni noma ezokuphepha okwathi masinyane ngaphambi kokuqaliswa koMthethosisekelo waseNingizimu Afrika, we 1996 (ngemuva kwalapha obizwa ngokuthi ‘uMthethosisekelo omusha’), wabe wenza imisebenzi kahulumeni,uyaqhubeka nokusebenza ngokomthetho osebenza lapho kuze kube ukuthi uyaqedwa noma ufakwa noma uhlanganiswa kunoma iyiphi inhlangano efanele noma udidiyelwa noma uqiniswe kanye nanoma iyiphi enye inhlangano.
 
 	2.	ngokufaka esikhundleni sesigatshana sesi (6) isigatshana
     esilandelayo:
