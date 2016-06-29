@@ -152,28 +152,35 @@ li ol + p {
 
 // Notifications must be hovered over or touched to expand
 
+$notify-green: #20a047;
+$notify-yellow: rgb(255, 255, 50);
+$notify-red: #ba0f0f;
+
 .notifications {
     clear: both; // since nav-bar content floats
-    background: rgb(255, 255, 50);
+    background: $notify-yellow;
     height: 0;
     visibility: hidden;
     position: fixed;
     top: 0;
     z-index: 2;
-    &:before {
-        content: "🔔 ";
+    box-shadow: 0px 1px 10px grey;
+    .notifications-alert:before {
+        content: "🔔";
         visibility: visible;
         position: fixed;
         top: 0.2em;
         left: 0.5em;
-        color: #ba0f0f;
+        color: $notify-yellow;
+        text-shadow: 0 0 1px grey;
         font-size: 1.5em;
     }
     p {
         font-family: $font-text-secondary;
         font-size: 0.8em;
         line-height: 1.2em;
-        padding: 1em;
+        padding: 1em 1em 0 1em;
+        color: #474242;
     }
 }
 .notifications:hover, .notifications:active, .notifications:focus {
@@ -181,7 +188,7 @@ li ol + p {
     width: 100%;
     border-radius: 0;
     visibility: visible;
-    &:before {
+    .notifications-alert:before {
         content: normal;
     }
 }
