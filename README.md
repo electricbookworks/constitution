@@ -48,14 +48,14 @@ To the extent possible under law, all contributors to this project waive all cop
 | Afrikaans (af)             | 2016-06-28 | Live
 | English (en)               | 2016-06-28 | Live
 | Ndebele (nr)               | 2016-06-28 | Live
-| Sepedi/Nothern Sotho (nso) | 2016-06-28 | Corrections done, final checks underway
+| Sepedi/Nothern Sotho (nso) | 2016-06-29 | Corrections done, to be made live
 | siSwati (ss)               | 2016-06-28 | Corrections underway, many changes to negotiate
 | Sesotho (st)               | 2016-06-28 | Corrections underway
 | Setswana (tn)              | 2016-06-28 | Corrections underway
 | Xitsonga (ts)              | 2016-06-28 | Very problematic translation, assessing next steps
 | Tshivenḓa (ve)             | 2016-06-28 | Corrections underway
 | isiXhosa (xh)              | 2016-06-28 | Corrections underway
-| isiZulu (zu)               | 2016-06-28 | Corrections underway
+| isiZulu (zu)               | 2016-06-29 | Corrections done, to be made live
 
 ### Status detail
 
