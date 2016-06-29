@@ -56,7 +56,7 @@ style: chapter
 	kanye
 
 	3.	ngokufaka esikhundleni samagama athi, “lo Mthethosisekelo”, noma
-    yikuphi lapho evela khona esigabeni sama236, amagama athi,
+    yikuphi lapho evela khona esigabeni sama 236, amagama athi,
 
     	> uMthethosisekelo omusha
 
