@@ -257,7 +257,7 @@ layout: default
     *   [211\. Ukuvunywa](12.html#ukuvunywa)
     *   [212\. Iqhaza elibanjwa ngabaholi bendabuko](12.html#iqhaza-elibanjwa-ngabaholi-bendabuko)
 *   [Isahluko 13: Izimali (213-230A)](13.html#isahluko-13-izimali-213-230a)
-    *   [Okuphathene nezimali ngokubanzi](13.html#okuphathene-nezimali-ngokubanzi){:.subhead}
+    *   [Okuphathelene nezimali ngokubanzi](13.html#okuphathelene-nezimali-ngokubanzi){:.subhead}
         *   [213\. Isikhwama seMali sikaZwelonke](13.html#isikhwama-semali-sikazwelonke)
         *   [214\. Ukwabiwa ngokulingana kanye nokwabiwa kwezimali](13.html#ukwabiwa-ngokulingana-kanye-nokwabiwa-kwezimali)
         *   [215\. Izabelozimali zikazwelonke, zesifundazwe nezomasipala](13.html#izabelozimali-zikazwelonke-zesifundazwe-nezomasipala)
