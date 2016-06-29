@@ -1,5 +1,9 @@
 ---
-title: Okujotshelelwe B. Uhulumeni Wobumbano Lwesizwe&#58; Umkhakha Kazwelonke
+stylesheet: screen.css
+title: 'Okujotshelelwe B. Uhulumeni Wobumbano Lwesizwe&#58; Umkhakha Kazwelonke'
+published: true
+layout: default
+style: chapter
 ---
 
 # Okujotshelelwe B: Uhulumeni Wobumbano Lwesizwe: Umkhakha Kazwelonke
@@ -158,7 +162,7 @@ izikhundla zamaphini ongqongqoshe.
 	> 1.	Iqembu linelungelo lokwabelwa isikhundla esisodwa noma ezingaphezulu zamaphini ongqongqoshe ngamanani alinganayo kanye nangendlela
     yokubala efana naleyo esentshenziselwe ukwabiwa kwezikhundla zeKhabhinethi.
 	> 1.	Izimiso zesigaba sama 91(10) kuya kwese (12) ziyasebenza,
-    nezinguquko eziufanele, mayelana namaPhini oNgqongqoshe, futhi
+    nezinguquko ezifanele, mayelana namaPhini oNgqongqoshe, futhi
     kulokho kusetshenziswa ukuphawula okubhekise kuNgqongqoshe noma
     esikhundleni kufanele kufundwe njengokuphawula ngePhini
     LikaNgqongqoshe noma ngesikhundla sePhini LikaNgqonqoshe,
