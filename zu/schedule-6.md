@@ -495,7 +495,7 @@ Umuntu oqhubekayo esesikhundleni ngokwale Sheduli futhi othathe isifungo noma ow
 2.	Kuze kube lapho kushaywa umthetho ocatshangwa esigabeni sama 32(2) nesama 33(3) zoMthethosisekelo omusha –
 	1.	isigaba sama 32(1) kufanele sithathwe ngokuthi sifundeka ngendlela elandelayo -
 
-		“(1) Wonke umuntu unelungelo lokuthola lonke ulwazi olusezandleni zombuso noma zanoma iyiphi ingxenye yawo kunoma yimuphi umkhakha kahulumeni, uma lolo lwazi ludingeka ukuze kusetshenziswe noma kuvikelwe noma yiliphi lamalungelo lakhe”; futhi
+		“(1) Wonke umuntu unelungelo lokuthola lonke ulwazi olusezandleni zombuso noma zanoma iyiphi ingxenye yawo kunoma yimuphi umkhakha kahulumeni, uma lolo lwazi ludingeka ukuze kusetshenziswe noma kuvikelwe noma yiliphi lamalungelo akhe”; futhi
 
 	1.	isigaba sama 33(1) nesesi (2) kufanele zithathwe ngokuthi zifundeka
     ngendlela elandelayo -
