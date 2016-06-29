@@ -1,5 +1,9 @@
 ---
-title: # Okujotshelelwe D. Izidingo Zokuphathwa Kanye Nezokuphepha Komphakathi&#58; Izichibiyelo Ezigabeni Zomthethosisekelo Owendulela Lo
+stylesheet: screen.css
+title: Untitled
+published: true
+layout: default
+style: chapter
 ---
 
 # Okujotshelelwe D: Izidingo Zokuphathwa Kanye Nezokuphepha Komphakathi: Izichibiyelo Ezigabeni Zomthethosisekelo Owendulela Lo
@@ -25,7 +29,7 @@ title: # Okujotshelelwe D. Izidingo Zokuphathwa Kanye Nezokuphepha Komphakathi&#
 
 2.	Ukuguqulwa kwesigaba sama 219 soMthethosisekelo owendulela lo ngokufaka amagama endulela indima (a) esigatshaneni soku (1) ngamagama alandelayo:
 
-	> 1.	Ngokuya kwesigaba sama 218(1), uKhomishani Wesifundazwe uzoba nesibipho –
+	> 1.	Ngokuya kwesigaba sama 218(1), uKhomishani Wesifundazwe uzoba nesibopho –
 
 3.	Ukuguqulwa kwesigaba sama 224 soMthethosisekelo owendulela lo ngokufaka esikhundleni sombandela obekelwe isigatshana sesi (2) umbandela olandelayo:
 
@@ -79,7 +83,3 @@ title: # Okujotshelelwe D. Izidingo Zokuphathwa Kanye Nezokuphepha Komphakathi&#
 
 	> 4.	Ngokwencika nangokulandela yinoma yimuphi umthetho osebenzayo,izimpahla, amalungelo, imisebenzi kanye nezindleko zayo yonke imibutho ephawulwe esigabeni sama 224(2) zizokwehlela phezu koMbutho Kazwelonke Wezokuvikela ngokulandlela imiyalelo kaNgqongqoshe wezokuVikela.
 	> {:start='4'}
-
-
-
-
