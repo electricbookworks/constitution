@@ -255,7 +255,7 @@ layout: default
         *   [210\. Amandla, imisebenzi kanye nokuqapha](11.html#amandla-imisebenzi-kanye-nokuqapha)
 *   [Isahluko 12: Abaholi Bendabuko (211–212)](12.html#isahluko-12-abaholi-bendabuko-211212)
     *   [211\. Ukuvunywa](12.html#ukuvunywa)
-    *   [212\. Iqhaza eibanjwa ngabaholi bendabuko](12.html#iqhaza-eibanjwa-ngabaholi-bendabuko)
+    *   [212\. Iqhaza elibanjwa ngabaholi bendabuko](12.html#iqhaza-elibanjwa-ngabaholi-bendabuko)
 *   [Isahluko 13: Izimali (213-230A)](13.html#isahluko-13-izimali-213-230a)
     *   [Okuphathene nezimali ngokubanzi](13.html#okuphathene-nezimali-ngokubanzi){:.subhead}
         *   [213\. Isikhwama seMali sikaZwelonke](13.html#isikhwama-semali-sikazwelonke)
