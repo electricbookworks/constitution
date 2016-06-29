@@ -148,6 +148,43 @@ li ol + p {
     }
 }
 
+// Notifications (part of nav-bar HTML)
+
+// Notifications must be hovered over or touched to expand
+
+.notifications {
+    clear: both; // since nav-bar content floats
+    background: rgb(255, 255, 50);
+    height: 0;
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    &:before {
+        content: "🔔 ";
+        visibility: visible;
+        position: fixed;
+        top: 0.2em;
+        left: 0.5em;
+        color: #ba0f0f;
+        font-size: 1.5em;
+    }
+    p {
+        font-family: $font-text-secondary;
+        font-size: 0.8em;
+        line-height: 1.2em;
+        padding: 1em;
+    }
+}
+.notifications:hover, .notifications:active, .notifications:focus {
+    height: auto;
+    width: 100%;
+    border-radius: 0;
+    visibility: visible;
+    &:before {
+        content: normal;
+    }
+}
 
 // Footer
 
@@ -206,3 +243,4 @@ li ol + p {
     	font-style: italic;
     }
 }
+

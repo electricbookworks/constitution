@@ -10,3 +10,8 @@ mp4:
   ve: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
   xh: <audio src="audio/filename.mp4" controls="controls">Uxolo!</audio>
   zu: <audio src="audio/filename.mp4" controls="controls">Sorry, your browser can't play this clip.</audio>
+notifications:
+  ts-translation-quality: |
+    U komberiwa ku lemuka: Vuhundzuluxeri lebyi bya Xitsonga byi tekiwa ku suka eka nkandziyiso wa ximfumo wa Ndzawulo ya Vululami. Ha swi tiva leswaku byi katsa swihoxo swo tala swa vuhundzuluxeri, naswona hi le ku endleni ka vuhundzuluxeri lebyintshwa byo antswa.
+    <br /><br />
+    Please note: This Xitsonga translation is taken directly from the official Department of Justice edition. We are aware that it includes many translation errors, and we are working towards a new, better translation.
