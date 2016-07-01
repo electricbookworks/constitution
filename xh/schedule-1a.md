@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Isihlomelo 1A. Imimandla Yamaphondo
+published: true
+layout: default
+style: chapter
 ---
 
 # Isihlomelo 1A: Imimandla Yamaphondo
@@ -15,8 +19,8 @@ title: Isihlomelo 1A. Imimandla Yamaphondo
 *   iMaphu 3 yeSihlomelo 1 kwiSaziso 1998 sika-2005
 *   iMaphu 6 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 *   iMaphu 7 yeSihlomelo 2 kwiSaziso 1998 sika-2005
-*   iMaphu 8 yeSihlomelo 2 kwiSaziso sika-2005
-*   iMaphu 9 yeSihlomelo 2 kwiSaziso sika-2005
+*   iMaphu 8 yeSihlomelo 2 kwiSaziso 1998 sika-2005
+*   iMaphu 9 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 *   iMaphu 10 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 *   iMaphu 11 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 
@@ -54,11 +58,11 @@ title: Isihlomelo 1A. Imimandla Yamaphondo
 *   iMaphu 24 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 *   iMaphu 25 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 *   iMaphu 26 yeSihlomelo 2 kwiSaziso 1998 sika2005
-*   iMaphu 27 yeSihlomelo 2 kwiSaziso sika-2005
-*   iMaphu 28 yeSihlomelo 2 kwiSaziso sika-2005
-*   iMaphu 29 yeSihlomelo 2 kwiSaziso sika-2005
-*   iMaphu 30 yeSihlomelo 2 kwiSaziso sika-2005
-*   iMaphu 31 yeSihlomelo 2 kwiSaziso sika-2005
+*   iMaphu 27 yeSihlomelo 2 kwiSaziso 1998 sika-2005
+*   iMaphu 28 yeSihlomelo 2 kwiSaziso 1998 sika-2005
+*   iMaphu 29 yeSihlomelo 2 kwiSaziso 1998 sika-2005
+*   iMaphu 30 yeSihlomelo 2 kwiSaziso 1998 sika-2005
+*   iMaphu 31 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 *   iMaphu 32 yeSihlomelo 2 kwiSaziso 1998 sika-2005
 
 ## iPhondo laseLimpopo
