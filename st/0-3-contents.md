@@ -87,7 +87,7 @@ layout: default
         *   [70\. Ditlhophiso tsa ka hare, ditsamaiso le mekgwa ya tshebetso ya Lekgotla la Naha](04.html#ditlhophiso-tsa-ka-hare-ditsamaiso-le-mekgwa-ya-tshebetso-ya-lekgotla-la-naha)
         *   [71\. Monyetla](04.html#monyetla-1)
         *   [72\. Ho fihlella setjhaba le ho ba le seabo Lekgotleng la Naha](04.html#ho-fihlella-setjhaba-le-ho-ba-le-seabo-lekgotleng-la-naha)
-    *   [Tsamaiso ya Ketsamola ya Naha](04.html#tsamaiso-ya-ketsamola-ya-naha){:.subhead}
+    *   [Tsamaiso ya Ketsamolao ya Naha](04.html#tsamaiso-ya-ketsamolao-ya-naha){:.subhead}
         *   [73\. Dibili tsohle](04.html#dibili-tsohle)
         *   [74\. Dibili tse fetolang Molaotheo](04.html#dibili-tse-fetolang-molaotheo)
         *   [75\. Dibili tse tlwaelehileng tse sa ameng diprovense](04.html#dibili-tse-tlwaelehileng-tse-sa-ameng-diprovense)
