@@ -310,7 +310,7 @@ wangaphambili phantsi komxholo othi “UBunye beSizwe noXolelwano” kuthathwa n
 
 ## 27. Ukugcinwa kweMithetho yePalamente neMithetho yamaphondo
 
-Isiqendu 82 nese-124 soMgaqo-siseko omtsha azikuchaphazeli ukugcinwa kweMithetho yePalamente okanye kweMithetho yamaphondo ephunyezwe ngaphambi kokuqalisa koMgaqo-siseko omtsha ukusebenza.
+1.	Isiqendu 82 nese-124 soMgaqo-siseko omtsha azikuchaphazeli ukugcinwa kweMithetho yePalamente okanye kweMithetho yamaphondo ephunyezwe ngaphambi kokuqalisa koMgaqo-siseko omtsha ukusebenza.
 
 ## 28. Ukubhaliswa kwempahla engenakufuduswa eyekarhulumente
 
