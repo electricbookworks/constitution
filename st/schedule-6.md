@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Shejulu 6. Ditlhophiso tsa Nakwana
+published: true
+layout: default
+style: chapter
 ---
 
 # Shejulu 6: Ditlhophiso tsa Nakwana
@@ -73,7 +77,7 @@ Shejulung ena, ka ntle ha eba e sa dumelane le sengolwa—
 	1.	kabelo ya boemedi ba mekga ba provense Lekgotleng la Naha la Diprovense e lokela ho tshwana le kabelo eo ka yona ditho tsa senate tse 10 tsa provense di neng di thonngwe ka yona ho ya ka dipehelo tsa karolo ya 48 ya Molaotheo o fetileng; mme
 	1.	kabo ya baromuwa ba ka mehla le baromuwa ba bohlokwa mekgeng e emetsweng lekgotleng la ketsamolao la provense, e tjena:
 
-		| Province | Permanent Delegates | Special Delegates
+		| Provense | Barongwa ba Kamehla | Barongwa ba Ikgethileng
 		|----------|---------------------|------------------
 		1. Kapa Botjhabela | ANC 5, NP 1 | ANC 4
 		2. Freistata | ANC 4, FF 1, NP 1 | ANC 4
