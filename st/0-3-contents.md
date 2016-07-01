@@ -25,7 +25,7 @@ layout: default
     *   [12\. Bolokolohi le tshireletso ya botho](02.html#bolokolohi-le-tshireletso-ya-botho)
     *   [13\. Bokgoba, bohlanka le ho sebediswa ka qobello](02.html#bokgoba-bohlanka-le-ho-sebediswa-ka-qobello)
     *   [14\. Ho phela o sa tshwenngwe](02.html#ho-phela-o-sa-tshwenngwe)
-    *   [15\. Bolokolohi ba bo dumedi, tumelo le maikutlo](02.html#bolokolohi-ba-bo-dumedi-tumelo-le-maikutlo)
+    *   [15\. Bolokolohi ba bodumedi, tumelo le maikutlo](02.html#bolokolohi-ba-bodumedi-tumelo-le-maikutlo)
     *   [16\. Bolokolohi ba ho hlahisa maikutlo](02.html#bolokolohi-ba-ho-hlahisa-maikutlo)
     *   [17\. Dikopano, mekoloko ya boipelaetso, ditletlebo, phethishene](02.html#dikopano-mekoloko-ya-boipelaetso-ditletlebo-phethishene)
     *   [18\. Bolokolohi ba kamano](02.html#bolokolohi-ba-kamano)
