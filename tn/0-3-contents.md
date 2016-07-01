@@ -363,4 +363,4 @@ layout: default
 *   [Tlaleletso A: Ditlhabololo go mametlelelo 2 ya molaotheo wa pele](z-annexure-a.html#tlaleletso-a-ditlhabololo-go-mametlelelo-2-ya-molaotheo-wa-pele)
 *   [Tlaleletso B: Puso-tshwaraganelo ya Botsetšhaba: Lekala la Bosetšhaba](z-annexure-b.html#tlaleletso-b-puso-tshwaraganelo-ya-botsethaba-lekala-la-bosethaba)
 *   [Tlaleletso C: Puso tshwaraganelo ya Bosetšhaba: Lekala la Porofense](z-annexure-c.html#tlaleletso-c-puso-tshwaraganelo-ya-bosethaba-lekala-la-porofense)
-*   [Tlaleletso D: Tsamaiso ya puso le Ditirelo tsa Pabalesego: Ditlhabololo wa Dikarolo tsa molaotheo wa pele](z-annexure-d.html#tlaleletso-d-tsamaiso-ya-puso-le-ditirelo-tsa-pabalesego58-ditlhabololo-ya-dikarolo-tsa-molaotheo-wa-pele)
+*   [Tlaleletso D: Tsamaiso ya puso le Ditirelo tsa Pabalesego: Ditlhabololo tsa Dikarolo tsa molaotheo wa pele](z-annexure-d.html#tlaleletso-d-tsamaiso-ya-puso-le-ditirelo-tsa-pabalesego58-ditlhabololo-tsa-dikarolo-tsa-molaotheo-wa-pele)
