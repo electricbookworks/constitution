@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: KetaPele
+published: true
+layout: default
+style: chapter
 ---
 
 # KetaPele
@@ -20,7 +24,7 @@ Ka lebaka lena, ka tataiso ya baemedi ba rona ba kgethilweng ka bolokolohi, re a
 
 *   Thehe metheo ya setjhaba sa demokrasi le se lokolohileng moo mmuso o itshetlehileng ka ditabatabelo tsa setjhaba mme moahi e mong le e mong a sireleditswe ke molao ka ho lekana;
 
-*   Ntlafatse maemo a bophelo a baahi bohle mme ho be ho kgothaletswe bokgoni ba motho e mo ng le e mong; le
+*   Ntlafatse maemo a bophelo a baahi bohle mme ho be ho kgothaletswe bokgoni ba motho e mong le e mong; le
 
 *   Ho aha Afrika Borwa e kopaneng le ya demokrasi e phethahetseng e le puso e nang le boikemelo hara matjhaba.
 
