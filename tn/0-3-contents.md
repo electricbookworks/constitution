@@ -171,7 +171,7 @@ layout: default
         *   [146\. Dikgotlhang fa gare ga kgotlapeomolao ya bosetšhaba le ya Porofense](06.html#dikgotlhang-fa-gare-ga-kgotlapeomolao-ya-bosethaba-le-ya-porofense)
         *   [147\. Dikgotlhang tse dingwe](06.html#dikgotlhang-tse-dingwe)
         *   [148\. Dikgotlhang tse di ka se kgoneng go rarabololwa](06.html#dikgotlhang-tse-di-ka-se-kgoneng-go-rarabololwa)
-        *   [149\. Maemo a molao yo o seyong](06.html#maemo-a-molao-yo-o-seyong)
+        *   [149\. Maemo a molao o o seyong](06.html#maemo-a-molao-o-o-seyong)
         *   [150\. Tlhaloso ya dikgotlhang](06.html#tlhaloso-ya-dikgotlhang)
 *   [Kgaolo 7: Puso Selegae (151-164)](07.html#kgaolo-7-puso-selegae-151-164)
     *   [151\. Maemo a bommasepala](07.html#maemo-a-bommasepala)
@@ -186,7 +186,7 @@ layout: default
     *   [160\. Ditsamaiso tsa ka fa teng](07.html#ditsamaiso-tsa-ka-fa-teng)
     *   [161\. Ditetlelelo](07.html#ditetlelelo-3)
     *   [162\. Phasalatso ya melawana ya bommasepala](07.html#phasalatso-ya-melawana-ya-bommasepala)
-    *   [163\. Puso selegae e e rulagantsweeng](07.html#puso-selegae-e-e-rulagantsweeng)
+    *   [163\. Puso selegae e e rulagantsweng](07.html#puso-selegae-e-e-rulagantsweng)
     *   [164\. Merero e mengwe](07.html#merero-e-mengwe)
 *   [Kgaolo 8: Dikgotlatshekelo le Tsamaiso ya Bosiamisi (165-180)](08.html#kgaolo-8-dikgotlatshekelo-le-tsamaiso-ya-bosiamisi-165-180)
     *   [165\. Bothati jwa boatlhodi](08.html#bothati-jwa-boatlhodi)
@@ -207,7 +207,7 @@ layout: default
     *   [180\. Merero mengwe e e amang tsamaiso ya bosiamisi](08.html#merero-mengwe-e-e-amang-tsamaiso-ya-bosiamisi)
 *   [Kgaolo 9: Ditheo tsa Puso tse di Tshegetsang Demokerasi ya Molaotheo (181-194)](09.html#kgaolo-9-ditheo-tsa-puso-tse-di-tshegetsang-demokerasi-ya-molaotheo-181-194)
     *   [181\. Go tlhomiwa ga tsona le metheo ya taolo](09.html#go-tlhomiwa-ga-tsona-le-metheo-ya-taolo)
-    *   [Mosireletsi wa Setšhaba Botlhe](09.html#mosireletsi-wa-sethaba-botlhe){:.subhead}
+    *   [Mosireletsi wa Setšhaba Sotlhe](09.html#mosireletsi-wa-sethaba-sotlhe){:.subhead}
         *   [182\. Ditiro tsa Mosireletsi wa Setšhaba](09.html#ditiro-tsa-mosireletsi-wa-sethaba)
         *   [183\. Pakatiro](09.html#pakatiro)
     *   [Khomišene ya Ditshwanelo tsa Botho ya Aforika Borwa](09.html#khomiene-ya-ditshwanelo-tsa-botho-ya-aforika-borwa){:.subhead}
@@ -363,4 +363,4 @@ layout: default
 *   [Tlaleletso A: Ditlhabololo go mametlelelo 2 ya molaotheo wa pele](z-annexure-a.html#tlaleletso-a-ditlhabololo-go-mametlelelo-2-ya-molaotheo-wa-pele)
 *   [Tlaleletso B: Puso-tshwaraganelo ya Botsetšhaba: Lekala la Bosetšhaba](z-annexure-b.html#tlaleletso-b-puso-tshwaraganelo-ya-botsethaba-lekala-la-bosethaba)
 *   [Tlaleletso C: Puso tshwaraganelo ya Bosetšhaba: Lekala la Porofense](z-annexure-c.html#tlaleletso-c-puso-tshwaraganelo-ya-bosethaba-lekala-la-porofense)
-*   [Tlaleletso D: Tsamaiso ya puso le Ditirelo tsa Pabalesego: Ditlhabololo ya Dikarolo tsa molaotheo wa pele](z-annexure-d.html#tlaleletso-d-tsamaiso-ya-puso-le-ditirelo-tsa-pabalesego58-ditlhabololo-ya-dikarolo-tsa-molaotheo-wa-pele)
+*   [Tlaleletso D: Tsamaiso ya puso le Ditirelo tsa Pabalesego: Ditlhabololo wa Dikarolo tsa molaotheo wa pele](z-annexure-d.html#tlaleletso-d-tsamaiso-ya-puso-le-ditirelo-tsa-pabalesego58-ditlhabololo-ya-dikarolo-tsa-molaotheo-wa-pele)
