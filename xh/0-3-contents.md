@@ -234,25 +234,25 @@ layout: default
 *   [Isahluko 11: Iinkonzo Zokhuseleko (198-210)](11.html#isahluko-11-iinkonzo-zokhuseleko-198-210)
     *   [198\. Imigaqo engundoqo](11.html#imigaqo-engundoqo)
     *   [199\. Ukusekwa kweenkonzo zokhuseleko, ukwakheka kwazo nendlela yokuziphatha](11.html#ukusekwa-kweenkonzo-zokhuseleko-ukwakheka-kwazo-nendlela-yokuziphatha)
-    *   [Ukhuselo](11.html#ukhuselo)
+    *   [Ukhuselo](11.html#ukhuselo){:.subhead}
         *   [200\. Umkhosi wokhuselo](11.html#umkhosi-wokhuselo)
         *   [201\. Imbopheleleko eyeyopolitiko](11.html#imbopheleleko-eyeyopolitiko)
         *   [202\. Igunya phezu komkhosi wokhuselo](11.html#igunya-phezu-komkhosi-wokhuselo)
         *   [203\. Imeko yokhuselo lwelizwe](11.html#imeko-yokhuselo-lwelizwe)
         *   [204\. Abasebenzi abangengomajoni kukhuselo](11.html#abasebenzi-abangengomajoni-kukhuselo)
-    *   [Amapolisa](11.html#amapolisa)
+    *   [Amapolisa](11.html#amapolisa){:.subhead}
         *   [205\. Inkonzo yobupolisa](11.html#inkonzo-yobupolisa)
         *   [206\. Imbopheleleko eyeyopolitiko](11.html#imbopheleleko-eyeyopolitiko-1)
         *   [207\. Ukulawulwa kwenkonzo yobupolisa](11.html#ukulawulwa-kwenkonzo-yobupolisa)
         *   [208\. Abasebenzi abangengawo amapolisa ebupoliseni](11.html#abasebenzi-abangengawo-amapolisa-ebupoliseni)
-    *   [Ubuntlola](11.html#ubuntlola)
+    *   [Ubuntlola](11.html#ubuntlola){:.subhead}
         *   [209\. Ukusekwa kweenkonzo zobuntlola nokulawulwa kwazo](11.html#ukusekwa-kweenkonzo-zobuntlola-nokulawulwa-kwazo)
         *   [210\. Amagunya, imisebenzi nokubek’ esweni](11.html#amagunya-imisebenzi-nokubek-esweni)
 *   [Isahluko 12: Iinkokeli Zomthonyama (211-212)](12.html#isahluko-12-iinkokeli-zomthonyama-211-212)
     *   [211\. Ukwamkeleka kwazo](12.html#ukwamkeleka-kwazo)
     *   [212\. Inxaxheba yeenkokeli zomthonyama](12.html#inxaxheba-yeenkokeli-zomthonyama)
 *   [Isahluko 13: Iimali (213-230A)](13.html#isahluko-13-iimali-213-230a)
-    *   [Imicimbi Yeemali Gabalala](13.html#imicimbi-yeemali-gabalala)
+    *   [Imicimbi Yeemali Gabalala](13.html#imicimbi-yeemali-gabalala){:.subhead}
         *   [213\. Ingxowa-mali yeNgeniso yeZwelonke](13.html#ingxowa-mali-yengeniso-yezwelonke)
         *   [214\. Izabelo ezifanelekileyo nokwabiwa kwengeniso](13.html#izabelo-ezifanelekileyo-nokwabiwa-kwengeniso)
         *   [215\. Ulwabiwo-mali lwezwelonke, olwamaphondo noloomasipala](13.html#ulwabiwo-mali-lwezwelonke-olwamaphondo-noloomasipala)
@@ -260,15 +260,15 @@ layout: default
         *   [217\. Ukuthenga](13.html#ukuthenga)
         *   [218\. Iziqinisekiso zikarhulumente](13.html#iziqinisekiso-zikarhulumente)
         *   [219\. Ukuhlawulwa umvuzo kwabantu abakwisikhundla soburhulumente](13.html#ukuhlawulwa-umvuzo-kwabantu-abakwisikhundla-soburhulumente)
-    *   [IKomishoni yeeMali neeRhafu](13.html#ikomishoni-yeemali-neerhafu)
+    *   [IKomishoni yeeMali neeRhafu](13.html#ikomishoni-yeemali-neerhafu){:.subhead}
         *   [220\. Ukusekwa kwayo nemisebenzi yayo](13.html#ukusekwa-kwayo-nemisebenzi-yayo)
         *   [221\. Ukumiselwa kwamalungu nexesha lokuba sesikhundleni kwawo](13.html#ukumiselwa-kwamalungu-nexesha-lokuba-sesikhundleni-kwawo)
         *   [222\. Iingxelo](13.html#iingxelo)
-    *   [IBhanki Enkulu](13.html#ibhanki-enkulu)
+    *   [IBhanki Enkulu](13.html#ibhanki-enkulu){:.subhead}
         *   [223\. Ukusekwa kwayo](13.html#ukusekwa-kwayo)
         *   [224\. Injongo yayo ephambili](13.html#injongo-yayo-ephambili)
         *   [225\. Amagunya ayo nemisebenzi yayo](13.html#amagunya-ayo-nemisebenzi-yayo)
-    *   [Imicimbi yezeMali yaMaphondo neyeeNgingqi](13.html#imicimbi-yezemali-yamaphondo-neyeengingqi)
+    *   [Imicimbi yezeMali yaMaphondo neyeeNgingqi](13.html#imicimbi-yezemali-yamaphondo-neyeengingqi){:.subhead}
         *   [226\. IiNgxowa-mali zeNgeniso zamaPhondo](13.html#iingxowa-mali-zengeniso-zamaphondo)
         *   [227\. Imithombo yezwelonke yokuxhaswa kwamaphondo noorhulumente basekuhlaleni](13.html#imithombo-yezwelonke-yokuxhaswa-kwamaphondo-noorhulumente-basekuhlaleni)
         *   [228\. Iirhafu zamaphondo](13.html#iirhafu-zamaphondo)
@@ -276,11 +276,11 @@ layout: default
         *   [230\. Iimali-mboleko zamaphondo](13.html#iimali-mboleko-zamaphondo)
         *   [230A. Iimali-mboleko zoomasipala](13.html#a-iimali-mboleko-zoomasipala)
 *   [Isahluko 14: Gabalala (231-243)](14.html#isahluko-14-gabalala-231-243)
-    *   [Umthetho Wamazwe Ngamazwe](14.html#umthetho-wamazwe-ngamazwe)
+    *   [Umthetho Wamazwe Ngamazwe](14.html#umthetho-wamazwe-ngamazwe){:.subhead}
         *   [231\. Izivumelwano zamazwe ngamazwe](14.html#izivumelwano-zamazwe-ngamazwe)
         *   [232\. Umthetho wamazwe ngamazwe oqhelekileyo](14.html#umthetho-wamazwe-ngamazwe-oqhelekileyo)
         *   [233\. Ukusetyenziswa komthetho wamazwe ngamazwe](14.html#ukusetyenziswa-komthetho-wamazwe-ngamazwe)
-    *   [Eminye imicimbi](14.html#eminye-imicimbi-1)
+    *   [Eminye imicimbi](14.html#eminye-imicimbi-1){:.subhead}
         *   [234\. Amaxwebhu-siseko amalungelo](14.html#amaxwebhu-siseko-amalungelo)
     *   [235\. Ukuzenzel’ izigqibo](14.html#ukuzenzel-izigqibo)
         *   [236\. Ukuxhaswa ngemali kwamaqela opolitiko](14.html#ukuxhaswa-ngemali-kwamaqela-opolitiko)
@@ -310,7 +310,7 @@ layout: default
     *   [5\. Isifungo okanye isibhambathiso esinyanisekileyo seeNkulumbuso, neeNkulumbuso ezingamaBambela, naBaphathiswa bamaphondo](schedule-2.html#isifungo-okanye-isibhambathiso-esinyanisekileyo-seenkulumbuso-neenkulumbuso-ezingamabambela-nabaphathiswa-bamaphondo)
     *   [6\. Isifungo okanye isibhambathiso esinyanisekileyo sabachopheli-matyala](schedule-2.html#isifungo-okanye-isibhambathiso-esinyanisekileyo-sabachopheli-matyala)
 *   [Isihlomelo 3: Iinkqubo Zonyulo](schedule-3.html#isihlomelo-3-iinkqubo-zonyulo)
-    *   [ICandelo A: Iinkqubo Zonyulo Zabantu Abanesikhundla NgokoMgaqo-siseko](schedule-3.html#icandelo-a-iinkqubo-zonyulo-zabantu-abanesikhundla-ngokomgaqo-siseko)
+    *   [ICandelo A: Iinkqubo Zonyulo Zabantu Abanesikhundla NgokoMgaqo-siseko](schedule-3.html#icandelo-a-iinkqubo-zonyulo-zabantu-abanesikhundla-ngokomgaqo-siseko){:.subhead}
         *   [1\. Ukusebenza kwayo](schedule-3.html#ukusebenza-kwayo)
         *   [2\. Ukukhethwa kwabatu](schedule-3.html#ukukhethwa-kwabatu)
         *   [3\. Izinto ezifunekayo](schedule-3.html#izinto-ezifunekayo)
@@ -320,7 +320,7 @@ layout: default
         *   [7\. Inkqubo yokukhiqwa](schedule-3.html#inkqubo-yokukhiqwa)
         *   [8\. Ezinye iintlanganiso](schedule-3.html#ezinye-iintlanganiso)
         *   [9\. Imigaqo](schedule-3.html#imigaqo)
-    *   [iCandelo B: Indlela Emayisetyenziswe Yokugqiba Ngothabatho-nxaxheba Lwamaqela Kumagqiza Amaphondo AkwiBhunga lamaPhondo leZwelonke](schedule-3.html#icandelo-b-indlela-emayisetyenziswe-yokugqiba-ngothabatho-nxaxheba-lwamaqela-kumagqiza-amaphondo-akwibhunga-lamaphondo-lezwelonke)
+    *   [iCandelo B: Indlela Emayisetyenziswe Yokugqiba Ngothabatho-nxaxheba Lwamaqela Kumagqiza Amaphondo AkwiBhunga lamaPhondo leZwelonke](schedule-3.html#icandelo-b-indlela-emayisetyenziswe-yokugqiba-ngothabatho-nxaxheba-lwamaqela-kumagqiza-amaphondo-akwibhunga-lamaphondo-lezwelonke){:.subhead}
 *   [Isihlomelo 4: Imimandla Yentsebenzo Ezinegunya Kuyo Zonke Izindlu Zowiso-mthetho – Eyezwelonke Nezamaphondo](schedule-4.html#isihlomelo-4-imimandla-yentsebenzo-ezinegunya-kuyo-zonke-izindlu-zowiso-mthetho--eyezwelonke-nezamaphondo)
     *   [iCandelo A](schedule-4.html#icandelo-a)
     *   [iCandelo B](schedule-4.html#icandelo-b)
