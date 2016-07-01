@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Isihlomelo 6. Amalungiselelo Exesha Eliphakathi
+published: true
+layout: default
+style: chapter
 ---
 
 # Isihlomelo 6: Amalungiselelo Exesha Eliphakathi
@@ -127,7 +131,7 @@ Kwesi Sihlomelo, ngaphandle kokuba okunye okubhaliweyo kuso kubonisa ngenye indl
 
 ## 13. Imigaqo-siseko yamaphondo
 
-Umgaqo-siseko wephondo ophunyezwe ngaphambi kokuba uMgaqo-siseko omtsha uqalise ukusebenza mawuvisisane nesiqendu 143 soMgaqo-siseko omtsha.
+1.	Umgaqo-siseko wephondo ophunyezwe ngaphambi kokuba uMgaqo-siseko omtsha uqalise ukusebenza mawuvisisane nesiqendu 143 soMgaqo-siseko omtsha.
 
 ## 14. Ukwabelwa kwemithetho yepalamente kumaphondo
 
@@ -194,7 +198,7 @@ uMgaqo-siseko omtsha uqalisa ukusebenza, wabe ulawulwa ligunya elingaphakathi ku
 
 ## 17. Amatyala abengekaqukunjelwa ephambi kweenkundla
 
-Onke amatyala awayengekaqukunjelwa ephambi kwenkundla xa uMgaqo-siseko omtsha wawuqalisa ukusebenza, makaqukunjelwe ngokungathi uMgaqo-siseko omtsha awuqulunqwanga, ngaphandle kokuba ukwenziw kobulungisa kufunisa ngenye indlela.
+1.	Onke amatyala awayengekaqukunjelwa ephambi kwenkundla xa uMgaqo-siseko omtsha wawuqalisa ukusebenza, makaqukunjelwe ngokungathi uMgaqo-siseko omtsha awuqulunqwanga, ngaphandle kokuba ukwenziw kobulungisa kufunisa ngenye indlela.
 
 ## 18. Igunya elitshutshisayo
 
@@ -203,7 +207,7 @@ Onke amatyala awayengekaqukunjelwa ephambi kwenkundla xa uMgaqo-siseko omtsha wa
 
 ## 19. Izifungo nezibhambathiso
 
-Umntu oqhubeka esesikhundleni ngokwesi Sihlomelo nothe wathath’isifungo sokungen’ esikhundleni okanye wenza isibhambathiso esinyanisekileyo phantsi koMgaqo-siseko wangaphambili, akanyanzelekanga ukuba asiphinde isifungo sokungen’esikhundleni okanye isibhambathiso esinyanisekileyo phantsi koMgaqo-siseko omtsha.
+1.	Umntu oqhubeka esesikhundleni ngokwesi Sihlomelo nothe wathath’isifungo sokungen’ esikhundleni okanye wenza isibhambathiso esinyanisekileyo phantsi koMgaqo-siseko wangaphambili, akanyanzelekanga ukuba asiphinde isifungo sokungen’esikhundleni okanye isibhambathiso esinyanisekileyo phantsi koMgaqo-siseko omtsha.
 
 ## 20. Amanye amaziko angokoMgaqo-siseko
 
