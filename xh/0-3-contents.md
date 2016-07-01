@@ -1,6 +1,9 @@
 ---
+stylesheet: screen.css
 title: Contents
 style: contents-page
+published: true
+layout: default
 ---
 
 # UMgaqo-siseko weRiphablikhi yoMzantsi-Afrika
@@ -55,7 +58,7 @@ style: contents-page
     *   [43\. Igunya lokuwis’ umthetho leRiphablikhi](04.html#igunya-lokuwis-umthetho-leriphablikhi)
     *   [44\. Igunya lokuwis’ umthetho kwizwelonke](04.html#igunya-lokuwis-umthetho-kwizwelonke)
     *   [45\. Imigaqo yendibaniselwano nemiyalelo neekomiti eziyindibaniselwano](04.html#imigaqo-yendibaniselwano-nemiyalelo-neekomiti-eziyindibaniselwano)
-    *   [INdlu yoWiso-mthetho](04.html#indlu-yowiso-mthetho)
+    *   [INdlu yoWiso-mthetho](04.html#indlu-yowiso-mthetho){:.subhead}
         *   [46\. Indlela eyakhiwe ngayo nonyulo](04.html#indlela-eyakhiwe-ngayo-nonyulo)
         *   [47\. Ubulungu](04.html#ubulungu)
         *   [48\. Isifungo okanye isibhambathiso](04.html#isifungo-okanye-isibhambathiso)
@@ -70,7 +73,7 @@ style: contents-page
         *   [57\. Amalungiselelo angaphakathi neenkqubo zeNdlu yoWiso-mthetho](04.html#amalungiselelo-angaphakathi-neenkqubo-zendlu-yowiso-mthetho)
         *   [58\. Ukungabi nakubekwa tyala](04.html#ukungabi-nakubekwa-tyala)
         *   [59\. Ukungena koluntu kwiNdlu yoWiso-mthetho nokubandakanyeka kwalo](04.html#ukungena-koluntu-kwindlu-yowiso-mthetho-nokubandakanyeka-kwalo)
-    *   [IBhunga lamaPhondo leZwelonke](04.html#ibhunga-lamaphondo-lezwelonke)
+    *   [IBhunga lamaPhondo leZwelonke](04.html#ibhunga-lamaphondo-lezwelonke){:.subhead}
         *   [60\. Indlela elakhiwe ngayo iBhunga leZwelonke](04.html#indlela-elakhiwe-ngayo-ibhunga-lezwelonke)
         *   [61\. Ukwabiwa kwabathunywa](04.html#ukwabiwa-kwabathunywa)
         *   [62\. Abathunywa abasisigxina](04.html#abathunywa-abasisigxina)
@@ -84,7 +87,7 @@ style: contents-page
         *   [70\. Amalungiselelo angaphakathi, neenkqubo zeBhunga leZwelonke](04.html#amalungiselelo-angaphakathi-neenkqubo-zebhunga-lezwelonke)
         *   [71\. Ukungabi nakubekwa tyala](04.html#ukungabi-nakubekwa-tyala-1)
         *   [72\. Ukubakho koluntu nokuthabath’ inxaxheba kwalo kwiBhunga leZwelonke](04.html#ukubakho-koluntu-nokuthabath-inxaxheba-kwalo-kwibhunga-lezwelonke)
-    *   [Inkqubo Yowiso-mthetho Yezwelonke](04.html#inkqubo-yowiso-mthetho-yezwelonke)
+    *   [Inkqubo Yowiso-mthetho Yezwelonke](04.html#inkqubo-yowiso-mthetho-yezwelonke){:.subhead}
         *   [73\. Yonke iMithetho eYilwayo](04.html#yonke-imithetho-eyilwayo)
         *   [74\. IMithetho eYilwayo eyenz’ utshintsho kuMgaqo-siseko](04.html#imithetho-eyilwayo-eyenz-utshintsho-kumgaqo-siseko)
         *   [75\. IMithetho eYilwayo eqhelekileyo engawachaphazeliyo amaphondo](04.html#imithetho-eyilwayo-eqhelekileyo-engawachaphazeliyo-amaphondo)
@@ -118,7 +121,7 @@ style: contents-page
     *   [102\. Izindululo zokungabathembi](05.html#izindululo-zokungabathembi)
 *   [Isahluko 6: Amaphondo (103-150)](06.html#isahluko-6-amaphondo-103-150)
     *   [103\. Amaphondo](06.html#amaphondo)
-    *   [IziNdlu Zowiso-mthetho Zamaphondo](06.html#izindlu-zowiso-mthetho-zamaphondo)
+    *   [IziNdlu Zowiso-mthetho Zamaphondo](06.html#izindlu-zowiso-mthetho-zamaphondo){:.subhead}
         *   [104\. Igunya lokuwis’ umthetho lamaphondo](06.html#igunya-lokuwis-umthetho-lamaphondo)
         *   [105\. Indlela ezakheke ngayo izindlu zowiso-mthetho zamaphondo nonyulo lwazo](06.html#indlela-ezakheke-ngayo-izindlu-zowiso-mthetho-zamaphondo-nonyulo-lwazo)
         *   [106\. Ubulungu](06.html#ubulungu-1)
@@ -140,7 +143,7 @@ style: contents-page
         *   [122\. Isicelo esibhekiswa ngamalungu kwiNkundla yoMgaqo-siseko](06.html#isicelo-esibhekiswa-ngamalungu-kwinkundla-yomgaqo-siseko)
         *   [123\. Ukupapashwa kweMithetho yephondo](06.html#ukupapashwa-kwemithetho-yephondo)
         *   [124\. Ukugcinwa kweMithetho yephondo](06.html#ukugcinwa-kwemithetho-yephondo)
-    *   [Oorhulumente Bamaphondo](06.html#oorhulumente-bamaphondo)
+    *   [Oorhulumente Bamaphondo](06.html#oorhulumente-bamaphondo){:.subhead}
         *   [125\. Igunya loburhulumente lamaphondo](06.html#igunya-loburhulumente-lamaphondo)
         *   [126\. Ukuphathiswa kwemisebenzi](06.html#ukuphathiswa-kwemisebenzi-1)
         *   [127\. Amagunya eNkulumbuso nemisebenzi yayo](06.html#amagunya-enkulumbuso-nemisebenzi-yayo)
@@ -158,12 +161,12 @@ style: contents-page
         *   [139\. Ukungenelela kwephondo kurhulumente wasekuhlaleni](06.html#ukungenelela-kwephondo-kurhulumente-wasekuhlaleni)
         *   [140\. Izigqibo ezisuka phezulu](06.html#izigqibo-ezisuka-phezulu-1)
         *   [141\. Izindululo zokungabathembi](06.html#izindululo-zokungabathembi-1)
-    *   [Imigaqo-siseko yamaphondo](06.html#imigaqo-siseko-yamaphondo)
+    *   [Imigaqo-siseko yamaphondo](06.html#imigaqo-siseko-yamaphondo){:.subhead}
         *   [142\. Ukwamkelwa kwemigaqo-siseko yamaphondo](06.html#ukwamkelwa-kwemigaqo-siseko-yamaphondo)
         *   [143\. Okuqulethwe yimigaqo-siseko yamaphondo](06.html#okuqulethwe-yimigaqo-siseko-yamaphondo)
         *   [144\. Ukuvunywa kwemigaqo-siseko yamaphondo](06.html#ukuvunywa-kwemigaqo-siseko-yamaphondo)
         *   [145\. Ukutyikitywa, ukupapashwa nokugcinwa kwemigaqo-siseko yamaphondo](06.html#ukutyikitywa-ukupapashwa-nokugcinwa-kwemigaqo-siseko-yamaphondo)
-    *   [Imithetho engqubanayo](06.html#imithetho-engqubanayo)
+    *   [Imithetho engqubanayo](06.html#imithetho-engqubanayo){:.subhead}
         *   [146\. Ungquzulwano phakathi kwemithetho yepalamente yezwelonke neyamaphondo](06.html#ungquzulwano-phakathi-kwemithetho-yepalamente-yezwelonke-neyamaphondo)
         *   [147\. Ezinye iintlobo zongquzulwano](06.html#ezinye-iintlobo-zongquzulwano)
         *   [148\. Iintlobo zongquzulwano ezingenakusonjululwa](06.html#iintlobo-zongquzulwano-ezingenakusonjululwa)
@@ -203,25 +206,25 @@ style: contents-page
     *   [180\. Eminye imicimbi engokusingathwa kobulungisa](08.html#eminye-imicimbi-engokusingathwa-kobulungisa)
 *   [Isahluko 9: Amaziko Karhulumente Axhasa Intando Yesininzi Yomgaqo-siseko (181-194)](09.html#isahluko-9-amaziko-karhulumente-axhasa-intando-yesininzi-yomgaqo-siseko-181-194)
     *   [181\. Ukusekwa kwawo nemigaqo engundoqo](09.html#ukusekwa-kwawo-nemigaqo-engundoqo)
-    *   [UMkhuseli woLuntu](09.html#umkhuseli-woluntu)
+    *   [UMkhuseli woLuntu](09.html#umkhuseli-woluntu){:.subhead}
         *   [182\. Imisebenzi yoMkhuseli woLuntu](09.html#imisebenzi-yomkhuseli-woluntu)
         *   [183\. Ubude bexesha lokuba sesikhundleni](09.html#ubude-bexesha-lokuba-sesikhundleni)
-    *   [IKomishoni yamaLungelo oLuntu yaseMzantsi-Afrika](09.html#ikomishoni-yamalungelo-oluntu-yasemzantsi-afrika)
+    *   [IKomishoni yamaLungelo oLuntu yaseMzantsi-Afrika](09.html#ikomishoni-yamalungelo-oluntu-yasemzantsi-afrika){:.subhead}
         *   [184\. Imisebenzi yeKomishoni yamaLungelo oLuntu yaseMzantsi-Afrika](09.html#imisebenzi-yekomishoni-yamalungelo-oluntu-yasemzantsi-afrika)
-    *   [iKomishoni Yokukhuthazwa Nokukhuselwa kwamaLungelo oLuntu Oluphila ngokweNkcubeko Yalo, ngokoNqulo Lwalo nangokoLwimi Lwalo](09.html#ikomishoni-yokukhuthazwa-nokukhuselwa-kwamalungelo-oluntu-oluphila-ngokwenkcubeko-yalo-ngokonqulo-lwalo-nangokolwimi-lwalo)
+    *   [iKomishoni Yokukhuthazwa Nokukhuselwa kwamaLungelo oLuntu Oluphila ngokweNkcubeko Yalo, ngokoNqulo Lwalo nangokoLwimi Lwalo](09.html#ikomishoni-yokukhuthazwa-nokukhuselwa-kwamalungelo-oluntu-oluphila-ngokwenkcubeko-yalo-ngokonqulo-lwalo-nangokolwimi-lwalo){:.subhead}
         *   [185\. Imisebenzi yeKomishoni](09.html#imisebenzi-yekomishoni)
         *   [186\. Indlela eyakhiwe ngayo iKomishoni](09.html#indlela-eyakhiwe-ngayo-ikomishoni)
-    *   [IKomishoni Yokulingana Ngokwesini](09.html#ikomishoni-yokulingana-ngokwesini)
+    *   [IKomishoni Yokulingana Ngokwesini](09.html#ikomishoni-yokulingana-ngokwesini){:.subhead}
         *   [187\. Imisebenzi yeKomishoni Yokulingana Ngokwesini](09.html#imisebenzi-yekomishoni-yokulingana-ngokwesini)
-    *   [UMphicothi-zimali-Jikelele](09.html#umphicothi-zimali-jikelele)
+    *   [UMphicothi-zimali-Jikelele](09.html#umphicothi-zimali-jikelele){:.subhead}
         *   [188\. Imisebenzi yoMphicothi-zimali-Jikelele](09.html#imisebenzi-yomphicothi-zimali-jikelele)
         *   [189\. Ubude bexesha lokuba sesikhundleni](09.html#ubude-bexesha-lokuba-sesikhundleni-1)
-    *   [IKomishoni yoNyulo](09.html#ikomishoni-yonyulo)
+    *   [IKomishoni yoNyulo](09.html#ikomishoni-yonyulo){:.subhead}
         *   [190\. Imisebenzi yeKomishoni yoNyulo](09.html#imisebenzi-yekomishoni-yonyulo)
         *   [191\. Indlela eyakheke ngayo iKomishoni yoNyulo](09.html#indlela-eyakheke-ngayo-ikomishoni-yonyulo)
-    *   [Igunya Elizimele Geqe Lokulawula Usasazo](09.html#igunya-elizimele-geqe-lokulawula-usasazo)
+    *   [Igunya Elizimele Geqe Lokulawula Usasazo](09.html#igunya-elizimele-geqe-lokulawula-usasazo){:.subhead}
         *   [192\. Igunya lokusasaza](09.html#igunya-lokusasaza)
-    *   [Gabalala](09.html#gabalala)
+    *   [Gabalala](09.html#gabalala){:.subhead}
         *   [193\. Ukumiselwa](09.html#ukumiselwa)
         *   [194\. Ukushenxiswa esikhundleni](09.html#ukushenxiswa-esikhundleni)
 *   [Isahluko 10: Imisebenzi Yolawulo Karhulumente (195-197)](10.html#isahluko-10-imisebenzi-yolawulo-karhulumente-195-197)
