@@ -48,7 +48,7 @@ layout: default
     *   [35\. Batshwarwa, batlhatlhelwa le balatofadiwa](02.html#batshwarwa-batlhatlhelwa-le-balatofadiwa)
     *   [36\. Tekanyetso ya ditshwanelo](02.html#tekanyetso-ya-ditshwanelo)
     *   [37\. Maemo a tshoganyetso](02.html#maemo-a-tshoganyetso)
-    *   [38\. Pateletso ya ditshwanelo](02.html#pateletso-ya-ditshwanelo)
+    *   [38\. Tiragatso ya ditshwanelo](02.html#Tiragatso-ya-ditshwanelo)
     *   [39\. Tlhaloso ya Molao wa Ditshwanelo tsa Botho](02.html#tlhaloso-ya-molao-wa-ditshwanelo-tsa-botho)
 *   [Kgaolo 3: Puso ya Tirisano (40-41)](03.html#kgaolo-3-puso-ya-tirisano-40-41)
     *   [40\. Popego ya Rephaboliki](03.html#popego-ya-rephaboliki)
@@ -62,7 +62,7 @@ layout: default
     *   [Kokoano Bosetšhaba](04.html#kokoano-bosethaba){:.subhead}
         *   [46\. Sebopego le ditlhopho](04.html#sebopego-le-ditlhopho)
         *   [47\. Botokololo](04.html#botokololo)
-        *   [48\. Go Ikano kgotsa boitlamo](04.html#go-ikano-kgotsa-boitlamo)
+        *   [48\. Go Ikana kgotsa boitlamo](04.html#go-ikana-kgotsa-boitlamo)
         *   [49\. Paka ya Kokoano Bosetšhaba](04.html#paka-ya-kokoano-bosethaba)
         *   [50\. Go fedisiwa ga Ntlokokoano Bosetšhaba pele ga bokhutlo jwa paka ya yona](04.html#go-fedisiwa-ga-ntlokokoano-bosethaba-pele-ga-bokhutlo-jwa-paka-ya-yona)
         *   [51\. Dipitso le dipaka tsa khunologo](04.html#dipitso-le-dipaka-tsa-khunologo)
@@ -166,7 +166,7 @@ layout: default
         *   [142\. Kamogelo ya melaotheo ya porofense](06.html#kamogelo-ya-melaotheo-ya-porofense)
         *   [143\. Diteng tsa melaotheo ya porofense](06.html#diteng-tsa-melaotheo-ya-porofense)
         *   [144\. Kamogelo semmuso ya melaotheo ya porofense](06.html#kamogelo-semmuso-ya-melaotheo-ya-porofense)
-        *   [145\. Go saeniwa, phasalatso le polokego ya melaotheo wa porofense](06.html#go-saeniwa-phasalatso-le-polokego-ya-melaotheo-wa-porofense)
+        *   [145\. Go saeniwa, phasalatso le polokego ya melaotheo ya porofense](06.html#go-saeniwa-phasalatso-le-polokego-ya-melaotheo-ya-porofense)
     *   [Melao e sa Dumelelaneng](06.html#melao-e-sa-dumelelaneng){:.subhead}
         *   [146\. Dikgotlhang fa gare ga kgotlapeomolao ya bosetšhaba le ya Porofense](06.html#dikgotlhang-fa-gare-ga-kgotlapeomolao-ya-bosethaba-le-ya-porofense)
         *   [147\. Dikgotlhang tse dingwe](06.html#dikgotlhang-tse-dingwe)
