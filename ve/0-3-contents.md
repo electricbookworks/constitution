@@ -27,7 +27,7 @@ layout: default
     *   [14\. Zwi kwamaho muthu ene muṋe](02.html#zwi-kwamaho-muthu-ene-mue)
     *   [15\. Mbofholowo ya vhurereli, lutendo na kuhumbulele](02.html#mbofholowo-ya-vhurereli-lutendo-na-kuhumbulele)
     *   [16\. Mbofholowo ya u amba na u ita zwithu wo vhofholowa](02.html#mbofholowo-ya-u-amba-na-u-ita-zwithu-wo-vhofholowa)
-    *   [17\. U kuvhangana, u gwalaba na u Ṋekedza phethishini](02.html#u-kuvhangana-u-gwalaba-na-u-ekedza-phethishini)
+    *   [17\. U kuvhangana, u gwalaba na u ṋekedza phethishini](02.html#u-kuvhangana-u-gwalaba-na-u-ekedza-phethishini)
     *   [18\. Mbofholowo ya vhuḓibaḓekanyi](02.html#mbofholowo-ya-vhuibaekanyi)
     *   [19\. Pfanelo dza zwa poḽitiki](02.html#pfanelo-dza-zwa-poitiki)
     *   [20\. Vhudzulapo](02.html#vhudzulapo-1)
