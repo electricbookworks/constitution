@@ -32,7 +32,7 @@ style: chapter
 5.	Tlhabololo ya ntlha ya 6 –
 	1.	ka go fetola mafoko a a fa pele ga temana (a) ka mafoko a a latelang: 
 	
-		> 6. Bonno jo bo tlhalositsweng mo ntlha ya 2(b) bo tla abelwa makoko a gaisanelang ditlhopho, jaana;
+		> 6. Bonno jo bo tlhalositsweng mo ntlheng ya 2(b) bo tla abelwa makoko a gaisanelang ditlhopho, jaana;
 		> {:start='6'} 
 	
 		le
