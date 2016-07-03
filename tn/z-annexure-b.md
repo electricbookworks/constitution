@@ -1,5 +1,9 @@
 ---
-title: Tlaleletso B. Puso-tshwaraganelo ya Botsetšhaba&#58; Lekala la Bosetšhaba
+stylesheet: screen.css
+title: 'Tlaleletso B. Puso-tshwaraganelo ya Botsetšhaba&#58; Lekala la Bosetšhaba'
+published: true
+layout: default
+style: chapter
 ---
 
 # Tlaleletso B: Puso-tshwaraganelo ya Botsetšhaba: Lekala la Bosetšhaba
@@ -44,7 +48,7 @@ title: Tlaleletso B. Puso-tshwaraganelo ya Botsetšhaba&#58; Lekala la Bosetšha
 	> 9.	Mafapha a Kabinete a tshwanelwa ke go abelwa makoko a a tsayang karolo go ya ka sekaelo se se latelang:
 	>	1.	Khouta ya manno go ya ka lefapha e tshwanetse go laolwa ka go aroganya palogotlhe ya manno mo Ntlokokoano Bosetšhaba ao a kopanetsweng ke makoko a a tsayang karolo ka palo ya mafapha go tsamaelana le go tlhophiwa ga Ditona tse di umakilweng mo karolotlaleletso (1)(a), go tlhakangwa le lenngwe.
 	>	1.	Dipholo, tse di sa kgaphelang thoko palo ya boraro le palo e e latelang, fa di le teng, ke khouta ya manno a lefapha.
-	>	1.	Palo ya mafapha a tshwanetseng go abelwa lekoko le le tsayang karolo le tlhomamiswa ka go arola palogotlhe ya manno a lekoko leo mo Ntlokokoano Bosetšhaba ka khoutha e e tlhalosistweng mo temana (b).
+	>	1.	Palo ya mafapha a tshwanetseng go abelwa lekoko le le tsayang karolo le tlhomamiswa ka go arola palogotlhe ya manno a lekoko leo mo Ntlokokoano Bosetšhaba ka khoutha e e tlhalosistweng mo temaneng ya (b).
 	>	1.	Dipholo, go ya ka temana (e),di kaya palo ya mafapha a a tshwanetseng go abelwa lekoko leo.
 	>	1.	Fa tiragatso ya selekano se se fa godimo se tlhagiso kokeletso e e sa balelweng mo palong ya mafapha a abetsweng lekoko, kokeletso eo, e tla gaisana le dikokeletso tse dingwe tse di tshwanang tse di kokoantsweng fa lekoko lengwe kgotsa makoko mangwe, mme lefapha lengwe le lengwe kgotsa mafapha mangwe le mangwe a a salang a sa abiwa a tshwanetse go abelwa lekoko kgotsa makoko a a amegang ka tatelano ya dipalo tsa kokeletso e e kwa godimodimo.
 	> 10.	Morago ga therisano le Batlatsabaporesidente ba Khuduthamaga le baeteledipele ba makoko a a tsayang karolo, Poresidente o tshwanetse go –
