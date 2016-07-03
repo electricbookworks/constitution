@@ -1,6 +1,9 @@
 ---
+stylesheet: screen.css
 title: Contents
 style: contents-page
+published: true
+layout: default
 ---
 
 # Ndayotewa ya Riphabuḽiki ya Afrika Tshipembe
@@ -55,7 +58,7 @@ style: contents-page
     *   [43\. Maanḓalanga a Vhusimamilayo ha Riphabuḽiki](04.html#maanalanga-a-vhusimamilayo-ha-riphabuiki)
     *   [44\. Maanḓalanga a Vhusimamilayo ha Lushaka](04.html#maanalanga-a-vhusimamilayo-ha-lushaka)
     *   [45\. Milayo na ndaela zwo ṱanganelanaho na komiti dzo ṱanganelanaho](04.html#milayo-na-ndaela-zwo-anganelanaho-na-komiti-dzo-anganelanaho)
-    *   [Buthano ḽa lushaka](04.html#buthano-a-lushaka)
+    *   [Buthano ḽa lushaka](04.html#buthano-a-lushaka){:.subhead}
         *   [46\. Kuvhumbelwe na khetho](04.html#kuvhumbelwe-na-khetho)
         *   [47\. Vhuraḓo](04.html#vhurao)
         *   [48\. Miano kana u khwaṱhisedza](04.html#miano-kana-u-khwahisedza)
