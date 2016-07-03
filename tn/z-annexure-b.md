@@ -60,9 +60,9 @@ style: chapter
 	> 		1.	fa go tlhokega mo mabakeng a Molaotheo kgotsa mo kgatlhegong ya Puso e e lolameng; kgotsa
 	> 	1.	go tlatsa, fa go tlhokega, ka taolo ya tema(b), phatlhatiro mo ofising ya Tona.
 	> 11.	Karolwana (10) e tshwanetse go diragatswa ka mowa o o akarediwang mo kakanyong ya puso ya tshwaraganelo ya bosetšhaba, mme Moporesidente le ba ba amegang ba tshwanetse ba batla go fitlhelela ditumelelano ka nako tsotlhe mo tirisong ya karolwana eo: ntle le fa ditumelelano di sa kgone go fitlhelelwe mo –
-	>	1.	go diriseng thata e e tlhalositsweng mo temana (a), (c)        kgotsa (d)(ii) ya karolotlaleletso eo, tshwetso ya Moporesidente e tla nna tshwetso ya bofelo;
-	>	1.	go diriseng thata e e tlhalositsweng mo temana (b),(d)(i) kgotsa (e) ya karolotlaleletso eo, e ama motho yo e seng leloko la lekoko la Moporesidente, tshwetso ya moeteledipele wa lekoko leo motho yoo e leng leloko la lona e tla nna tshwetso ya bofelo; le
-	>	1.	go diriseng thata e e tlhalositsweng mo temana (b) kgotsa (e) ya karolotlaleletso eo e amang motho yo e leng leloko la lekoko la Moporesidente, tshwetso ya Moporesidente e tla nna lefoko la bofelo.
+	>	1.	go diriseng thata e e tlhalositsweng mo temaneng ya (a), (c)        kgotsa (d)(ii) ya karolotlaleletso eo, tshwetso ya Moporesidente e tla nna tshwetso ya bofelo;
+	>	1.	go diriseng thata e e tlhalositsweng mo temaneng ya (b),(d)(i) kgotsa (e) ya karolotlaleletso eo, e ama motho yo e seng leloko la lekoko la Moporesidente, tshwetso ya moeteledipele wa lekoko leo motho yoo e leng leloko la lona e tla nna tshwetso ya bofelo; le
+	>	1.	go diriseng thata e e tlhalositsweng mo temaneng ya (b) kgotsa (e) ya karolotlaleletso eo e amang motho yo e leng leloko la lekoko la Moporesidente, tshwetso ya Moporesidente e tla nna lefoko la bofelo.
 	> 12.	Fa tlhomamiso nngwe ya dikabo tsa mafapha e fetolwa mo karolwaneng (10)(c) Ditona tse di amegang di tshwanetse go tlogela mafapha a bona, mme ba na le go ka thapiwa gape mo mafapheng a mangwe a a abetsweng makoko a a farologaneng a bona go ya ka tlhomamiso e e fetotsweng.
 	> 13.	Poresidente –
 	>	1.	ka therisano le Batlatsa-Poresidente ba Khuduthamaga le baeteledipele ba makoko a a tsayang karolo o tshwanetse –
