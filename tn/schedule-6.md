@@ -228,7 +228,7 @@ Motho yo a tswelelang go dira go ya ka Mametlelelo e, mme a kanne kgotsa a diril
 3.	Dikarolo, 199(1), 200(1),(3) le(5) le (11) go fitlha go 201 le 206, tsa molaotheo wa pele, di tswelela go dirisiwa go fitlha fa di phimolwa ka Molao wa Palamente o o rebolwang go ya ka karolo 75 ya Molaotheo o mošwa.
 4.	Maloko a Khomišene ya Tirelo ya Boatlhodi, e e umakiwang mo go karolo 105(1)(h) ya Molaotheo wa pele, a felelwa ke boloko jwa khomišene fa maloko a a umakilweng mo karolong 178(1)(i) ya Molaotheo o mošwa a tlhomiwa.
 5.	
-	1.	Khansele ya Volkstaat e e tlhamilweng go ya ka Molaotheo wa pele e tswelela go dira go ya ka molao o maleba, mme mongwe le mongwe yo o dirang jaaka leloko la Khansele fa Molaotheo o mošwa o tsena mo tirisong, o tla tswelela ka maemo a go latela molao o maleba go lebeletswe –
+	1.	Khansele ya Volkstaat e e tlhamilweng go ya ka Molaotheo wa pele e tswelela go dira go ya ka molao o o maleba, mme mongwe le mongwe yo o dirang jaaka leloko la Khansele fa Molaotheo o mošwa o tsena mo tirisong, o tla tswelela ka maemo a go latela molao o maleba go lebeletswe –
 		1.	tlhabololo efe kapa efe kgotsa go phimolwa ga molao; le
 		1.	go nyalana le Molaotheo o mošwa.
 	1.	Dikarolo 184A le 184B (1)(a), (b) le (d) tsa Molaotheo wa pele di tswelela go dirisiwa go fitlhelela fa di phimolwa ka Molao wa Palamente ya Molaotheo o mošwa go ya ka karolo 75 o o rebotsweng.
