@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Mametlelelo 1A. Mafelo a Diporofense
+published: true
+layout: default
+style: chapter
 ---
 
 # Mametlelelo 1A: Mafelo a Diporofense
@@ -71,9 +75,9 @@ title: Mametlelelo 1A. Mafelo a Diporofense
 
 ## Porofense ya Mpumalanga
 
-*	Mmepe No. 38 wa Mametlelelo 2 to Notice 1998 of 2005
-*	Mmepe No. 39 wa Mametlelelo 2 to Notice 1998 of 2005
-*	Mmepe No. 40 wa Mametlelelo 2 to Notice 1998 of 2005
+*	Mmepe No. 38 wa Mametlelelo 2 mo Kitsisong 1998 ya 2005
+*	Mmepe No. 39 wa Mametlelelo 2 mo Kitsisong 1998 ya 2005
+*	Mmepe No. 40 wa Mametlelelo 2 mo Kitsisong 1998 ya 2005
 
 ## Porofense ya Kapa Bokone
 
