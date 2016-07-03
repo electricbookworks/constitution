@@ -48,7 +48,7 @@ layout: default
     *   [35\. Batshwarwa, batlhatlhelwa le balatofadiwa](02.html#batshwarwa-batlhatlhelwa-le-balatofadiwa)
     *   [36\. Tekanyetso ya ditshwanelo](02.html#tekanyetso-ya-ditshwanelo)
     *   [37\. Maemo a tshoganyetso](02.html#maemo-a-tshoganyetso)
-    *   [38\. Tiragatso ya ditshwanelo](02.html#Tiragatso-ya-ditshwanelo)
+    *   [38\. Tiragatso ya ditshwanelo](02.html#tiragatso-ya-ditshwanelo)
     *   [39\. Tlhaloso ya Molao wa Ditshwanelo tsa Botho](02.html#tlhaloso-ya-molao-wa-ditshwanelo-tsa-botho)
 *   [Kgaolo 3: Puso ya Tirisano (40-41)](03.html#kgaolo-3-puso-ya-tirisano-40-41)
     *   [40\. Popego ya Rephaboliki](03.html#popego-ya-rephaboliki)
