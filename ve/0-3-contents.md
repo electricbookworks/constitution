@@ -73,7 +73,7 @@ layout: default
         *   [57\. Nzudzanyo dza nga ngomu, maitele na matshimbidzele a buthano ḽa Lushaka](04.html#nzudzanyo-dza-nga-ngomu-maitele-na-matshimbidzele-a-buthano-a-lushaka)
         *   [58\. Vhuṱalu](04.html#vhualu)
         *   [59\. U kona u swikelela na u dzhenelela kha buthano ḽa Lushaka nga nnyi na nnyi](04.html#u-kona-u-swikelela-na-u-dzhenelela-kha-buthano-a-lushaka-nga-nnyi-na-nnyi)
-    *   [Khoro ya mavunḓu ya Lushaka](04.html#khoro-ya-mavunu-ya-lushaka)
+    *   [Khoro ya mavunḓu ya Lushaka](04.html#khoro-ya-mavunu-ya-lushaka){:.subhead}
         *   [60\. Kuvhumbelwe kwa khoro ya Lushaka](04.html#kuvhumbelwe-kwa-khoro-ya-lushaka)
         *   [61\. U kovhiwa ha Vharumiwa](04.html#u-kovhiwa-ha-vharumiwa)
         *   [62\. Vharumelwa ha tshoṱhe](04.html#vharumelwa-ha-tshohe)
@@ -87,7 +87,7 @@ layout: default
         *   [70\. Nzudzanyo dza nga ngomu, maitele na matshimbidzele a khoro ya Lushaka](04.html#nzudzanyo-dza-nga-ngomu-maitele-na-matshimbidzele-a-khoro-ya-lushaka)
         *   [71\. Vhuṱalu](04.html#vhualu-1)
         *   [72\. U kona u swikelela na u dzhenelela kha khoro ya Lushaka nga nnyi na nnyi](04.html#u-kona-u-swikelela-na-u-dzhenelela-kha-khoro-ya-lushaka-nga-nnyi-na-nnyi)
-    *   [Maitele a Vhusimamilayo ha Lushaka](04.html#maitele-a-vhusimamilayo-ha-lushaka)
+    *   [Maitele a Vhusimamilayo ha Lushaka](04.html#maitele-a-vhusimamilayo-ha-lushaka){:.subhead}
         *   [73\. Milayotibe yoṱhe](04.html#milayotibe-yohe)
         *   [74\. Milayotibe ine ya khwinisa Ndayotewa](04.html#milayotibe-ine-ya-khwinisa-ndayotewa)
         *   [75\. Milayotibe zwayo i sa kwami mavunḓu](04.html#milayotibe-zwayo-i-sa-kwami-mavunu)
@@ -121,7 +121,7 @@ layout: default
     *   [102\. Madzinginywa a u sa vha na fhulufhelo](05.html#madzinginywa-a-u-sa-vha-na-fhulufhelo)
 *   [Ndima ya 6: Mavunḓu (103-150)](06.html#ndima-ya-6-mavunu-103-150)
     *   [103\. Mavunḓu](06.html#mavunu)
-    *   [Vhusimamilayo ha mavunḓu](06.html#vhusimamilayo-ha-mavunu)
+    *   [Vhusimamilayo ha mavunḓu](06.html#vhusimamilayo-ha-mavunu){:.subhead}
         *   [104\. Maanḓalanga a vhusimamilayo ha mavunḓu](06.html#maanalanga-a-vhusimamilayo-ha-mavunu)
         *   [105\. Kuvhumbelwe na khetho dza vhusimamilayo ha vunḓu](06.html#kuvhumbelwe-na-khetho-dza-vhusimamilayo-ha-vunu)
         *   [106\. Vhuraḓo](06.html#vhurao-1)
