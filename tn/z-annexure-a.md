@@ -15,7 +15,7 @@ style: chapter
 2.	Go kwadiwa bošwa ga ntlha ya 2, ka ntlha e e latelang:
 
 	> 2. Palo ya ditokololo mo Ntlokokoano Bosetšhaba, jaaka go tlhomamisitswe go ya ka karolo 46 ya Molaotheo o mošwa, di tla nna palo e e latelang:
-	>	1.	Nngwe ya halofo ya palo ya manno, a tswa go lenaanepalo la dikgalo, a a rulagantsweng ke makoko a amegang, ka palo e e tlhomamisitsweng go emalaboloko jwa kgaolo nngwe le nngwe jaaka go rulagantswe ke Khomišeneboemong jwa ditlhopo tse di latelang tsa Ntlokokoano, go etswe tlhokotshedimosetso ya batlhophi ya dipalopalo, le ditshwaelo tsa makoko a ana leng kgatlhego.
+	>	1.	Nngwe ya halofo ya palo ya manno, a tswa go lenaanepalo la dikgalo, a a rulagantsweng ke makoko a amegang, ka palo e e tlhomamisitsweng go emalaboloko jwa kgaolo nngwe le nngwe jaaka go rulagantswe ke Khomišeneboemong jwa ditlhopo tse di latelang tsa Ntlokokoano, go etswe tlhoko tshedimosetso ya batlhophi ya dipalopalo, le ditshwaelo tsa makoko a ana leng kgatlhego.
 	>	1.	halofo e nngwe ya manno e tlhopiwa go tswa go lenaanetlhopho la bosetšhaba le le rometsweng ke ke makoko a farologaneng, kgotsa go tswa go lenaanetlhopho la dikgaolo moo manaanetlhopho a bosetšhaba a neng a sa romelwa.
 	> {:start='2'}
 
