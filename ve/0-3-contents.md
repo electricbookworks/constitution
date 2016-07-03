@@ -36,7 +36,7 @@ layout: default
     *   [23\. Vhushaka kha zwa mishumo](02.html#vhushaka-kha-zwa-mishumo)
     *   [24\. Vhupo](02.html#vhupo)
     *   [25\. Ndaka](02.html#ndaka)
-    *   [26\. Vhudzulo](02.html#vhudzulo)
+    *   [26\. Dzinnḓu](02.html#dzinnḓu)
     *   [27\. Ndondolamutakalo, zwiḽiwa, maḓi na tsireledzo ya vhathu](02.html#ndondolamutakalo-zwiiwa-mai-na-tsireledzo-ya-vhathu)
     *   [28\. Vhana](02.html#vhana)
     *   [29\. Pfunzo](02.html#pfunzo)
