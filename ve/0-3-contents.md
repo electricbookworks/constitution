@@ -143,7 +143,7 @@ layout: default
         *   [122\. Khumbelo nga miraḓo kha khothe ya zwa Ndayotewa](06.html#khumbelo-nga-mirao-kha-khothe-ya-zwa-ndayotewa)
         *   [123\. Nyanḓadzo ya milayo ya vunḓu](06.html#nyanadzo-ya-milayo-ya-vunu)
         *   [124\. U vhulungwa ha milayo ya Vunḓu nga nḓila yo tsireledzeaho](06.html#u-vhulungwa-ha-milayo-ya-vunu-nga-nila-yo-tsireledzeaho)
-    *   [Khorotshitumbe dza vunḓu](06.html#khorotshitumbe-dza-vunu)
+    *   [Khorotshitumbe dza vunḓu](06.html#khorotshitumbe-dza-vunu){:.subhead}
         *   [125\. Maanḓalanga a khorotshitumbe dza vunḓu](06.html#maanalanga-a-khorotshitumbe-dza-vunu)
         *   [126\. U ṋetshedza mishumo](06.html#u-etshedza-mishumo)
         *   [127\. Maanḓa na mishumo ya Vhalangavunḓu](06.html#maana-na-mishumo-ya-vhalangavunu)
@@ -161,12 +161,12 @@ layout: default
         *   [139\. U dzhenelela ha vunḓu kha zwa muvhuso wapo](06.html#u-dzhenelela-ha-vunu-kha-zwa-muvhuso-wapo)
         *   [140\. Tsheo dza khorotshitumbe](06.html#tsheo-dza-khorotshitumbe-1)
         *   [141\. Madzinginywa a u sa vha na fhulufhelo](06.html#madzinginywa-a-u-sa-vha-na-fhulufhelo-1)
-    *   [Ndayotewa dza Vunḓu](06.html#ndayotewa-dza-vunu)
+    *   [Ndayotewa dza Vunḓu](06.html#ndayotewa-dza-vunu){:.subhead}
         *   [142\. U ṱanganedzwa ha ndayotewa dza vunḓu](06.html#u-anganedzwa-ha-ndayotewa-dza-vunu)
         *   [143\. Zwi re ngomu ha ndayotewa dza vunḓu](06.html#zwi-re-ngomu-ha-ndayotewa-dza-vunu)
         *   [144\. U ṱanzielwa ha ndayotewa dza vunḓu](06.html#u-anzielwa-ha-ndayotewa-dza-vunu)
         *   [145\. U sainiwa, u anḓadzwa na u vhewa nga nḓila ya tsireledzo ha ndayotewa ya vunḓu](06.html#u-sainiwa-u-anadzwa-na-u-vhewa-nga-nila-ya-tsireledzo-ha-ndayotewa-ya-vunu)
-    *   [Milayo i fhambanaho](06.html#milayo-i-fhambanaho)
+    *   [Milayo i fhambanaho](06.html#milayo-i-fhambanaho){:.subhead}
         *   [146\. Phambano vhukati ha mulayo wa lushaka na wa vunḓu](06.html#phambano-vhukati-ha-mulayo-wa-lushaka-na-wa-vunu)
         *   [147\. Dziṅwe phambano](06.html#dziwe-phambano)
         *   [148\. Phambano dzine dza si kone u tandululwa](06.html#phambano-dzine-dza-si-kone-u-tandululwa)
@@ -206,25 +206,25 @@ layout: default
     *   [180\. Maṅwe mafhungo a kwamaho ndaulo ya vhulamukanyi](08.html#mawe-mafhungo-a-kwamaho-ndaulo-ya-vhulamukanyi)
 *   [Ndima ya 9: Zwiimiswa zwa Muvhuso zwi Tikedzaho Demokirasi ya zwa Ndayotewa (181-194)](09.html#ndima-ya-9-zwiimiswa-zwa-muvhuso-zwi-tikedzaho-demokirasi-ya-zwa-ndayotewa-181-194)
     *   [181\. U thomiwa na milayo i zwi vhusaho](09.html#u-thomiwa-na-milayo-i-zwi-vhusaho)
-    *   [Mutsireledzi wa Tshitshavha](09.html#mutsireledzi-wa-tshitshavha)
+    *   [Mutsireledzi wa Tshitshavha](09.html#mutsireledzi-wa-tshitshavha){:.subhead}
         *   [182\. Mishumo ya mutsireledzi wa Tshitshavha](09.html#mishumo-ya-mutsireledzi-wa-tshitshavha)
         *   [183\. Tshifhinga tsha u shuma ofisini](09.html#tshifhinga-tsha-u-shuma-ofisini)
-    *   [Khomishini ya Pfanelo dza Vhuthu ya Afrika Tshipembe](09.html#khomishini-ya-pfanelo-dza-vhuthu-ya-afrika-tshipembe)
+    *   [Khomishini ya Pfanelo dza Vhuthu ya Afrika Tshipembe](09.html#khomishini-ya-pfanelo-dza-vhuthu-ya-afrika-tshipembe){:.subhead}
         *   [184\. Mishumo ya Khomishini ya Pfanelo dza Vhuthu ya Afurika Tshipembe](09.html#mishumo-ya-khomishini-ya-pfanelo-dza-vhuthu-ya-afurika-tshipembe)
-    *   [Khomishini ya Ṱhuṱhuwedzo na Tsireledzo ya Pfanelo dza Zwitshavha zwa Mvelele, Vhurereli na Luambo](09.html#khomishini-ya-huhuwedzo-na-tsireledzo-ya-pfanelo-dza-zwitshavha-zwa-mvelele-vhurereli-na-luambo)
+    *   [Khomishini ya Ṱhuṱhuwedzo na Tsireledzo ya Pfanelo dza Zwitshavha zwa Mvelele, Vhurereli na Luambo](09.html#khomishini-ya-huhuwedzo-na-tsireledzo-ya-pfanelo-dza-zwitshavha-zwa-mvelele-vhurereli-na-luambo){:.subhead}
         *   [185\. Mishumo ya Khomishini](09.html#mishumo-ya-khomishini)
         *   [186\. Kuvhumbelwe kwa Khomishini](09.html#kuvhumbelwe-kwa-khomishini)
-    *   [Khomishini ya Ndinganyiso ya Mbeu](09.html#khomishini-ya-ndinganyiso-ya-mbeu)
+    *   [Khomishini ya Ndinganyiso ya Mbeu](09.html#khomishini-ya-ndinganyiso-ya-mbeu){:.subhead}
         *   [187\. Mishumo ya Khomishini ya zwa Ndinganyiso ya Mbeu](09.html#mishumo-ya-khomishini-ya-zwa-ndinganyiso-ya-mbeu)
-    *   [Muoditha-Dzhenerala](09.html#muoditha-dzhenerala)
+    *   [Muoditha-Dzhenerala](09.html#muoditha-dzhenerala){:.subhead}
         *   [188\. Mishumo ya Muoditha-Dzhenerala](09.html#mishumo-ya-muoditha-dzhenerala)
         *   [189\. Tshifhinga tsha u shuma ofisini](09.html#tshifhinga-tsha-u-shuma-ofisini-1)
-    *   [Khomishini ya zwa Khetho](09.html#khomishini-ya-zwa-khetho)
+    *   [Khomishini ya zwa Khetho](09.html#khomishini-ya-zwa-khetho){:.subhead}
         *   [190\. Mishumo ya Khomishini ya zwa Khetho](09.html#mishumo-ya-khomishini-ya-zwa-khetho)
         *   [191\. Kuvhumbelwe kwa Khomishini ya Khetho](09.html#kuvhumbelwe-kwa-khomishini-ya-khetho)
-    *   [Maanḓalanga a Ḓivhusaho a Laulaho zwa Khasho](09.html#maanalanga-a-ivhusaho-a-laulaho-zwa-khasho)
+    *   [Maanḓalanga a Ḓivhusaho a Laulaho zwa Khasho](09.html#maanalanga-a-ivhusaho-a-laulaho-zwa-khasho){:.subhead}
         *   [192\. Maanḓalanga a Khasho](09.html#maanalanga-a-khasho)
-    *   [Mbetshelo nga u Angaredza](09.html#mbetshelo-nga-u-angaredza)
+    *   [Mbetshelo nga u Angaredza](09.html#mbetshelo-nga-u-angaredza){:.subhead}
         *   [193\. U tholiwa](09.html#u-tholiwa)
         *   [194\. U bviswa ofisini](09.html#u-bviswa-ofisini)
 *   [Ndima ya 10: Ndaulo ya Muvhuso (195-197)](10.html#ndima-ya-10-ndaulo-ya-muvhuso-195-197)
