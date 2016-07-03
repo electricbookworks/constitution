@@ -1,12 +1,16 @@
 ---
+stylesheet: screen.css
 title: Tlaleletso A. Ditlhabololo go mametlelelo 2 ya molaotheo wa pele
+published: true
+layout: default
+style: chapter
 ---
 
 # Tlaleletso A: Ditlhabololo go mametlelelo 2 ya molaotheo wa pele
 
 1.	Go kwadiwa bošwa ga ntlha ya 1, ka ntlha e e latelang:
 
-	> 1. Makoko a a kwadisitsweng go ya ka molao wa bosetšhaba le kgaisano ya ditlhopho tsa Ntlokokoano Bosetšhaba e tla kgetha bontlhopheng boemong jwa ditlhopho tseo, go tsamaelana le naanetlhopho le le rulagantsweng go ya ka Mametlelelo e, le molao wa bosetšhaba.
+	> 1. Makoko a a kwadisitsweng go ya ka molao wa bosetšhaba le kgaisano ya ditlhopho tsa Ntlokokoano Bosetšhaba e tla kgetha bontlhopheng mo boemong jwa ditlhopho tseo, go tsamaelana le naanetlhopho le le rulagantsweng go ya ka Mametlelelo e, le molao wa bosetšhaba.
 
 2.	Go kwadiwa bošwa ga ntlha ya 2, ka ntlha e e latelang:
 
