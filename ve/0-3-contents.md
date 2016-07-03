@@ -31,7 +31,7 @@ layout: default
     *   [18\. Mbofholowo ya vhuḓibaḓekanyi](02.html#mbofholowo-ya-vhuibaekanyi)
     *   [19\. Pfanelo dza zwa poḽitiki](02.html#pfanelo-dza-zwa-poitiki)
     *   [20\. Vhudzulapo](02.html#vhudzulapo-1)
-    *   [21\. Bofholowo ya u tshimbila na vhudzulo](02.html#bofholowo-ya-u-tshimbila-na-vhudzulo)
+    *   [21\. Mbofholowo ya u tshimbila na vhudzulo](02.html#mbofholowo-ya-u-tshimbila-na-vhudzulo)
     *   [22\. Mbofholowo ya zwa makwevho, mushumo na phrofesheni](02.html#mbofholowo-ya-zwa-makwevho-mushumo-na-phrofesheni)
     *   [23\. Vhushaka kha zwa mishumo](02.html#vhushaka-kha-zwa-mishumo)
     *   [24\. Vhupo](02.html#vhupo)
