@@ -1,6 +1,9 @@
 ---
+stylesheet: screen.css
 title: Contents
 style: contents-page
+published: true
+layout: default
 ---
 
 # Vumbiwa ra Riphabliki ra Afrika Dzonga
@@ -56,7 +59,7 @@ style: contents-page
     *   [43\. Matimba ya Riphabliki yo endla Milawu](04.html#matimba-ya-riphabliki-yo-endla-milawu)
     *   [44\. Matimba yo endla milawu ya tiko](04.html#matimba-yo-endla-milawu-ya-tiko)
     *   [45\. Milawu leyi hlanganeriweke na swileriso na tikomiti to hlanganeriwa](04.html#milawu-leyi-hlanganeriweke-na-swileriso-na-tikomiti-to-hlanganeriwa)
-    *   [Nhlengeletano ya Tiko](04.html#nhlengeletano-ya-tiko)
+    *   [Nhlengeletano ya Tiko](04.html#nhlengeletano-ya-tiko){:.subhead}
         *   [46\. Mavumbelo na nhlawulo](04.html#mavumbelo-na-nhlawulo)
         *   [47\. Vuxirho](04.html#vuxirho)
         *   [48\. Xihlambanyo kumbe xitiyisiso](04.html#xihlambanyo-kumbe-xitiyisiso)
@@ -71,7 +74,7 @@ style: contents-page
         *   [57\. Malulamiselo ya le ndzeni, mafambiselo na maendlelo ya Nhlengeletanoya Tiko](04.html#malulamiselo-ya-le-ndzeni-mafambiselo-na-maendlelo-ya-nhlengeletanoya-tiko)
         *   [58\. Xifundzho](04.html#xifundzho)
         *   [59\. Mfikelelo wa vanhu eka, no tinghenisa eka Nhlengeletano ya Tiko](04.html#mfikelelo-wa-vanhu-eka-no-tinghenisa-eka-nhlengeletano-ya-tiko)
-    *   [Huvo ya Rixaka ya Swifundzankulu](04.html#huvo-ya-rixaka-ya-swifundzankulu)
+    *   [Huvo ya Rixaka ya Swifundzankulu](04.html#huvo-ya-rixaka-ya-swifundzankulu){:.subhead}
         *   [60\. Mavumbelo ya Huvo ya Rixaka](04.html#mavumbelo-ya-huvo-ya-rixaka)
         *   [61\. Maavelo ya Varhumiwa](04.html#maavelo-ya-varhumiwa)
         *   [62\. Varhumiwa va Nkarhi hinkwawo](04.html#varhumiwa-va-nkarhi-hinkwawo)
@@ -85,7 +88,7 @@ style: contents-page
         *   [70\. Malongoloxelo ya le ndzeni, mafambiselo na maendlelo ya Huvo ya Rixaka](04.html#malongoloxelo-ya-le-ndzeni-mafambiselo-na-maendlelo-ya-huvo-ya-rixaka)
         *   [71\. Xifundzho](04.html#xifundzho-1)
         *   [72\. Ku fikelela ka vaaki eka no nghenelela ka Huvo ya Rixaka](04.html#ku-fikelela-ka-vaaki-eka-no-nghenelela-ka-huvo-ya-rixaka)
-    *   [Maendlelo ya Milawu ya Tiko](04.html#maendlelo-ya-milawu-ya-tiko)
+    *   [Maendlelo ya Milawu ya Tiko](04.html#maendlelo-ya-milawu-ya-tiko){:.subhead}
         *   [73\. Milawumbisi hinkwayo](04.html#milawumbisi-hinkwayo)
         *   [74\. Milawumbisi leyi hundzuluxaka Vumbiwa](04.html#milawumbisi-leyi-hundzuluxaka-vumbiwa)
         *   [75\. Milawumbisi yin’wana ni yin’wana leyi nga Khumbhiki Swifundzankulu](04.html#milawumbisi-yinwana-ni-yinwana-leyi-nga-khumbhiki-swifundzankulu)
@@ -140,7 +143,7 @@ style: contents-page
     *   [122\. Swikombelo hi swirho eka Khoto ya Vumbiwa](06.html#swikombelo-hi-swirho-eka-khoto-ya-vumbiwa)
     *   [123\. Ku kandziyisiwa ka Milawu ya Swifundzankulu](06.html#ku-kandziyisiwa-ka-milawu-ya-swifundzankulu)
     *   [124\. Ku hlayisiwa ka Milawu ya Swifundzankulu](06.html#ku-hlayisiwa-ka-milawu-ya-swifundzankulu)
-    *   [Swirho swa Tihuvonkulu ta Swifundzankulu](06.html#swirho-swa-tihuvonkulu-ta-swifundzankulu)
+    *   [Swirho swa Tihuvonkulu ta Swifundzankulu](06.html#swirho-swa-tihuvonkulu-ta-swifundzankulu){:.subhead}
         *   [125\. Swirho swa huvonkulu eka Swifundzankulu](06.html#swirho-swa-huvonkulu-eka-swifundzankulu)
         *   [126\. Ku phakeriwa mitirho](06.html#ku-phakeriwa-mitirho)
         *   [127\. Matimba na mitirho ya Vaholobyenkulu](06.html#matimba-na-mitirho-ya-vaholobyenkulu)
@@ -158,12 +161,12 @@ style: contents-page
         *   [139\. Vungheneleri bya xifundzankulu eka mfumo wa muganga](06.html#vungheneleri-bya-xifundzankulu-eka-mfumo-wa-muganga)
         *   [140\. Swiboho swa huvonkulu](06.html#swiboho-swa-huvonkulu-1)
         *   [141\. Makungu yo kombisa ku pfumala ntshembho](06.html#makungu-yo-kombisa-ku-pfumala-ntshembho)
-    *   [Mavumbiwa ya Swifundzankulu](06.html#mavumbiwa-ya-swifundzankulu)
+    *   [Mavumbiwa ya Swifundzankulu](06.html#mavumbiwa-ya-swifundzankulu){:.subhead}
         *   [142\. Ku pasisiwa ka mavumbiwa ya Swifundzankulu](06.html#ku-pasisiwa-ka-mavumbiwa-ya-swifundzankulu)
         *   [143\. Vundzeni bya vumbiwa ra xifundzha](06.html#vundzeni-bya-vumbiwa-ra-xifundzha)
         *   [144\. Ku tiyisiwa ka vumbiwa ra Swifundzankulu](06.html#ku-tiyisiwa-ka-vumbiwa-ra-swifundzankulu)
         *   [145\. Ku sayiniwa, ku tivisiwa na ku hlayisiwa ka mavumbiwa ya Swifundzankulu](06.html#ku-sayiniwa-ku-tivisiwa-na-ku-hlayisiwa-ka-mavumbiwa-ya-swifundzankulu)
-    *   [Milawu leyi kwetlembetanaka](06.html#milawu-leyi-kwetlembetanaka)
+    *   [Milawu leyi kwetlembetanaka](06.html#milawu-leyi-kwetlembetanaka){:.subhead}
         *   [146\. Mikwetlembetano exikarhi ka milawu ya rixaka na ya Swifundzankulu](06.html#mikwetlembetano-exikarhi-ka-milawu-ya-rixaka-na-ya-swifundzankulu)
         *   [147\. Mikwetlembetano yin’wana](06.html#mikwetlembetano-yinwana)
         *   [148\. Mikwetlembetano leyi nga ololoxekiki](06.html#mikwetlembetano-leyi-nga-ololoxekiki)
@@ -203,25 +206,25 @@ style: contents-page
     *   [180\. Timhaka tin’wana leti khumbhaka mafambiselo ya vululami](08.html#timhaka-tinwana-leti-khumbhaka-mafambiselo-ya-vululami)
 *   [Kavanyisa ka 9: Swivandla swa Mfumo Leswi Seketelaka Vumbiwa ra Xidemokirasi (181-194)](09.html#kavanyisa-ka-9-swivandla-swa-mfumo-leswi-seketelaka-vumbiwa-ra-xidemokirasi-181-194)
     *   [181\. Ku Simekiwa na milawu ya mafumelo](09.html#ku-simekiwa-na-milawu-ya-mafumelo)
-    *   [Musirheleri wa vanhu](09.html#musirheleri-wa-vanhu)
+    *   [Musirheleri wa vanhu](09.html#musirheleri-wa-vanhu){:.subhead}
         *   [182\. Mitirho ya musirheleri wa vanhu](09.html#mitirho-ya-musirheleri-wa-vanhu)
         *   [183\. Nkarhi wo va entirhweni](09.html#nkarhi-wo-va-entirhweni)
-    *   [Khomixini ya Timfanelo wa Vanhu ya Afrika Dzonga](09.html#khomixini-ya-timfanelo-wa-vanhu-ya-afrika-dzonga)
+    *   [Khomixini ya Timfanelo wa Vanhu ya Afrika Dzonga](09.html#khomixini-ya-timfanelo-wa-vanhu-ya-afrika-dzonga){:.subhead}
         *   [184\. Mitirho ya Khomixini ya Timfanelo ta Ximunhu ya Afrika Dzonga ya Afrika Dzonga](09.html#mitirho-ya-khomixini-ya-timfanelo-ta-ximunhu-ya-afrika-dzonga-ya-afrika-dzonga)
-    *   [Khomixini yo Tlakusa no Sirhelela Timfanelo ta Mfuwo, Vukhongeri na Miganga ya Tindzimi](09.html#khomixini-yo-tlakusa-no-sirhelela-timfanelo-ta-mfuwo-vukhongeri-na-miganga-ya-tindzimi)
+    *   [Khomixini yo Tlakusa no Sirhelela Timfanelo ta Mfuwo, Vukhongeri na Miganga ya Tindzimi](09.html#khomixini-yo-tlakusa-no-sirhelela-timfanelo-ta-mfuwo-vukhongeri-na-miganga-ya-tindzimi){:.subhead}
         *   [185\. Mitirho ya Khomixini](09.html#mitirho-ya-khomixini)
         *   [186\. Mavumbiwelo ya Khomixini](09.html#mavumbiwelo-ya-khomixini)
-    *   [Khomixini ya Ndzingano wa Rimbewu](09.html#khomixini-ya-ndzingano-wa-rimbewu)
+    *   [Khomixini ya Ndzingano wa Rimbewu](09.html#khomixini-ya-ndzingano-wa-rimbewu){:.subhead}
         *   [187\. Mitirho ya Khomixini ya Ndzingano wa Rimbewu](09.html#mitirho-ya-khomixini-ya-ndzingano-wa-rimbewu)
-    *   [Mukambelatinkota wa Swin’wana na swin’wana](09.html#mukambelatinkota-wa-swinwana-na-swinwana)
+    *   [Mukambelatinkota wa Swin’wana na swin’wana](09.html#mukambelatinkota-wa-swinwana-na-swinwana){:.subhead}
         *   [188\. Mitirho ya Mukambelatinkota wa Swin’wana na swin’wana](09.html#mitirho-ya-mukambelatinkota-wa-swinwana-na-swinwana)
         *   [189\. Nkarhi wo va entirhweni](09.html#nkarhi-wo-va-entirhweni-1)
-    *   [Khomixini ya Nhlawulo](09.html#khomixini-ya-nhlawulo)
+    *   [Khomixini ya Nhlawulo](09.html#khomixini-ya-nhlawulo){:.subhead}
         *   [190\. Mitirho ya Khomixini ya Nhlawulo](09.html#mitirho-ya-khomixini-ya-nhlawulo)
         *   [191\. Mavumbiwelo ya Khomixini ya Nhlawulo](09.html#mavumbiwelo-ya-khomixini-ya-nhlawulo)
-    *   [Matimba lawa ya Tiyimeleke yo Lawula Vuhaxi](09.html#matimba-lawa-ya-tiyimeleke-yo-lawula-vuhaxi)
+    *   [Matimba lawa ya Tiyimeleke yo Lawula Vuhaxi](09.html#matimba-lawa-ya-tiyimeleke-yo-lawula-vuhaxi){:.subhead}
         *   [192\. Vulawuri bya Vuhaxi](09.html#vulawuri-bya-vuhaxi)
-    *   [Makungu ya tin’wana na tin’wana](09.html#makungu-ya-tinwana-na-tinwana)
+    *   [Makungu ya tin’wana na tin’wana](09.html#makungu-ya-tinwana-na-tinwana){:.subhead}
         *   [193\. Matholelo](09.html#matholelo)
         *   [194\. Ku susiwa entirhweni](09.html#ku-susiwa-entirhweni-1)
 *   [Kavanyisa ka 10: Vulawuri bya Vaaki (195-197)](10.html#kavanyisa-ka-10-vulawuri-bya-vaaki-195-197)
@@ -231,25 +234,25 @@ style: contents-page
 *   [Kavanyisa ka 11: Mitirho ya Vusirheleri (198-210)](11.html#kavanyisa-ka-11-mitirho-ya-vusirheleri-198-210)
     *   [198\. Milawu ya mafumelo](11.html#milawu-ya-mafumelo)
     *   [199\. Ku tumbuluxiwa, mavumbiwelo na matikhomelo ya mitirho ya vusirheleri](11.html#ku-tumbuluxiwa-mavumbiwelo-na-matikhomelo-ya-mitirho-ya-vusirheleri)
-    *   [Vusirheleri](11.html#vusirheleri)
+    *   [Vusirheleri](11.html#vusirheleri){:.subhead}
         *   [200\. Vuthu ra vusirheleri](11.html#vuthu-ra-vusirheleri)
         *   [201\. Vutihlamuleri bya swa tipolitiki](11.html#vutihlamuleri-bya-swa-tipolitiki)
         *   [202\. Ku lawuriwa ka vuthu ra vusirheleri](11.html#ku-lawuriwa-ka-vuthu-ra-vusirheleri)
         *   [203\. Xiyimo xa vusirheleri bya rixaka](11.html#xiyimo-xa-vusirheleri-bya-rixaka)
         *   [204\. Vamatsalana va vusirheleri lava nga riki masocha](11.html#vamatsalana-va-vusirheleri-lava-nga-riki-masocha)
-    *   [Maphorisa](11.html#maphorisa)
+    *   [Maphorisa](11.html#maphorisa){:.subhead}
         *   [205\. Mitirho ya maphorisa](11.html#mitirho-ya-maphorisa)
         *   [206\. Vutihlamuleri bya swa tipolitiki](11.html#vutihlamuleri-bya-swa-tipolitiki-1)
         *   [207\. Ku lawuriwa ka Mitirho ya Maphorisa](11.html#ku-lawuriwa-ka-mitirho-ya-maphorisa)
         *   [208\. Vamatsalana va Maphorisa lava nga riki Maphorisa](11.html#vamatsalana-va-maphorisa-lava-nga-riki-maphorisa)
-    *   [Vunhlori](11.html#vunhlori)
+    *   [Vunhlori](11.html#vunhlori){:.subhead}
         *   [209\. Ku simekiwa na ku lawuriwa ka mitirho ya vuhlori](11.html#ku-simekiwa-na-ku-lawuriwa-ka-mitirho-ya-vuhlori)
         *   [210\. Matimba, Mitirho na ku Langutela](11.html#matimba-mitirho-na-ku-langutela)
 *   [Kavanyisa ka 12: Varhangeri va Ndzhavuko (211-212)](12.html#kavanyisa-ka-12-varhangeri-va-ndzhavuko-211-212)
     *   [211\. Ku amukeriwa](12.html#ku-amukeriwa)
     *   [212\. Ntirho wa varhangeri va ndzhavuko](12.html#ntirho-wa-varhangeri-va-ndzhavuko)
 *   [Kavanyisa ka 13: Timali (213-230A)](13.html#kavanyisa-ka-13-timali-213-230a)
-    *   [Timhaka tin’wana na tin’wana ta Timali](13.html#timhaka-tinwana-na-tinwana-ta-timali)
+    *   [Timhaka tin’wana na tin’wana ta Timali](13.html#timhaka-tinwana-na-tinwana-ta-timali){:.subhead}
         *   [213\. Nkwama wa Timali ta Tiko](13.html#nkwama-wa-timali-ta-tiko)
         *   [214\. Minkavelo yo ringana na maavelo ya timali ta tiko](13.html#minkavelo-yo-ringana-na-maavelo-ya-timali-ta-tiko)
         *   [215\. Mimpimanyeto ya tiko hinkwaro, ya Swifundzankulu na ya timasipala](13.html#mimpimanyeto-ya-tiko-hinkwaro-ya-swifundzankulu-na-ya-timasipala)
@@ -257,15 +260,15 @@ style: contents-page
         *   [217\. Ku kuma tinhundzu na vatirhi](13.html#ku-kuma-tinhundzu-na-vatirhi)
         *   [218\. Ntiyisiso wa mfumo](13.html#ntiyisiso-wa-mfumo)
         *   [219\. Ku hakeriwa ka vatirhela mfumo](13.html#ku-hakeriwa-ka-vatirhela-mfumo)
-    *   [Khomixini ya swa Timali na Minkwama](13.html#khomixini-ya-swa-timali-na-minkwama)
+    *   [Khomixini ya swa Timali na Minkwama](13.html#khomixini-ya-swa-timali-na-minkwama){:.subhead}
         *   [220\. Ku vumbiwa na mitirho](13.html#ku-vumbiwa-na-mitirho)
         *   [221\. Ku thoriwa na nkarhi wo tirha wa swirho](13.html#ku-thoriwa-na-nkarhi-wo-tirha-wa-swirho)
         *   [222\. Swiviko](13.html#swiviko)
-    *   [Bangi ya le Xikarhi](13.html#bangi-ya-le-xikarhi)
+    *   [Bangi ya le Xikarhi](13.html#bangi-ya-le-xikarhi){:.subhead}
         *   [223\. Ku vumbiwa](13.html#ku-vumbiwa)
         *   [224\. Xikongomelo xo sungula](13.html#xikongomelo-xo-sungula)
         *   [225\. Matimba na mitirho](13.html#matimba-na-mitirho)
-    *   [Timhaka ta timali ta Swifundzankulu na ta Muganga](13.html#timhaka-ta-timali-ta-swifundzankulu-na-ta-muganga)
+    *   [Timhaka ta timali ta Swifundzankulu na ta Muganga](13.html#timhaka-ta-timali-ta-swifundzankulu-na-ta-muganga){:.subhead}
         *   [226\. Minkwama ya Timali ta Swifundzankulu](13.html#minkwama-ya-timali-ta-swifundzankulu)
         *   [227\. Swihlovo swa rixaka swa timali ta Swifundzankulu na mimfumo ya tindhawu](13.html#swihlovo-swa-rixaka-swa-timali-ta-swifundzankulu-na-mimfumo-ya-tindhawu)
         *   [228\. Swibalo swa Swifundzankulu](13.html#swibalo-swa-swifundzankulu)
@@ -273,11 +276,11 @@ style: contents-page
         *   [230\. Timali to lomba ta Swifundzankulu](13.html#timali-to-lomba-ta-swifundzankulu)
         *   [230A. Timali to lomba ta timasipala](13.html#a-timali-to-lomba-ta-timasipala)
 *   [Kavanyisa ka 14: Ku Lulamisela ka Swin’wana na Swin’wana (231-243)](14.html#kavanyisa-ka-14-ku-lulamisela-ka-swinwana-na-swinwana-231-243)
-    *   [Nawu wa Matiko ya Misava](14.html#nawu-wa-matiko-ya-misava)
+    *   [Nawu wa Matiko ya Misava](14.html#nawu-wa-matiko-ya-misava){:.subhead}
         *   [231\. Mitwanano ya Matiko ya Misava](14.html#mitwanano-ya-matiko-ya-misava)
         *   [232\. Nawu wa ndzhavuko wa matiko ya misava](14.html#nawu-wa-ndzhavuko-wa-matiko-ya-misava)
         *   [233\. Ku tirhisiwa ka nawu wa matiko ya misava](14.html#ku-tirhisiwa-ka-nawu-wa-matiko-ya-misava)
-    *   [Timhaka Tin’wana](14.html#timhaka-tinwana-1)
+    *   [Timhaka Tin’wana](14.html#timhaka-tinwana-1){:.subhead}
         *   [234\. Tsalwa ra Timfanelo](14.html#tsalwa-ra-timfanelo)
         *   [235\. Ku tiyimisela](14.html#ku-tiyimisela)
         *   [236\. Ku pfuneta minhlangano ya tipolitiki hi timali](14.html#ku-pfuneta-minhlangano-ya-tipolitiki-hi-timali)
@@ -307,7 +310,7 @@ style: contents-page
     *   [5\. Xihlambanyo kumbe xitiyisiso xo xiximeka xa Vaholobyenkulu Vayimeri va na swirho swa Tihuvonkulu ta Swifundzankulu](schedule-2.html#xihlambanyo-kumbe-xitiyisiso-xo-xiximeka-xa-vaholobyenkulu-vayimeri-va-na-swirho-swa-tihuvonkulu-ta-swifundzankulu)
     *   [6\. Xihlambanyo kumbe xitiyisiso xa vatirhela-tiko va vuavanyisi](schedule-2.html#xihlambanyo-kumbe-xitiyisiso-xa-vatirhela-tiko-va-vuavanyisi)
 *   [Xedulu ya 3: Maendlelo ya Nhlawulo](schedule-3.html#xedulu-ya-3-maendlelo-ya-nhlawulo)
-    *   [Xiphemu xa A: Maendlelo ya Nhlawulo ya Vatirhela mfumo ku ya hi Vumbiwa](schedule-3.html#xiphemu-xa-a-maendlelo-ya-nhlawulo-ya-vatirhela-mfumo-ku-ya-hi-vumbiwa)
+    *   [Xiphemu xa A: Maendlelo ya Nhlawulo ya Vatirhela mfumo ku ya hi Vumbiwa](schedule-3.html#xiphemu-xa-a-maendlelo-ya-nhlawulo-ya-vatirhela-mfumo-ku-ya-hi-vumbiwa){:.subhead}
         *   [1\. Matirhiselo](schedule-3.html#matirhiselo-1)
         *   [2\. Ku langa Mavito](schedule-3.html#ku-langa-mavito)
         *   [3\. Swilaveko swa mafundzha](schedule-3.html#swilaveko-swa-mafundzha)
@@ -317,7 +320,7 @@ style: contents-page
         *   [7\. Endlelo ro humesiwa eka nhlawulo](schedule-3.html#endlelo-ro-humesiwa-eka-nhlawulo)
         *   [8.Tinhlengeletano tin’wana](schedule-3.html#tinhlengeletano-tinwana)
         *   [9\. Milawu](schedule-3.html#milawu)
-    *   [Xiphemu xa B: Endlelo ro kumisisa ku Nghenelela ka Nhlangano eka vurhu- miwa bya Xifundzha eka Huvo ya Rixaka ya Swifundzankulu](schedule-3.html#xiphemu-xa-b-endlelo-ro-kumisisa-ku-nghenelela-ka-nhlangano-eka-vurhu--miwa-bya-xifundzha-eka-huvo-ya-rixaka-ya-swifundzankulu)
+    *   [Xiphemu xa B: Endlelo ro kumisisa ku Nghenelela ka Nhlangano eka vurhu- miwa bya Xifundzha eka Huvo ya Rixaka ya Swifundzankulu](schedule-3.html#xiphemu-xa-b-endlelo-ro-kumisisa-ku-nghenelela-ka-nhlangano-eka-vurhu--miwa-bya-xifundzha-eka-huvo-ya-rixaka-ya-swifundzankulu){:.subhead}
 *   [Xedulu ya 4: Tindhawu Ta Mitirho To Fambisana Na Vuswikoti Bya Palamende Ya Rixaka Na Ya Xifundzha](schedule-4.html#xedulu-ya-4-tindhawu-ta-mitirho-to-fambisana-na-vuswikoti-bya-palamende-ya-rixaka-na-ya-xifundzha)
     *   [Xiphemu xa A](schedule-4.html#xiphemu-xa-a)
     *   [Xiphemu xa B](schedule-4.html#xiphemu-xa-b)
