@@ -1,8 +1,14 @@
 ---
-title: Tlaleletso D. Tsamaiso ya puso le Ditirelo tsa Pabalesego&#58; Ditlhabololo ya Dikarolo tsa molaotheo wa pele
+stylesheet: screen.css
+title: >-
+  Tlaleletso D. Tsamaiso ya puso le Ditirelo tsa Pabalesego&#58; Ditlhabololo ya
+  Dikarolo tsa molaotheo wa pele
+published: true
+layout: default
+style: chapter
 ---
 
-# Tlaleletso D: Tsamaiso ya puso le Ditirelo tsa Pabalesego&#58; Ditlhabololo ya Dikarolo tsa molaotheo wa pele
+# Tlaleletso D: Tsamaiso ya puso le Ditirelo tsa Pabalesego&#58; Ditlhabololo tsa Dikarolo tsa molaotheo wa pele
 
 1.	Tlhabololo ya karolo 218 ya Molaotheo wa pele –
 	1.	ka go kwala boemong jwa karolo (1) mafoko a fa pele ga temana (a) ka mafoko a a latelang:
