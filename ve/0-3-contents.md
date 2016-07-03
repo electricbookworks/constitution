@@ -49,7 +49,7 @@ layout: default
     *   [36\. Mikano ya pfanelo](02.html#mikano-ya-pfanelo)
     *   [37\. Tshiimo tsha shishi](02.html#tshiimo-tsha-shishi)
     *   [38\. U shumiswa ha pfanelo](02.html#u-shumiswa-ha-pfanelo)
-    *   [39\. Ṱhalutshedzo ya Mulayotibe wa Pfanelo](02.html#halutshedzo-ya-mulayotibe-wa-pfanelo)
+    *   [39\. Ṱhalutshedzo ya mulayotibe wa pfanelo](02.html#halutshedzo-ya-mulayotibe-wa-pfanelo)
 *   [Ndima ya 3: Muvhuso wa Tshumisano (khethekanyo dza 40-41)](03.html#ndima-ya-3-muvhuso-wa-tshumisano-khethekanyo-dza-40-41)
     *   [40\. Muvhuso wa Riphabuḽiki](03.html#muvhuso-wa-riphabuiki)
     *   [41\. Milayo ya muvhuso wa tshumisano na vhushaka vhukati ha mivhuso](03.html#milayo-ya-muvhuso-wa-tshumisano-na-vhushaka-vhukati-ha-mivhuso)
