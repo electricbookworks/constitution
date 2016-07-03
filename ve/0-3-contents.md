@@ -234,25 +234,25 @@ layout: default
 *   [Ndima ya 11: Tshumelo dza Tsireledzo (198-210)](11.html#ndima-ya-11-tshumelo-dza-tsireledzo-198-210)
     *   [198\. Milayo i dzi vhusaho](11.html#milayo-i-dzi-vhusaho)
     *   [199\. U thomiwa, kuvhumbelwe, na vhuḓifari ha tshumelo dza tsireledzo](11.html#u-thomiwa-kuvhumbelwe-na-vhuifari-ha-tshumelo-dza-tsireledzo)
-    *   [Vhupileli](11.html#vhupileli)
+    *   [Vhupileli](11.html#vhupileli){:.subhead}
         *   [200\. Mmbi ya Vhupileli](11.html#mmbi-ya-vhupileli)
         *   [201\. Vhuḓifhinduleli ha zwa poḽitiki](11.html#vhuifhinduleli-ha-zwa-poitiki)
         *   [202\. U khomandiwa/langiwa ha mmbi ya vhupileli](11.html#u-khomandiwalangiwa-ha-mmbi-ya-vhupileli)
         *   [203\. Tshiimo tsha vhupileli ha lushaka](11.html#tshiimo-tsha-vhupileli-ha-lushaka)
         *   [204\. Vhuṅwaleli ha vhathu zwavho vha re kha vhupileli](11.html#vhuwaleli-ha-vhathu-zwavho-vha-re-kha-vhupileli)
-    *   [Mapholisa](11.html#mapholisa)
+    *   [Mapholisa](11.html#mapholisa){:.subhead}
         *   [205\. Tshumelo ya Tshipholisa](11.html#tshumelo-ya-tshipholisa)
         *   [206\. Vhuḓifhinduleli ha zwa poḽitiki](11.html#vhuifhinduleli-ha-zwa-poitiki-1)
         *   [207\. U langiwa ha Tshumelo ya Tshipholisa](11.html#u-langiwa-ha-tshumelo-ya-tshipholisa)
         *   [208\. Vhuṅwaleli ha vhathu zwavho vha re kha zwa tshipholisa](11.html#vhuwaleli-ha-vhathu-zwavho-vha-re-kha-zwa-tshipholisa)
-    *   [Zwa vhusevhi](11.html#zwa-vhusevhi)
+    *   [Zwa vhusevhi](11.html#zwa-vhusevhi){:.subhead}
         *   [209\. U thomiwa na u langiwa ha tshumelo dza zwa vhusevhi](11.html#u-thomiwa-na-u-langiwa-ha-tshumelo-dza-zwa-vhusevhi)
         *   [210\. Maanḓa, mishumo na u lavhelesa](11.html#maana-mishumo-na-u-lavhelesa)
 *   [Ndima ya 12: Vharangaphanḓa vha zwa Sialala (211-212)](12.html#ndima-ya-12-vharangaphana-vha-zwa-sialala-211-212)
     *   [211\. U ṱanganedza](12.html#u-anganedza)
     *   [212\. Mishumo ya vharangaphanḓa vha sialala](12.html#mishumo-ya-vharangaphana-vha-sialala)
 *   [Ndima ya 13: Gwama (213-230A)](13.html#ndima-ya-13-gwama-213-230a)
-    *   [Mafhungo a zwa Gwama nga u tou angaredza](13.html#mafhungo-a-zwa-gwama-nga-u-tou-angaredza)
+    *   [Mafhungo a zwa Gwama nga u tou angaredza](13.html#mafhungo-a-zwa-gwama-nga-u-tou-angaredza){:.subhead}
         *   [213\. Tshikwama tsha mbuelo tsha Lushaka](13.html#tshikwama-tsha-mbuelo-tsha-lushaka)
         *   [214\. Mikovhe na u ṋewa ha mbuelo nga nḓila ya ndingano](13.html#mikovhe-na-u-ewa-ha-mbuelo-nga-nila-ya-ndingano)
         *   [215\. Migaganyagwama ya Lushaka na ya Vunḓu na ya masipala](13.html#migaganyagwama-ya-lushaka-na-ya-vunu-na-ya-masipala)
@@ -260,15 +260,15 @@ layout: default
         *   [217\. U wana](13.html#u-wana)
         *   [218\. U ḓivhofha ha muvhuso](13.html#u-ivhofha-ha-muvhuso)
         *   [219\. Muholo wa vhathu vho faraho poswo dza muvhuso](13.html#muholo-wa-vhathu-vho-faraho-poswo-dza-muvhuso)
-    *   [Khomishini ya Gwama](13.html#khomishini-ya-gwama)
+    *   [Khomishini ya Gwama](13.html#khomishini-ya-gwama){:.subhead}
         *   [220\. U thomiwa na mishumo](13.html#u-thomiwa-na-mishumo)
         *   [221\. U vhewa ha miraḓo na tshifhinga tsha ofisi](13.html#u-vhewa-ha-mirao-na-tshifhinga-tsha-ofisi)
         *   [222\. Mivhigo](13.html#mivhigo)
-    *   [Bannga ya Vhukati](13.html#bannga-ya-vhukati)
+    *   [Bannga ya Vhukati](13.html#bannga-ya-vhukati){:.subhead}
         *   [223\. U thomiwa](13.html#u-thomiwa)
         *   [224\. Ndivho khulwane](13.html#ndivho-khulwane)
         *   [225\. Maanḓa na mishumo](13.html#maana-na-mishumo)
-    *   [Mafhungo a zwa masheleni apo na a vunḓu](13.html#mafhungo-a-zwa-masheleni-apo-na-a-vunu)
+    *   [Mafhungo a zwa masheleni apo na a vunḓu](13.html#mafhungo-a-zwa-masheleni-apo-na-a-vunu){:.subhead}
         *   [226\. Zwikwama zwa Mbuelo zwa Vunḓu](13.html#zwikwama-zwa-mbuelo-zwa-vunu)
         *   [227\. Zwiko zwa lushaka zwa tshikwama tsha vunḓu na tsha muvhuso wapo](13.html#zwiko-zwa-lushaka-zwa-tshikwama-tsha-vunu-na-tsha-muvhuso-wapo)
         *   [228\. Mithelo ya vunḓu](13.html#mithelo-ya-vunu)
@@ -276,11 +276,11 @@ layout: default
         *   [230\. Khadzimiso dza Vunḓu](13.html#khadzimiso-dza-vunu)
         *   [230A. Khadzimiso dza masipala](13.html#a-khadzimiso-dza-masipala)
 *   [Ndima ya 14: Mbetshelo nga u Angaredza (231-243)](14.html#ndima-ya-14-mbetshelo-nga-u-angaredza-231-243)
-    *   [Mulayo wa Dzitshaka](14.html#mulayo-wa-dzitshaka)
+    *   [Mulayo wa Dzitshaka](14.html#mulayo-wa-dzitshaka){:.subhead}
         *   [231\. Thendelano dza dzitshaka](14.html#thendelano-dza-dzitshaka)
         *   [232\. Mulayo wa sialala wa dzitshaka](14.html#mulayo-wa-sialala-wa-dzitshaka)
         *   [233\. Tshumiso ya mulayo wa dzitshaka](14.html#tshumiso-ya-mulayo-wa-dzitshaka)
-    *   [Maṅwe mafhungo](14.html#mawe-mafhungo)
+    *   [Maṅwe mafhungo](14.html#mawe-mafhungo){:.subhead}
         *   [234\. Thendelo nzwiwa dza pfanelo](14.html#thendelo-nzwiwa-dza-pfanelo)
         *   [235\. Pfanelo dza vhathu dza u kona u ḓiitela muvhuso une vha funa](14.html#pfanelo-dza-vhathu-dza-u-kona-u-iitela-muvhuso-une-vha-funa)
         *   [236\. Ndambedzo ya mahoro a zwa poḽitiki](14.html#ndambedzo-ya-mahoro-a-zwa-poitiki)
@@ -310,7 +310,7 @@ layout: default
     *   [5\. Muano kana khwaṱhisedzo ya Mulangavunḓu na miraḓo ya Khorotshitumbe ya vunḓu](schedule-2.html#muano-kana-khwahisedzo-ya-mulangavunu-na-mirao-ya-khorotshitumbe-ya-vunu)
     *   [6\. Muano kana khwaṱhisedzo ya Vhaofisiri vha zwa Vhuhaṱuli](schedule-2.html#muano-kana-khwahisedzo-ya-vhaofisiri-vha-zwa-vhuhauli)
 *   [Sheduḽu ya 3: Matshimbidzele a Khetho](schedule-3.html#sheduu-ya-3-matshimbidzele-a-khetho)
-    *   [Tshipiḓa tsha A: Matshimbidzele a khetho dza Vhafaraofisi vha zwa Ndayotewa](schedule-3.html#tshipia-tsha-a-matshimbidzele-a-khetho-dza-vhafaraofisi-vha-zwa-ndayotewa)
+    *   [Tshipiḓa tsha A: Matshimbidzele a khetho dza Vhafaraofisi vha zwa Ndayotewa](schedule-3.html#tshipia-tsha-a-matshimbidzele-a-khetho-dza-vhafaraofisi-vha-zwa-ndayotewa){:.subhead}
         *   [1\. Kushumele](schedule-3.html#kushumele)
         *   [2\. U tiwa](schedule-3.html#u-tiwa)
         *   [3\. Ṱhoḓea dza tshiofisi](schedule-3.html#hoea-dza-tshiofisi)
@@ -320,7 +320,7 @@ layout: default
         *   [7\. Maitele a u bvisa](schedule-3.html#maitele-a-u-bvisa)
         *   [8\. Miṅwe miṱangano](schedule-3.html#miwe-miangano)
         *   [9\. Milayo](schedule-3.html#milayo)
-    *   [Tshipiḓa tsha B: Nḓila ya u ta kudzhenelele kwa ḽihoro kha Vhurumiwa ha vunḓu kha khoro ya mavunḓu ya Lushaka](schedule-3.html#tshipia-tsha-b-nila-ya-u-ta-kudzhenelele-kwa-ihoro-kha-vhurumiwa-ha-vunu-kha-khoro-ya-mavunu-ya-lushaka)
+    *   [Tshipiḓa tsha B: Nḓila ya u ta kudzhenelele kwa ḽihoro kha Vhurumiwa ha vunḓu kha khoro ya mavunḓu ya Lushaka](schedule-3.html#tshipia-tsha-b-nila-ya-u-ta-kudzhenelele-kwa-ihoro-kha-vhurumiwa-ha-vunu-kha-khoro-ya-mavunu-ya-lushaka){:.subhead}
 *   [Sheduḽu ya 4: Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Lushaka Khathihi na ha Vunḓu](schedule-4.html#sheduu-ya-4-maana-a-fhethu-ha-mishumo-ya-vhusimamilayo-ha-lushaka-khathihi-na-ha-vunu)
     *   [Tshipiḓa tsha A](schedule-4.html#tshipia-tsha-a)
     *   [Tshipiḓa tsha B](schedule-4.html#tshipia-tsha-b)
