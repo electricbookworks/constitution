@@ -37,7 +37,7 @@ style: chapter
 > [Kgaoganyo ya Porofense ya Gauteng e fetotswe ke Molaotheo Tlhabololo ya Bosomethataro ya Molao wa 2009.]
 {:.note}
 
-*	Mmepe No. 4 mo Kitsisong 1490 ya of 2008 ya Mametlelelo 1 go Kitsiso 1998 ya 2005
+*	Mmepe No. 4 mo Kitsisong 1490 ya 2008 ya Mametlelelo 1 go Kitsiso 1998 ya 2005
 
 	> [Go kaiwa ga Mmepe No. 4 go emetswe ke k. 1(a) ya Molaotheo Tlhabololo ya Bosomethataro ya Molao wa 2009.]
 	{:.note}
@@ -92,7 +92,7 @@ style: chapter
 > [Kgaoganyo ya Porofense ya Bokone Bophirima go fetotswe ke Molaotheo Tlhabololo ya Bosometh- ataro ya Molao wa 2009.]
 {:.note}
 
-*	Mmepe No. 5 in Notice 1490 of 2008
+*	Mmepe No. 5 mo Kitsisong 1490 ya 2008
 
 	> [Go kaiwa ga Mmepe No. 5 go emetswe ke k. 1(b) ya Molaotheo Tlhabololo ya Bosomethataro ya Molao wa 2009.]
 	{:.note}
