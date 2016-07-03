@@ -1,7 +1,7 @@
 ---
 stylesheet: screen.css
 title: Contents
-style: "contents-page"
+style: contents-page
 published: true
 layout: default
 ---
@@ -58,7 +58,7 @@ layout: default
     *   [43\. Ligunya lekushaya umtsetfo weRiphabhulikhi](04.html#ligunya-lekushaya-umtsetfo-weriphabhulikhi)
     *   [44\. Ligunya lekushaya umtsetfo wavelonkhe](04.html#ligunya-lekushaya-umtsetfo-wavelonkhe)
     *   [45\. Imitsetfomgomo lehlanganyelwe netibopho kanye nemakomiti lahlanganyelwe](04.html#imitsetfomgomo-lehlanganyelwe-netibopho-kanye-nemakomiti-lahlanganyelwe)
-    *   [Sigungu saVelonkhe](04.html#sigungu-savelonkhe)
+    *   [Sigungu saVelonkhe](04.html#sigungu-savelonkhe){:.subhead}
         *   [46\. Kubunjwa nekukhetfwa](04.html#kubunjwa-nekukhetfwa)
         *   [47\. Bulunga](04.html#bulunga)
         *   [48\. Kufunga noma kuvuma ngekutibopha](04.html#kufunga-noma-kuvuma-ngekutibopha)
@@ -73,7 +73,7 @@ layout: default
         *   [57\. Kuhlelembisa kwangekhatsi, lokuchubekako netinchubo tesigungu saVelonkhe](04.html#kuhlelembisa-kwangekhatsi-lokuchubekako-netinchubo-tesigungu-savelonkhe)
         *   [58\. Lilungelomvume](04.html#lilungelomvume)
         *   [59\. Kuvumeleka kwemmango nekufaka sandla esigungwini saVelonkhe](04.html#kuvumeleka-kwemmango-nekufaka-sandla-esigungwini-savelonkhe)
-    *   [Umkhandlu weTifundza](04.html#umkhandlu-wetifundza)
+    *   [Umkhandlu weTifundza](04.html#umkhandlu-wetifundza){:.subhead}
         *   [60\. Kubunjwa kwemkhandlu waVelonkhe](04.html#kubunjwa-kwemkhandlu-wavelonkhe)
         *   [61\. Kubekwa kwetitfunywa](04.html#kubekwa-kwetitfunywa)
         *   [62\. Titfunywa letingesuswa](04.html#titfunywa-letingesuswa)
@@ -87,7 +87,7 @@ layout: default
         *   [70\. Kuhlelembisa kwangekhatsi, lokuchubekako netinchubo temkhandlu waVelonkhe](04.html#kuhlelembisa-kwangekhatsi-lokuchubekako-netinchubo-temkhandlu-wavelonkhe)
         *   [71\. Lilungelomvume](04.html#lilungelomvume-1)
         *   [72\. Kuvumeleka kwemmango nekufaka sandla emkhandlwini waVelonkhe](04.html#kuvumeleka-kwemmango-nekufaka-sandla-emkhandlwini-wavelonkhe)
-    *   [Inchubo yekushaya umtsetfo waVelonkhe](04.html#inchubo-yekushaya-umtsetfo-wavelonkhe)
+    *   [Inchubo yekushaya umtsetfo waVelonkhe](04.html#inchubo-yekushaya-umtsetfo-wavelonkhe){:.subhead}
         *   [73\. Imitsetfosivivinyo yonkhe](04.html#imitsetfosivivinyo-yonkhe)
         *   [74\. Imitsetfosivivinyo lechibiyela umtsetfosisekelo](04.html#imitsetfosivivinyo-lechibiyela-umtsetfosisekelo)
         *   [75\. Imitsetfosivivinyo leyeTayelekile lengatsintsani netifundza](04.html#imitsetfosivivinyo-leyetayelekile-lengatsintsani-netifundza)
@@ -121,7 +121,7 @@ layout: default
     *   [102\. Tiphakamiso tekungatsembakali](05.html#tiphakamiso-tekungatsembakali)
 *   [Sehluko 6: Tifundza (103-150)](06.html#sehluko-6-tifundza-103-150)
     *   [103\. Tifundza](06.html#tifundza)
-    *   [Tishayamtsetfo teTifundza](06.html#tishayamtsetfo-tetifundza)
+    *   [Tishayamtsetfo teTifundza](06.html#tishayamtsetfo-tetifundza){:.subhead}
         *   [104\. Ligunya lekushaya imitsetfo kweTifundza](06.html#ligunya-lekushaya-imitsetfo-kwetifundza)
         *   [105\. Kubunjwa nekukhetfwa kwetishayamtsetfo tetifundza](06.html#kubunjwa-nekukhetfwa-kwetishayamtsetfo-tetifundza)
         *   [106\. Bulunga](06.html#bulunga)
@@ -143,7 +143,7 @@ layout: default
         *   [122\. Sicelo semalunga esishayamtsetfo eNkantolo yemtsetfosisekelo](06.html#sicelo-semalunga-esishayamtsetfo-enkantolo-yemtsetfosisekelo)
         *   [123\. Kushicelelwa kwemitsetfo yetifundza](06.html#kushicelelwa-kwemitsetfo-yetifundza)
         *   [124\. Kulondvolotwa kwemitsetfo yetifundza ngalokuphephile](06.html#kulondvolotwa-kwemitsetfo-yetifundza-ngalokuphephile)
-    *   [Labangamele Tifundza](06.html#labangamele-tifundza)
+    *   [Labangamele Tifundza](06.html#labangamele-tifundza){:.subhead}
         *   [125\. Ligunya lekwengamela letifundza](06.html#ligunya-lekwengamela-letifundza)
         *   [126\. Kuniketwa kwemisebenti](06.html#kuniketwa-kwemisebenti)
         *   [127\. Emandla nemisebenti yaboNdvunankhulu](06.html#emandla-nemisebenti-yabondvunankhulu)
@@ -161,12 +161,12 @@ layout: default
         *   [139\. Kungenelela kwesifundza kuhulumende wasekhaya](06.html#kungenelela-kwesifundza-kuhulumende-wasekhaya)
         *   [140\. Tincumo tesigungu lesengamele](06.html#tincumo-tesigungu-lesengamele)
         *   [141\. Tiphakamiso tekungatsembakali](06.html#tiphakamiso-tekungatsembakali-1)
-    *   [IMitsetfosisekelo yetiFundza](06.html#imitsetfosisekelo-yetifundza)
+    *   [IMitsetfosisekelo yetiFundza](06.html#imitsetfosisekelo-yetifundza){:.subhead}
         *   [142\. Kuvunywa kwemitsetfosisekelo yetifundza](06.html#kuvunywa-kwemitsetfosisekelo-yetifundza)
         *   [143\. Lokucuketfwe ngumtsetfosisekelo weTifundza](06.html#lokucuketfwe-ngumtsetfosisekelo-wetifundza)
         *   [144\. Kucinisekiswa kwemitsetfosisekelo yetifundza](06.html#kucinisekiswa-kwemitsetfosisekelo-yetifundza)
         *   [145\. Kusayinwa, kushicilelwa nekulondvolotwa kwemitsetfosisekelo yetifundza](06.html#kusayinwa-kushicilelwa-nekulondvolotwa-kwemitsetfosisekelo-yetifundza)
-    *   [Imitsetfo lengcubutanako](06.html#imitsetfo-lengcubutanako)
+    *   [Imitsetfo lengcubutanako](06.html#imitsetfo-lengcubutanako){:.subhead}
         *   [146\. Kungcubutana emkhatsini kwemtsetfo wavelonkhe newesifundza](06.html#kungcubutana-emkhatsini-kwemtsetfo-wavelonkhe-newesifundza)
         *   [147\. Lokunye kungcubutana](06.html#lokunye-kungcubutana)
         *   [148\. Kungcubutana lokungasombululeki](06.html#kungcubutana-lokungasombululeki)
@@ -206,25 +206,25 @@ layout: default
     *   [180\. Letinye tindzaba letitsintsa kuphatfwa kwetebulungiswa](08.html#letinye-tindzaba-letitsintsa-kuphatfwa-kwetebulungiswa)
 *   [Sehluko 9: Tikhungo Tembuso Letisekele Intsandvo Yelinyenti Ngekwemtsetfosisekelo (181-194)](09.html#sehluko-9-tikhungo-tembuso-letisekele-intsandvo-yelinyenti-ngekwemtsetfosisekelo-181-194)
     *   [181\. Kusungulwa kanye nemigomosisekelo lebusako](09.html#kusungulwa-kanye-nemigomosisekelo-lebusako)
-    *   [UMvikeli wemmango](09.html#umvikeli-wemmango)
+    *   [UMvikeli wemmango](09.html#umvikeli-wemmango){:.subhead}
         *   [182\. Imisebenti yemvikeli wemmango](09.html#imisebenti-yemvikeli-wemmango)
         *   [183\. Sikhatsi sekuba sesikhundleni](09.html#sikhatsi-sekuba-sesikhundleni)
-    *   [LiKhomishani laseNingizimu Afrika lemaLungelo eLuntfu](09.html#likhomishani-laseningizimu-afrika-lemalungelo-eluntfu)
+    *   [LiKhomishani laseNingizimu Afrika lemaLungelo eLuntfu](09.html#likhomishani-laseningizimu-afrika-lemalungelo-eluntfu){:.subhead}
         *   [184\. Imisebenti yelikhomishani lemalungelo eluntfu](09.html#imisebenti-yelikhomishani-lemalungelo-eluntfu)
-    *   [LiKhomishani lekuTfutfukiswa nekuVikelwa kwemaLungelo emiPhakatsi yemaSiko, teNkholo neluLwimi](09.html#likhomishani-lekutfutfukiswa-nekuvikelwa-kwemalungelo-emiphakatsi-yemasiko-tenkholo-nelulwimi)
+    *   [LiKhomishani lekuTfutfukiswa nekuVikelwa kwemaLungelo emiPhakatsi yemaSiko, teNkholo neluLwimi](09.html#likhomishani-lekutfutfukiswa-nekuvikelwa-kwemalungelo-emiphakatsi-yemasiko-tenkholo-nelulwimi){:.subhead}
         *   [185\. Imisebenti yalelikhomishani](09.html#imisebenti-yalelikhomishani)
         *   [186\. Kubunjwa kwalelikhomishani](09.html#kubunjwa-kwalelikhomishani)
-    *   [Ikhomishani Yekulingana ngeBulili](09.html#likhomishani-lekulingana-ngebulili)
+    *   [Ikhomishani Yekulingana ngeBulili](09.html#likhomishani-lekulingana-ngebulili){:.subhead}
         *   [187\. Imisebenti yelikhomishani lekulingana ngebulili](09.html#imisebenti-yelikhomishani-lekulingana-ngebulili)
-    *   [Umcwaningimabhuku Jikelele](09.html#umcwaningimabhuku-jikelele)
+    *   [Umcwaningimabhuku Jikelele](09.html#umcwaningimabhuku-jikelele){:.subhead}
         *   [188\. Imisebenti yeMcwaningimabhuku Jikelele](09.html#imisebenti-yemcwaningimabhuku-jikelele)
         *   [189\. Sikhatsi sekuba sesikhundleni](09.html#sikhatsi-sekuba-sesikhundleni-1)
-    *   [Ikhomishani yeluKhetfo](09.html#likhomishani-yelukhetfo)
+    *   [Ikhomishani yeluKhetfo](09.html#likhomishani-yelukhetfo){:.subhead}
         *   [190\. Imisebenti yekhomishani lelukhetfo](09.html#imisebenti-yelikhomishani-lelukhetfo)
         *   [191\. Kubunjwa kwelikhomishani lelukhetfo](09.html#kubunjwa-kwelikhomishani-lelukhetfo)
-    *   [Umtimba lotiMele wekuLawula TekuSakata](09.html#umtimba-lotimele-wekulawula-tekusakata)
+    *   [Umtimba lotiMele wekuLawula TekuSakata](09.html#umtimba-lotimele-wekulawula-tekusakata){:.subhead}
         *   [192\. Umtimba weTekusakata](09.html#umtimba-wetekusakata)
-    *   [Timiso Jikelele](09.html#timiso-jikelele)
+    *   [Timiso Jikelele](09.html#timiso-jikelele){:.subhead}
         *   [193\. Kubekwa esikhundleni](09.html#kubekwa-esikhundleni)
         *   [194\. Kukhishwa esikhundleni](09.html#kukhishwa-esikhundleni-1)
 *   [Sehluko 10: Kuphatfwa Kwembuso (195-197)](10.html#sehluko-10-kuphatfwa-kwembuso-195-197)
