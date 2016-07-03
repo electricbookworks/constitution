@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Mametlelelo 6. Dithulaganyo tsa Kgabaganyo
+published: true
+layout: default
+style: chapter
 ---
 
 # Mametlelelo 6: Dithulaganyo tsa Kgabaganyo
@@ -132,7 +136,7 @@ Molaotheo wa Porofense o o amogetsweng pele Molaotheo o mošwa o tsena tirisong,
 ## 14. Thebolelo ya melao go Diporofense
 
 1.	Molao malebana le morero o o tlhalositsweng mo Mametlelelo 4 kgotsa 5 tsa Molaotheo o mošwa, tse, pele Molaotheo o mošwa o tsena tirong, di neng ditsamaisiwa ke bothati jwa khuduthamaga ya Bosetšhaba, e ka rebolwa ke Moporesidente ka kgoeletso, go bothati taolo jo bo leng mo khuduthamaga ya Porofense e e tlhophilweng ke Khansele ya Khuduthamaga ya Porofense.
-2.	Go fitlha mo mabakeng a kgontshang thebolo ya molao mo tematlaleletso (1) gore e diragatswe ka botlalo, Moporesidente a ka dira kgoeletso ya go –
+2.	Go fitlha mo mabakeng a a kgontshang thebolo ya molao mo tematlaleletso (1) gore e diragatswe ka botlalo, Moporesidente a ka dira kgoeletso ya go –
 	1.	tlhabolola kgotsa baakanya molao o gore o tlhaloganyege le go dirisiwa;
 	1.	fa thebolo e sa ame karolo yotlhe ya molao, go fedisiwa le go amogelwa seshwa kgotsa ntle le ditlhabololo le dipakaanyo kgotsa ntle le tsona go tshwana le mo go temana (a), ditaelo tseo tirelo e welang ka fa tlase ga tsona, kgotsa ka moo di amegang ka teng ke ditirelo; kgotsa
 	1.	laola ntlha nngwe le nngwe e e tlhokegang, e e bakilweng ke thebolelo, go akaretsa go sutisiwa kana go sutiswa nakwana ga badiri le fa e le go sutiswa ga matlotlo, disuga, ditshwanelo le ditlamego, go tswa kgotsa go ya go khuduthamaga ya bosetšhaba kgotsa ya porofense kgotsa lefapha lengwe le lengwe la puso, botsamaisi, ditirelo tsa pabalesego kgotsa setheo sengwe.
