@@ -1,5 +1,9 @@
 ---
-title: Tlaleletso C. Puso tshwaraganelo ya Bosetšhaba&#58; Lekala la Porofense
+stylesheet: screen.css
+title: 'Tlaleletso C. Puso tshwaraganelo ya Bosetšhaba&#58; Lekala la Porofense'
+published: true
+layout: default
+style: chapter
 ---
 
 # Tlaleletso C: Puso tshwaraganelo ya Bosetšhaba: Lekala la Porofense
@@ -18,14 +22,14 @@ title: Tlaleletso C. Puso tshwaraganelo ya Bosetšhaba&#58; Lekala la Porofense
 	>	1.	go tlhomamisa mafapha a a tsepameng go abelwa makoko a farologaneng a a tsayang karolo go ya ka palo ya mafapha a abetsweng go ya ka karolotlaleletso (3);
 	>	1.	go thapa boemong jwa lefapha lengwe le lengwe, tokololo ya Kgotlapeomolao ya porofense, yo e leng tokololo ya lekoko leo lefapha leo le le abetsweng go ya ka temana(a) jaaka tokololo ya Lekgotla Khuduthamaga e e rweleng maikarabelo a lefapha leo;
 	>	1.	fa go le botlhokwa go tsamaelana le mabaka a Molaotheo, kgotsa mo kgatlhegong ya puso e manontlhotlho kgotsa phetolo ya tlhomamiso ngwe le ngwe go tsamaelana le temana (a)go ya ka karolotlaleletso (3);
-	>	1.	go fedisa kgetho nngwe le nngwe e e mo temana (b) –
+	>	1.	go fedisa kgetho nngwe le nngwe e e mo temaneng ya (b) –
 	>		1.	fa Tonakgolo a kopiwa go dira jalo ke moeteledipele wa lekoko leo tokololo ya Kgotla Khuduthamaga ya go nna jalo e leng leloko; kgotsa
 	>		1.	fa go le botlhokwa go tsamaelana le mabaka a Molaotheo kgotsa mo dikgatlhegong tsa puso e e manontlhotlho; kgotsa
 	>	1.	go tlatsa phatlhatiro mo kantorong ya tokololo ya kgotla Khuduthamaga, fa go tlhokega, go ya ka temana (b).
 	> 5.	Karolotlaleletso (4) e tshwanetse go diragatswa ka mowa wa go matlafatsa puso ya tshwaraganelo ya bosetšhaba, mme Tonakgolo le ba ba amegang ba tshwanetse go batla go fitlhelela ditumelelano ka nako tsotlhe mo tiragatsong ya karolotlaleletso eo: ntle le fa ditumelelano di sa fitlhelelwe mo –
-	>	1.	go diriseng thata e e tlhalositsweng mo temana (a),(c)        kgotsa (d)(ii) ya karolotlaleletso eo, tshwetso ya Tonakgolo ke yona e dirang;
-	>	1.	go diriseng thata e e tlhalositsweng mo temana (b),(d)(i) kgotsa (e)    ya karolotlaleletso eo, e ama motho yo e seng leloko la lekoko la Tonakgolo, tshwetso ya moeteledipele wa lekoko leo motho yoo e leng leloko la yona e tla nna lefoko la bofelo; le
-	>	1.	go diriseng thata e e tlhalositsweng mo temana (b) kgotsa (e) ya karolotlaleletso e amang motho yo e leng leloko la lekoko la Tonakgolo, tshwetso ya Tonakgolo e tla nna lefoko la bofelo.
+	>	1.	go diriseng thata e e tlhalositsweng mo temaneng ya (a),(c)        kgotsa (d)(ii) ya karolotlaleletso eo, tshwetso ya Tonakgolo ke yona e dirang;
+	>	1.	go diriseng thata e e tlhalositsweng mo temaneng ya (b),(d)(i) kgotsa (e)    ya karolotlaleletso eo, e ama motho yo e seng leloko la lekoko la Tonakgolo, tshwetso ya moeteledipele wa lekoko leo motho yoo e leng leloko la yona e tla nna lefoko la bofelo; le
+	>	1.	go diriseng thata e e tlhalositsweng mo temaneng ya (b) kgotsa (e) ya karolotlaleletso e amang motho yo e leng leloko la lekoko la Tonakgolo, tshwetso ya Tonakgolo e tla nna lefoko la bofelo.
 	> 6.	Fa kaelo nngwe le nngwe ya kabelo ya mafapha e fetolwa mo karolotlaleletso (4) (c), ditokololo tse di amegang di tshwanetse go tlogela mafapha a bona mme ba na le go ka thaphiwa, fa go le maleba, gape mo mafapheng a mangwe a a abetsweng makoko a farologaneng a bona go ya ka mabaka a dikabo ka go farologana.
 	> 7.	Dikopano tsa Kgotla Khuduthamaga di tshwanetse go okamiwa ke Tonakgolo ya Porofense.
 	> 8.	Kgotla Khuduthamaga e tshwanelwa ke go dira ka mokgwa o o tla nayang tshiamisetso go mowa wa tirisanommogo o akarediwang mo pusong ya tshwaraganelo ya bosetšhaba le fela jaaka tlhokego ya puso e e nang le bokgoni.
