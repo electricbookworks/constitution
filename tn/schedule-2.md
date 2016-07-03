@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Mametlelelo 2. Maikano le Ditumelo tse di Masisi
+published: true
+layout: default
+style: chapter
 ---
 
 # Mametlelelo 2: Maikano le Ditumelo tse di Masisi
@@ -11,7 +15,7 @@ title: Mametlelelo 2. Maikano le Ditumelo tse di Masisi
 
 Moporesidente kgotsa Moporesidente wa nama-o-tshwere, fa pele ga Moatlhodimogolo, o tshwanetse go ikana/tshepisa boikanyego jaana:
 
-Fa pele ga botlhe ba ba kokoaneng fano, le ka temogo e e tletseng ya tiro e e masisi ya go amogelwa jaaka Moporesidente wa Rephaboliki ya Aforika Borwa, nna, A.B. ke ikana/tshepisa ka tlhoafalo gore ke tla nna boikanyego go Rephaboliki ya Aforika Borwa, mme ke tla obamela, ela tlhoko, tshegetsa le go babalela Molaotheo le melao yotlhe ya Rephaboliki, e bile ke tlhomamisa le go solofetsa ka pelo yotlhe gore ka metlha ke tla–
+Fa pele ga botlhe ba ba kokoaneng fano, le ka temogo e e tletseng ya tiro e e masisi ya go amogelwa jaaka Moporesidente wa Rephaboliki ya Aforika Borwa, nna, A.B. ke ikana/solofetsa ka tlhoafalo gore ke tla nna boikanyego go Rephaboliki ya Aforika Borwa, mme ke tla obamela, ela tlhoko, tshegetsa le go babalela Molaotheo le melao yotlhe ya Rephaboliki, e bile ke tlhomamisa le go solofetsa ka pelo yotlhe gore ka metlha ke tla–
 
 *	rotloetsa se se tla tsweletsang, le go ema kgatlhanong tsotlhe tse di ka senyang Rephaboliki;
 *	sireletsa le go tsweletsa ditshwanelo tsa maAforika Borwa otlhe;
