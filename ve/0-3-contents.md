@@ -306,8 +306,8 @@ layout: default
     *   [1\. Muano kana khwaṱhisedzo ya Phresidennde kana Mufarela-Phresidennde](schedule-2.html#muano-kana-khwahisedzo-ya-phresidennde-kana-mufarela-phresidennde)
     *   [2\. Muano kana khwaṱhisedzo ya Muthusa-Phresidennde](schedule-2.html#muano-kana-khwahisedzo-ya-muthusa-phresidennde)
     *   [3\. Muano kana khwaṱhisedzo ya Minisṱa na Vhathusa-Minisṱa](schedule-2.html#muano-kana-khwahisedzo-ya-minisa-na-vhathusa-minisa)
-    *   [4\. Muano kana khwaṱhisedzo ya u ḓiana ya miraḓo ya Buthano ḽa Lushaka, Vhurumiwa ha Tshoṱhe kha Khoro ya Lushaka ya Mavunḓu](schedule-2.html#muano-kana-khwahisedzo-ya-u-iana-ya-mirao-ya-buthano-a-lushaka-vhurumiwa-ha-tshohe-kha-khoro-ya-lushaka-ya-mavunu)
-    *   [5\. Muano kana khwaṱhisedzo ya Mulangavunḓu na miraḓo ya Khorotshitumbe ya vunḓu](schedule-2.html#muano-kana-khwahisedzo-ya-mulangavunu-na-mirao-ya-khorotshitumbe-ya-vunu)
+    *   [4\. Muano kana khwaṱhisedzo ya u ḓiana ya miraḓo ya Buthano ḽa Lushaka, Vhurumiwa ha Tshoṱhe kha Khoro ya Lushaka ya Mavundu](schedule-2.html#muano-kana-khwahisedzo-ya-u-iana-ya-mirao-ya-buthano-a-lushaka-vhurumiwa-ha-tshohe-kha-khoro-ya-lushaka-ya-mavunu)
+    *   [5\. Muano kana khwaṱhisedzo ya Mulangavundu na miraḓo ya Khorotshitumbe ya vundu](schedule-2.html#muano-kana-khwahisedzo-ya-mulangavunu-na-mirao-ya-khorotshitumbe-ya-vunu)
     *   [6\. Muano kana khwaṱhisedzo ya Vhaofisiri vha zwa Vhuhaṱuli](schedule-2.html#muano-kana-khwahisedzo-ya-vhaofisiri-vha-zwa-vhuhauli)
 *   [Sheduḽu ya 3: Matshimbidzele a Khetho](schedule-3.html#sheduu-ya-3-matshimbidzele-a-khetho)
     *   [Tshipiḓa tsha A: Matshimbidzele a khetho dza Vhafaraofisi vha zwa Ndayotewa](schedule-3.html#tshipia-tsha-a-matshimbidzele-a-khetho-dza-vhafaraofisi-vha-zwa-ndayotewa){:.subhead}
@@ -320,7 +320,7 @@ layout: default
         *   [7\. Maitele a u bvisa](schedule-3.html#maitele-a-u-bvisa)
         *   [8\. Miṅwe miṱangano](schedule-3.html#miwe-miangano)
         *   [9\. Milayo](schedule-3.html#milayo)
-    *   [Tshipiḓa tsha B: Nḓila ya u ta kudzhenelele kwa ḽihoro kha Vhurumiwa ha vunḓu kha khoro ya mavunḓu ya Lushaka](schedule-3.html#tshipia-tsha-b-nila-ya-u-ta-kudzhenelele-kwa-ihoro-kha-vhurumiwa-ha-vunu-kha-khoro-ya-mavunu-ya-lushaka){:.subhead}
+    *   [Tshipiḓa tsha B: Nḓila ya u ta kudzhenelele kwa ḽihoro kha Vhurumiwa ha vundu kha Khoro ya Mavundu ya Lushaka](schedule-3.html#tshipia-tsha-b-nila-ya-u-ta-kudzhenelele-kwa-ihoro-kha-vhurumiwa-ha-vunu-kha-khoro-ya-mavunu-ya-lushaka){:.subhead}
 *   [Sheduḽu ya 4: Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Lushaka Khathihi na ha Vunḓu](schedule-4.html#sheduu-ya-4-maana-a-fhethu-ha-mishumo-ya-vhusimamilayo-ha-lushaka-khathihi-na-ha-vunu)
     *   [Tshipiḓa tsha A](schedule-4.html#tshipia-tsha-a)
     *   [Tshipiḓa tsha B](schedule-4.html#tshipia-tsha-b)
