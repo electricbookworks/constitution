@@ -248,7 +248,7 @@ layout: default
     *   [Zwa vhusevhi](11.html#zwa-vhusevhi){:.subhead}
         *   [209\. U thomiwa na u langiwa ha tshumelo dza zwa vhusevhi](11.html#u-thomiwa-na-u-langiwa-ha-tshumelo-dza-zwa-vhusevhi)
         *   [210\. Maanḓa, mishumo na u lavhelesa](11.html#maana-mishumo-na-u-lavhelesa)
-*   [Ndima ya 12: Vharangaphanḓa vha zwa Sialala (khethekanyo dza 211-212)](12.html#ndima-ya-12-vharangaphana-vha-zwa-sialala-khethekanyo-dza-211-212)
+*   [Ndima ya 12: Vharangaphanḓa vha Sialala (khethekanyo dza 211-212)](12.html#ndima-ya-12-vharangaphana-vha-sialala-khethekanyo-dza-211-212)
     *   [211\. U ṱanganedza](12.html#u-anganedza)
     *   [212\. Mishumo ya vharangaphanḓa vha sialala](12.html#mishumo-ya-vharangaphana-vha-sialala)
 *   [Ndima ya 13: Gwama (khethekanyo dza 213-230A)](13.html#ndima-ya-13-gwama-213-230a)
