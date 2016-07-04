@@ -215,12 +215,12 @@ layout: default
         *   [185\. Mishumo ya Khomishini](09.html#mishumo-ya-khomishini)
         *   [186\. Kuvhumbelwe kwa Khomishini](09.html#kuvhumbelwe-kwa-khomishini)
     *   [Khomishini ya Ndinganyiso ya Mbeu](09.html#khomishini-ya-ndinganyiso-ya-mbeu){:.subhead}
-        *   [187\. Mishumo ya Khomishini ya zwa Ndinganyiso ya Mbeu](09.html#mishumo-ya-khomishini-ya-zwa-ndinganyiso-ya-mbeu)
+        *   [187\. Mishumo ya Khomishini ya Ndinganyiso ya Mbeu](09.html#mishumo-ya-khomishini-ya-zwa-ndinganyiso-ya-mbeu)
     *   [Muoditha-Dzhenerala](09.html#muoditha-dzhenerala){:.subhead}
         *   [188\. Mishumo ya Muoditha-Dzhenerala](09.html#mishumo-ya-muoditha-dzhenerala)
         *   [189\. Tshifhinga tsha u shuma ofisini](09.html#tshifhinga-tsha-u-shuma-ofisini-1)
-    *   [Khomishini ya zwa Khetho](09.html#khomishini-ya-zwa-khetho){:.subhead}
-        *   [190\. Mishumo ya Khomishini ya zwa Khetho](09.html#mishumo-ya-khomishini-ya-zwa-khetho)
+    *   [Khomishini ya Khetho](09.html#khomishini-ya-khetho){:.subhead}
+        *   [190\. Mishumo ya Khomishini ya Khetho](09.html#mishumo-ya-khomishini-ya-khetho)
         *   [191\. Kuvhumbelwe kwa Khomishini ya Khetho](09.html#kuvhumbelwe-kwa-khomishini-ya-khetho)
     *   [Maanḓalanga a Ḓivhusaho a Laulaho zwa Khasho](09.html#maanalanga-a-ivhusaho-a-laulaho-zwa-khasho){:.subhead}
         *   [192\. Maanḓalanga a Khasho](09.html#maanalanga-a-khasho)
