@@ -95,7 +95,7 @@ layout: default
         *   [77 Milayotibe ya zwa masheleni](04.html#milayotibe-ya-zwa-masheleni)
         *   [78\. Komiti ya Vhukonanyi](04.html#komiti-ya-vhukonanyi)
         *   [79\. U ṋea thendelo kha milayotibe](04.html#u-ea-thendelo-kha-milayotibe)
-        *   [80\. Khumbelo nga miraḓo ya Buthano ḽa Lushaka kha Khothe ya zwa Ndayotewa](04.html#khumbelo-nga-mirao-ya-buthano-a-lushaka-kha-khothe-ya-zwa-ndayotewa)
+        *   [80\. Khumbelo nga miraḓo ya Buthano ḽa Lushaka kha Khothe ya Ndayotewa](04.html#khumbelo-nga-mirao-ya-buthano-a-lushaka-kha-khothe-ya-ndayotewa)
         *   [81\. Nyanḓadzo ya milayo](04.html#nyanadzo-ya-milayo)
         *   [82\. U vhulungwa ha milayo ya phalamennde nga nḓila yo tsireledzeaho](04.html#u-vhulungwa-ha-milayo-ya-phalamennde-nga-nila-yo-tsireledzeaho)
 *   [Ndima ya 5: Phresidennde na Khorotshitumbe ya Lushaka (khethekanyo dza 83-102)](05.html#ndima-ya-5-phresidennde-na-khorotshitumbe-ya-lushaka-khethekanyo-dza-83-102)
