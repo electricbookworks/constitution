@@ -207,10 +207,10 @@ layout: default
 *   [Ndima ya 9: Zwiimiswa zwa Muvhuso zwi Tikedzaho Demokirasi ya Ndayotewa (khethekanyo dza 181-194)](09.html#ndima-ya-9-zwiimiswa-zwa-muvhuso-zwi-tikedzaho-demokirasi-ya-zwa-ndayotewa-khethekanyo-dza-181-194)
     *   [181\. U thomiwa na milayo i zwi vhusaho](09.html#u-thomiwa-na-milayo-i-zwi-vhusaho)
     *   [Mutsireledzi wa Tshitshavha](09.html#mutsireledzi-wa-tshitshavha){:.subhead}
-        *   [182\. Mishumo ya mutsireledzi wa Tshitshavha](09.html#mishumo-ya-mutsireledzi-wa-tshitshavha)
+        *   [182\. Mishumo ya Mutsireledzi wa Tshitshavha](09.html#mishumo-ya-mutsireledzi-wa-tshitshavha)
         *   [183\. Tshifhinga tsha u shuma ofisini](09.html#tshifhinga-tsha-u-shuma-ofisini)
     *   [Khomishini ya Pfanelo dza Vhuthu ya Afrika Tshipembe](09.html#khomishini-ya-pfanelo-dza-vhuthu-ya-afrika-tshipembe){:.subhead}
-        *   [184\. Mishumo ya Khomishini ya Pfanelo dza Vhuthu ya Afurika Tshipembe](09.html#mishumo-ya-khomishini-ya-pfanelo-dza-vhuthu-ya-afurika-tshipembe)
+        *   [184\. Mishumo ya Khomishini ya Pfanelo dza Vhuthu ya Afrika Tshipembe](09.html#mishumo-ya-khomishini-ya-pfanelo-dza-vhuthu-ya-afrika-tshipembe)
     *   [Khomishini ya Ṱhuṱhuwedzo na Tsireledzo ya Pfanelo dza Zwitshavha zwa Mvelele, Vhurereli na Luambo](09.html#khomishini-ya-huhuwedzo-na-tsireledzo-ya-pfanelo-dza-zwitshavha-zwa-mvelele-vhurereli-na-luambo){:.subhead}
         *   [185\. Mishumo ya Khomishini](09.html#mishumo-ya-khomishini)
         *   [186\. Kuvhumbelwe kwa Khomishini](09.html#kuvhumbelwe-kwa-khomishini)
