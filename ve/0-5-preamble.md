@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Mvulatswinga
+published: true
+layout: default
+style: chapter
 ---
 
 # Mvulatswinga
@@ -14,7 +18,7 @@ Ri ṱhonifha havho vhe vha shuma vha tshi itela u fhaṱa na u bveledzisa shang
 
 U tenda uri Afrika Tshipembe ndi ḽa vhoṱhe vhane vha dzula khaḽo, vho vhofhekanywaho vha vha huthihi naho vha sa fani.
 
-Zwenezwo, nga kha vhaimeleli vho khethiwaho zwavhuḓi, ri khou ṱanganedza ino Ndayotewa sa wone Mulayo Muhulusa wa Riphabuḽiki uri u-
+Zwenezwo, nga kha vhaimeleli vho khethiwaho zwavhuḓi, ri khou ṱanganedza ino Ndayotewa sa wone Mulayo Muhulwanesa wa Riphabuḽiki uri u-
 
 *	Fhelise khethululo ya tshifhinga tsho fhelaho na u thoma tshitshavha tshine tsho ḓisendeka kha ndeme dza demokirasi, vhulamukanyi ha matshilisano na pfanelo dza vhuthu;
 *	Fhaṱe mitheo kha demokirasi na tshitshavha tshi re khagala hune muvhuso wo ḓisendeka kha lufuno lwa vhathu nahone vhadzulapo vho tsireledzwa nga mulayo nga nḓila I linganaho;
