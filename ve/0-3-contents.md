@@ -204,7 +204,7 @@ layout: default
     *   [178\. Khomishini ya Tshumelo ya zwa Vhuhaṱuli](08.html#khomishini-ya-tshumelo-ya-zwa-vhuhauli)
     *   [179\. Maanḓalanga a zwa Vhutshutshisi](08.html#maanalanga-a-zwa-vhutshutshisi)
     *   [180\. Maṅwe mafhungo a kwamaho ndaulo ya vhulamukanyi](08.html#mawe-mafhungo-a-kwamaho-ndaulo-ya-vhulamukanyi)
-*   [Ndima ya 9: Zwiimiswa zwa Muvhuso zwi Tikedzaho Demokirasi ya zwa Ndayotewa (khethekanyo dza 181-194)](09.html#ndima-ya-9-zwiimiswa-zwa-muvhuso-zwi-tikedzaho-demokirasi-ya-zwa-ndayotewa-khethekanyo-dza-181-194)
+*   [Ndima ya 9: Zwiimiswa zwa Muvhuso zwi Tikedzaho Demokirasi ya Ndayotewa (khethekanyo dza 181-194)](09.html#ndima-ya-9-zwiimiswa-zwa-muvhuso-zwi-tikedzaho-demokirasi-ya-zwa-ndayotewa-khethekanyo-dza-181-194)
     *   [181\. U thomiwa na milayo i zwi vhusaho](09.html#u-thomiwa-na-milayo-i-zwi-vhusaho)
     *   [Mutsireledzi wa Tshitshavha](09.html#mutsireledzi-wa-tshitshavha){:.subhead}
         *   [182\. Mishumo ya mutsireledzi wa Tshitshavha](09.html#mishumo-ya-mutsireledzi-wa-tshitshavha)
