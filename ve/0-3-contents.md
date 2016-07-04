@@ -68,7 +68,7 @@ layout: default
         *   [52\. Mulangadzulo na Muthusa-Mulangadzulo](04.html#mulangadzulo-na-muthusa-mulangadzulo)
         *   [53\. Tsheo](04.html#tsheo)
         *   [54\. Pfanelo dza miṅwe miraḓo na Vhathusa-minisṱa kha buthano ḽa Lushaka](04.html#pfanelo-dza-miwe-mirao-na-vhathusa-minisa-kha-buthano-a-lushaka)
-        *   [55\. Maanḓa a buthano ḽa Lushaka](04.html#maana-a-buthano-a-lushaka)
+        *   [55\. Maanḓa a Buthano ḽa Lushaka](04.html#maana-a-buthano-a-lushaka)
         *   [56\. Vhuṱanzi kana mafhungo a re phanḓa ha buthano ḽa Lushaka](04.html#vhuanzi-kana-mafhungo-a-re-phana-ha-buthano-a-lushaka)
         *   [57\. Nzudzanyo dza nga ngomu, maitele na matshimbidzele a buthano ḽa Lushaka](04.html#nzudzanyo-dza-nga-ngomu-maitele-na-matshimbidzele-a-buthano-a-lushaka)
         *   [58\. Vhuṱalu](04.html#vhualu)
