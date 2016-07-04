@@ -63,7 +63,7 @@ layout: default
         *   [47\. Vhuraḓo](04.html#vhurao)
         *   [48\. Miano kana u khwaṱhisedza](04.html#miano-kana-u-khwahisedza)
         *   [49\. Tshifhinga tshine Buthano ḽa Lushaka ḽa ḓo tshi fhedza](04.html#tshifhinga-tshine-buthano-a-lushaka-a-o-tshi-fhedza)
-        *   [50\. U fhaladzwa ha buthano ḽa Lushaka phanḓa ha musi tshifhinga tshaḽo tsha u shuma tshi tshi fhela](04.html#u-fhaladzwa-ha-buthano-a-lushaka-phana-ha-musi-tshifhinga-tshao-tsha-u-shuma-tshi-tshi-fhela)
+        *   [50\. U fhaladzwa ha Buthano ḽa Lushaka phanḓa ha musi tshifhinga tshaḽo tsha u shuma tshi tshi fhela](04.html#u-fhaladzwa-ha-buthano-a-lushaka-phana-ha-musi-tshifhinga-tshao-tsha-u-shuma-tshi-tshi-fhela)
         *   [51\. Zwifhinga zwa madzulo na zwa u awela](04.html#zwifhinga-zwa-madzulo-na-zwa-u-awela)
         *   [52\. Mulangadzulo na muthusa-mulangadzulo](04.html#mulangadzulo-na-muthusa-mulangadzulo)
         *   [53\. Tsheo](04.html#tsheo)
