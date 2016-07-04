@@ -70,9 +70,9 @@ layout: default
         *   [54\. Pfanelo dza miṅwe miraḓo na Vhathusa-minisṱa kha buthano ḽa Lushaka](04.html#pfanelo-dza-miwe-mirao-na-vhathusa-minisa-kha-buthano-a-lushaka)
         *   [55\. Maanḓa a Buthano ḽa Lushaka](04.html#maana-a-buthano-a-lushaka)
         *   [56\. Vhuṱanzi kana mafhungo a re phanḓa ha Buthano ḽa Lushaka](04.html#vhuanzi-kana-mafhungo-a-re-phana-ha-buthano-a-lushaka)
-        *   [57\. Nzudzanyo dza nga ngomu, maitele na matshimbidzele a buthano ḽa Lushaka](04.html#nzudzanyo-dza-nga-ngomu-maitele-na-matshimbidzele-a-buthano-a-lushaka)
+        *   [57\. Nzudzanyo dza nga ngomu, maitele na matshimbidzele a Buthano ḽa Lushaka](04.html#nzudzanyo-dza-nga-ngomu-maitele-na-matshimbidzele-a-buthano-a-lushaka)
         *   [58\. Vhuṱalu](04.html#vhualu)
-        *   [59\. U kona u swikelela na u dzhenelela kha buthano ḽa Lushaka nga nnyi na nnyi](04.html#u-kona-u-swikelela-na-u-dzhenelela-kha-buthano-a-lushaka-nga-nnyi-na-nnyi)
+        *   [59\. U kona u swikelela na u dzhenelela kha Buthano ḽa Lushaka nga nnyi na nnyi](04.html#u-kona-u-swikelela-na-u-dzhenelela-kha-buthano-a-lushaka-nga-nnyi-na-nnyi)
     *   [Khoro ya mavunḓu ya Lushaka](04.html#khoro-ya-mavunu-ya-lushaka){:.subhead}
         *   [60\. Kuvhumbelwe kwa khoro ya Lushaka](04.html#kuvhumbelwe-kwa-khoro-ya-lushaka)
         *   [61\. U kovhiwa ha Vharumiwa](04.html#u-kovhiwa-ha-vharumiwa)
