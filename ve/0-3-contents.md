@@ -80,7 +80,7 @@ layout: default
         *   [63\. Madzulo a Khoro ya Lushaka](04.html#madzulo-a-khoro-ya-lushaka)
         *   [64\. Mudzulatshidulo na Muthusa-Mudzulatshidulo](04.html#mudzulatshidulo-na-muthusa-mudzulatshidulo)
         *   [65\. Dzitsheo](04.html#dzitsheo)
-        *   [66\. U dzhenela nga miraḓo ya khorotshitumbe ya Lushaka](04.html#u-dzhenela-nga-mirao-ya-khorotshitumbe-ya-lushaka)
+        *   [66\. U dzhenela nga miraḓo ya khorotshitumbe ya lushaka](04.html#u-dzhenela-nga-mirao-ya-khorotshitumbe-ya-lushaka)
         *   [67\. U dzhenela nga vhaimeleli vha muvhuso wapo](04.html#u-dzhenela-nga-vhaimeleli-vha-muvhuso-wapo)
         *   [68\. Maanḓa a khoro ya Lushaka](04.html#maana-a-khoro-ya-lushaka)
         *   [69\. Vhuṱanzi kana mafhungo a re phanḓa ha khoro ya Lushaka](04.html#vhuanzi-kana-mafhungo-a-re-phana-ha-khoro-ya-lushaka)
