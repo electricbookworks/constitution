@@ -140,10 +140,10 @@ layout: default
         *   [119\. U ḓivhadzwa ha Milayotibe](06.html#u-ivhadzwa-ha-milayotibe)
         *   [120\. Milayotibe ya zwa masheleni](06.html#milayotibe-ya-zwa-masheleni-1)
         *   [121\. U ṋea thendelo kha milayotibe](06.html#u-ea-thendelo-kha-milayotibe-1)
-        *   [122\. Khumbelo nga miraḓo kha Khothe ya zwa Ndayotewa](06.html#khumbelo-nga-mirao-kha-khothe-ya-zwa-ndayotewa)
-        *   [123\. Nyanḓadzo ya milayo ya vunḓu](06.html#nyanadzo-ya-milayo-ya-vunu)
-        *   [124\. U vhulungwa ha milayo ya Vunḓu nga nḓila yo tsireledzeaho](06.html#u-vhulungwa-ha-milayo-ya-vunu-nga-nila-yo-tsireledzeaho)
-    *   [Khorotshitumbe dza vunḓu](06.html#khorotshitumbe-dza-vunu){:.subhead}
+        *   [122\. Khumbelo nga miraḓo kha Khothe ya Ndayotewa](06.html#khumbelo-nga-mirao-kha-khothe-ya-zwa-ndayotewa)
+        *   [123\. Nyanḓadzo ya Milayo ya vundu](06.html#nyanadzo-ya-milayo-ya-vunu)
+        *   [124\. U vhulungwa ha Milayo ya vundu nga nḓila yo tsireledzeaho](06.html#u-vhulungwa-ha-milayo-ya-vunu-nga-nila-yo-tsireledzeaho)
+    *   [Khorotshitumbe dza vundu](06.html#khorotshitumbe-dza-vunu){:.subhead}
         *   [125\. Maanḓalanga a khorotshitumbe dza vunḓu](06.html#maanalanga-a-khorotshitumbe-dza-vunu)
         *   [126\. U ṋetshedza mishumo](06.html#u-etshedza-mishumo)
         *   [127\. Maanḓa na mishumo ya Vhalangavunḓu](06.html#maana-na-mishumo-ya-vhalangavunu)
