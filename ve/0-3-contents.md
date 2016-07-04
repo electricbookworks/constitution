@@ -74,7 +74,7 @@ layout: default
         *   [58\. Vhuṱalu](04.html#vhualu)
         *   [59\. U kona u swikelela na u dzhenelela kha Buthano ḽa Lushaka nga nnyi na nnyi](04.html#u-kona-u-swikelela-na-u-dzhenelela-kha-buthano-a-lushaka-nga-nnyi-na-nnyi)
     *   [Khoro ya Mavundu ya Lushaka](04.html#khoro-ya-mavundu-ya-lushaka){:.subhead}
-        *   [60\. Kuvhumbelwe kwa khoro ya Lushaka](04.html#kuvhumbelwe-kwa-khoro-ya-lushaka)
+        *   [60\. Kuvhumbelwe kwa Khoro ya Lushaka](04.html#kuvhumbelwe-kwa-khoro-ya-lushaka)
         *   [61\. U kovhiwa ha Vharumiwa](04.html#u-kovhiwa-ha-vharumiwa)
         *   [62\. Vharumelwa ha tshoṱhe](04.html#vharumelwa-ha-tshohe)
         *   [63\. Madzulo a khoro ya Lushaka](04.html#madzulo-a-khoro-ya-lushaka)
