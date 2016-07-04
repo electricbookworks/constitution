@@ -83,7 +83,7 @@ layout: default
         *   [66\. U dzhenela nga miraḓo ya khorotshitumbe ya lushaka](04.html#u-dzhenela-nga-mirao-ya-khorotshitumbe-ya-lushaka)
         *   [67\. U dzhenela nga vhaimeleli vha muvhuso wapo](04.html#u-dzhenela-nga-vhaimeleli-vha-muvhuso-wapo)
         *   [68\. Maanḓa a Khoro ya Lushaka](04.html#maana-a-khoro-ya-lushaka)
-        *   [69\. Vhuṱanzi kana mafhungo a re phanḓa ha khoro ya Lushaka](04.html#vhuanzi-kana-mafhungo-a-re-phana-ha-khoro-ya-lushaka)
+        *   [69\. Vhuṱanzi kana mafhungo a re phanḓa ha Khoro ya Lushaka](04.html#vhuanzi-kana-mafhungo-a-re-phana-ha-khoro-ya-lushaka)
         *   [70\. Nzudzanyo dza nga ngomu, maitele na matshimbidzele a khoro ya Lushaka](04.html#nzudzanyo-dza-nga-ngomu-maitele-na-matshimbidzele-a-khoro-ya-lushaka)
         *   [71\. Vhuṱalu](04.html#vhualu-1)
         *   [72\. U kona u swikelela na u dzhenelela kha khoro ya Lushaka nga nnyi na nnyi](04.html#u-kona-u-swikelela-na-u-dzhenelela-kha-khoro-ya-lushaka-nga-nnyi-na-nnyi)
