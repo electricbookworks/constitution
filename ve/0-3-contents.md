@@ -76,7 +76,7 @@ layout: default
     *   [Khoro ya Mavundu ya Lushaka](04.html#khoro-ya-mavundu-ya-lushaka){:.subhead}
         *   [60\. Kuvhumbelwe kwa Khoro ya Lushaka](04.html#kuvhumbelwe-kwa-khoro-ya-lushaka)
         *   [61\. U kovhiwa ha Vharumiwa](04.html#u-kovhiwa-ha-vharumiwa)
-        *   [62\. Vharumelwa ha tshoṱhe](04.html#vharumelwa-ha-tshohe)
+        *   [62\. Vharumiwa vha tshoṱhe](04.html#vharumiwa-vha-tshohe)
         *   [63\. Madzulo a Khoro ya Lushaka](04.html#madzulo-a-khoro-ya-lushaka)
         *   [64\. Mudzulatshidulo na Muthusa-Mudzulatshidulo](04.html#mudzulatshidulo-na-muthusa-mudzulatshidulo)
         *   [65\. Dzitsheo](04.html#dzitsheo)
