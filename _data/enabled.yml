@@ -13,7 +13,7 @@ st: true
 # Setswana (tn)    tn
 tn: true
 # Xitsonga (ts)    ts
-ts: false
+ts: true
 # Tshivenḓa (ve)    ve
 ve: false
 # isiXhosa (xh)    xh
