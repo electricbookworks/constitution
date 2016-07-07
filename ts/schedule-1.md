@@ -14,14 +14,9 @@ title: Xedulu ya 1. Mujeko wa Rixaka
 > ![](images/south-african-flag-diagram-en.jpg)
 {:.figure}
 
-Black - Ntima
-
-Gold - Nsuku
-
-Red - Tshwuka
-
-White - Basa
-
-Green - Rihlaza
-
-Blue - Wasi
+* Black - Ntima
+* Gold - Nsuku
+* Red - Tshwuka
+* White - Basa
+* Green - Rihlaza
+* Blue - Wasi
