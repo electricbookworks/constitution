@@ -125,6 +125,8 @@ mac-pdf.bat,
 win-pdf.bat,
 win-web.bat,
 win-epub.bat,
+linux-pdf.sh,
+mac-pdf.sh,
 ]
 
 # Can be useful to stop Jekyll overwriting files in _site.
