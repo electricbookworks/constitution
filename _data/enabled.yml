@@ -1,11 +1,22 @@
+# Afrikaans
 af: true
+# English
 en: true
+# Ndebele (South Africa)
 nr: true
-nso: false
+# Sepedi/Northern Sotho
+nso: true
+# siSwati (ss)    ss
 ss: false
-st: false
-tn: false
+# Sesotho (st)    st
+st: true
+# Setswana (tn)    tn
+tn: true
+# Xitsonga (ts)    ts
 ts: false
+# Tshivenḓa (ve)    ve
 ve: false
-xh: false
-zu: false
+# isiXhosa (xh)    xh
+xh: true
+# isiZulu (zu)    zu
+zu: true

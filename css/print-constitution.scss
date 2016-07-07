@@ -319,3 +319,28 @@ blockquote.note {
 audio {
 	display: none;
 }
+
+// Notifications (part of nav-bar HTML)
+
+// Notifications must be hovered over or touched to expand
+
+$notify-green: #20a047;
+$notify-yellow: rgb(255, 255, 50);
+$notify-red: #ba0f0f;
+
+// Don't display notifications ...
+.notifications {
+	display: none;
+}
+// ... except on the contents page
+.contents-page .notifications {
+	display: block;
+    clear: both; // since nav-bar content floats
+    background: $notify-yellow;
+    margin: auto;
+    p {
+        font-family: $font-text-secondary;
+        padding: 1em;
+        column-span: all;
+    }
+}
