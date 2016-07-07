@@ -18,14 +18,9 @@ style: chapter
 > ![](images/south-african-flag-diagram-en.jpg)
 {:.figure}
 
-Black = Ntsho
-
-Gold = Gauta
-
-White = Tšhweu
-
-Green = Talamorogo
-
-Red = Khubedu
-
-Blue = Talalerata
+* Black = Ntsho
+* Gold = Gauta
+* White = Tšhweu
+* Green = Talamorogo
+* Red = Khubedu
+* Blue = Talalerata
