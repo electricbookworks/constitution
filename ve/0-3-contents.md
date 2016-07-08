@@ -191,7 +191,7 @@ layout: default
     *   [165\. Maanḓalanga a zwa vhuhaṱuli](08.html#maanalanga-a-zwa-vhuhauli)
     *   [166\. Sisiṱeme ya zwa Vhuhaṱuli](08.html#sisieme-ya-zwa-vhuhauli)
     *   [167\. Khothe ya Ndayotewa](08.html#khothe-ya-ndayotewa)
-    *   [168\. Khothe Khulwane ya Khaṱhulo](08.html#khothe-khulwane-ya-khahulo)
+    *   [168\. Khothe Khulwane ya Khaṱhululo](08.html#khothe-khulwane-ya-khahululo)
     *   [169\. Khothe dza Nṱha dza Afrika Tshipembe](08.html#khothe-dza-nha-dza-afrika-tshipembe)
     *   [170\. Dziṅwe khothe](08.html#dziwe-khothe)
     *   [171\. Matshimbidzele a khothe](08.html#matshimbidzele-a-khothe)
