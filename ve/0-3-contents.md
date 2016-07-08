@@ -187,7 +187,7 @@ layout: default
     *   [162\. U anḓadzwa ha milayo yapo ya masipala](07.html#u-anadzwa-ha-milayo-yapo-ya-masipala)
     *   [163\. Muvhuso wapo wo dzudzanywaho](07.html#muvhuso-wapo-wo-dzudzanywaho)
     *   [164\. Maṅwe mafhungo vho](07.html#mawe-mafhungo-vho)
-*   [Ndima ya 8: Dzikhothe na Ndaulo ya zwa Vhulamukaimyi (khethekanyo dza 165-180)](08.html#ndima-ya-8-dzikhothe-na-ndaulo-ya-zwa-vhulamukaimyi-khethekanyo-dza-165-180)
+*   [Ndima ya 8: Dzikhothe na Ndaulo ya zwa Vhulamukanyi (khethekanyo dza 165-180)](08.html#ndima-ya-8-dzikhothe-na-ndaulo-ya-zwa-vhulamukanyi-khethekanyo-dza-165-180)
     *   [165\. Maanḓalanga a zwa vhuhaṱuli](08.html#maanalanga-a-zwa-vhuhauli)
     *   [166\. Sisiṱeme ya zwa Vhuhaṱuli](08.html#sisieme-ya-zwa-vhuhauli)
     *   [167\. Khothe ya Ndayotewa](08.html#khothe-ya-ndayotewa)
