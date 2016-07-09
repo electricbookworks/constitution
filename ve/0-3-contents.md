@@ -306,7 +306,7 @@ layout: default
     *   [1\. Muano kana khwaṱhisedzo ya Phresidennde kana Mufarela-Phresidennde](schedule-2.html#muano-kana-khwahisedzo-ya-phresidennde-kana-mufarela-phresidennde)
     *   [2\. Muano kana khwaṱhisedzo ya Muthusa-Phresidennde](schedule-2.html#muano-kana-khwahisedzo-ya-muthusa-phresidennde)
     *   [3\. Muano kana khwaṱhisedzo ya Minisṱa na Vhathusa-Minisṱa](schedule-2.html#muano-kana-khwahisedzo-ya-minisa-na-vhathusa-minisa)
-    *   [4\. Muano kana khwaṱhisedzo ya u ḓiana ya miraḓo ya Buthano ḽa Lushaka, Vhurumiwa ha Tshoṱhe kha Khoro ya Lushaka ya Mavundu](schedule-2.html#muano-kana-khwahisedzo-ya-u-iana-ya-mirao-ya-buthano-a-lushaka-vhurumiwa-ha-tshohe-kha-khoro-ya-lushaka-ya-mavunu)
+    *   [4\. Muano kana khwaṱhisedzo ya u ḓiana ya miraḓo ya Buthano ḽa Lushaka, Vhurumiwa ha Tshoṱhe kha Khoro ya Mavundu ya Lushaka](schedule-2.html#muano-kana-khwahisedzo-ya-u-iana-ya-mirao-ya-buthano-a-lushaka-vhurumiwa-ha-tshohe-kha-khoro-ya-mavundu-ya-lushaka)
     *   [5\. Muano kana khwaṱhisedzo ya Mulangavundu na miraḓo ya Khorotshitumbe ya vundu](schedule-2.html#muano-kana-khwahisedzo-ya-mulangavunu-na-mirao-ya-khorotshitumbe-ya-vunu)
     *   [6\. Muano kana khwaṱhisedzo ya Vhaofisiri vha zwa Vhuhaṱuli](schedule-2.html#muano-kana-khwahisedzo-ya-vhaofisiri-vha-zwa-vhuhauli)
 *   [Sheduḽu ya 3: Matshimbidzele a Khetho](schedule-3.html#sheduu-ya-3-matshimbidzele-a-khetho)
