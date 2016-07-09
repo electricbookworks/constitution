@@ -287,7 +287,7 @@ layout: default
         *   [237\. U ita mishumo nga vhuronwane](14.html#u-ita-mishumo-nga-vhuronwane)
         *   [238\. Zhendedzi na vhurumiwa](14.html#zhendedzi-na-vhurumiwa)
         *   [239\. Ṱhalutshedzo](14.html#halutshedzo-1)
-        *   [240\. u sa anana vhukati ha maṅwalo o fhambanaho](14.html#u-sa-anana-vhukati-ha-mawalo-o-fhambanaho)
+        *   [240\. U sa anana vhukati ha maṅwalo o fhambanaho](14.html#u-sa-anana-vhukati-ha-mawalo-o-fhambanaho)
         *   [241\. Nzudzanyo dza tshanduko](14.html#nzudzanyo-dza-tshanduko)
         *   [242\. U fheliswa kana u vhulahwa ha milayo](14.html#u-fheliswa-kana-u-vhulahwa-ha-milayo)
         *   [243\. Dzina ḽipfufhi na u thoma u shuma](14.html#dzina-ipfufhi-na-u-thoma-u-shuma)
