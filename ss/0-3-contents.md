@@ -162,7 +162,7 @@ layout: default
         *   [140\. Tincumo tesigungu lesengamele](06.html#tincumo-tesigungu-lesengamele)
         *   [141\. Tiphakamiso tekungatsembakali](06.html#tiphakamiso-tekungatsembakali-1)
     *   [IMitsetfosisekelo yetiFundza](06.html#imitsetfosisekelo-yetifundza){:.subhead}
-        *   [142\. Kuvunywa kwemitsetfosisekelo yetifundza](06.html#kuvunywa-kwemitsetfosisekelo-yetifundza)
+        *   [142\. Kuvunywa kweMitsetfosisekelo yetifundza](06.html#kuvunywa-kwemitsetfosisekelo-yetifundza)
         *   [143\. Lokucuketfwe ngumtsetfosisekelo weTifundza](06.html#lokucuketfwe-ngumtsetfosisekelo-wetifundza)
         *   [144\. Kucinisekiswa kwemitsetfosisekelo yetifundza](06.html#kucinisekiswa-kwemitsetfosisekelo-yetifundza)
         *   [145\. Kusayinwa, kushicilelwa nekulondvolotwa kwemitsetfosisekelo yetifundza](06.html#kusayinwa-kushicilelwa-nekulondvolotwa-kwemitsetfosisekelo-yetifundza)
