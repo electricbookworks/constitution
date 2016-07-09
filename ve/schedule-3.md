@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Sheduḽu ya 3. Matshimbidzele a Khetho
+published: true
+layout: default
+style: chapter
 ---
 
 # Sheduḽu ya 3: Matshimbidzele a Khetho
 
-> [Sheduḽu ya 3 yo khwiniswaho nga khethekanyo ya 2 ya Mulayo wa Khwiniso ya Vhuṋa ya Ndayotewa wa 2001, nga khethekanyo ya 19 ya Mulayo wa Khwiniso ya Vhurathi ya Ndayotewa wa 2001, na nga khethekanyo ya 3 ya Mulayo wa khwiniso ya Vhuṱahe ya Ndayotewa wa 2008.]
+> [Sheduḽu ya 3 yo khwiniswaho nga khethekanyo ya 2 ya Mulayo wa Khwiniso ya Vhuṋa ya Ndayotewa wa 2001, nga khethekanyo ya 19 ya Mulayo wa Khwiniso ya Vhurathi ya Ndayotewa wa 2001, na nga khethekanyo ya 3 ya Mulayo wa Khwiniso ya Vhuṱahe ya Ndayotewa wa 2008.]
 {:.note}
 
 ## Tshipiḓa tsha A: Matshimbidzele a khetho dza Vhafaraofisi vha zwa Ndayotewa
@@ -12,9 +16,9 @@ title: Sheduḽu ya 3. Matshimbidzele a Khetho
 ### 1. Kushumele
 
 1.	Matshimbidzele o ambiwaho kha Sheduḽu a shuma tshifhinga tshoṱhe musi—
-	1.	Buthano ḽa Lushaka ḽi tshi fara muṱangano wa u khetha Phresidennde kana Mulangadzulo waḽo kana Muthusa- Mulangadzulo wa Buthano;
-	1.	Khoro ya Lushaka ya Mavunḓu I a ṱangana u khetha Mudzulatshidulo kana Muthusa-Mudzulatshidulo; kana
-	1.	Vhusimamilayo ha vunḓu (phalamennde ya vunḓu) vhu a ṱangana u khetha Mulangavunḓu kana Mulangadzulo kana Muthusa-Mulangadzulo.
+	1.	Buthano ḽa Lushaka ḽi tshi fara muṱangano wa u khetha Phresidennde kana Mulangadzulo waḽo kana Muthusa-Mulangadzulo wa Buthano;
+	1.	Khoro ya Mavundu ya Lushaka i tshi ṱangana u khetha Mudzulatshidulo kana Muthusa-Mudzulatshidulo; kana
+	1.	Vhusimamilayo ha vundu (phalamennde ya vundu) vhu i tshi ṱangana u khetha Mulangavundu kana Mulangadzulo kana Muthusa-Mulangadzulo.
 
 ### 2. U tiwa
 
