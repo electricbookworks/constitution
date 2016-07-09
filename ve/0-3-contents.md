@@ -253,7 +253,7 @@ layout: default
     *   [212\. Mishumo ya vharangaphanḓa vha sialala](12.html#mishumo-ya-vharangaphana-vha-sialala)
 *   [Ndima ya 13: Gwama (khethekanyo dza 213-230A)](13.html#ndima-ya-13-gwama-213-230a)
     *   [Mafhungo a zwa Gwama nga u tou angaredza](13.html#mafhungo-a-zwa-gwama-nga-u-tou-angaredza){:.subhead}
-        *   [213\. Tshikwama tsha mbuelo tsha Lushaka](13.html#tshikwama-tsha-mbuelo-tsha-lushaka)
+        *   [213\. Tshikwama tsha Mbuelo tsha Lushaka](13.html#tshikwama-tsha-mbuelo-tsha-lushaka)
         *   [214\. Mikovhe na u ṋewa ha mbuelo nga nḓila ya ndingano](13.html#mikovhe-na-u-ewa-ha-mbuelo-nga-nila-ya-ndingano)
         *   [215\. Migaganyagwama ya Lushaka na ya Vundu na ya masipala](13.html#migaganyagwama-ya-lushaka-na-ya-vunu-na-ya-masipala)
         *   [216\. Ndaulo ya Vhufaragwama](13.html#ndaulo-ya-vhufaragwama)
