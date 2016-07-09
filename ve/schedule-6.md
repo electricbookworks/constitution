@@ -258,16 +258,16 @@ khwaṱhisedzo fhasi ha Ndayotewa yo fhiraho, ha kombetshedzwi u dovholola muano
 
 1.	Mulayo wa lushaka wo sumbedzwaho kha khethekanyo ya 9 (4), 32 (2)    na 33(3) ya Ndayotewa ntswa u fanela u phasiswa hu saathu u fhela miṅwaha miraru u bva ḓuvha ḽe Ndayotewa ntswa ya thoma u shuma.
 2.	U swikela mulayo wo bulwaho kha khethekanyo ya 32 (2) na 33 (3) ya Ndayotewa ntswa u tshi phasiswa—
-	1.	khethekanyo ya 32(1) I ḓo dzhiiwa I tshi vhalea ngaurali:
+	1.	khethekanyo ya 32(1) i ḓo dzhiiwa i tshi vhalea ngaurali:
 
 		“(1) Muthu muṅwe na muṅwe u na pfanelo ya u wana mafhungo oṱhe a re kha muvhuso kana muraḓo muṅwe na muṅwe wa muvhuso kha sia ḽifhio na ḽifhio ḽa muvhuso, arali ayo mafhungo a tshi ṱoḓea kha u shumisa na u tsireledza pfanelo dzavho.”; na
 
-	1.	khethekanyo ya 33(1) na (2) dzi fanela u dzhiiwa sa dzi vhaleaho nga nḓila I tevhelaho:
+	1.	khethekanyo ya 33(1) na (2) dzi fanela u dzhiiwa sa dzi vhaleaho nga nḓila i tevhelaho:
 
 		“Muthu muṅwe na muṅwe u na pfanelo ya—\\
-		(a) nyito ya ndaulo I re mulayoni hune ha wanala uri pfanelo dzifhio na dzifhio dzawe kana madzangalelo awe a tshi kwamea kana u shushedzwa;\\
+		(a) nyito ya ndaulo i re mulayoni hune ha wanala uri pfanelo dzifhio na dzifhio dzawe kana madzangalelo awe a tshi kwamea kana u shushedzwa;\\
 		(b) nyito ya matshimbidzele a ndaulo kwayo musi pfanelo dzawe kana ndavhelelo dzawe dzi re mulayoni dzi tshi kwamea kana u shushedzwa;\\
-		(c) u ṋewa zwiitisi zwo tou ṅwaliwaho zwa nyito ya ndaulo I kwamaho pfanelo dzavho dzifhio kana dzifhio kana madzangalelo awe nga nnḓa ha musi zwiitisi izwo zwo anḓadziwa;\\
+		(c) u ṋewa zwiitisi zwo tou ṅwaliwaho zwa nyito ya ndaulo i kwamaho pfanelo dzavho dzifhio kana dzifhio kana madzangalelo awe nga nnḓa ha musi zwiitisi izwo zwo anḓadziwa;\\
 		(d) nyito ya ndaulo yo teaho malugana na zwiitisi zwo fhiwaho musi pfanelo dzifhio na dzifhio dzawe dzi tshi kwamea kana u shushedzwa.”.
 
 3.	Khethekanyo dza 32(2) na 33(3) dzaa Ndayotewa ntswa dzi ḓo fhela nga dzoṱhe arali mulayo wo bulwaho kha khethekanyo idzo nga u tevhekana wa sa phasiswa hu saathu u fhela miṅwaha miraru u bva ḓuvha ḽe Ndayotewa ya thoma u shuma.
@@ -279,14 +279,14 @@ khwaṱhisedzo fhasi ha Ndayotewa yo fhiraho, ha kombetshedzwi u dovholola muano
 	1.	khwiniso ya idzo khethekanyo sa zwe zwa buliswa zwone kha    Ṱhumetshedzo ya D;
 	1.	dziṅwe khwiniso kana u fheliswa ha idzo khethekanyo nga Mulayo wa Phalamennde wo phasiswaho hu tshi tevhedzwa khethekanyo ya 75 ya Ndayotewa ntswa; na
 	1.	u yelana na Ndayotewa ntswa.
-2.	Khomishini ya Tshumelo ya Muvhuso na khomishini dza tshumelo ya mivhuso ya vunḓu sa zwo bulwaho kha Ndima ya 13 ya Ndayotewa yo fhiraho dzi ḓo isa phanḓa na u shuma dzi tshi tevhedza Ndima iyo na mulayo u shumaho khadzo sa zwine ha tou nga iyo ndima a yo ngo fheliswa, u swikela Khomishini na khomishini dza tshumelo ya mivhuso ya vunḓu dzi tshi fheliswa nga Mulayo wa Phalamennde wo phasiswaho hu tshi tevhedzwa khethekanyo ya 75 ya Ndayotewa ntswa.
+2.	Khomishini ya Tshumelo ya Muvhuso na khomishini dza tshumelo ya mivhuso ya vundu sa zwo bulwaho kha Ndima ya 13 ya Ndayotewa yo fhiraho dzi ḓo isa phanḓa na u shuma dzi tshi tevhedza Ndima iyo na mulayo u shumaho khadzo sa zwine ha tou nga iyo ndima a yo ngo fheliswa, u swikela Khomishini na khomishini dza tshumelo ya mivhuso ya vundu dzi tshi fheliswa nga Mulayo wa Phalamennde wo phasiswaho hu tshi tevhedzwa khethekanyo ya 75 ya Ndayotewa ntswa.
 3.	U fheliswa ha Ndayotewa yo fhiraho a zwi kwami mulevho ufhio na ufhio wo bviswaho nga fhasi ha khethekanyo ya 237(3) ya Ndayotewa yo fhiraho nahone mulevho ufhio na ufhio wo raloho u ḓo isa phanḓa na u shuma, hu tshi tevhedzwa—
 	1.	khwiniso kana u fheliswa hufhio na hufhio; na
 	1.	u yelana na Ndayotewa ntswa.
 
 ## 25. Huṅwe u sa tea u vha kha Vhusimamilayo
 
-1.	Muthu muṅwe na muṅwe ane musi Ndayotewa I tshi thoma u shuma, a vha a tshi khou shuma tshigwevho tsha miṅwedzi I fhiraho 12 kha Riphabuḽiki hu si na u nanga u badela ndaṱiso ha ngo tea u vha muraḓo wa Buthano ḽa Lushaka kana vhusimamilayo ha vunḓu.
+1.	Muthu muṅwe na muṅwe ane musi Ndayotewa i tshi thoma u shuma, a vha a tshi khou shuma tshigwevho tsha miṅwedzi i fhiraho ya 12 kha Riphabuḽiki hu si na u nanga u badela ndaṱiso ha ngo tea u vha muraḓo wa Buthano ḽa Lushaka kana vhusimamilayo ha vundu.
 2.	U sa tea ha muthu hu tshi tevhedzwa tshiteṅwa tshiṱuku tsha (1)—
 	1.	hu a fhela nga hoṱhe arali u wanwa mulandu hu tshi vhetshelwa thungo kha khaṱhululo kana tshigwevho tshi tshi fhungudziwa kha khaṱhululo tsha vha tshigwevho tshi sa thivheli muthu onoyo; na uri
 	1.	hu ḓo fhela nga murahu ha miṅwaha miṱanu musi tshigwevho tsho fhela.
@@ -294,26 +294,26 @@ khwaṱhisedzo fhasi ha Ndayotewa yo fhiraho, ha kombetshedzwi u dovholola muano
 ## 26. Muvhuso wapo
 
 1.	Hu sa sedzwi mbetshelo dza khethekanyo ya 151,155,156 na 157 dza Ndayotewa ntswa—
-	1.	mbetshelo dza Mulayo wa Tshifhinganyana wa Muvhuso wapo wa 1993        (Mulayo wa vhu 209 wa 1993), sa zwine wa nga khwiniswa tshifhinga tshiṅwe na tshiṅwe nga mulayo wa lushaka zwi tshi yelana na Ndayotewa ntswa, dzi kha ḓi ḓo bvela phanḓa na u shuma u ya nga Khoro ya Masipala u swikela Khoro ya Masipala ine ya ḓo imela khoro I tshi ḓivhadzwa uri yo khethiwa nga kha mvelelo dza khetho dza Khoro dza Masipala dza u thoma dza u angaredza nga murahu ha musi Ndayotewa ntswa I tshi thoma u shuma; nahone
+	1.	mbetshelo dza Mulayo wa Tshifhinganyana wa Muvhuso wapo wa 1993        (Mulayo wa vhu 209 wa 1993), sa zwine wa nga khwiniswa tshifhinga tshiṅwe na tshiṅwe nga mulayo wa lushaka zwi tshi yelana na Ndayotewa ntswa, dzi kha ḓi ḓo bvela phanḓa na u shuma u ya nga Khoro ya Masipala u swikela Khoro ya Masipala ine ya ḓo imela khoro i tshi ḓivhadzwa uri yo khethiwa nga kha mvelelo dza khetho dza Khoro dza Masipala dza u thoma dza u angaredza nga murahu ha musi Ndayotewa ntswa i tshi thoma u shuma; nahone
 
 		> [Tshiteṅwa tshiṱuku tsha (a) tsho imelwa nga khethekanyo ya 5 (a) ya Mulayo wa Khwiniso ya Vhuvhili ya Ndayotewa wa 1998.]
 		{:.note}
 
-	1.	murangaphanḓa wa sialala wa tshitshavha tshine tsha khou tevhela sisṱeme ya mulayo wa tshithu nahone a dzulaho fhethu hu re fhasi ha muvhuso wa tshifhinganyana wa khoro yapo, khoro ya tshifhinganyana kana khoro yatshifhinganyana ya vhaimeleli, yo bulwaho kha Mulayo wa Muvhuso wapo waTshifhinganyana wa 1993, nahone wo ṱaluswaho kha khethekanyo ya 182 ya Ndayotewa yo fhiraho, u tea u vha muraḓo a songo nangiwaho wa khoro uswika Khoro ya Masipala ine ya ḓo imela khoro I tshi ḓivhadzwa uri yokhethiwa nga mvelelo dza khetho dza u thoma dza Khoro dza Masipala dza uangaredza nga murahu ha musi Ndayotewa ntswa I tshi thoma u shuma.
+	1.	murangaphanḓa wa sialala wa tshitshavha tshine tsha khou tevhela sisṱeme ya mulayo wa tshithu nahone a dzulaho fhethu hu re fhasi ha muvhuso wa tshifhinganyana wa khoro yapo, khoro ya tshifhinganyana kana khoro ya tshifhinganyana ya vhaimeleli, yo bulwaho kha Mulayo wa Muvhuso wapo waTshifhinganyana wa 1993, nahone wo ṱaluswaho kha khethekanyo ya 182 ya Ndayotewa yo fhiraho, u tea u vha muraḓo a songo nangiwaho wa khoro u swika Khoro ya Masipala ine ya ḓo imela khoro i tshi ḓivhadzwa uri yokhethiwa nga mvelelo dza khetho dza u thoma dza Khoro dza Masipala dza u angaredza nga murahu ha musi Ndayotewa ntswa i tshi thoma u shuma.
 
 		> [Tshiteṅwa tshiṱuku tsha (b) tsho imelwa nga khethekanyo ya 5(a) ya Mulayo wa Khwiniso ya Vhuvhili ya Ndayotewa wa 1998.]
 		{:.note}
 
-2.	Khethekanyo ya 245 (4) ya Ndayotewa yo fhiraho I ḓo isa phanḓa na u shuma u swikela u shuma ha iyi khethekanyo hu tshi fhela nga hoṱhe. Khethekanyo ya 16 (5) na (6) ya Mulayo wa Tshifhinganyana wa Muvhuso Wapo, wa 1993 u nga si kone u fheliswa phanḓa ha ḽa 30 Lambamai 2000.
+2.	Khethekanyo ya 245 (4) ya Ndayotewa yo fhiraho i ḓo isa phanḓa na u shuma u swikela u shuma ha iyi khethekanyo hu tshi fhela nga hoṱhe. Khethekanyo ya 16 (5) na (6) ya Mulayo wa Tshifhinganyana wa Muvhuso Wapo, wa 1993 u nga si kone u fheliswa phanḓa ha ḽa 30 Lambamai 2000.
 
 	> [Tshiteṅwa tsha (2) tsho khwiniswa nga khethekanyo ya 5 (b) ya Mulayo wa Khwiniso ya Vhuvhili ya Ndayotewa wa 1998.]
 	{:.note}
 
-## 27. U vhewa nga nḓila ya tsireledzo ha Milayo ya Phalamennde na ya vunḓu
+## 27. U vhewa nga nḓila ya tsireledzo ha Milayo ya Phalamennde na ya vundu
 
-Khethekanyo 82 na 124 dza Ndayotewa ntswa a dzi kwami u vhewa nga nḓila yo tsireledzeaho ha Milayo ya Phalamennde kana ya vunḓu yo phasiswaho phanḓa ha musi Ndayotewa ntswa I tshi thoma u shuma.
+Khethekanyo ya 82 na 124 dza Ndayotewa ntswa a dzi kwami u vhewa nga nḓila yo tsireledzeaho ha Milayo ya Phalamennde kana ya vundu yo phasiswaho phanḓa ha musi Ndayotewa ntswa i tshi thoma u shuma.
 
 ## 28. U ṅwaliswa ha thundu i sa sudzulusei ya muvhuso
 
-1.	Musi hu tshi bviswa ṱhanziela nga maanḓalanga I sumbaho uri thundu I sa sudzulusei ya muvhuso ndi ya muvhuso muṅwe u ya nga khethekanyo ya 239 ya Ndayotewa yo fhiraho, redzhisiṱara wa tsumbavhuṋe u tea u ṅwalisa rekhodo dzenedzo kana a khwaṱhisedza vhuṱanzi uho kha redzhisiṱara yo teaho, tsumbavhuṋe kana ḽiṅwe ḽiṅwalo u sumbedza uri thundu iyi I sa sudzulusei I kha dzina ḽa muvhuso wonoyo.
+1.	Musi hu tshi bviswa ṱhanziela nga maanḓalanga i sumbaho uri thundu i sa sudzulusei ya muvhuso ndi ya muvhuso muṅwe u ya nga khethekanyo ya 239 ya Ndayotewa yo fhiraho, muredzhisiṱara wa tsumbavhuṋe u tea u ṅwalisa rekhodo dzenedzo kana a khwaṱhisedza vhuṱanzi uho kha redzhisiṱara yo teaho, tsumbavhuṋe kana ḽiṅwe ḽiṅwalo u sumbedza uri thundu iyi i sa sudzulusei i kha dzina ḽa muvhuso wonoyo.
 2.	A hu na muthelo, kana mbadelo ine ya ḓo vha hone malugana na u ṅwaliswa u ya nga ha tshiteṅwa tshiṱuku tsha (1).
