@@ -1,8 +1,12 @@
 ---
+stylesheet: screen.css
 title: Sheduḽu ya 5. Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Vunḓu Fhedzi
+published: true
+layout: default
+style: chapter
 ---
 
-# Sheduḽu ya 5: Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Vunḓu Fhedzi
+# Sheduḽu ya 5: Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Vundu Fhedzi
 
 ## Tshipiḓa tsha A
 
@@ -11,12 +15,12 @@ title: Sheduḽu ya 5. Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Vunḓu 
 *	Dziakhaivi dzi si dza lushaka
 *	Ḽaiburari dzi si dza lushaka
 *	Ḽaisentsi dza zwikambi
-*	Mimuziamu I si ya lushaka
-*	Vhupulani ha zwa vunḓu
-*	Mafhungo a mvelele a vunḓu
-*	Vhuḓimvumvusi ha vunḓu na tshomedzo
-*	Zwa mitambo ya vunḓu
-*	Bada na vhuendi ha vunḓu
+*	Mimuziamu i si ya lushaka
+*	Vhupulani ha zwa vundu
+*	Mafhungo a mvelele a vundu
+*	Vhuḓimvumvusi ha vundu na tshomedzo
+*	Zwa mitambo ya vundu
+*	Bada na vhuendi ha vundu
 *	Tshumelo ya zwa vhulafhaphukha zwi sa kateli ndangulo ya phrofesheni
 
 ## Tshipiḓa tsha B
@@ -39,7 +43,7 @@ Mafhungo a tevhelaho a muvhuso wapo u swika afho he zwa buliswa zwone nga khethe
 *	Mivo ya ha masipala
 *	Phakha na zwimvumvusi zwa masipala
 *	Bada dza ha masipala
-*	Tshikafhadzo ng u ita phosho
+*	Tshikafhadzo nga u ita phosho
 *	Dziphaundu
 *	Fhethu ha nnyi na nnyi
 *	U hwala mashika (malaṱwa), u sokou kudza mashika na u sokou phaḓaladza malaṱwa
