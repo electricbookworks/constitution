@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Sheduḽu ya 6. Nzudzanyo dza Tshifhinganyana
+published: true
+layout: default
+style: chapter
 ---
 
 # Sheduḽu ya 6: Nzudzanyo dza Tshifhinganyana
@@ -11,32 +15,32 @@ title: Sheduḽu ya 6. Nzudzanyo dza Tshifhinganyana
 
 Kha ino Sheduḽu nga nnḓa ha musi zwi sa yelani na hune zwa khou bulwa hone:
 
-“shangohaya” zwi amba tshipiḓa tsha Riphabuḽki, tshe musi Ndayotewa ya kale I saathu u thoma u shuma, tsha vha tshi tshi dzhiiwa nga mulayo wa Afrika Tshipembe, sa vhupo ha vhuḓilangi kana ha vhuḓivhusi;
+“shangohaya” zwi amba tshipiḓa tsha Riphabuḽki, tshe musi Ndayotewa ya kale i saathu u thoma u shuma, tsha vha tshi tshi dzhiiwa nga mulayo wa Afrika Tshipembe, sa vhupo ha vhuḓilangi kana ha vhuḓivhusi;
 
 “Ndayotewa ntswa” zwi amba Ndayotewa ya Riphabuḽiki ya Afrika Tshipembe, 1996;
 
-“Mulayo wa tshifhingani tsha kale” zwi amba mulayo wo vhewaho musi ndayotewa ya kale I saathu u thoma u shuma;
+“Mulayo wa tshifhingani tsha kale” zwi amba mulayo wo vhewaho musi ndayotewa ya kale i saathu u thoma u shuma;
 
 “Ndayotewa yo fhiraho” zwi amba Ndayotewa ya Riphabuḽiki ya Afrika Tshipembe, 1993 (Mulayo wa vhu 200 wa 1993).
 
 ## 2. U isa phanḓa na u shuma ha milayo i no shuma zwino
 
-1.	Milayo yoṱhe ye ya vha I tshi khou shuma musi Ndayotewa ntswa I saathu u thoma u shuma, I ḓo isa phanḓa na u shuma u swikela musi—
+1.	Milayo yoṱhe ye ya vha i tshi khou shuma musi Ndayotewa ntswa i saathu u thoma u shuma, i ḓo isa phanḓa na u shuma u swikela musi—
 	1.	hu tshi nga vha na u khwiniswa na u fhelisa; na
 	1.	u yelana na Ndayotewa ntswa.
 2.	Mulayo wa tshifhingani tsha kale une wa isa phanḓa na u shuma u ya nga ha tshiteṅwa tshiṱuku tsha (1)—
 	1.	a u shumi nga nḓila yo ṱandavhuwaho kha vhupo kana huṅwe -vho, u fhirisa he wa vha u tshi shuma hone musi hu saathu u thoma u shuma Ndayotewa ya kale, nga nnḓa ha musi u tshi nga vha wo khwiniswa u itela uri u shume fhethu ho ṱandavhuwaho; na uri
-	1.	u ḓo isa phanḓa na u laulwa nga maanḓalanga e a vha a tshi u laula musi Ndayotewa ntswa I saathu u thoma u shuma.
+	1.	u ḓo isa phanḓa na u laulwa nga maanḓalanga e a vha a tshi u laula musi Ndayotewa ntswa i saathu u thoma u shuma.
 
 ## 3. U pfesesa mulayo une wa vha hone
 
-1.	Nga nnḓa ha musi zwi sa yelani na he zwa bulwa hone kana zwi tshi tou vha zwi songo teaho, u ṱumbulwa huṅwe na huṅwe kha mulayo muṅwe na muṅwe we wa vha u tshi khou shuma musi Ndayotewa ntswa I tshi thoma u shuma—
+1.	Nga nnḓa ha musi zwi sa yelani na he zwa bulwa hone kana zwi tshi tou vha zwi songo teaho, u ṱumbulwa huṅwe na huṅwe kha mulayo muṅwe na muṅwe we wa vha u tshi khou shuma musi Ndayotewa ntswa i tshi thoma u shuma—
 	1.	kha Riphabuḽiki ya Afrika Tshipembe kana shangohaya (nga nnḓa ha musi hu tshi ambiwa vhupo), zwi tea u dzhiiwa zwi tshi amba Riphabuḽiki ya Afrika Tshipembe nga fhasi ha Ndayotewa ntswa;
 	1.	kha Phalamennde, Buthano ḽa lushaka kana Vhusimamilayo, zwi tea u pfesesiwa sa zwi ambaho Phalamennde, Buthano ḽa lushaka kana Vhusimamilayo nga fhasi ha Ndayotewa ntswa;
 	1.	kha Phresidennde, Muthusa-Phresidennde wa Khorotshitumbe, Minisṱa, Muthusa-Minisṱa kana Khabinethe, nga fhasi na Ndayotewa ntswa hu tshi tevhela tshiteṅwa tsha 9 tsha ino Sheduḽu, zwi tea u dzhiiwa zwi tshi amba Phresidennde, Minisṱa, Muthusa-Phresidennde kana Khabinete;
-	1.	kha Phresidennde wa Vhusimamilayo (Sinethe) zwi tea u dzhiiwa sa musi zwi tshi amba Mudzulatshidulo wa Khoro ya Lushaka ya Mavunḓu;
-	1.	kha vhusimamilayo ha vunḓu, Mulangavunḓu kana Khorotshitumbe kana muraḓo wa khorotshitumbe wa vunḓu zwi tea u dzhiiwa sa musi zwi tshi amba vhusimamilayo ha vunḓu, Mulangavunḓu kana Khorotshitumbe kana muraḓo wa Khorotshitumbe nga fhasi ha Ndayotewa ntswa, hu tshi tevhedzwa tshiteṅwa tsha 12 tsha ino Sheduḽu; kana
-	1.	kha luambo Iwa tshiofisi kana nyambo, zwi tea u dzhiiwa kha luambo luṅwe na luṅwe zwi tshi amba luambo luṅwe na luṅwe Iwa tshiofisi nga fhasi ha Ndayotewa ntswa.
+	1.	kha Phresidennde wa Vhusimamilayo (Sinethe) zwi tea u dzhiiwa sa musi zwi tshi amba Mudzulatshidulo wa Khoro ya Mavundu ya Lushaka;
+	1.	kha vhusimamilayo ha vundu, Mulangavundu kana Khorotshitumbe kana muraḓo wa khorotshitumbe wa  vundu zwi tea u dzhiiwa sa musi zwi tshi amba vhusimamilayo ha vundu, Mulangavundu kana Khorotshitumbe kana muraḓo wa Khorotshitumbe nga fhasi ha Ndayotewa ntswa, hu tshi tevhedzwa tshiteṅwa tsha 12 tsha ino Sheduḽu; kana
+	1.	kha luambo lwa tshiofisi kana nyambo, zwi tea u dzhiiwa kha luambo luṅwe na luṅwe zwi tshi amba luambo luṅwe na luṅwe lwa tshiofisi nga fhasi ha Ndayotewa ntswa.
 2.	Nga nnḓa ha musi zwi sa yelani na he zwa bulwa hone kana zwi tshi tou vha zwi songo teaho, zwo ambiwaho kha mulayo wa tshifhingani tsha kale, une wa kha ḓi vha hone—
 	1.	kha Phalamennde, Nnḓu ya Phalamennde kana Buthano ḽa vhusimamilayo kana dzangano ḽa Riphabuḽiki kana shangohaya, zwi tea u dzhiiwa sa musi zwi tshi amba—
 		1.	kha Phalamennde nga fhasi ha Ndayotewa ntswa arali ndaulo ya uyo mulayo yo ṋetshedzwa u ya nga Ndayotewa yo fhiraho kana ya kale, ino Sheduḽu kha khorotshitumbe ya lushaka; kana
