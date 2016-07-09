@@ -340,7 +340,7 @@ layout: default
     *   [10\. Vhusimamilayo ha mavundu](schedule-6.html#vhusimamilayo-ha-mavunu-1)
     *   [11\. Khetho dza Vhusimamilayo ha vundu](schedule-6.html#khetho-dza-vhusimamilayo-ha-vunu)
     *   [12\. Khorotshitumbe dza vundu](schedule-6.html#khorotshitumbe-dza-vunu-1)
-    *   [13\. Milayotewa ya vundu](schedule-6.html#milayotewa-ya-vunu)
+    *   [13\. Ndayotewa dza vundu](schedule-6.html#ndayotewa-dza-vundu)
     *   [14\. U ṋetshedzwa ha milayo kha mavundu](schedule-6.html#u-etshedzwa-ha-milayo-kha-mavunu)
     *   [15\. Milayo ya vhusimamilayo i no khou shuma nnḓa ha vhusimamilayo ha Phalamennde](schedule-6.html#milayo-ya-vhusimamilayo-i-no-khou-shuma-nna-ha-vhusimamilayo-ha-phalamennde)
     *   [16\. Dzikhothe](schedule-6.html#dzikhothe)
