@@ -49,7 +49,7 @@ layout: default
     *   [36\. Kuncishiswa kwemalungelo](02.html#kuncishiswa-kwemalungelo)
     *   [37\. Timo letibucayi](02.html#timo-letibucayi)
     *   [38\. Kuphocelelwa kwemalungelo](02.html#kuphocelelwa-kwemalungelo)
-    *   [39\. Kuhunyushwa KweluCwebu Lwemalungelo Eluntfu](02.html#kuhunyushwa-kwelucwebu-lwemalungelo-eluntfu)
+    *   [39\. Kuhunyushwa kweluCwebu lwemaLungelo eLuntfu](02.html#kuhunyushwa-kwelucwebu-lwemalungelo-eluntfu)
 *   [Sehluko 3: Hulumende Welubambiswano (40-41)](03.html#sehluko-3-hulumende-welubambiswano-40-41)
     *   [40\. Hulumende weRiphabhulikhi](03.html#hulumende-weriphabhulikhi)
     *   [41\. Timisomgomo tahulumende welubambiswano nebudlelwano emkhatsini wabohulumende](03.html#timisomgomo-tahulumende-welubambiswano-nebudlelwano-emkhatsini-wabohulumende)
