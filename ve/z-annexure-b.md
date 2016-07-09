@@ -88,7 +88,7 @@ style: chapter
 
 	> 3.	Vhominisṱa vha na vhuḓifhinduleli nga muthihi nga muthihi kha Phresidennde na kha Buthano ḽa Lushaka kha u laula ofisi dzavho nahone miraḓo yoṱhe ya khabinethe sa zwenezwo vha na vhuḓifhinduleli vho ṱangana kha u ita mishumo ya muvhuso wa lushaka na mbekanyamaitele dzawo.
 	> 4.	Dziminisṱa vha fanela u laula ofisi dzavho hu tshi tevhedzwa mbekanyamaitele yo tiwaho nga Khabinethe.
-	> 5.	Arali Minisṱa a kundelwa u laula ofisi hu tshi tevhedzwa mbekanyamaitele ya Khabinethe, Phresidennde a nga ṱoḓa uri Minisṱa onoyo a ite uri ndaulo ya ofisi I anane na yeneyo mbekanyamaitele.
+	> 5.	Arali Minisṱa a kundelwa u laula ofisi hu tshi tevhedzwa mbekanyamaitele ya Khabinethe, Phresidennde a nga ṱoḓa uri Minisṱa onoyo a ite uri ndaulo ya ofisi i anane na yeneyo mbekanyamaitele.
 	> 6.	Arali onoyo Minisṱa a kundelwa u tevhedza ṱhoḓea dza Phresidennde a nga fhasi ha khethekanyo ṱhukhu ya (5), Phresidennde a nga mu bvisa ofisini—
 	>	1.	arali e Minisṱa o bulwaho kha khethekanyo ya 91 (1) (a), nga murahu ha u kwamana na Minisṱa, nahone arali Minisṱa a si muraḓo wa Ḽihoro ḽa Phresidennde kana a si murangaphanḓa wa ḽihoro ḽi no khou dzhenelela, na nga murahu ha u kwamana na murangaphanḓa wa ḽihoro ḽeneḽo ḽa Minisṱa; kana
 	>	1.	arali e Minisṱa o bulwaho kha khethekanyo ya 91 (1)(b), nga murahu ha u kwamana na Vhathusa- Phresidennde na vharangaphanḓa vha mahoro a shelaho mulenzhe.
