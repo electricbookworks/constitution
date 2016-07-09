@@ -163,10 +163,10 @@ layout: default
         *   [141\. Tiphakamiso tekungatsembakali](06.html#tiphakamiso-tekungatsembakali-1)
     *   [IMitsetfosisekelo yetiFundza](06.html#imitsetfosisekelo-yetifundza){:.subhead}
         *   [142\. Kuvunywa kweMitsetfosisekelo yetifundza](06.html#kuvunywa-kwemitsetfosisekelo-yetifundza)
-        *   [143\. Lokucuketfwe ngumtsetfosisekelo weTifundza](06.html#lokucuketfwe-ngumtsetfosisekelo-wetifundza)
+        *   [143\. Lokucuketfwe nguMtsetfosisekelo weTifundza](06.html#lokucuketfwe-ngumtsetfosisekelo-wetifundza)
         *   [144\. Kucinisekiswa kwemitsetfosisekelo yetifundza](06.html#kucinisekiswa-kwemitsetfosisekelo-yetifundza)
         *   [145\. Kusayinwa, kushicilelwa nekulondvolotwa kwemitsetfosisekelo yetifundza](06.html#kusayinwa-kushicilelwa-nekulondvolotwa-kwemitsetfosisekelo-yetifundza)
-    *   [Imitsetfo lengcubutanako](06.html#imitsetfo-lengcubutanako){:.subhead}
+    *   [Imitsetfo leNgcubutanako](06.html#imitsetfo-lengcubutanako){:.subhead}
         *   [146\. Kungcubutana emkhatsini kwemtsetfo wavelonkhe newesifundza](06.html#kungcubutana-emkhatsini-kwemtsetfo-wavelonkhe-newesifundza)
         *   [147\. Lokunye kungcubutana](06.html#lokunye-kungcubutana)
         *   [148\. Kungcubutana lokungasombululeki](06.html#kungcubutana-lokungasombululeki)
