@@ -65,7 +65,7 @@ layout: default
         *   [49\. Budze besikhatsi sekusebenta kwesigungu saVelonkhe](04.html#budze-besikhatsi-sekusebenta-kwesigungu-savelonkhe)
         *   [50\. Kuhlakateka kwesigungu saVelonkhe kungakapheli sikhatsi saso sekusebenta](04.html#kuhlakateka-kwesigungu-savelonkhe-kungakapheli-sikhatsi-saso-sekusebenta)
         *   [51\. Tikhatsi tekuhlangana nekuphumula](04.html#tikhatsi-tekuhlangana-nekuphumula)
-        *   [52\. Somlomo kanye nelisekela lasomlomo](04.html#somlomo-kanye-nelisekela-lasomlomo)
+        *   [52\. Somlomo kanye neLisekela laSomlomo](04.html#somlomo-kanye-nelisekela-lasomlomo)
         *   [53\. Tincumo](04.html#tincumo)
         *   [54\. Emalungelo emalunga latsite ekhabhinethi nemasekela etiNdvuna tembuso esigungwini saVelonkhe](04.html#emalungelo-emalunga-latsite-ekhabhinethi-nemasekela-etindvuna-tembuso-esigungwini-savelonkhe)
         *   [55\. Emandla esigungu saVelonkhe](04.html#emandla-esigungu-savelonkhe)
