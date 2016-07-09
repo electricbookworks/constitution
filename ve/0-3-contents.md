@@ -281,7 +281,7 @@ layout: default
         *   [232\. Mulayo wa sialala wa dzitshaka](14.html#mulayo-wa-sialala-wa-dzitshaka)
         *   [233\. Tshumiso ya mulayo wa dzitshaka](14.html#tshumiso-ya-mulayo-wa-dzitshaka)
     *   [Maṅwe mafhungo](14.html#mawe-mafhungo){:.subhead}
-        *   [234\. Thendelo nzwiwa dza pfanelo](14.html#thendelo-nzwiwa-dza-pfanelo)
+        *   [234\. Thendelonzwiwa dza pfanelo](14.html#thendelonzwiwa-dza-pfanelo)
         *   [235\. Pfanelo dza vhathu dza u kona u ḓiitela muvhuso une vha funa](14.html#pfanelo-dza-vhathu-dza-u-kona-u-iitela-muvhuso-une-vha-funa)
         *   [236\. Ndambedzo ya mahoro a zwa poḽitiki](14.html#ndambedzo-ya-mahoro-a-zwa-poitiki)
         *   [237\. U ita mishumo nga vhuronwane](14.html#u-ita-mishumo-nga-vhuronwane)
