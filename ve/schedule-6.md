@@ -44,40 +44,40 @@ Kha ino Sheduḽu nga nnḓa ha musi zwi sa yelani na hune zwa khou bulwa hone:
 2.	Nga nnḓa ha musi zwi sa yelani na he zwa bulwa hone kana zwi tshi tou vha zwi songo teaho, zwo ambiwaho kha mulayo wa tshifhingani tsha kale, une wa kha ḓi vha hone—
 	1.	kha Phalamennde, Nnḓu ya Phalamennde kana Buthano ḽa vhusimamilayo kana dzangano ḽa Riphabuḽiki kana shangohaya, zwi tea u dzhiiwa sa musi zwi tshi amba—
 		1.	kha Phalamennde nga fhasi ha Ndayotewa ntswa arali ndaulo ya uyo mulayo yo ṋetshedzwa u ya nga Ndayotewa yo fhiraho kana ya kale, ino Sheduḽu kha khorotshitumbe ya lushaka; kana
-		1.	kha vhusimamilayo ha vunḓu, arali u langulwa ha uyo mulayo zwo ṋetshedzwa kha muvhuso wa vunḓu u ya nga ha Ndayotewa yo fhiraho kana ino Sheduḽu kha khorotshitumbe ya vunḓu
+		1.	kha vhusimamilayo ha vundu, arali u langulwa ha uyo mulayo zwo ṋetshedzwa kha muvhuso wa vundu u ya nga ha Ndayotewa yo fhiraho kana ino Sheduḽu kha khorotshitumbe ya vundu;
 	1.	kha Phresidennde wa shango, Minisṱa muhulwane, Mulanguli na vhaṅwe vhahulwane vha khorotshitumbe, Khabinethe, Khoro dza Dziminisṱa kana khorotshitumbe ya Riphabuḽiki kana shangohaya zwi fanela u dzhiiwa sa musi zwi tshi amba—
 		1.	Phresidennde nga fhasi ha Ndayotewa ntswa, arali ndaulo ya uyo mulayo wonoyo yo ṋetshedzwa u ya nga Ndayotewa yo fhiraho kana ino Sheduḽu kha khorotshitumbe ya lushaka; kana
-		1.	Mulangavunḓu wa vunḓu nga fhasi ha Ndayotewa ntswa, arali ndaulo ya uyo mulayo yo ṋetshedzwa u ya nga Ndayotewa yo fhiraho kana ino Sheduḽu kha khorotshitumbe ya vunḓu.
+		1.	Mulangavundu wa vundu nga fhasi ha Ndayotewa ntswa, arali ndaulo ya uyo mulayo yo ṋetshedzwa u ya nga Ndayotewa yo fhiraho kana ino Sheduḽu kha khorotshitumbe ya vundu.
 
 ## 4. Buthano ḽa Lushaka
 
-1.	Muthu muṅwe na muṅwe we a vha e muraḓo kana mufari wa ofisi kha Buthano ḽa Lushaka musi Ndayotewa ntswa I tshi thoma u shuma, u ḓo mbo    ḓi vha muraḓo kana mufari wa ofisi kha Buthano ḽa Lushaka nga fhasi ha Ndayotewa ntswa nahone u ḓo fara ofisi sa muraḓo kana mufari wa ofisi u ya nga Ndayotewa ntswa.
+1.	Muthu muṅwe na muṅwe we a vha e muraḓo kana mufari wa ofisi kha Buthano ḽa Lushaka musi Ndayotewa ntswa i tshi thoma u shuma, u ḓo mbo    ḓi vha muraḓo kana mufari wa ofisi kha Buthano ḽa Lushaka nga fhasi ha Ndayotewa ntswa nahone u ḓo fara ofisi sa muraḓo kana mufari wa ofisi u ya nga Ndayotewa ntswa.
 2.	Buthano ḽa Lushaka sa zwe ḽa vhumbiswa zwone u ya nga ha tshiteṅwa tshiṱuku tsha (1), ḽi tea u dzhiiwa sa ḽo khethiwaho nga fhasi ha Ndayotewa ntswa kha tshifhinga tshine tsha ḓo fhela nga ḽa 30 Lambamai 1999.
 3.	Buthano ḽa Lushaka ḽo vhumbwa nga miraḓo ya 400 kha tshifhinga tshaḽo tsha ofisi tshine tsha ḓo fhela nga ḽa 30 Lambamai 1999, hu tshi tevhedzwa khethekanyo ya 49(4) ya Ndayotewa ntswa.
-4.	Milayo na ndaela dza Buthano ḽa Lushaka zwine zwa khou shuma musi Ndayotewa ntswa I tshi thoma u shuma, zwi ḓo isa phanḓa na u shuma nga nnḓa ha musi hu tshi nga vha na u khwiniswa kana u fheliswa huṅwe na huṅwe hune ha nga itiwa.
+4.	Milayo na ndaela dza Buthano ḽa Lushaka zwine zwa khou shuma musi Ndayotewa ntswa i tshi thoma u shuma, zwi ḓo isa phanḓa na u shuma nga nnḓa ha musi hu tshi nga vha na u khwiniswa kana u fheliswa huṅwe na huṅwe hune ha nga itiwa.
 
 ## 5. Mafhungo a songo fhelaho a re phanḓa ha Phalamennde
 
-1.	Mafhungo maṅwe na maṅwe a songo fhelaho a re phanḓa ha Buthano ḽa Lushaka musi Ndayotewa ntswa I tshi thoma u shuma, a tea u iswa phanḓa nao hu tshi tevhedzwa Ndayotewa ntswa.
-2.	Mafhungo maṅwe na maṅwe a songo fhelelaho phanḓa ha Sinethe musi Ndayotewa ntswa I tshi thoma u shuma, a tea u fhiriselwa kha Khoro ya Lushaka ya Mavunḓu, na uri Khoro I fanela u isa phanḓa na aya mafhungo I tshi tevhedza Ndayotewa ntswa.
+1.	Mafhungo maṅwe na maṅwe a songo fhelaho a re phanḓa ha Buthano ḽa Lushaka musi Ndayotewa ntswa i tshi thoma u shuma, a tea u iswa phanḓa nao hu tshi tevhedzwa Ndayotewa ntswa.
+2.	Mafhungo maṅwe na maṅwe a songo fhelelaho phanḓa ha Sinethe musi Ndayotewa ntswa i tshi thoma u shuma, a tea u fhiriselwa kha Khoro ya Mavundu ya Lushaka, na uri Khoro i fanela u isa phanḓa na aya mafhungo i tshi tevhedza Ndayotewa ntswa.
 
 ## 6. Khetho dza Buthano ḽa Lushaka
 
 1.	A hu na khetho dza Buthano ḽa Lushaka dzine dza ḓo fariwa phanḓa ha    ḓuvha ḽa 30 Lambamai 1999 nga nnḓa ha musi Buthano ḽi tshi nga vha ḽo fhaladzwa hu tshi tevhedzwa khethekanyo ya 50 (2) nga murahu ha musi ho dzinginywa u sa fulufhela kha Phresidennde hu tshi tevhedzwa khethekanyo ya 102 (2) ya Ndayotewa ntswa.
-2.	Khethekanyo ya 50 (1) ya Ndayotewa ntswa I khou fhahewa u swikela 30 Lambamai 1999.
-3.	Nangwe ho vha na u fheliswa ha Ndayotewa yo fhiraho, Sheduḽu ya 2 ya iyo Ndayotewa sa zwe ya khwiniswa nga Sheduḽu ya A ya ino Sheduḽ Ii    ḓo shuma—
+2.	Khethekanyo ya 50 (1) ya Ndayotewa ntswa i khou fhahewa u swikela 30 Lambamai 1999.
+3.	Nangwe ho vha na u fheliswa ha Ndayotewa yo fhiraho, Sheduḽu ya 2 ya iyo Ndayotewa sa zwe ya khwiniswa nga Sheduḽu ya A ya ino Sheduḽu li    ḓo shuma—
 	1.	kha khetho dza u thoma dza Buthano ḽa Lushaka fhasi ha Ndayotewa ntswa;
 	1.	kha u fhelelwa nga u vha muraḓo wa Buthano kha nyimele dzi sa fani na dze dza ṋetshedzwa kha khethekanyo ya 47(3) ya Ndayotewa ntswa; na
 	1.	kha u ḓadziwa ha zwikhala kha Buthano, na u ḓadzisa, u sedzuluswa na u shumiswa ha mitevhe ya ḽihoro kha u ḓadzwa ha zwikhala, u swikela khetho dza vhuvhili dza Buthano fhasi ha Ndayotewa ntswa.
 4.	Khethekanyo ya 47(4) ya Ndayotewa ntswa yo fhahewa u swikela hu tshi vha na khetho dza vhuvhili dza Buthano ḽa lushaka fhasi ha Ndayotewa ntswa.
 
-## 7. Khoro ya Lushaka ya Mavunḓu
+## 7. Khoro ya Lushaka ya Mavundu
 
-1.	Kha tshifhinga tshi fhelaho phanḓa ha dzulo ḽa u thoma ḽa vhusimamilayo ha vunḓu ḽo fariwaho nga murahu ha khetho dza u thoma fhasi ha Ndayotewa ntswa—
-	1.	Vhuimeleli ha mahoro kha Vunḓu kha Khoro ya Lushaka ya Mavunḓu vhu fanela u fana na vhune Sinethe dza 10 dza vha dzo nangiwa hu tshi tevhedzwa khethekanyo ya 48 ya Ndayotewa yo fhiraho; na
-	1.	u ṋetshedzwa ha vhurumiwa ha tshoṱhe na ha tshipentshela kha mahoro o imelelwaho kha vhusimamailayo ha vunḓu, hu nga nḓila I tevhelaho: 
+1.	Kha tshifhinga tshi fhelaho phanḓa ha dzulo ḽa u thoma ḽa vhusimamilayo ha vundu ḽo fariwaho nga murahu ha khetho dza u thoma fhasi ha Ndayotewa ntswa—
+	1.	Vhuimeleli ha mahoro kha Vundu kha Khoro ya Mavundu ya Lushaka vhu fanela u fana na vhune Sinethe dza 10 dza vha dzo nangiwa hu tshi tevhedzwa khethekanyo ya 48 ya Ndayotewa yo fhiraho; na
+	1.	u ṋetshedzwa ha vhurumiwa ha tshoṱhe na ha tshipentshela kha mahoro o imelelwaho kha vhusimamailayo ha vundu, hu nga nḓila i tevhelaho: 
 
-		| Vunḓu | Vhurumiwa Ha Tshoṱhe | Vhurumiwa Ha Tshipentshela
+		| Vundu | Vhurumiwa Ha Tshoṱhe | Vhurumiwa Ha Tshipentshela
 		|-------|----------------------|---------------------------
 		1. Kapa Vhubvaḓuvha | ANC 5, NP 1 | ANC 4
 		2. Fureisitata | ANC 4, FF 1, NP 1 | ANC 4
@@ -85,54 +85,53 @@ Kha ino Sheduḽu nga nnḓa ha musi zwi sa yelani na hune zwa khou bulwa hone:
 		4. KwaZulu-Natala | ANC 1, DP 1, IFP 3, NP 1 | ANC 2, IFP 2
 		5. Mpumalanga | ANC 4, FF 1, NP 1 | ANC 4
 		6. Kapa Devhula | ANC 3, FF 1, NP 2 | ANC 2, NP 2
-		7. Vunḓu ḽa Devhula | ANC 6 | ANC 4
+		7. Limpopo | ANC 6 | ANC 4
 		8. Devhula Vhukovhela | ANC 4, FF 1, NP 1 | ANC 4
 		9. Kapa Vhukovhela | ANC 2, DP 1, NP 3 | ANC 1, NP 3
 
-2.	Ḽihoro ḽo imelelwaho kha vhusimamilayo ha vunḓu—
-	1.	Ḽi fanela u nanga vharumiwa vhaḽo vha tshoṱhe u bva kha vhathu vhe vha vha vhe dzisinetha musi Ndayotewa ntswa I tshi thoma u shuma na uri vha tshi ḓo kona u shuma sa vharumiwa vha tshoṱhe; na
+2.	Ḽihoro ḽo imelelwaho kha vhusimamilayo ha vundu—
+	1.	Ḽi fanela u nanga vharumiwa vhaḽo vha tshoṱhe u bva kha vhathu vhe vha vha vhe dzisinetha musi Ndayotewa ntswa i tshi thoma u shuma na uri vha tshi ḓo kona u shuma sa vharumiwa vha tshoṱhe; na
 	1.	vha nga nanga vhaṅwe vhathu sa vharumiwa vhavho vha tshoṱhe fhedzi arali hu si na kana hu na tshivhalo tshi sa eḓaniho tsha dzisinetha dza kale.
-3.	Vhusimamilayo ha vunḓu vhu fanela u thola vharumiwa vha tshoṱhe hu tshi tevhedzwa u nangiwa ha mahoro.
-4.	Tshiteṅwa tshiṱuku tsha (2) na (3) zwi shuma fhedzi kha u tholwa ha u thoma ha vharumiwa vha tshoṱhe kha Khoro ya lushaka ya Mavunḓu.
-5.	Khethekanyo ya 62(1) ya Ndayotewa ntswa a I shumi kha u nangiwa na u tholwa ha sinetha dza kale sa vharumiwa vha tshoṱhe hu tshi tevhedzwa tshiteṅwa tshino.
-6.	Milayo na ndaela dza Sinetha zwi no khou shuma musi Ndayotewa ntswa I tshi thoma u shuma zwi tea u shumiswa malugana na mafhungo a Khoro ya Lushaka u swika afho hune ya nga shuma, hu tshi tevhedzwa khwiniso kana u fheliswa hufhio na hufhio.
+3.	Vhusimamilayo ha vundu vhu fanela u thola vharumiwa vha tshoṱhe hu tshi tevhedzwa u nangiwa ha mahoro.
+4.	Tshiteṅwa tshiṱuku tsha (2) na (3) zwi shuma fhedzi kha u tholwa ha u thoma ha vharumiwa vha tshoṱhe kha Khoro ya Mavundu ya Lushaka.
+5.	Khethekanyo ya 62(1) ya Ndayotewa ntswa a i shumi kha u nangiwa na u tholwa ha sinetha dza kale sa vharumiwa vha tshoṱhe hu tshi tevhedzwa tshiteṅwa tshino.
+6.	Milayo na ndaela dza Sinetha zwi no khou shuma musi Ndayotewa ntswa i tshi thoma u shuma zwi tea u shumiswa malugana na mafhungo a Khoro ya Lushaka u swika afho hune ya nga shuma, hu tshi tevhedzwa khwiniso kana u fheliswa hufhio na hufhio.
 
 ## 8. Sinethe dza tshifhinga tsho fhelaho
 
-1.	Muthu we a vha e Sinethe a songo tholiwaho sa murumiwa wa tshoṱhe kha Khoro ya Lushaka ya Mavunḓu u tea u vha muraḓo wo fhelelaho a no ḓo voutha kha vhusimamilayo ha vunḓu ḽe ḽa mu nanga sa sinetha hu tshi tevhedzwa khethekanyo ya 48 ya Ndayotewa yo fhiraho.
-2.	Arali muthu we a vha e Sinethe a khetha u sa tsha vha muraḓo wa vhusimamilayo, uyo muthu u ḓo dzhiiwa sa muthu o ṅalaho mushumo wa vhusinetha phanḓa ha ḓuvha ḽe Ndayotewa ntswa ya thoma u shuma.
-3.	Muholo, magavhelo na mbuelo dza vhathu vhe vha vha vhe dzisinethe vho tholiwaho sa vharumiwa vha tshoṱhe kana sa miraḓo ya vhusimamilayo ha vunḓu, I nga si kone u fhungudzwa nga vhanga ḽa u tholwa uho fhedzi.
+1.	Muthu we a vha e Sinetha a songo tholiwaho sa murumiwa wa tshoṱhe kha Khoro ya Mavundu ya Lushaka u tea u vha muraḓo wo fhelelaho a no ḓo voutha kha vhusimamilayo ha vundu ḽe ḽa mu nanga sa sinetha hu tshi tevhedzwa khethekanyo ya 48 ya Ndayotewa yo fhiraho.
+2.	Arali muthu we a vha e sinetha a khetha u sa tsha vha muraḓo wa vhusimamilayo, uyo muthu u ḓo dzhiiwa sa muthu o ṅalaho mushumo wa vhusinetha phanḓa ha ḓuvha ḽe Ndayotewa ntswa ya thoma u shuma.
+3.	Muholo, magavhelo na mbuelo dza vhathu vhe vha vha vhe dzisinethe vho tholiwaho sa vharumiwa vha tshoṱhe kana sa miraḓo ya vhusimamilayo ha vundu, i nga si kone u fhungudzwa nga vhanga ḽa u tholwa uho fhedzi.
 
 ## 9. Khorotshitumbe ya Lushaka
 
-1.	Muthu muṅwe na muṅwe we a vha e Phresidennde, Muthusa- Phresidennde wa Khorotshitumbe, Minisṱa kana Muthusa- Minisṱa wa Riphabuḽiki nga fhasi ha Ndayotewa yo fhiraho musi ndayotewa ntswa I tshi u thoma u shuma, u ḓo isa phanḓa na u fara ofisi u ya nga ha tshiteṅwa tshiṱuku tsha (2).
+1.	Muthu muṅwe na muṅwe we a vha e Phresidennde, Muthusa-Phresidennde wa Khorotshitumbe, Minisṱa kana Muthusa- Minisṱa wa Riphabuḽiki nga fhasi ha Ndayotewa yo fhiraho musi ndayotewa ntswa i tshi thoma u shuma, u ḓo isa phanḓa na u fara ofisi u ya nga ha tshiteṅwa tshiṱuku tsha (2).
 2.	U swika nga ḽa 30 Lambamai 1999, khethekanyo 84,89,90,91,93, na 96 dza Ndayotewa ntswa dzi tea u dzhiiwa dzi tshi ḓo vhalea sa zwine dza vhaliswa zwone kha Ṱhumetshedzo ya B ya ino Sheduḽu.
-3.	Tshiteṅwa tshiṱuku tsha (2) a tshi thivheli Minisṱa we a vha e sinethe musi Ndayotewa ntswa I tshi thoma u shuma, kha u isa phanḓa sa Minisṱa o bulwaho kha khethekanyo ya 91(1)(a) ya Ndayotewa ntswa sa zwine iyo khethekanyo ya vhalisiwa zwone kha Ṱhumetshedzo ya B.
+3.	Tshiteṅwa tshiṱuku tsha (2) a tshi thivheli Minisṱa we a vha e sinethe musi Ndayotewa ntswa i tshi thoma u shuma, kha u isa phanḓa sa Minisṱa o bulwaho kha khethekanyo ya 91(1)(a) ya Ndayotewa ntswa sa zwine iyo khethekanyo ya vhalisiwa zwone kha Ṱhumetshedzo ya B.
 
-## 10. Vhusimamilayo ha mavunḓu
+## 10. Vhusimamilayo ha mavundu
 
-1.	Muthu muṅwe na muṅwe we a vha e muraḓo kana mufari wa ofisi kha Vhusimamilayo ha vunḓu musi Ndayotewa ntswa
-I tshi thoma u shuma, u mbo ḓi vha muraḓo kana mufari wa ofisi kha vhusimamilayo ha vunḓu ḽeneḽo nga fhasi ha Ndayotewa ntswa nahone u ḓo fara ofisi kana a vha mufari wa ofisi a tshi tevhedza Ndayotewa ntswa na ndayotewa iṅwe na iṅwe ya vunḓu ine ya nga phasisiwa.
-2.	Vhusimamilayo ha vunḓu sa zwe ha vhumbiswa zwone u ya nga ha tshiteṅwa tshiṱuku tsha (1) vhu tea u dzhiiwa sa ho khethiwaho nga fhasi ha Ndayotewa ntswa kha tshifhinga tshine tsha ḓo fhela nga ḽa 30 Lambamai 1999.
-3.	Kha tshifhinga tshaho tsha ofisi tshi fhelaho nga ḽa 30 Lambamai 1999, nahone hu tshi tevhelwa khethekanyo ya 108(4), vhusimamilayo ha vunḓu ho vhumbiwaho nga tshivhalo tsha miraḓo yo tetshelwaho uho vhusimamilayo kha Ndayotewa yo fhiraho khathihi na tshivhalo tsha vhasinetha vha tshifhinga tsho fhiraho vhe vha vha miraḓo ya vhusimamilayo u ya nga ha tshiteṅwa tsha 8 tsha ino Sheduḽu.
-4.	Milayo na ndaela zwa vhusimamilayo ha vunḓu zwine zwa khou shuma nga tshifhinga tsha musi Ndayotewa ntswa I tshi thoma u shuma, zwi ḓo isa phanḓa na u shuma nga nnḓa ha musi hu tshi nga vha na u khwiniswa kana u fheliswa huṅwe na huṅwe.
+1.	Muthu muṅwe na muṅwe we a vha e muraḓo kana mufari wa ofisi kha Vhusimamilayo ha vundu musi Ndayotewa ntswa i tshi thoma u shuma, u mbo ḓi vha muraḓo kana mufari wa ofisi kha vhusimamilayo ha vundu ḽeneḽo nga fhasi ha Ndayotewa ntswa nahone u ḓo fara ofisi kana a vha mufari wa ofisi a tshi tevhedza Ndayotewa ntswa na ndayotewa iṅwe na iṅwe ya vundu ine ya nga phasisiwa.
+2.	Vhusimamilayo ha vundu sa zwe ha vhumbiswa zwone u ya nga ha tshiteṅwa tshiṱuku tsha (1) vhu tea u dzhiiwa sa ho khethiwaho nga fhasi ha Ndayotewa ntswa kha tshifhinga tshine tsha ḓo fhela nga ḽa 30 Lambamai 1999.
+3.	Kha tshifhinga tshaho tsha ofisi tshi fhelaho nga ḽa 30 Lambamai 1999, nahone hu tshi tevhedzwa khethekanyo ya 108(4), vhusimamilayo ha vundu ho vhumbiwaho nga tshivhalo tsha miraḓo yo tetshelwaho uho vhusimamilayo kha Ndayotewa yo fhiraho khathihi na tshivhalo tsha vhasinetha vha tshifhinga tsho fhiraho vhe vha vha miraḓo ya vhusimamilayo u ya nga ha tshiteṅwa tsha 8 tsha ino Sheduḽu.
+4.	Milayo na ndaela zwa vhusimamilayo ha vundu zwine zwa khou shuma nga tshifhinga tsha musi Ndayotewa ntswa i tshi thoma u shuma, zwi ḓo isa phanḓa na u shuma nga nnḓa ha musi hu tshi nga vha na u khwiniswa kana u fheliswa huṅwe na huṅwe.
 
-## 11. Khetho dza Vhusimamilayo ha vunḓu
+## 11. Khetho dza Vhusimamilayo ha vundu
 
-1.	Naho ho vha na u fheliswa ha Ndayotewa yo fhiraho, Sheduḽu ya 2 ya ino Ndayotewa, sa zwe ya khwiniswa ngaho nga Ṱhumetshedzo ya A kha Sheduḽu ino,I ḓo shuma—
-	1.	kha khetho dza u thoma dza vhusimamilayo ha vunḓu fhasi ha Ndayotewa ntswa;
+1.	Naho ho vha na u fheliswa ha Ndayotewa yo fhiraho, Sheduḽu ya 2 ya ino Ndayotewa, sa zwe ya khwiniswa ngaho nga Ṱhumetshedzo ya A kha Sheduḽu ino, i ḓo shuma—
+	1.	kha khetho dza u thoma dza vhusimamilayo ha vundu fhasi ha Ndayotewa ntswa;
 	1.	kha u fhelelwa nga u vha muraḓo wa Vhusimamilayo kha nyimele dzo fhambanaho na dzo ṋetshedzwaho kha khethekanyo ya 106 (3) ya Ndayotewa ntswa; na
 	1.	kha u ḓadza zwikhala kha vhusimamilayo na u ḓadzisa, u sedzulusa na u shumiswa ha mitevhe ya mahoro kha u ḓadza zwikhala, u swikela hu tshi vha na khetho dza vhuvhili dza vhusimamilayo fhasi ha Ndayotewa ntswa.
-2.	Khethekanyo ya 106(4) ya Ndayotewa ntswa yo fhahewa malugana na vhusimamilayo ha vunḓu u swikela hu tshi vha na khetho dza vhuvhili dza vhusimamilayo fhasi ha Ndayotewa ntswa.
+2.	Khethekanyo ya 106(4) ya Ndayotewa ntswa yo fhahewa malugana na vhusimamilayo ha vundu u swikela hu tshi vha na khetho dza vhuvhili dza vhusimamilayo fhasi ha Ndayotewa ntswa.
 
-## 12. Khorotshitumbe dza vunḓu
+## 12. Khorotshitumbe dza vundu
 
-1.	Muthu muṅwe na muṅwe we a vha e Mulangavunḓu kana muraḓo wa Khorotshitumbe ya vunḓu musi Ndayotewa ntswa I tshi thoma u shuma, u ḓo isa phanḓa na u vha kha yeneyo ofisi a tshi tevhedza Ndayotewa ntswa na ndayotewa ifhio na ifhio ya vunḓu ine ya nga phasiswa, fhedzi hu tshi tevhedzwa tshiteṅwa tshiṱuku tsha (2).
-2.	U swikela Mulangavunḓu o khethwaho nga murahu ha khetho dza vhusimamilayo ha vunḓu dza u thoma nga fhasi ha Ndayotewa ntswa a tshi thoma u shuma kana vunḓu ḽi tshi phasisa Ndayotewa yaḽo, u ya ngauri hu bvelela zwifhio u thoma, khethekanyo ya 132 na ya 136 ya Ndayotewa ntswa dzi tea u dzhiiwa zwi tshi vhalea sa zwe zwa vheiswa zwone kha Ṱhumetshedzo ya C kha Sheduḽu ino.
+1.	Muthu muṅwe na muṅwe we a vha e Mulangavundu kana muraḓo wa Khorotshitumbe ya vundu musi Ndayotewa ntswa i tshi thoma u shuma, u ḓo isa phanḓa na u vha kha yeneyo ofisi a tshi tevhedza Ndayotewa ntswa na ndayotewa ifhio na ifhio ya vundu ine ya nga phasiswa, fhedzi hu tshi tevhedzwa tshiteṅwa tshiṱuku tsha (2).
+2.	U swikela Mulangavundu o khethwaho nga murahu ha khetho dza vhusimamilayo ha vundu dza u thoma nga fhasi ha Ndayotewa ntswa a tshi thoma u shuma kana vundu ḽi tshi phasisa Ndayotewa yaḽo, u ya ngauri hu bvelela zwifhio u thoma, khethekanyo ya 132 na ya 136 ya Ndayotewa ntswa dzi tea u dzhiiwa zwi tshi vhalea sa zwe zwa vheiswa zwone kha Ṱhumetshedzo ya C kha Sheduḽu ino.
 
-## 13. Milayotewa ya vunḓu
+## 13. Ndayotewa dza vundu
 
-Ndayotewa ya vunḓu yo phasiswaho phanḓa ha musi Ndayotewa ntswa I tshi thoma u shuma I tea u tevhedza khethekanyo ya 143 ya Ndayotewa ntswa.
+Ndayotewa ya vundu yo phasiswaho phanḓa ha musi Ndayotewa ntswa i tshi thoma u shuma i tea u tevhedza khethekanyo ya 143 ya Ndayotewa ntswa.
 
 ## 14. U ṋetshedzwa ha milayo kha mavunḓu
 
