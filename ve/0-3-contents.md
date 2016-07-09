@@ -361,5 +361,5 @@ layout: default
 *   [Sheduḽu ya 7: Milayo yo Thuthwaho](schedule-7.html#sheduu-ya-7-milayo-yo-thuthwaho)
 *   [Ṱhumetshedzo ya A: Khwiniso kha Sheduḽu ya 2 kha Ndayotewa ya Kale](z-annexure-a.html#humetshedzo-ya-a-khwiniso-kha-sheduu-ya-2-kha-ndayotewa-ya-kale)
 *   [Ṱhumetshedzo ya B: Muvhuso wa Vhuthihi ha Lushaka: Sia ḽa Lushaka](z-annexure-b.html#humetshedzo-ya-b-muvhuso-wa-vhuthihi-ha-lushaka-sia-a-lushaka)
-*   [Ṱhumetshedzo ya C: Muvhuso wa Vhuthihi ha Lushaka: Sia ḽa Vundu](z-annexure-c.html#humetshedzo-ya-c-muvhuso-wa-vhuthihi-ha-lushaka-sia-a-vunu)
+*   [Ṱhumetshedzo ya C: Muvhuso wa Vhuthihi ha Lushaka: Sia ḽa Vundu](z-annexure-c.html#humetshedzo-ya-c-muvhuso-wa-vhuthihi-ha-lushaka-sia-a-vundu)
 *   [Ṱhumetshedzo ya D: Ndaulo ya Muvhuso na Tshumelo dza Tsireledzo: Khwiniso kha Khethekanyo dza Ndayotewa ya Kale](z-annexure-d.html#humetshedzo-ya-d-ndaulo-ya-muvhuso-na-tshumelo-dza-tsireledzo-khwiniso-kha-khethekanyo-dza-ndayotewa-ya-kale)
