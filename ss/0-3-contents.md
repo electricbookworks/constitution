@@ -253,7 +253,7 @@ layout: default
     *   [212\. Indzima yebaholi bendzabuko](12.html#indzima-yebaholi-bendzabuko)
 *   [Sehluko 13: Tetimali (213-230A)](13.html#sehluko-13-tetimali-213-230a)
     *   [Tindzaba jikelele teTimali](13.html#tindzaba-jikelele-tetimali){:.subhead}
-        *   [213\. Sikhwama semali saVelonkhe](13.html#sikhwama-semali-savelonkhe)
+        *   [213\. SiKhwama seMali saVelonkhe](13.html#sikhwama-semali-savelonkhe)
         *   [214\. Tabelo letinebulungiswa nekuphakelwa kwemali](13.html#tabelo-letinebulungiswa-nekuphakelwa-kwemali)
         *   [215\. Imicombelelotimali yavelonkhe, yetifundza neyabomasipala](13.html#imicombelelotimali-yavelonkhe-yetifundza-neyabomasipala)
         *   [216\. Kuphatfwa kwesigcinamafa](13.html#kuphatfwa-kwesigcinamafa)
@@ -269,7 +269,7 @@ layout: default
         *   [224\. Inhloso lebalulekile](13.html#inhloso-lebalulekile)
         *   [225\. Emandla nemisebenti](13.html#emandla-nemisebenti)
     *   [Tindzaba tetimali tetifundza netasekhaya](13.html#tindzaba-tetimali-tetifundza-netasekhaya){:.subhead}
-        *   [226\. Tikhwama temali yetifundza](13.html#tikhwama-temali-yetifundza)
+        *   [226\. Tikhwama temali yetiFundza](13.html#tikhwama-temali-yetifundza)
         *   [227\. Imitfombo yavelonkhe yetimali tabohulumende betifundza nebasekhaya](13.html#imitfombo-yavelonkhe-yetimali-tabohulumende-betifundza-nebasekhaya)
         *   [228\. Tintsela tesifundza](13.html#tintsela-tesifundza)
         *   [229\. Emandla amasipala ekuphatsa timali nemisebenti](13.html#emandla-amasipala-ekuphatsa-timali-nemisebenti)
@@ -281,7 +281,7 @@ layout: default
         *   [232\. Umtsetfo wendzabuko wamhlabawonkhe](14.html#umtsetfo-wendzabuko-wamhlabawonkhe)
         *   [233\. Kusetjentiswa kwemtsefto wemave emhlaba](14.html#kusetjentiswa-kwemtsefto-wemave-emhlaba)
     *   [Letinye Tindzaba](14.html#letinye-tindzaba-1){:.subhead}
-        *   [234\. Tivumelwano temalungelo](14.html#tivumelwano-temalungelo)
+        *   [234\. Tivumelwano temaLungelo](14.html#tivumelwano-temalungelo)
         *   [235\. Kutibusa ngekwakho](14.html#kutibusa-ngekwakho)
         *   [236\. Kwelekelelwa ngetimali kwemacembu embusave](14.html#kwelekelelwa-ngetimali-kwemacembu-embusave)
         *   [237\. Kwentiwa kwemisebenti ngekutimisela](14.html#kwentiwa-kwemisebenti-ngekutimisela)
@@ -319,7 +319,7 @@ layout: default
         *   [6\. Inchubo yelukhetfo](schedule-3.html#inchubo-yelukhetfo)
         *   [7\. Inchubo yekukhishwa](schedule-3.html#inchubo-yekukhishwa)
         *   [8\. Leminye imihlangano](schedule-3.html#leminye-imihlangano)
-        *   [9\. imitsetfomgomo](schedule-3.html#imitsetfomgomo)
+        *   [9\. Imitsetfomgomo](schedule-3.html#imitsetfomgomo)
     *   [Incenye B: Inchubo Yekutfola Kungenela Kwemacembu Etembusave Kumatsimba Emkhandlwini Wavelonkhe WeTifundza](schedule-3.html#incenye-b-inchubo-yekutfola-kungenela-kwemacembu-etembusave-kumatsimba-emkhandlwini-wavelonkhe-wetifundza){:.subhead}
 *   [Ishejuli 4: Tindzawo Lapho Hulumende Wavelonkhe Kanye Nebetifundza Banemandla Ekushaya Umtsetfo Ngekuhlanganyela](schedule-4.html#ishejuli-4-tindzawo-lapho-hulumende-wavelonkhe-kanye-nebetifundza-banemandla-ekushaya-umtsetfo-ngekuhlanganyela)
     *   [Incenye A](schedule-4.html#incenye-a)
@@ -332,7 +332,7 @@ layout: default
 	*   [2\. Kuchubeka kwekusebenta kwemitsetfo lekhona](schedule-6.html#kuchubeka-kwekusebenta-kwemitsetfo-lekhona)
     *   [3\. Kuhunyushwa kwemitsetfo levele ikhona](schedule-6.html#kuhunyushwa-kwemitsetfo-levele-ikhona)
     *   [4\. Sigungu saVelonkhe](schedule-6.html#sigungu-savelonkhe-1)
-    *   [5\. Ludzaba lolungakapheli ephalamende](schedule-6.html#ludzaba-lolungakapheli-ephalamende)
+    *   [5\. Ludzaba lolungakapheli ePhalamende](schedule-6.html#ludzaba-lolungakapheli-ephalamende)
     *   [6\. Lukhetfo lwesigungu saVelonkhe](schedule-6.html#lukhetfo-lwesigungu-savelonkhe)
     *   [7\. Umkhandlu weTifundza](schedule-6.html#umkhandlu-wetifundza-1)
     *   [8\. Lebebatimphunga](schedule-6.html#lebebatimphunga)
