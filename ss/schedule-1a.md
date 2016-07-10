@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Ishejuli 1A. Tindzawo Tekwakhiwa Kwetifundza
+published: true
+layout: default
+style: chapter
 ---
 
 # Ishejuli 1A: Tindzawo Tekwakhiwa Kwetifundza
@@ -30,7 +34,7 @@ title: Ishejuli 1A. Tindzawo Tekwakhiwa Kwetifundza
 
 ## Sifundza saseGauteng
 
-> [Kuhlukaniswa kwesifundza saseGauteng lokuvalwe nguMtsetfo welishumi nesitfupha wekuChitji- yelwa kweMtsetfosisekelo wanga-2009 ngesatiso 1490 wanga-2008]
+> [Kuhlukaniswa kwesifundza saseGauteng lokuvalwe nguMtsetfo welishumi nesitfupha wekuChitjiyelwa kweMtsetfosisekelo wanga-2009 ngesatiso 1490 wanga-2008]
 {:.note}
 
 > [Ngekubuka libalave nombolo 4 lovalwe ngekwesigaba 1(a) seMtsetfo welishumi nesitfupha wekuChitjiyelwa kweMtsetfosisekelo wanga-2009]
@@ -44,7 +48,7 @@ title: Ishejuli 1A. Tindzawo Tekwakhiwa Kwetifundza
 
 ## Sifundza saseKwaZulu-Natali
 
-> [Kuhlukaniswa kwesifundza saKwa-Zulu Natal lokuvalwe nguMtsetfo welishumi nesitfupha wekuCh- itjiyelwa kweMtsetfosisekelo wanga-2007]
+> [Kuhlukaniswa kwesifundza saKwa-Zulu Natal lokuvalwe nguMtsetfo welishumi nesitfupha wekuChitjiyelwa kweMtsetfosisekelo wanga-2007]
 {:.note}
 
 *	Libalave nombolo 22 weshejuli 2 kuya kusatiso 1998 sanga-2005
