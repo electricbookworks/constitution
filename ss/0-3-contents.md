@@ -27,7 +27,7 @@ layout: default
     *   [14\. Lingasese](02.html#lingasese)
     *   [15\. Inkhululeko kutenkholo, inkholelo kanye nembono](02.html#inkhululeko-kutenkholo-inkholelo-kanye-nembono)
     *   [16\. Inkhululeko yekubeka luvo](02.html#inkhululeko-yekubeka-luvo)
-    *   [17\. Umbutsano umshuco, kuphatsa tincwembe letibhalwe tikhalo kanye nekubeka ticelo ngekutibhala phasi](02.html#umbutsano-umshuco-kuphatsa-tincwembe-letibhalwe-tikhalo-kanye-nekubeka-ticelo-ngekutibhala-phasi)
+    *   [17\. Umbutsano, umshuco, kuphatsa tincwembe letibhalwe tikhalo kanye nekubeka ticelo ngekutibhala phasi](02.html#umbutsano-umshuco-kuphatsa-tincwembe-letibhalwe-tikhalo-kanye-nekubeka-ticelo-ngekutibhala-phasi)
     *   [18\. Inkhululelo yekuhlanganyela](02.html#inkhululelo-yekuhlanganyela)
     *   [19\. Emalungelo etembusave](02.html#emalungelo-etembusave)
     *   [20\. Buve](02.html#buve)
