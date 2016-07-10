@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Ishejuli 3. Tinchubo Telukhetfo
+published: true
+layout: default
+style: chapter
 ---
 
 # Ishejuli 3: Tinchubo Telukhetfo
@@ -54,7 +58,7 @@ Uma ngabe linye kuphela ligama leliphakanyisiwe, lomuntfu lowengamele kumele ame
 1.	Uma kuphakanyiswe emagama lamabili kuphela, noma uma bababili kuphela labasele ngemuva kwenchubo yekukhishwa, kantsi futsi labo lababili batfole emavoti lalinganako, lomunye umhlangano kumele ubanjwe kungakapheli emalanga lasikhombisa, ngesikhatsi lesincunywe ngulomuntfu lowengamele.
 2.	Uma umhlangano lomunye ubanjwa ngekulandzela sigatjana (1), lenchubo lebekwe kuleShejuli kumele ilandzelwe sengatsi lowo mhlangano wekucala walolo lukhetfo.
 
-### 9. imitsetfomgomo
+### 9. Imitsetfomgomo
 
 1.	Somajaji kumele ente imitsetfomgomo lechaza –
 	1.	inchubo yemihlangano lapho leShejuli isebente khona;
