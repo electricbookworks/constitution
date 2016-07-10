@@ -1,15 +1,19 @@
 ---
+stylesheet: screen.css
 title: Sheduḽu ya 1A. Fhethuvhupo ha Mavunḓu
+published: true
+layout: default
+style: chapter
 ---
 
-# Sheduḽu ya 1A: Fhethuvhupo ha Mavunḓu
+# Sheduḽu ya 1A: Fhethuvhupo ha Mavundu
 
 > [Sheduḽu ya 1A yo dzheniswa nga khethekanyo ya. 4 ya Mulayo wa Khwiniso ya vhufumimbili ya Ndayotewa wa 2005 ye ya imelwa nga khethekanyo ya. 1 ya Mulayo wa Khwiniso ya Vhufumiraru ya Ndayotewa wa 2007 na nga Mulayo wa Khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
 {:.note}
 
-## Vunḓu ḽa Kapa Vhubvaḓuvha
+## Vundu ḽa Kapa Vhubvaḓuvha
 
-> [Mukano wa Vunḓu ḽa Kapa Vhubvaḓuvha wo imelwa nga Mulayo wa khwiniso wa Vhufumiraru ya Ndayotewa wa 2007.]
+> [Mukano wa Vundu ḽa Kapa Vhubvaḓuvha wo imelwa nga Mulayo wa Khwiniso wa Vhufumiraru ya Ndayotewa wa 2007.]
 {:.note}
 
 *	Mapa wa vhu 3 wa Sheduḽu ya 1 kha Nḓivhadzo ya 1998 ya 2005
@@ -20,7 +24,7 @@ title: Sheduḽu ya 1A. Fhethuvhupo ha Mavunḓu
 *	Mapa wa vhu 10 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 11 wa Sheduḽu ya vhu 2 kha Nḓivhadzo wa 1998 ya 2005
 
-## Vunḓu ḽa Fureisitata
+## Vundu ḽa Fureisitata
 
 *	Mapa wa vhu 12 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 13 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
@@ -28,14 +32,14 @@ title: Sheduḽu ya 1A. Fhethuvhupo ha Mavunḓu
 *	Mapa wa vhu 15 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 16 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005
 
-## Vunḓu ḽa Gauteng
+## Vundu ḽa Gauteng
 
-> [Mukano wa Vunḓu ḽa Gauteng wo khwiniswa nga Mulayo wa khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
+> [Mukano wa Vundu ḽa Gauteng wo khwiniswa nga Mulayo wa Khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
 {:.note}
 
 *	Mapa wa vhu 4 wa Nḓivhadzo ya 1490 ya 2008
 
-	> [Zwo sumbedziswaho nga mapa wa vhu 4 zwo imelwa nga khethekanyo ya 1(a) ya Mulayo wa khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
+	> [Zwo sumbedziswaho nga mapa wa vhu 4 zwo imelwa nga khethekanyo ya 1(a) ya Mulayo wa Khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
 	{:.note}
 
 *	Mapa wa vhu 17 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
@@ -44,9 +48,9 @@ title: Sheduḽu ya 1A. Fhethuvhupo ha Mavunḓu
 *	Mapa wa vhu 20 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 21 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005
 
-## Vunḓu ḽa KwaZulu-Natal
+## Vundu ḽa KwaZulu-Natal
 
-> [Mukano wa Vunḓu ḽa KwaZulu-Natal wo imelwa nga Mulayo wa khwiniso ya vhufumiraru ya Ndayotewa wa 2007.]
+> [Mukano wa Vundu ḽa KwaZulu-Natal wo imelwa nga Mulayo wa Khwiniso ya Vhufumiraru ya Ndayotewa wa 2007.]
 {:.note}
 
 *	Mapa wa vhu 22 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
@@ -61,7 +65,7 @@ title: Sheduḽu ya 1A. Fhethuvhupo ha Mavunḓu
 *	Mapa wa vhu 31 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 32 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005
 
-## Vunḓu ḽa Limpopo
+## Vundu ḽa Limpopo
 
 *	Mapa wa vhu 33 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 34 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
@@ -69,13 +73,13 @@ title: Sheduḽu ya 1A. Fhethuvhupo ha Mavunḓu
 *	Mapa wa vhu 36 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 37 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005
 
-## Vunḓu ḽa Mpumalanga
+## Vundu ḽa Mpumalanga
 
 *	Mapa wa vhu 38 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 39 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 40 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005
 
-## Vunḓu ḽa Kapa Devhula
+## Vundu ḽa Kapa Devhula
 
 *	Mapa wa vhu 41 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 42 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
@@ -83,21 +87,21 @@ title: Sheduḽu ya 1A. Fhethuvhupo ha Mavunḓu
 *	Mapa wa vhu 44 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 45 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005
 
-## Vunḓu ḽa Devhula Vhukovhela
+## Vundu ḽa Devhula Vhukovhela
 
-> [Mukano wa Vunḓu ḽa Devhula Vhukovhela wo khwiniswa nga Mulayo wa khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
+> [Mukano wa Vundu ḽa Devhula Vhukovhela wo Khwiniswa nga Mulayo wa khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
 {:.note}
 
 *	Mapa wa vhu 5 kha Nḓivhadzo ya 1490 ya 2008
 
-	> [Zwo sumbedziswaho nga mapa wa vhu 5 zwo imelwaho nga khethekanyo ya 1(b) ya Mulayo wa khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
+	> [Zwo sumbedziswaho nga mapa wa vhu 5 zwo imelwaho nga khethekanyo ya 1(b) ya Mulayo wa Khwiniso ya Vhufumirathi ya Ndayotewa wa 2009.]
 	{:.note}
 
 *	Mapa wa vhu 46 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 47 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 48 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005
 
-## Vunḓu ḽa Kapa Vhukovhela
+## Vundu ḽa Kapa Vhukovhela
 
 *	Mapa wa vhu 49 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 
 *	Mapa wa vhu 50 wa Sheduḽu ya vhu 2 kha Nḓivhadzo ya 1998 ya 2005 

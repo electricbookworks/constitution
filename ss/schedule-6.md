@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Ishejuli 6. Timiselo Tesikhashana
+published: true
+layout: default
+style: chapter
 ---
 
 # Ishejuli 6: Timiselo Tesikhashana
@@ -19,7 +23,7 @@ KuleShejuli, ngaphandle kungahambisani nengcikitsi -
 
 “UMtsetfosisekelo lomdzala” usho uMtsetfosisekelo weRiphabhulikhi yeNingizimu Afrika, wanga-1993 (uMtsetfo 200 wanga-1993).
 
-# 2. Kuchubeka kwekusebenta kwemitsetfo lekhona
+## 2. Kuchubeka kwekusebenta kwemitsetfo lekhona
 
 1.	Yonkhe imitsetfo lebeyikhona isebenta kungakacali kusebenta kwaloMtsetfosisekelo lomusha, iyachubeka nekusebenta, ngaphasi kwembandzela -
 	1.	wanoma kuphi kuchitjiyelwa noma kucitfwa; kanye
@@ -52,7 +56,7 @@ KuleShejuli, ngaphandle kungahambisani nengcikitsi -
 3.	Sigungu saVelonkhe sinemalunga langu-400 kuze kuyewuphela sikhatsi saso, kuze kufike mhlaka 30 Apreli 1999, ngekulandzela sigaba 49(4)    seMtsetfosisekelo lomusha.
 4.	Imitsetfomgomo kanye nenchubo yaleSigungu saVelonkhe lebeyisebenta kungakangeni loMtsetfosisekelo lomusha itawujinge ichubeke nekusebenta ngaphandle uma ingachitjiyelwa noma icitfwe ngaphasi kwaloMtsetfosisekelo lomusha.
 
-## 5. Ludzaba lolungakapheli ephalamende
+## 5. Ludzaba lolungakapheli ePhalamende
 
 1.	Noma nguluphi ludzaba lolungakapheli lolusembi kweSigungu saVelonkhe kungakacali kusebenta kwaloMtsetfosisekelo lomusha kumele kuchutjekwe ngalo ngaphasi kwaloMtsetfosisekelo lomusha.
 2.	Noma ngabe nguluphi ludzaba lolungakapheli lolusembi kwetiMphunga kungakacali kusebenta kwaloMtsetfosisekelo lomusha kumele lumikiswe eMkhandlwini waVelonkhe weTifundza, futsi loMkhandlu kumele uchubeke nalo ngaphasi kwaloMtsetfosisekelo.
@@ -138,8 +142,8 @@ Umtsetfosisekelo wesifundza lobekwe kungakacali kusebenta kweMtsetfosisekelo lom
 	1.	lapho kuniketwa kwemtsetfo kungasebenti kuleyo ncenye yemtsetfo wonkhana, angacitsa futsi avuselele, netichibiyelo noma ngaphandle kwato letishiwo endzinyenyeni(a), leto ticeshana tawo lapho kuniketwa kusebenta khona noma kuze kufike lapho tisebenta khona;
 	1.	angacondzisa lapho kuhambisana kahle noma nguluphi lolunye ludzaba lolungahle ludzingeke ngenca yalokuniketwa, lokufakwa ekhatsi kucoconyiswa noma kutfutfukiswa kwetisebenti noma kucoconyiswa kwetintfo letingumnotfo, tikwelete, emalungelo kanye netibopho letibuya noma letiya esigungwini sembuso noma sesifundza noma lamanye ematiko embuso, ekuphatsa, ekuvikela noma letinye tikhungo.
 3.	
-	1.	Umbhalo wesimemetelo ngasinye semtsetfo lesikhishiwe ngekweliphuzwana (1) noma (2) kumele wetfulwe kuleSigungu saVelonkhe neMkhandluwaVelonkhe weTifundza angakapheli emalanga langu-10 sikhishiwelesimemetelo.
-	1.	Uma Sigungu saVelonkhe neMkhandlu waVelonkhe weTifundza ngesincumo ungasemukeli lesimemetelo semtsetfo noma siphi siphakamiso saso, lesosimemetelo noma siphakamiso siphelelwa sikhatsi, kepha singatsikameti -
+	1.	Umbhalo wesimemetelo ngasinye semtsetfo lesikhishiwe ngekweliphuzwana (1) noma (2) kumele wetfulwe kuleSigungu saVelonkhe neMkhandluwaVelonkhe weTifundza angakapheli emalanga langu-10 sikhishiwelesi memetelo.
+	1.	Uma Sigungu saVelonkhe neMkhandlu waVelonkhe weTifundza ngesincumo ungasemukeli lesimemetelo semtsetfo noma siphi siphakamiso saso, leso simemetelo noma siphakamiso siphelelwa sikhatsi, kepha singatsikameti -
 		1.	kusebenta kwanoma yini intfo leyentiwe ngalesimemetelo semtsetfo noma siphakamiso singakaphelelwa sikhatsi; noma
 		1.	lilungelo noma lilungelomvume lelitfolakele noma sobopho noma umtfwalo lotfolakele singakaphelelwa sikhatsi.
 4.	Uma ngabe kuniketwa umtsetfo ngaphasi kweliphuzwana (1), noma kuphi lokushiwo kuleyo mtsetfo siphatsimandla, kumele kutsatfwe ngekutsi kusho siphatsimandla leso lokuniketwe sona emandla.
@@ -248,7 +252,7 @@ Umuntfu lochubeka esikhundleni ngekwaleShejuli futsi lowatsatsa sifungo sekungen
 	> [Liphuzwana 22(2) lifakwe ngesigaba 3 seMtsetfo weKucala wekuChitjiyelwa kweMtsetfosisekelo wanga-1997.]
 	{:.note}
 
-## 23. luCwebu lwemalungelo eluntfu
+## 23. LuCwebu lwemalungelo eluntfu
 
 1.	Umtsetfo wavelonkhe lophawulwe etigabeni 9 (4), 32 (2), na-33(3)    teMtsetfosisekelo lomusha kumele usebente kungakapheli iminyaka lemitsatfu uMtsetfosisekelo lomusha ucale kusebenta.
 2.	Kuze kusebente lomtsetfosisekelo lomusha kumele usebente lomtsetfo lophawulwe etigabeni 32 (2) na-33 (3) teMtsetfosisekelo lomusha -

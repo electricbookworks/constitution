@@ -1,35 +1,41 @@
 ---
-title: Sheduḽu ya 4. Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Lushaka Khathihi na ha Vunḓu
+stylesheet: screen.css
+title: >-
+  Sheduḽu ya 4. Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Lushaka Khathihi
+  na ha Vunḓu
+published: true
+layout: default
+style: chapter
 ---
 
-# Sheduḽu ya 4: Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Lushaka Khathihi na ha Vunḓu
+# Sheduḽu ya 4: Maanḓa a Fhethu ha Mishumo ya Vhusimamilayo ha Lushaka Khathihi na ha Vundu
 
 ## Tshipiḓa tsha A
 
 *	Ndaulo ya maḓaka apo
-*	Zwa Vhulimi
+*	Zwa vhulimi
 *	Vhukavhamabufho nga nnḓa ha vhukavhamabufho ha dzitshaka kana ha lushaka
 *	Ndangulo ya dziphukha na malwadze
 *	Dzikhasino, dzimbambe, u gembula na u betsha, zwi sa kateli zwa dziḽothari na zwa u betsha kha zwa mitambo
 *	U tsireledzwa ha vharengi
 *	Mafhungo a mvelele
-*	Ndangulo ya Zwiwo
+*	Ndangulo ya zwiwo
 *	Pfunzo kha zwipiḓa zwoṱhe zwi sa kateli pfunzo ya theshiari
 *	Zwa mupo
 *	Tshumelo dza mutakalo
 *	Zwa dzinnḓu
 *	Mulayo wa ndavhuko na mulayo wa mvelele hu tshi tevhedzwa ndima ya vhu 12 ya Ndayotewa
-*	Nyaluso ya Nḓowetshumo
-*	Mbekanyamaitele ya nyambo na u langulwa ha nyambo dza tshiofisi kha vunḓu, ho tevhelwa u swika afho hune khethekanyo ya 6 ya Ndayotewa ya ṋea vhusimamilayo ha vunḓu maanḓa a vhusimamilayo
-*	Tshumelo ya Vhuanḓadzamafhungo vhu ṋewaho nga, kana vhu langulwaho nga muvhuso wa vunḓu u ya nga ha khethekanyo ya 192
+*	Nyaluso ya nḓowetshumo
+*	Mbekanyamaitele ya nyambo na u langulwa ha nyambo dza tshiofisi kha vundu, ho tevhelwa u swika afho hune khethekanyo ya 6 ya Ndayotewa ya ṋea vhusimamilayo ha vundu maanḓa a vhusimamilayo
+*	Tshumelo ya Vhuanḓadzamafhungo vhu ṋewaho nga, kana vhu langulwaho nga muvhuso wa vundu u ya nga ha khethekanyo ya 192
 *	Ndondolo ya mupo, zwi sa kateli phaka dza lushaka, ngade dza zwa miri dza lushaka na tshomedzo dza Iwanzheni
-*	Mapholisa u swikela afho hune ndima ya 11 ya Ndayotewa ya ṋea vhusimamilayo ha vunḓu maanḓa a vhusimamilayo
+*	Mapholisa u swikela afho hune ndima ya 11 ya Ndayotewa ya ṋea vhusimamilayo ha vundu maanḓa a vhusimamilayo
 *	Ndangulo ya tshikafhadzo ya mupo
 *	Mveledziso ya vhathu
 *	Mbadelo dza tsudzuluso ya ndaka
-*	Mabindu a tshitshavha a vunḓu hu tshi sedzwa fhethu hune ha shumiwa kha ino sheduḽu na sheduḽu ya 5
+*	Mabindu a tshitshavha a vundu hu tshi sedzwa fhethu hune ha shumiwa kha ino sheduḽu na sheduḽu ya 5
 *	Zwa vhuendedzi ha nnyi na nnyi
-*	Mishumo ya tshitshavha hu tshi sedzwa ṱhoḓea dza mihasho ya muvhuso wa vunḓu kha u ita vhuḓifhinduleli havho ha u langula mishumo ye ya randelwa vhone hu tshi tevhedzwa Ndayotewa kana mulayo ufhio na ufhio
+*	Mishumo ya tshitshavha hu tshi sedzwa ṱhoḓea dza mihasho ya muvhuso wa vundu kha u ita vhuḓifhinduleli havho ha u langula mishumo ye ya randelwa vhone hu tshi tevhedzwa Ndayotewa kana mulayo ufhio na ufhio
 *	Zwa dzipulane na mveledziso dza madzingu
 *	Ndangulo dza vhuendi ha badani
 *	Ndondolo ya mavu

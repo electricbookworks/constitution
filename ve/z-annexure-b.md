@@ -1,8 +1,12 @@
 ---
-title: Ṱhumetshedzo ya B. Muvhuso wa Vhuthihi ha Lushaka&#58; Sia la Lushaka
+stylesheet: screen.css
+title: 'Ṱhumetshedzo ya B. Muvhuso wa Vhuthihi ha Lushaka&#58; Sia la Lushaka'
+published: true
+layout: default
+style: chapter
 ---
 
-# Ṱhumetshedzo ya B: Muvhuso wa Vhuthihi ha Lushaka: Sia la Lushaka
+# Ṱhumetshedzo ya B: Muvhuso wa Vhuthihi ha Lushaka: Sia ḽa Lushaka
 
 1.	Khethekanyo ya 84 ya Ndayotewa ntswa i lavhelelwa u vha na iṅwe khethekanyo ṱhukhu i tevhelaho:
 
@@ -21,7 +25,7 @@ title: Ṱhumetshedzo ya B. Muvhuso wa Vhuthihi ha Lushaka&#58; Sia la Lushaka
 	> 3.	Khethekanyo ṱhukhu ya (1) na (2) dzi shuma na kha Muthusa-Phresidennde.
 	> {:start="3"}
 
-3.	Phara ya (a) ya khethekanyo ya 90 (1) ya Ndayotewa ntswa i lavhelelwa u vhalea nga nḓila i tevhelaho:
+3.	Pharagirafu ya (a) ya khethekanyo ya 90 (1) ya Ndayotewa ntswa i lavhelelwa u vhalea nga nḓila i tevhelaho:
 
 	> (a) Muthusa-Phresidennde o tholiwaho nga Phresidennde;
 
@@ -45,19 +49,19 @@ title: Ṱhumetshedzo ya B. Muvhuso wa Vhuthihi ha Lushaka&#58; Sia la Lushaka
 	>	1.	Mukovhe kana tshivhalo tsha madzulo nga ofisi tshi fanela u tiwa nga u kovha tshivhalo tshoṱhe tsha madzulo kha Buthano ḽa Lushaka ḽa mahoro oṱhe ane a khou dzhenelela nga tshivhalo tsha dziofisi dzine malugana nadzo Minisṱa vho bulwaho kha khethekanyo ṱhukhu ya (1).
 	>	1.	Vha tea u tholiwa, ho ingwa nthihi.
 	>	1.	Mvelelo hu sa sedzwi tshararu na tshafumi tshi tevhelaho arali tshi hone, ndi tshivhalo tsha madzulo nga ofisi.
-	>	1.	Tshivhalo tsha dziofisi tsho teaho u avhelwa ḽihoro ḽi shelaho mulenzhe tshi tiwa nga u kovha tshivhalo tshoṱhe tsha madzulo a Buthano ḽa Lushaka nga tshivhalo itsho tsho bulwaho kha phara ya (b).
-	>	1.	Mvelelo, hu tshi tevhedzwa phara ya (e) dzi sumba tshivhalo tsha ofisi tsho teaho u avhelwa ḽeneḽo ḽihoro.
+	>	1.	Tshivhalo tsha dziofisi tsho teaho u avhelwa ḽihoro ḽi shelaho mulenzhe tshi tiwa nga u kovha tshivhalo tshoṱhe tsha madzulo a Buthano ḽa Lushaka nga tshivhalo itsho tsho bulwaho kha pharagirafu ya (b).
+	>	1.	Mvelelo, hu tshi tevhedzwa pharagirafu ya (e) dzi sumba tshivhalo tsha ofisi tsho teaho u avhelwa ḽeneḽo ḽihoro.
 	> 10.	Phresidennde nga murahu ha musi o kwamana na Muthusa-Phresidennde na vharangaphanḓa vha mahoro a khou dzhenelelaho u fanela—
-	>	1.	ta ofisi dzine dza fanela u avhelwa mahoro ane a khou dzhenelela u ya nga tshivhalo tsha ofisi dze a avhelwa nga khethekanyo ṱhukhu ya (9);
+	>	1.	u ta ofisi dzine dza fanela u avhelwa mahoro ane a khou dzhenelela u ya nga tshivhalo tsha ofisi dze a avhelwa nga khethekanyo ṱhukhu ya (9);
 	>	1.	u thola u ya nga iṅwe na iṅwe ya ofisi muraḓo wa Buthano ḽa Lushaka ane a vha muraḓo wa ḽihoro ḽine ḽa khou ṋewa phothifoḽio yeneyo nga fhasi ha phara ya (a), sa Minisṱa a re na vhuḓifhinduleli ha yeneyo ofisi;
-	>	1.	arali zwa vha na ndeme u itela ndivho dza Ndayotewa kana zwi tshi itelwa vhuvhusi havhuḓi, ha fhambanywa u tiwa hu re kha phara ya (a), u ya nga khethekanyo ṱhukhu ya (9);
-	>	1.	ha fheliswa u tholiwa huṅwe na huṅwe hu re fhasi ha phara ya (b)—
+	>	1.	arali zwa vha na ndeme u itela ndivho dza Ndayotewa kana zwi tshi itelwa vhuvhusi havhuḓi, ha fhambanywa u tiwa hu re kha pharagirafu ya (a), u ya nga khethekanyo ṱhukhu ya (9);
+	>	1.	ha fheliswa u tholiwa huṅwe na huṅwe hu re fhasi ha pharagirafu ya (b)—
 	>		1.	arali Phresidennde a humbelwa uri a ite ngauralo nga murangaphanḓa wa ḽihoro ḽine Minisṱa a vha muraḓo waḽo; kana
 	>		1.	arali zwa vha zwi tshi khou tea u itelwa Ndayotewa kana vhuvhusi havhuḓi; kana
-	>	1.	u ḓadza arali zwo tea, ho sedzwa phara ya (b) , tshikhala tshi re kha ofisi ya Minisṱa.
-	> 11.	Khethekanyo ṱhukhu ya (10) I tea u shumiswa nga muya wo katelwaho kha kuhumbulele kwa muvhuso wa vhuthihi ha lushaka, nahone Phresidennde na vhaṅwe vhashumi zwavho vhane vha kwamea vha fanela u lwela u swikelela nyanḓano tshifhinga tshoṱhe malugana na u shumiswa ha iyo khethekanyo ṱhukhu, Tenda arali hu sa konwi u swikelelwa nyanḓano nga ha—
+	>	1.	u ḓadza arali zwo tea, ho sedzwa pharagirafu ya (b) , tshikhala tshi re kha ofisi ya Minisṱa.
+	> 11.	Khethekanyo ṱhukhu ya (10) i tea u shumiswa nga muya wo katelwaho kha kuhumbulele kwa muvhuso wa vhuthihi ha lushaka, nahone Phresidennde na vhaṅwe vhashumi zwavho vhane vha kwamea vha fanela u lwela u swikelela nyanḓano tshifhinga tshoṱhe malugana na u shumiswa ha iyo khethekanyo ṱhukhu, tenda arali hu sa konwi u swikelelwa nyanḓano nga ha—
 	>	1.	u shumiswa ha maanḓa o bulwaho kha phara ya (a), (c) kana (d)(ii) ya iyo khethekanyo ṱhukhu, hu ḓo ṱanganedzwa tsheo ya Phresidennde;
-	>	1.	u shumiswa ha maanḓa o bulwaho kha phara ya (b), (d)(i) kana (e) ya khethekanyo ṱhukhu yeneyo ane a kwama muthu ane a si vhe muraḓo wa ḽihoro ḽa Phresidennde, tsheo ya murangaphanḓa wa ḽihoro ḽine muthu onoyo a vha muraḓo I ḓo ṱanganedzwa; na
+	>	1.	u shumiswa ha maanḓa o bulwaho kha pharagirafu ya (b), (d)(i) kana (e) ya khethekanyo ṱhukhu yeneyo ane a kwama muthu ane a si vhe muraḓo wa ḽihoro ḽa Phresidennde, tsheo ya murangaphanḓa wa ḽihoro ḽine muthu onoyo a vha muraḓo i ḓo ṱanganedzwa; na
 	>	1.	u shumiswa ha maanḓa o bulwaho kha phara ya (b) kana ya (e) ya khethekanyo ṱhukhu yeneyo ane a kwama muthu ane a vha muraḓo wa ḽihoro ḽa Phresidennde, hu ḓo ṱanganedzwa tsheo ya Phresidennde.
 	> 12.	Arali u tiwa hufhio kana hufhio ha u avha dziofisi ha vha hu ho fhambanaho nga fhasi ha khethekanyo ṱhukhu ya(10) (c), Minisṱa vha kwameaho vha tea u ṱutshela ofisi dzavho fhedzi vho fanelwa, hune zwa vha zwo tea, nga u tholiwa hafhu kha dziṅwe ofisi dzo avhelwaho mahoro avho u ya nga u tiwa ho fhambanaho.
 	> 13.	Phresidennde—
@@ -65,16 +69,16 @@ title: Ṱhumetshedzo ya B. Muvhuso wa Vhuthihi ha Lushaka&#58; Sia la Lushaka
 	>		1.	u ta yeneyo ofisi ya Minisṱa o bulwaho kha khethekanyo ṱhukhu ya (1) (b) arali zwa ṱoḓea hu tshi tevhedzwa tsheo ya Phresidennde fhasi ha yeneyo khethekanyo ṱhukhu.
 	>		1.	u thola malugana na yeneyo ofisi muthu ane a si vhe muraḓo wa Buthano ḽa Lushaka, sa Minisṱa a re na vhuḓifhinduleli kha yeneyo ofisi.
 	>		1.	u ḓadza arali zwo fanela, tshikhala malugana na yeneyo ofisi; kana (a) nga murahu ha u kwamana na Vhathusa- Phresidennde na vharangaphanḓa vha mahoro ane a khou dzhenelela, u fanela u fhelisa u tholiwa hufhio na hufhio fhasi ha phara ya (a) arali zwa ṱoḓea hu u itela Ndayotewa kana hu tshi itelwa muvhuso wavhuḓi.
-	> 14.	Miṱangano ya Khabinete I fanela u tshimbidzwa nga Phresidennde, kana arali Phresidennde o laedza ngauralo, nga Muthusa-Phresidennde:    Tenda ha vha na uri Vhathusa-Phresidennde vha tshimbidza miṱangano ya Khabinethe nga u sielisana nga nnḓa ha musi ṱhoḓea dza shishi dza muvhuso na muya wo katelwaho kha kuhumbulele kwa muvhuso wa vhuthihi ha lushaka dzi tshi zwi ṱoḓa nga iṅwe nḓila.
-	> 15.	Khabinethe I fanela u shuma nga maitele ane a dzhiela nṱha muya wa u    ṱoḓa nyanḓano o katelwaho kha kuhumbulele kwa muvhuso wa vhuthihi ha lushaka khathihi na ṱhoḓea ya muvhuso u shumaho.
+	> 14.	Miṱangano ya Khabinete i fanela u tshimbidzwa nga Phresidennde, kana arali Phresidennde o laedza ngauralo, nga Muthusa-Phresidennde:    Tenda ha vha na uri Vhathusa-Phresidennde vha tshimbidza miṱangano ya Khabinethe nga u sielisana nga nnḓa ha musi ṱhoḓea dza shishi dza muvhuso na muya wo katelwaho kha kuhumbulele kwa muvhuso wa vhuthihi ha lushaka dzi tshi zwi ṱoḓa nga iṅwe nḓila.
+	> 15.	Khabinethe i fanela u shuma nga maitele ane a dzhiela nṱha muya wa u    ṱoḓa nyanḓano o katelwaho kha kuhumbulele kwa muvhuso wa vhuthihi ha lushaka khathihi na ṱhoḓea ya muvhuso u shumaho.
 
 5.	Khethekanyo ya 93 ya Ndayotewa ntswa i lavhelelwa u vhalea sa hezwi:
 
 	> 93\. U tholiwa ha Vhathusa-Minisṱa
 	> 
-	> 1.	Phresidennde a nga, nga murahu ha u kwamana na Vhathusa-Phresidennde vha Khorotshitumbe na vharangaphanḓa vha mahoro, vhane vha dzhenelela kha khabinethe sika poso dza vhathusa-dziminisṱa.
-	> 2.	Ḽihoro ḽo tendelwa u avhelwa poso nthihi kana dzi fhiraho nthihi dza vhathusa-minisṱa nga u lingana na nga maitele ane ofisi dza Khabinethe dza avhiwa ngao.
-	> 3. Mbetshelo dza khethekanyo ya 91 (10) u swika (12) dzi a shuma, dzi na tshanduko dzo teaho, ho sedzwa Vhathusa-Minisṱa, nahone kha u shuma honoho Minisṱa kha khethekanyoyeneyo kana ofisi zwi tea u vhaliwa sa zwine zwa amba Muthusa-Minisṱakana poso ya muthusa- minisṱa onoyo.
+	> 1.	Phresidennde nga murahu ha u kwamana na Vhathusa-Phresidennde vha Khorotshitumbe na vharangaphanḓa vha mahoro vhane vha dzhenelela kha khabinethe a nga sika poswo dza Vhathusa-Dziminisṱa.
+	> 2.	Ḽihoro ḽo tendelwa u avhelwa poswo nthihi kana dzi fhiraho nthihi dza Vhathusa-Minisṱa nga u lingana na nga maitele ane ofisi dza Khabinethe dza avhiwa ngao.
+	> 3. Mbetshelo dza khethekanyo ya 91 (10) u swika (12) dzi a shuma, dzi na tshanduko dzo teaho, ho sedzwa Vhathusa-Minisṱa, nahone kha u shuma honoho Minisṱa kha khethekanyo yeneyo kana ofisi zwi tea u vhaliwa sa zwine zwa amba Muthusa-Minisṱa kana poswo ya Muthusa-Minisṱa onoyo.
 	> 4. Arali muthu o tholiwa sa Muthusa-Minisṱa wa ofisi ifhio na ifhio yo kumedzwaho Minisṱa—
 	>	1.	onoyo Muthusa-Minisṱa u fanela u shumisa na u shuma maimoni a Minisṱa o teaho, maanḓa afhio na afhio na mishumo yo        ṋetshedzwaho onoyo Minisṱa hu tshi tevhedzwa mulayo ufhio na ufhio kana nga iṅwe nḓila ine ya nga ṋetshedzwa onoyo Muthusa-Minisṱa nga Minisṱa hu tshi tevhedzwa ndaela dza Phresidennde; na
 	>	1.	u bulwa hufhio na hufhio kha mulayo ufhio na ufhio ha onoyo Minisṱa hu fanela u dzhiiwa hu hu katelaho u bulwa ha Muthusa-Minisṱa o farelaho u ya nga u ṋetshedzwa ho bulwaho nga fhasi ha phara ya (a) nga Minisṱa ane onoyo Muthusa-Minisṱa a khou farela ene.
@@ -84,7 +88,7 @@ title: Ṱhumetshedzo ya B. Muvhuso wa Vhuthihi ha Lushaka&#58; Sia la Lushaka
 
 	> 3.	Vhominisṱa vha na vhuḓifhinduleli nga muthihi nga muthihi kha Phresidennde na kha Buthano ḽa Lushaka kha u laula ofisi dzavho nahone miraḓo yoṱhe ya khabinethe sa zwenezwo vha na vhuḓifhinduleli vho ṱangana kha u ita mishumo ya muvhuso wa lushaka na mbekanyamaitele dzawo.
 	> 4.	Dziminisṱa vha fanela u laula ofisi dzavho hu tshi tevhedzwa mbekanyamaitele yo tiwaho nga Khabinethe.
-	> 5.	Arali Minisṱa a kundelwa u laula ofisi hu tshi tevhedzwa mbekanyamaitele ya Khabinethe, Phresidennde a nga ṱoḓa uri Minisṱa onoyo a ite uri ndaulo ya ofisi I anane na yeneyo mbekanyamaitele.
+	> 5.	Arali Minisṱa a kundelwa u laula ofisi hu tshi tevhedzwa mbekanyamaitele ya Khabinethe, Phresidennde a nga ṱoḓa uri Minisṱa onoyo a ite uri ndaulo ya ofisi i anane na yeneyo mbekanyamaitele.
 	> 6.	Arali onoyo Minisṱa a kundelwa u tevhedza ṱhoḓea dza Phresidennde a nga fhasi ha khethekanyo ṱhukhu ya (5), Phresidennde a nga mu bvisa ofisini—
 	>	1.	arali e Minisṱa o bulwaho kha khethekanyo ya 91 (1) (a), nga murahu ha u kwamana na Minisṱa, nahone arali Minisṱa a si muraḓo wa Ḽihoro ḽa Phresidennde kana a si murangaphanḓa wa ḽihoro ḽi no khou dzhenelela, na nga murahu ha u kwamana na murangaphanḓa wa ḽihoro ḽeneḽo ḽa Minisṱa; kana
 	>	1.	arali e Minisṱa o bulwaho kha khethekanyo ya 91 (1)(b), nga murahu ha u kwamana na Vhathusa- Phresidennde na vharangaphanḓa vha mahoro a shelaho mulenzhe.
