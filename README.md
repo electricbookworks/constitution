@@ -43,19 +43,19 @@ To the extent possible under law, all contributors to this project waive all cop
 
 ### Status summary
 
-| Language                   | Date       | Status
-|----------------------------|------------|-------
-| Afrikaans (af)             | 2016-06-28 | [Live](http://myconstitution.co.za)
-| English (en)               | 2016-06-28 | [Live](http://myconstitution.co.za)
-| Ndebele (nr)               | 2016-06-28 | [Live](http://myconstitution.co.za)
-| Sepedi/Nothern Sotho (nso) | 2016-07-07 | [Live](http://myconstitution.co.za)
-| siSwati (ss)               | 2016-07-07 | Corrections underway
-| Sesotho (st)               | 2016-07-07 | [Live, though concerns about QA](http://myconstitution.co.za)
-| Setswana (tn)              | 2016-07-07 | [Live, with disclaimer](http://myconstitution.co.za)
-| Xitsonga (ts)              | 2016-07-07 | [Live, with disclaimer](http://myconstitution.co.za)
-| Tshivenḓa (ve)             | 2016-07-07 | Corrections underway
-| isiXhosa (xh)              | 2016-07-07 | [Live](http://myconstitution.co.za)
-| isiZulu (zu)               | 2016-07-07 | [Live](http://myconstitution.co.za)
+| Language                   | Date       | EPUB2 | Status
+|----------------------------|------------|-------|-------
+| Afrikaans (af)             | 2016-06-28 | Y     | [Live](http://myconstitution.co.za)
+| English (en)               | 2016-06-28 | Y     | [Live](http://myconstitution.co.za)
+| Ndebele (nr)               | 2016-06-28 | Y     | [Live](http://myconstitution.co.za)
+| Sepedi/Nothern Sotho (nso) | 2016-07-07 | Y     | [Live](http://myconstitution.co.za)
+| siSwati (ss)               | 2016-07-07 | N     | Corrections underway, to include disclaimer
+| Sesotho (st)               | 2016-07-07 | Y     | [Live, though concerns about QA](http://myconstitution.co.za)
+| Setswana (tn)              | 2016-07-07 | Y     | [Live, with disclaimer](http://myconstitution.co.za)
+| Xitsonga (ts)              | 2016-07-07 | Y     | [Live, with disclaimer](http://myconstitution.co.za)
+| Tshivenḓa (ve)             | 2016-07-07 | N     | Corrections underway
+| isiXhosa (xh)              | 2016-07-07 | Y     | [Live](http://myconstitution.co.za)
+| isiZulu (zu)               | 2016-07-07 | Y     | [Live](http://myconstitution.co.za)
 
 ### Status detail
 
