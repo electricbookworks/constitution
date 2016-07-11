@@ -23,7 +23,7 @@ ECHO Opening Sigil...
 :: Temporarily put Sigil in the PATH, whether x86 or not
 PATH=%PATH%;C:\Program Files\Sigil;C:\Program Files (x86)\Sigil
 :: and open the cover HTML file in it, to load metadata into Sigil
-START "" sigil.exe "0-0-cover.html"
+START "" sigil.exe "0-3-contents.html"
 :: Open file explorer to make it easy to see the HTML to assemble
 %SystemRoot%\explorer.exe "%location%_site\%book%\"
 :: Navigate back to where we began

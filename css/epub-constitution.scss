@@ -142,3 +142,58 @@ li ol + p {
         font-style: italic;
     }
 }
+
+// Workaround for EPUB2's XHTML not supporting `start` attribute
+// In HTML, regex search-replace
+// <ol (.*?)start="(\d+)"
+// with
+// <ol \1class="start-\2"
+
+// Create 20 options for starting numbering
+@for $i from 2 through 20 {
+  $start: $i + 1;
+  // If we the list ol to start at 1, the first li will be 2
+  // Then to show the new numbering, we set the li to display as a block
+  // with a generated number `:before` it that follows the reset numbering
+  ol.start-#{$i} {
+    counter-reset: start ($i - 1);
+    li {
+        display: block;
+    }
+    li:before {
+        content: counter(start) ". ";
+        counter-increment: start;
+    }
+    // Nested lists shouldn't keep counting, so 
+    // reset the counters and :before content for nested lists
+    ol li {
+        display: list-item;
+        counter-reset: start 1;
+    }
+    ol.start-3 ol li:before {
+        content: normal;
+    }
+  }
+}
+
+// Notifications (part of nav-bar HTML)
+
+// Notifications must be hovered over or touched to expand
+
+$notify-green: #20a047;
+$notify-yellow: rgb(255, 255, 50);
+$notify-red: #ba0f0f;
+
+.notifications {
+    background: $notify-yellow;
+    box-shadow: 0px 1px 10px grey;
+    margin: 1em;
+    padding: 1em 1em 0 1em;
+    p {
+        font-family: $font-text-secondary;
+        font-size: 0.8em;
+        line-height: 1.2em;
+        color: #474242;
+        padding: 0 0 1em 0;
+    }
+}

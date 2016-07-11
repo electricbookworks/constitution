@@ -1,3 +1,65 @@
+{% if site.output == 'epub' %}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{ page.language }}">
+<head>
+    <title>{{ page.book-title}}: {{ page.title }}</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="../Styles/{{ page.stylesheet-epub }}" />
+    
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+        <meta name="DC.Title" content="{{ page.book-title }}" />
+        <meta name="DC.Language" content="{{ page.language }}" />
+        <meta name="DC.Creator" content="{{ page.author }}" />
+        <meta name="DC.Publisher" content="{{ site.publisher }}" />
+        <meta name="DC.Date" content="{{ page.publication-date }}" />
+        <meta name="DC.Identifier" content="{{ page.isbn-epub }}" scheme="ISBN" />
+        <meta name="DC.Relation" content="{{ page.isbn-print }}" scheme="ISBN" />
+
+</head>
+<body class="{{ page.style }}">
+
+        <div class="notifications">
+
+        {%if page.language == "ts" %}
+        <div class="notifications-alert"></div>
+        <p>{{ site.data.snip.notifications.ts-translation-quality }}</p>
+        {% endif %}
+
+        {%if page.language == "tn" %}
+        <div class="notifications-alert"></div>
+        <p>{{ site.data.snip.notifications.tn-translation-quality }}</p>
+        {% endif %}
+
+        {%if page.language == "ss" %}
+        <div class="notifications-alert"></div>
+        <p>{{ site.data.snip.notifications.ss-translation-quality }}</p>
+        {% endif %}
+
+        </div><!--.notifications-->
+
+
+
+{% elsif site.output == 'pdf-ebook' %}
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ page.language }}" xml:lang="{{ page.language }}">
+<head>
+    <title>{{ page.book-title}}: {{ page.title }}</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/css/{{ page.stylesheet-web }}" />
+    <link rel="stylesheet" type="text/css" media="print" href="../css/{{ page.stylesheet-print }}" />
+    <link rel="stylesheet" type="text/css" media="print" href="../css/print-no-bleed.css" />
+</head>
+<body class="{{ page.style }}">
+
+
+
+
+
+{% else %}
+
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ page.language }}" xml:lang="{{ page.language }}">
 <head>
@@ -24,3 +86,4 @@
 <body class="{{ page.style }}" ontouchstart="" onmouseover="">
 <!-- ontouchstart="" onmouseover="" makes :hover/:focus/:active work on iOS touch devices -->
 
+{% endif %}

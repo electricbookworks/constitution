@@ -16,18 +16,6 @@ description: "The Constitution of South Africa"
 # Useful lookup tool: http://r12a.github.io/apps/subtags/
 language: en
 
-# Afrikaans (af)    af
-# English (en)    en
-# Ndebele (nr)    nr
-# Sepedi/Nothern Sotho (nso)    nso
-# siSwati (ss)    ss
-# Sesotho (st)    st
-# Setswana (tn)    tn
-# Xitsonga (ts)    ts
-# Tshivenḓa (ve)    ve
-# isiXhosa (xh)    xh
-# isiZulu (zu)    zu
-
 # Leave this unchanged as http://localhost:4000 unless you really know what you're doing here. This is the URL that Jekyll will run at by default locally.
 url: http://localhost:4000
 
@@ -46,21 +34,7 @@ sass:
     sass_dir: css/_sass
 
 # Turn audio on or off
-audio: true
-
-# These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
-defaults: 
-    -
-        scope: # Set the filename of each book's outputted contents page for use in navigation. For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults
-            path: "constitution" # the folder for a book
-        values:
-            contents: "0-3-contents.html" # the filename of its contents page
-    -
-        scope: # Let's set the default page layout, for when a layout specified in a page's YAML header doesn't exist.
-            path: "" # an empty string here means all files in the project
-        values:
-            layout: "default"
-
+audio: false
 
 # Add your imprint or brand name here, it will appear in navigation.
 publisher: "South Africa"
@@ -98,6 +72,17 @@ sass:
     sass_dir: css/_sass
 
 # These directories are not ready for publishing yet, or should not be published. Jekyll will ignore them.
+# Afrikaans (af)    af
+# English (en)    en
+# Ndebele (nr)    nr
+# Sepedi/Nothern Sotho (nso)    nso
+# siSwati (ss)    ss
+# Sesotho (st)    st
+# Setswana (tn)    tn
+# Xitsonga (ts)    ts
+# Tshivenḓa (ve)    ve
+# isiXhosa (xh)    xh
+# isiZulu (zu)    zu
 exclude: [
 #af, 
 #en,
@@ -114,15 +99,11 @@ exclude: [
 _source,
 css/debug,
 css/dictionaries,
-css/epub.scss,
-css/print.scss,
-css/web.scss,
-css/print-no-bleed.css,
-css/print-no-crop-marks.css,
 README.md,
 linux-pdf.bat,
 mac-pdf.bat,
 win-pdf.bat,
+win-pdf-ebook.bat,
 win-web.bat,
 win-epub.bat,
 linux-pdf.sh,
@@ -134,10 +115,16 @@ mac-pdf.sh,
 keep_files: [
 #css,
 css/dictionaries,
-css/print-no-bleed.css,
-css/print-no-crop-marks.css,
 README.md,
 ]
+
+# Output different HTML structures based on intent.
+# You can change these here, or rather override by loading two config files at the command line, e.g.:
+# jekyll build -c _config.yml,_config.epub.yml
+output: "default"
+#output: "epub"
+#output: "pdf-ebook"
+#output: "lightning-source-colour"
 
 # These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
 defaults: 
@@ -148,18 +135,21 @@ defaults:
             author: "The Republic of South Africa"
             language: "en"
             publication-date: "2015-12-01"
-            layout: "default"
-#            layout: "epub"
-#            layout: "pdf-ebook"
             stylesheet-print: "print-constitution.css"
             stylesheet-web: "web-constitution.css"
             stylesheet-epub: "epub-constitution.css"
             style: "chapter"
+            layout: "default"
             contents: "0-3-contents.html"
             language: "en"
             isbn-print: ""
             isbn-epub: ""
             uuid: ""
+    # -
+    #     scope: # Set the filename of each book's outputted contents page for use in navigation. For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults
+    #         path: "constitution" # the folder for a book
+    #     values:
+    #         contents: "0-3-contents.html" # the filename of its contents page
     -
         scope: # Repeat for each book.
             path: "af"
