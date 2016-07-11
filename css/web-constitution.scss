@@ -224,6 +224,9 @@ $notify-red: #ba0f0f;
         border: 1px solid #ccc;
         min-width: 2em;
     }
+    .button.light:hover {
+        background-color: #ebf2fa;
+    }
     + p {
         clear: both;
         padding-top: 2em;
