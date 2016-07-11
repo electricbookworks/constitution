@@ -48,7 +48,7 @@ style: chapter
 	2.	ngokufaka esikhundleni sesigatshana sesi (6) isigatshana
     esilandelayo:
 
-    	> 6.
+    	> 6.	
 		>	1.	uMongameli angaqoka ikhomishani ezobuka kabusha ukuphethwa noma ukuguqulwa kwesivumelwano, ukuqashwa noma ukukhushulelwa esikhundleni esiphakeme, noma ukunikezwa kwesikhathi esimisiwe noma isimo sokusebenza noma ezinye izinzuzo, okwenzeka phakathi kwamhla zi 27 EPhreli 1993 namhla zi 30 Sephtemba 1994 kunoma yimuphi umuntu okuphawulwe ngaye esigatshaneni sesi (2) noma kunoma yiliphi izinga labantu abanjalo.
 		>	2.	Ikhomishani ingahlehlisa ibuyisele emuva noma iguqule isivumelwano, ukuqashwa, ukukhushulelwa esikhundleni esiphakeme noma ukunikezwa kokuthile uma kungalungile noma kwamukelekile ezimweni zalolo daba;
 		> {:start='6'}

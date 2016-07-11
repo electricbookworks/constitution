@@ -145,7 +145,7 @@ layout: default
         *   [124\. Ukugcinwa kweMithetho yephondo](06.html#ukugcinwa-kwemithetho-yephondo)
     *   [Oorhulumente Bamaphondo](06.html#oorhulumente-bamaphondo){:.subhead}
         *   [125\. Igunya loburhulumente lamaphondo](06.html#igunya-loburhulumente-lamaphondo)
-        *   [126\. Ukuphathiswa kwemisebenzi](06.html#ukuphathiswa-kwemisebenzi-1)
+        *   [126\. Ukuphathiswa kwemisebenzi](06.html#ukuphathiswa-kwemisebenzi)
         *   [127\. Amagunya eNkulumbuso nemisebenzi yayo](06.html#amagunya-enkulumbuso-nemisebenzi-yayo)
         *   [128\. Ukunyulwa kweeNkulumbuso](06.html#ukunyulwa-kweenkulumbuso)
         *   [129\. Ukungena esikhundleni kweeNkulumbuso](06.html#ukungena-esikhundleni-kweenkulumbuso)
