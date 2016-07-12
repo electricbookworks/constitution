@@ -19,8 +19,8 @@ style: home
 > * [Sepedi](nso/0-3-contents.html){:.button} [PDF](download/constitution-sepedi.pdf){:.button.light} [EPUB](download/constitution-sepedi.epub){:.button.light}
 > * [Sesotho](st/0-3-contents.html){:.button} [PDF](download/constitution-sesotho.pdf){:.button.light} [EPUB](download/constitution-sesotho.epub){:.button.light}
 > * [Setswana](tn/0-3-contents.html){:.button} [PDF](download/constitution-setswana.pdf){:.button.light} [EPUB](download/constitution-setswana.epub){:.button.light}
-> * [Siswati](ss/0-3-contents.html){:.button} [PDF](download/constitution-siswati.pdf){:.button.light} 
-> * [Tshivenda](ve/0-3-contents.html){:.button} [PDF](download/constitution-tshivenda.pdf){:.button.light} 
+> * [Siswati](ss/0-3-contents.html){:.button} [PDF](download/constitution-siswati.pdf){:.button.light} [EPUB](download/constitution-siswati.epub){:.button.light} 
+> * [Tshivenda](ve/0-3-contents.html){:.button} [PDF](download/constitution-tshivenda.pdf){:.button.light} [EPUB](download/constitution-tshivenda.epub){:.button.light} 
 > * [Xitsonga](ts/0-3-contents.html){:.button} [PDF](download/constitution-xitsonga.pdf){:.button.light} [EPUB](download/constitution-xitsonga.epub){:.button.light}
 {:.lang-select}
 
@@ -34,8 +34,8 @@ style: home
 > {% if site.data.enabled.nso %}* [Sepedi](nso/0-3-contents.html){:.button} [PDF](download/constitution-sepedi.pdf){:.button.light} [EPUB](download/constitution-sepedi.epub){:.button.light} {% endif %}
 > {% if site.data.enabled.st %}* [Sesotho](st/0-3-contents.html){:.button} [PDF](download/constitution-sesotho.pdf){:.button.light} [EPUB](download/constitution-sesotho.epub){:.button.light} {% endif %}
 > {% if site.data.enabled.tn %}* [Setswana](tn/0-3-contents.html){:.button} [PDF](download/constitution-setswana.pdf){:.button.light} [EPUB](download/constitution-setswana.epub){:.button.light} {% endif %}
-> {% if site.data.enabled.ss %}* [Siswati](ss/0-3-contents.html){:.button} [PDF](download/constitution-siswati.pdf){:.button.light} {% endif %}
-> {% if site.data.enabled.ve %}* [Tshivenda](ve/0-3-contents.html){:.button} [PDF](download/constitution-tshivenda.pdf){:.button.light} {% endif %}
+> {% if site.data.enabled.ss %}* [Siswati](ss/0-3-contents.html){:.button} [PDF](download/constitution-siswati.pdf){:.button.light} [EPUB](download/constitution-siswati.epub){:.button.light} {% endif %}
+> {% if site.data.enabled.ve %}* [Tshivenda](ve/0-3-contents.html){:.button} [PDF](download/constitution-tshivenda.pdf){:.button.light} [EPUB](download/constitution-tshivenda.epub){:.button.light} {% endif %}
 > {% if site.data.enabled.ts %}* [Xitsonga](ts/0-3-contents.html){:.button} [PDF](download/constitution-xitsonga.pdf){:.button.light} [EPUB](download/constitution-xitsonga.epub){:.button.light} {% endif %}
 {:.lang-select}
 

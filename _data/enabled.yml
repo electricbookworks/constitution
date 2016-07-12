@@ -7,7 +7,7 @@ nr: true
 # Sepedi/Northern Sotho
 nso: true
 # siSwati (ss)    ss
-ss: false
+ss: true
 # Sesotho (st)    st
 st: true
 # Setswana (tn)    tn
@@ -15,7 +15,7 @@ tn: true
 # Xitsonga (ts)    ts
 ts: true
 # Tshivenḓa (ve)    ve
-ve: false
+ve: true
 # isiXhosa (xh)    xh
 xh: true
 # isiZulu (zu)    zu
