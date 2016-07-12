@@ -41,7 +41,7 @@ style: home
 
 {% endif %}
 
-This edition of the South African Constitution has been specially created to be easy to access, read, print and distribute. We are working on versions in all South African languages.
+This edition of the South African Constitution has been specially created to be easy to access, read, print and distribute. 
 
 To find out more about this project, copy the source text, or to contribute, please visit [the project page here](https://github.com/electricbookworks/constitution#the-constitution-of-south-africa).
 
