@@ -19,24 +19,30 @@
 </head>
 <body class="{{ page.style }}">
 
-        <div class="notifications">
+
 
         {%if page.language == "ts" %}
+        <div class="notifications">
         <div class="notifications-alert"></div>
         <p>{{ site.data.snip.notifications.ts-translation-quality }}</p>
+        </div><!--.notifications-->
         {% endif %}
 
         {%if page.language == "tn" %}
+        <div class="notifications">
         <div class="notifications-alert"></div>
         <p>{{ site.data.snip.notifications.tn-translation-quality }}</p>
+        </div><!--.notifications-->
         {% endif %}
 
         {%if page.language == "ss" %}
+        <div class="notifications">
         <div class="notifications-alert"></div>
         <p>{{ site.data.snip.notifications.ss-translation-quality }}</p>
+        </div><!--.notifications-->
         {% endif %}
 
-        </div><!--.notifications-->
+
 
 
 
