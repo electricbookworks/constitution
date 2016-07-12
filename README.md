@@ -34,50 +34,48 @@ We are creating a better version.
 
 If you have suggestions for ways to make it even better, [email info@myconstitution.co.za](mailto:info@myconstitution.co.za).
 
-## Licence
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-To the extent possible under law, all contributors to this project waive all copyright and related or neighboring rights to the markdown and HTML versions of the text of the South African Constitution published here.
-
 ## Project roadmap
 
 ### Status summary
 
 | Language                   | Date       | EPUB2 | Status
 |----------------------------|------------|-------|-------
-| Afrikaans (af)             | 2016-06-28 | Y     | [Live](http://myconstitution.co.za)
-| English (en)               | 2016-06-28 | Y     | [Live](http://myconstitution.co.za)
-| Ndebele (nr)               | 2016-06-28 | Y     | [Live](http://myconstitution.co.za)
-| Sepedi/Nothern Sotho (nso) | 2016-07-07 | Y     | [Live](http://myconstitution.co.za)
-| siSwati (ss)               | 2016-07-07 | N     | Corrections underway, to include disclaimer
-| Sesotho (st)               | 2016-07-07 | Y     | [Live, though concerns about QA](http://myconstitution.co.za)
-| Setswana (tn)              | 2016-07-07 | Y     | [Live, with disclaimer](http://myconstitution.co.za)
-| Xitsonga (ts)              | 2016-07-07 | Y     | [Live, with disclaimer](http://myconstitution.co.za)
-| Tshivenḓa (ve)             | 2016-07-07 | N     | Corrections underway
-| isiXhosa (xh)              | 2016-07-07 | Y     | [Live](http://myconstitution.co.za)
-| isiZulu (zu)               | 2016-07-07 | Y     | [Live](http://myconstitution.co.za)
+| Afrikaans (af)             | 2016-07-12 | Y     | [Live](http://myconstitution.co.za)
+| English (en)               | 2016-07-12 | Y     | [Live](http://myconstitution.co.za)
+| Ndebele (nr)               | 2016-07-12 | Y     | [Live](http://myconstitution.co.za)
+| Sepedi/Nothern Sotho (nso) | 2016-07-12 | Y     | [Live](http://myconstitution.co.za)
+| siSwati (ss)               | 2016-07-12 | Y     | [Live, with disclaimer](http://myconstitution.co.za)
+| Sesotho (st)               | 2016-07-12 | Y     | [Live, though concerns about QA](http://myconstitution.co.za)
+| Setswana (tn)              | 2016-07-12 | Y     | [Live, with disclaimer](http://myconstitution.co.za)
+| Xitsonga (ts)              | 2016-07-12 | Y     | [Live, with disclaimer](http://myconstitution.co.za)
+| Tshivenḓa (ve)             | 2016-07-12 | Y     | [Live](http://myconstitution.co.za)
+| isiXhosa (xh)              | 2016-07-12 | Y     | [Live](http://myconstitution.co.za)
+| isiZulu (zu)               | 2016-07-12 | Y     | [Live](http://myconstitution.co.za)
 
 ### Status detail
 
 While this open-source project will always be a work in progress (for instance, content will need updating when the constitution is amended from time to time), the initial setup will happen in four parts. These project parts may happen simultaneously.
 
-1. **Set up the website with the English version of the constitution.** This site is staged at [github.com/electricbookworks/constitution](https://github.com/electricbookworks/constitution). This site is built with the [Electric Book Workflow](https://github.com/electricbookworks/electric-book-workflow), an open framework for using markdown and Jekyll to publish long-form content in multiple formats. When ready, the static HTML is moved to a production site at [myconstitution.co.za](http://myconstitution.co.za).
-2. **Create and add the text of the remaining 10 official languages.** This has been done by converting the offical (DOJ) PDF versions of the constitution into markdown files for each part of the constitution in each language (following the structure established in the English edition). We are aware that there are many problems with the official translations. Most are small, and one (Xitsonga) is very problematic.
-3. **Quality assurance on the conversion to markdown.** Professional language experts have cross-checked our versions of the text in each language against the official DOJ versions, to ensure they are the same in this first phase. Process:
+1. **DONE** Set up the website with the English version of the constitution. This site is staged at [github.com/electricbookworks/constitution](https://github.com/electricbookworks/constitution). This site is built with the [Electric Book Workflow](https://github.com/electricbookworks/electric-book-workflow), an open framework for using markdown and Jekyll to publish long-form content in multiple formats. When ready, the static HTML is moved to a production site at [myconstitution.co.za](http://myconstitution.co.za).
+2. **DONE** Create and add the text of the remaining 10 official languages. This has been done by converting the offical (DOJ) PDF versions of the constitution into markdown files for each part of the constitution in each language (following the structure established in the English edition). We are aware that there are many problems with the official translations. Most are small, and one (Xitsonga) is very problematic.
+3. **DONE** Quality assurance on the conversion to markdown. Professional language experts have cross-checked our versions of the text in each language against the official DOJ versions, to ensure they are the same in this first phase. Process:
 	1.	The language expert received two PDF versions of the constitution in the relevant language: (1) the official DOJ edition, and (2) a PDF of our new version. 
-	2.	The language expert read through our edition, cross checking against the DOJ original for inconsistencies. 	It was up to the expert whether to work on a print-out of each PDF or directly on screen. Either way, any corrections *must* be noted in the digital PDF of our edition, using the Comments function in a good PDF reader like Adobe Acrobat.This will allow the production team to work through the corrections systematically. This marked-up PDF must then be sent to the project team, who'll implement the changes.\\
-	The production team implementing the changes was not necessarily familiar with the language being checked. So corrections needed to be marked and explained very clearly and specifically. (See [the Adobe Acrobat guidance](https://helpx.adobe.com/acrobat/using/commenting-pdfs.html) to learn how to use Commenting well in Acrobat.)\\
+	2.	The language expert read through our edition, cross checking against the DOJ original for inconsistencies. 	It was up to the expert whether to work on a print-out of each PDF or directly on screen. Corrections were noted in the digital PDF of our edition, using the Comments function in a good PDF reader like Adobe Acrobat. This allowed the production team to work through the corrections systematically. This marked-up PDF was sent to the project team, who implemented the changes. The production team implementing the changes was not necessarily familiar with the language being checked, so corrections had to be marked and explained very clearly and specifically. (See [the Adobe Acrobat guidance](https://helpx.adobe.com/acrobat/using/commenting-pdfs.html) to learn how to use Commenting well in Acrobat.)\\
 	Given our file-creation process, we expected the most likely problems would be missing or incorrect list numbering. Note that the language expert was not proofreading closely, since our budget does not allow for this. That said, in addition to a few small errors in our digitisation, the experts mostly found errors or problems with the actual official translations. We have fixed these where they are minor typos (e.g. punctuation), but we have not made changes to words that might affect its legal meaning. This is because in the first phase we do not have legal experts on our team. In a later phase, we hope to involve legal experts to help us improve on the official translations we are working from.
-	5.	The production team have received the experts' corrections, and are implementing their changes. Once each language version is complete, we make it live on [myconstitution.co.za](http://myconstitution.co.za).
-4. **Add embedded audio files.** The CSIR's Meraka Institute is creating text-to-speech audio of each section of the constitution generated from our text. These audio files are to be embedded in the text. (Originally, audio files were going to be hosted on a free, cloud-based audio service and embedded as streaming audio at appropriate places in the text. Instead, we now hosting and embedding the audio directly, since it's faster and gives us more control over UI to use HTML5 audio elements for this.)
+4.	**DONE** The production team received the experts' corrections and implemented their changes. In some cases, the team implemented minor corrections to the original, official DOJ translations, but did not implement changes that were intended to improve the official translations. Once each language version was complete, we made it live on [myconstitution.co.za](http://myconstitution.co.za).
+5. **Add embedded audio files.** The CSIR's Meraka Institute is creating text-to-speech audio of each section of the constitution generated from our text. These audio files are to be embedded in the text. (Originally, audio files were going to be hosted on a free, cloud-based audio service and embedded as streaming audio at appropriate places in the text. Instead, we now hosting and embedding the audio directly, since it's faster and gives us more control over UI to use HTML5 audio elements for this.)
 
 ## Contributors
 
-This project developed out of discussions between [Arthur Attwell](http://arthurattwell.com) at [Electric Book Works](http://electricbookworks.com) and Maureen Isaacson at the [Foundation for Human Rights](http://fhr.org.za/). Electric Book Works built the prototype and hosts the open-source project, which is managed by Arthur Attwell. Other contributors include:
+This project developed out of discussions between [Arthur Attwell](http://arthurattwell.com) at [Electric Book Works](http://electricbookworks.com) and Maureen Isaacson at the [Foundation for Human Rights](http://fhr.org.za/). Electric Book Works built the prototype and hosts the open-source project, which is managed by Arthur Attwell at [Fire and Lion](http://fireandlion.com). Other contributors include:
 
 * [The CSIR Meraka Institute](http://www.csir.co.za/meraka/): text-to-speech and accessibility
-* [Fire and Lion](http://fireandlion.com)
-* Barbara Attwell: markdown
-* [Bangula Language Services](http://www.blc.co.za/): language consulting
+* Barbara Attwell: markdown/digitisation
+* [Bangula Language Services](http://www.blc.co.za/): language consulting.
 
 If you'd like to help, [email info@myconstitution.co.za](mailto:info@myconstitution.co.za). You can also [log issues on GitHub](https://github.com/electricbookworks/constitution/issues).
+
+## Licence
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+To the extent possible under law, all contributors to this project waive all copyright and related or neighboring rights to the markdown and HTML versions of the text of the South African Constitution published here.
