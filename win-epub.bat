@@ -15,7 +15,7 @@ SET /p config=Any extra config files? (in addition to _config.epub.yml; use full
 :: let the user know we're on it!
 ECHO Generating HTML...
 :: ...and run Jekyll to build new HTML
-CALL jekyll build --config="_config.yml,_config.epub.yml,%config%"
+CALL bundle exec jekyll build --config="_config.yml,_config.epub.yml,%config%"
 :: Navigate into the book's folder in _site output
 CD _site\%book%
 :: Let the user know we're now going to open Sigil
@@ -23,7 +23,7 @@ ECHO Opening Sigil...
 :: Temporarily put Sigil in the PATH, whether x86 or not
 PATH=%PATH%;C:\Program Files\Sigil;C:\Program Files (x86)\Sigil
 :: and open the cover HTML file in it, to load metadata into Sigil
-START "" sigil.exe "0-3-contents.html"
+START "" sigil.exe "0-0-cover.html"
 :: Open file explorer to make it easy to see the HTML to assemble
 %SystemRoot%\explorer.exe "%location%_site\%book%\"
 :: Navigate back to where we began
