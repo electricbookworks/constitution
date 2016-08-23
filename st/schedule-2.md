@@ -17,7 +17,7 @@ Mopresidente kapa Mopresidente wa nakwana o lokela ho ikana ka mokgwa ona ka pel
 	
 Pontsheng ya bohle ba bokaneng mona, ke bile ke elelwa ka botlalo boikarabelo boo ke bo amohelang ba maemo a hodimo NNA ke kenang tshebetsong ke le Mopresidente/ Mopresidente wa nakwana wa Rephaboliki ya Afrika Borwa NNA, A.B. ke a ikana ka boitlamo bo se nang qeaqeo hore ke tla tshepahala Rephaboliking ya Afrika Borwa, mme ke tla ikokobetsa, ke mamele, le ho phethisa le ho boloka Molaotheo le melao yohle e meng ya ho phethisa le ho boloka Molaotheo le melao yohle e meng ya Rephaboliki; ke ikana le ho tshepisa ka matla hore ke tla etsa ka mehla—
 
-*	ho kgothaletsa se tlang ho atla; mme ke be kgahlanong le sohle se ka senyang Rephaboliki;
+*	ho kgothaletsa se tlang ho tla; mme ke be kgahlanong le sohle se ka senyang Rephaboliki;
 *	ho sireletsa le ho kgothaletsa ditokelo tsa Maafrika Borwa ohle;
 *	ho phetha mesebetsi ya ka ka matla ohle a ka le dineo tsohle tsa ka ka tsebo yohle ya ka le bokgoni bohle ba ka ke ntse ka laolwa ke letswalo la ka;
 *	ho phethisa toka ho bohle; mme
@@ -41,7 +41,7 @@ Pontsheng ya bohle ba bokaneng mona, ke bile ke elellwa ka botlalo boikarabelo b
 
 Letona le Motlatsi wa Letona o tlameha ho ikana tjena ka pela Moahlodi e moholo wa Lekgotla la Molaotheo kapa moahlodi e mong ya thontsweng ke Mopresidente wa Lekgotla la Molaotheo:
 
-NNA, A.B. je ikana/itlama hore ke tla tshepahala Rephaboliking ya Afrika Borwa mme ke tla ikokobeletsa, hohlompha le ho phethisa Molaotheo le melao e meng ya Rephaboliki; ke ke itlama ho phethisa mosebetsi jwalo ka Letona/Motlatsi wa Letona ka tlotla le seriti; ho ba le nnete moeletsi wa nnete ya tshepahalang, ke sa senole ka boomo kapa kaho thella ha leleme makunutu ao ke tshepetsweng ona; le ho phethisa mesebetsi ya ka ka boikitlaetsole ka moo nka kgonang ka teng.
+NNA, A.B. ke ikana/itlama hore ke tla tshepahala Rephaboliking ya Afrika Borwa mme ke tla ikokobeletsa, ho hlompha le ho phethisa Molaotheo le melao e meng ya Rephaboliki; ke itlama ho phethisa mosebetsi jwalo ka Letona/Motlatsi wa Letona ka tlotla le seriti; ho ba le nnete moeletsi wa nnete ya tshepahalang, ke sa senole ka boomo kapa ka ho thella ha leleme makunutu ao ke tshepetsweng ona; le ho phethisa mesebetsi ya ka ka boikitlaetso le ka moo nka kgonang ka teng.
 
 (Mabapi le kano: Modimo nthuse.)
 
