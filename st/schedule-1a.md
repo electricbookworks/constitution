@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Shejulu 1A. Dibaka tsa Diprovense
+published: true
+layout: default
+style: chapter
 ---
 
 # Shejulu 1A: Dibaka tsa Diprovense
 
-> [Shejulu 1A e kentswe ke karolo 4 ya molao wa tukiso ya leshome le metso e mmedi ya Molaotheo wa 2005 mme ya lokiswa ke karolo1 Molao wa tukiso ya leshome le metso e meraro ya Molaotheo wa 2007 le Molao wa tukiso ya leshome le metso e tsheletseng ya Molaotheo wa 2009.]
+> [Shejulu 1A e kentswe ke karolo 4 ya molao wa tokiso ya leshome le metso e mmedi ya Molaotheo wa 2005 mme ya lokiswa ke karolo1 Molao wa tokiso ya leshome le metso e meraro ya Molaotheo wa 2007 le Molao wa tokiso ya leshome le metso e tsheletseng ya Molaotheo wa 2009.]
 {:.note}
 
 ## Provense ya Kapa Botjhabela
