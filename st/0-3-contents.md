@@ -270,7 +270,7 @@ layout: default
         *   [225\. Matla le mesebetsi](13.html#matla-le-mesebetsi)
     *   [Dintlha tsa Ditjhelete tsa Selehae le Provense](13.html#dintlha-tsa-ditjhelete-tsa-selehae-le-provense){:.subhead}
         *   [226\. Matlole a Lekeno la Diprovense](13.html#matlole-a-lekeno-la-diprovense)
-        *   [227\. Mehlodi ya naha ya matlole a provense le mmuso wa seleha](13.html#mehlodi-ya-naha-ya-matlole-a-provense-le-mmuso-wa-seleha)
+        *   [227\. Mehlodi ya naha ya matlole a provense le mmuso wa selehae](13.html#mehlodi-ya-naha-ya-matlole-a-provense-le-mmuso-wa-selehae)
         *   [228\. Makgetho a Diprovense](13.html#makgetho-a-diprovense)
         *   [229\. Matla a masepala ditjheleteng tsa lekgetho le tshebetso](13.html#matla-a-masepala-ditjheleteng-tsa-lekgetho-le-tshebetso)
         *   [230\. Dikadimo tsa Diprovense](13.html#dikadimo-tsa-diprovense)
