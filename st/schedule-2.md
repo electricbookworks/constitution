@@ -53,7 +53,7 @@ NNA, A.B. ke ikana/itlama hore ke tla tshepahala Rephaboliking ya Afrika Borwa m
 
 	(Mabapi le kano: Modimo nthuse.)
 
-2.	Batho ba kwalang sekgeo Sebokeng sa Naha baromuwa ba ka mehla ba Lekgotla la Naha la Diprovense kapa ka hara lekgotla la ketsamolao ba ka ikana kapa ho itlama ka dipehelo tsa karolwana ya (1) ka pela mosebeletsi wa molao ya okametseng Seboka, Lekgotla kapa lekgotla la ketsamolao ka moo ho leng ka teng.
+2.	Batho ba kwalang sekgeo Sebokeng sa Naha, baromuwa ba ka mehla ba Lekgotla la Naha la Diprovense kapa ka hara lekgotla la ketsamolao ba ka ikana kapa ho itlama ka dipehelo tsa karolwana ya (1) ka pela mosebeletsi wa molao ya okametseng Seboka, Lekgotla kapa lekgotla la ketsamolao ka moo ho leng ka teng.
 
 ## 5. Kano kapa Boitlamo ba Ditonakgolo le Ditonakgolo tsa nakwana le ditho tsa Lekgotla la Phethahatso la Diprovense
 
