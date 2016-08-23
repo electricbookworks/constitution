@@ -1,10 +1,14 @@
 ---
+stylesheet: screen.css
 title: Shejulu 2. Dikano le Boitlamo
+published: true
+layout: default
+style: chapter
 ---
 
 # Shejulu 2: Dikano le Boitlamo
 
-> [Shejulu 2 e lokisitswe ke karolo 2 ya Molao wa tukiso ya pele ya Molaotheo wa 1997 (sengolwa sa English feela) mme ya fetolwa ka karolo 18 ya Molao wa tukiso ya leshome le metso e tsheletseng ya Molaotheo wa 2001.]
+> [Shejulu 2 e lokisitswe ke karolo 2 ya Molao wa tokiso ya pele ya Molaotheo wa 1997 (sengolwa sa Senyesemane feela) mme ya fetolwa ka karolo 18 ya Molao wa tokiso ya leshome le metso e tsheletseng ya Molaotheo wa 2001.]
 {:.note}
 
 ## 1. Dikano le boitlamo ba Mopresidente le Mopresidente wa nakwana
