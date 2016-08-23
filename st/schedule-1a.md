@@ -34,7 +34,7 @@ style: chapter
 
 ## Provense ya Gauteng
 
-> [Moedi wa Provense ya Gauteng o likisitswe ke Molao 16 wa 2009.]
+> [Moedi wa Provense ya Gauteng o lokisitswe ke Molao 16 wa 2009.]
 {:.note}
 
 *	Mmapa 4 tsebisong 1490 ya 2008
