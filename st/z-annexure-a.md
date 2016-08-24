@@ -1,23 +1,27 @@
 ---
+stylesheet: screen.css
 title: Sehlomathiso sa A. Diphetolo Shejulung 2 ya Molaotheo wa mehleng
+published: true
+layout: default
+style: chapter
 ---
 
 # Sehlomathiso sa A: Diphetolo Shejulung 2 ya Molaotheo wa mehleng
 
 1.	Phetolo ya karolo 1 ka e latelang:
 
-	> 1. Mekga e ngodisitsweng ho latela molao wa naha mme e phehisana dikgethong tsa Seboka sa Naha e tla thonya bo nkgetheng bakeng la dikgetho tseo lenaneng la bonkgetheng ba lokisitsweng ho latela Shejulu le molao wa naha.
+	> 1. Mekga e ngodisitsweng ho latela molao wa naha mme e phehisana dikgethong tsa Seboka sa Naha e tla thonya bonkgetheng bakeng la dikgetho tseo lenaneng la bonkgetheng ba lokisitsweng ho latela Shejulu le molao wa naha.
 
 2.	Phetolo ya ntlha 2 ka e latelang:
 
-	> 2. Ditulo Sebokeng sa Naha jwalo ka ha ho hlwauwe karolong 46 ya Molaotheo o motjha ditla ba tjena:
-	>	1.	Karolo e lekanang ya ditulo ho tswa lenaneng la lebatowa le nehetsweng ke mekga, ka palo e ya ditulo tse behetsweng mabatowa a hlwauweng ke Khomishene bakeng la dikgetho tse tlang tsa Seboka, ho nahannwe lesedi le teng la ba kgethi le kemedi ya mekga e nang le thahasello.
+	> 2. Ditulo Sebokeng sa Naha jwalo ka ha ho hlwauwe karolong 46 ya Molaotheo o motjha di tla ba tjena:
+	>	1.	Karolo e lekanang ya ditulo ho tswa lenaneng la lebatowa le nehetsweng ke mekga, ka palo e ya ditulo tse behetsweng mabatowa a hlwauweng ke Khomishene bakeng la dikgetho tse tlang tsa Seboka, ho nahannwe lesedi le teng la bakgethi le kemedi ya mekga e nang le thahasello.
 	>	1.	Karolo e nngwe ya ditulo ho tswa lenaneng la naha le nehetsweng ke mekga kapa mananeng a mabatowa a sa kang a nehelwa.
 	> {:start='2'}
 
 3.	Phetolo ya ntlha 3 ka e latelang:
 
-	> 3. Mananeo a bonkgetheng bao mokga o nehelaneng ka ona, a tla kenyeletsa mabitso a sa feteng palo ya bonkgetheng ba lekanang le palo ya ditulo tse Sebokeng sa Naha mme lenane ka leng le tla bontsha mabitso ka tatellano ya ka moo mokga o tlabeng o hlwaile.
+	> 3. Mananeo a bonkgetheng bao mokga o nehelaneng ka ona, a tla kenyeletsa mabitso a sa feteng palo ya bonkgetheng ba lekanang le palo ya ditulo tse Sebokeng sa Naha mme lenane ka leng le tla bontsha mabitso ka tatellano ya ka moo mokga o tla beng o hlwaile.
 	> {:start='3'}
 
 4.	Phetolo ya ntlha 5 ka ho fetola mantswe a tlang pele ho serapa (a) ka mantswe a latelang:
@@ -39,7 +43,7 @@ title: Sehlomathiso sa A. Diphetolo Shejulung 2 ya Molaotheo wa mehleng
 
 6.	Phetolo ya karolo ya ntlha 7(3) ka ho fetola serapa (b) ka serapa se latelang:
 
-	> (b) Phetolo ya palo ya dikgetho tsa ditho di tla hlaloswa ka ho arolapalo kaofela ha yona e kgethilweng naheng ho tloswa palo ya dikgethonaheng yohle ho etsetsa mokga o mong oo ho buisanweng ka ona serapeng(a) ka palo ya ditho Sebokeng, le se le seng, ho tloswa palo ya dithotse abilweng ha ho qetwa mokgeng oo ho ya ka dipehelo tsa serapa (a).
+	> (b) Phetolo ya palo ya dikgetho tsa ditho di tla hlaloswa ka ho arola palo kaofela ha yona e kgethilweng naheng ho tloswa palo ya dikgetho naheng yohle ho etsetsa mokga o mong oo ho buisanweng ka ona serapeng(a) ka palo ya ditho Sebokeng, le se le seng, ho tloswa palo ya ditho tse abilweng ha ho qetwa mokgeng oo ho ya ka dipehelo tsa serapa (a).
 
 7.	Phetolo ya karolo 10 ka ntlha e latelang:
 
