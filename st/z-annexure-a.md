@@ -69,7 +69,7 @@ style: chapter
 
 11.	Phetolo ya ntlha 19 ka ntlha e latelang:
 
-	> 19. Lenane la ditho tsa mokga tseo ho builweng ka tsona ntlheng 16 (1) di ka eketswa nakong e nngwe hang feela nakong ya dikgwedi tsa pele tse latelang mohla kgetho ya baemedi e seng e qetilwe e le ho tlatsa dikgeo tsa nakwana: Ka ntle ha eba keketso eo e tla etswa qetellong ya lenane.
+	> 19. Lenane la ditho tsa mokga tseo ho builweng ka tsona ntlheng 16 (1) di ka eketswa nakong e nngwe hang feela nakong ya dikgwedi tsa pele tse latelang mohla kgetho ya baemedi e seng e qetilwe e le ho tlatsa dikgeo tsa nakwana: Ka ntle le haeba keketso eo e tla etswa qetellong ya lenane.
 	> {:start='19'}
 
 12.	Ho fetolwa ha ntlha 23 ka serapa se latelang:
