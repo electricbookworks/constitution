@@ -1,5 +1,11 @@
 ---
-title: Shejulu 4. Dibaka tsa Tshebetso tsa Bokgoni le Tshebedisano ya Setjhaba le Bokgoni ba Molao wa Provense
+stylesheet: screen.css
+title: >-
+  Shejulu 4. Dibaka tsa Tshebetso tsa Bokgoni le Tshebedisano ya Setjhaba le
+  Bokgoni ba Molao wa Provense
+published: true
+layout: default
+style: chapter
 ---
 
 # Shejulu 4: Dibaka tsa Tshebetso tsa Bokgoni le Tshebedisano ya Setjhaba le Bokgoni ba Molao wa Provense
@@ -10,14 +16,16 @@ title: Shejulu 4. Dibaka tsa Tshebetso tsa Bokgoni le Tshebedisano ya Setjhaba l
 *	Temo
 *	Boemafofane boo e seng ba matjhaba le ba naha
 *	Tlhokomelo ya diphoofolo le mafu
-*	Dikhasino, dipeiso, ho bapala ka lotho, ntle ho dilothari le dipapadi tsa matlole Tshireletso ya bareki
+*	Dikhasino, dipeiso, ho bapala ka lotho, ntle ho dilothari le dipapadi tsa matlole
+*	Tshireletso ya bareki
 *	Ditaba tsa setso
 *	Taolo ya dikoduwa
 *	Thuto mafapheng ohle, ntle le thuto ya ditheo tse phahameng
 *	Tikoloho
-*	Ditshebeletso tsa bophelo bo bottle
+*	Ditshebeletso tsa bophelo bo botle
 *	Kabo ya matlo
-*	Molao wa setso le wa meetlo ho sebetswa ho latela Kgaolo 12 ya Molaotheo Kgothaletso ya Diindasteri
+*	Molao wa setso le wa meetlo ho sebetswa ho latela Kgaolo 12 ya Molaotheo
+*	Kgothaletso ya Diindasteri
 *	Leano la puo le taolo ya dipuo tsa semmuso ka moo dipehelo tsa karolo 6 ya Molaotheo e fang lekgotla la ketsamolao la diprovense matla a ho etsa molao
 *	Ditshebeletso tsa phatlalatso tse laolwang ka ho otloloha kapa di nehelwa ke mmuso wa provense, ho ya ka karolo 192
 *	Tshireletso ya tlhaho, ntle ho dirapa tsa tlhaho, dirapa tsa dimela tsa naha, le mehlodi e fumanehang mawatleng
