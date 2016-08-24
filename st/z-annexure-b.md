@@ -70,27 +70,27 @@ style: chapter
 	>		1.	a kgethe ho ya ka mosebetsi oo motho eo e seng setho sa Seboka sa Naha jwalo ka Letona le ikarabellang mosebetsing oo; mme
 	>		1.	a tlatse, ha ho hlokeha, sekgeo ho ya ka mosebetsi oo; kapa
 	>	1.	ka mora ho hore a buisane le Batlatsi ba Dipresidente tsa Phethahatso le baetapele ba mekga e sebedisanang, ba kgaotse kgetho efe kapa efe ho ya ka serapa (a) ha ho hlokeha lebaka la Molaotheo kapa ka lebaka la mmuso o sebetsang hantle.
-	> 14.	Dikopano tsa Kabinete di lokela hore di etellwe pele ke Mopresidente, kapa, haeba Mopresidente a ka laela jwalo, di etellwe pele ke Motlatsi wa Mopresidente wa Phethahatso: Ka ntle le haeba Batlatsi ba Dipresidente ba Phethahatso e le ba dulasetulo ba Kabinete ka ho fapana ka ntle hape ha eba ho na le mabaka a tlamang a mmuso le maikutlo a fuperweng monahanong wa mmuso wa setjhaba se kopaneng.
+	> 14.	Dikopano tsa Kabinete di lokela hore di etellwe pele ke Mopresidente, kapa, haeba Mopresidente a ka laela jwalo, di etellwe pele ke Motlatsi wa Mopresidente wa Phethahatso: Ka ntle le haeba Batlatsi ba Dipresidente ba Phethahatso e le badulasetulo ba Kabinete ka ho fapana ka ntle hape haeba ho na le mabaka a tlamang a mmuso le maikutlo a fuperweng monahanong wa mmuso wa setjhaba se kopaneng.
 	> 15.	Kabinete e sebetse ka tsela eo ho ka utlwanang ka yona ho ya ka maikutlo a fuperweng monahanong wa mmuso wa setjhaba se kopaneng le ho ba le mmuso o atlehileng.
 
 5.	Karolo ya 93 ya Molaotheo o motjha e tlameha ho balwa tjena:
 
 	> 93\. Kgetho ya Batlatsi ba Matona
 	> 
-	> 1.	Mopresidente a ka nna a, ka mora ho hoba a buisane le Batlatsi ba Dipresidenteba Phethahatso le baetapele ba mekga e sebedisanang Kabineteng, ba thehe mesebetsi ya batlatsi ba matona.
+	> 1.	Mopresidente a ka nna a, ka mora ho hoba a buisane le Batlatsi ba Dipresidente ba Phethahatso le baetapele ba mekga e sebedisanang Kabineteng, ba thehe mesebetsi ya batlatsi ba matona.
 	> 2.	Mokga o tlameha ho abelwa mosebetsi o le mong kapa e mengata ya motlatsi wa letona ka palohare e tshwanang le ho ya ka moralo oo mesbetsi ya Kabinete e abetsweng ka teng.
-	> 3.	Dipehelo tsa karolo 91(10) ho ya ho (12) di a sebetsa mme tshebetsong eo ho hlaloswa karolong eo ho Letona kapa lefapaha le lokela ho balwa jwalo ka tlhaloso ho Motlatsi wa Letona kapa mosebetsi wa motlatsi wa letona, ka ho latelana.
-	> 4.	Ha eba motho o kgethilwe hore e be Motlatsi wa Letona la lefapha lefe kapa lefe le tshepetsweng Letona—
-	>	1.	Motlatsi wa Letona o lokela ho phethisa matla le ho sebetsa a thusa Letona le amehang ka matla afe kapa afe le mosebetsi o abetsweng Letona leo ho ya ka molao oa entsweng kapa a ka nna a, ho ya ka ditataiso tsa Mopersidente, abelwe ho Motlatsi eo wa Letona ke Letona leo; mme
+	> 3.	Dipehelo tsa karolo 91(10) ho ya ho (12) di a sebetsa mme tshebetsong eo ho hlaloswa karolong eo ho Letona kapa lefapa ha le lokela ho balwa jwalo ka tlhaloso ho Motlatsi wa Letona kapa mosebetsi wa motlatsi wa letona, ka ho latelana.
+	> 4.	Haeba motho o kgethilwe hore e be Motlatsi wa Letona la lefapha lefe kapa lefe le tshepetsweng Letona—
+	>	1.	Motlatsi wa Letona o lokela ho phethisa matla le ho sebetsa a thusa Letona le amehang ka matla afe kapa afe le mosebetsi o abetsweng Letona leo ho ya ka molao o entsweng kapa a ka nna a, ho ya ka ditataiso tsa Mopresidente, abelwe ho Motlatsi eo wa Letona ke Letona leo; mme
 	>	1.	ho hlaloswa molaong ofe kapa ofe ho ya ka Letona leo o lokela ho amohelwa jwalo ka ha o kenyeletsa tlhaloso ho Motlatsi wa Letona mme a sebetsa ho ya ka dipehelo tsa kabelo ya temana (a) ho ya ka Letona leo Motlatsi wa Letona a sebetsang sebakeng sa hae.
-	> 5.	Ka mehla ha Motlatsi wa Mopresidente a le siyo kapa a hloleha ho phetha matla a hae kapa ho sebetsa ofising, Mopresidente a ka nna a kgetha Motlatsi e mong wa Mopresidente kapa motho e mong ho nka sebaka sa Motalatsi wa Mopresidente, e ka ba ka kakaretso kapa ka ho phetha kapa ka tshebetso efe kapa efe kapa mosebetsi.
+	> 5.	Ka mehla ha Motlatsi wa Mopresidente a le siyo kapa a hloleha ho phetha matla a hae kapa ho sebetsa ofising, Mopresidente a ka nna a kgetha Motlatsi e mong wa Mopresidente kapa motho e mong ho nka sebaka sa Motlatsi wa Mopresidente, e ka ba ka kakaretso kapa ka ho phetha kapa ka tshebetso efe kapa efe kapa mosebetsi.
 
 6.	Karolo 96 ya Molaotheo o motjha e tlameha ho kenyeletsa dikarolwana tse latelang tsa kekeletso:
 
 	> 3.	Matona a ikarabella ka bomong ho Mopresidente le ho Seboka sa Naha ho laoleng mafapha a bona, mme ditho tsohle tsa Kabinete di ikarabella ka ho fapana mmoho mesebetsing ya bona ya mmuso wa naha le maano a ona.
 	> 4.	Matona a laole mafapha a ona ho ya ka leano le laolwang ke Kabinete.
-	> 5.	Ha eba Letona le hloleha ho laola lefapha ho ya ka leano la Kabinete, Mopresidente a ka batla hore Letona le amehang le sebetse ho ya ka leano.
-	> 6.	Ha eba Letona le amehang le hloleha ho sebetsa ho ya ka ditlhoko tsa Mopresidente ho ya ka karolo (5), Mopresidente a ka nna a tlosa Letona mosebtsing—
-	>	1.	Ha eba ke Letona le hlalositsweng karolong 91(1)(a), ka mora ho buisanwe le Letona le, ha eba Letona ha se setho sa mokga wa Mopresidente kapa e se moetapele wa mokga o sebetsang mmoho le ka mora dipuisano le moetapele wa mokga wa Letona; kapa
-	>	1.	ha eba ke Letona le hlalositsweng karolong 91(1)(b), ka mora puisano le Batlatsi ba Dipresidente ba Phethahatso le baetapele ba mekga e sebetsang mmoho.
+	> 5.	Haeba Letona le hloleha ho laola lefapha ho ya ka leano la Kabinete, Mopresidente a ka batla hore Letona le amehang le sebetse ho ya ka leano.
+	> 6.	Haeba Letona le amehang le hloleha ho sebetsa ho ya ka ditlhoko tsa Mopresidente ho ya ka karolo (5), Mopresidente a ka nna a tlosa Letona mosebetsing—
+	>	1.	haeba ke Letona le hlalositsweng karolong 91(1)(a), ka mora ho buisanwe le Letona le, haeba Letona ha se setho sa mokga wa Mopresidente kapa e se moetapele wa mokga o sebetsang mmoho le ka mora dipuisano le moetapele wa mokga wa Letona; kapa
+	>	1.	haeba ke Letona le hlalositsweng karolong 91(1)(b), ka mora puisano le Batlatsi ba Dipresidente ba Phethahatso le baetapele ba mekga e sebetsang mmoho.
 	> {:start='3'}
