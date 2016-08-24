@@ -1,5 +1,11 @@
 ---
-title: Shejulu 5. Dibaka Tsa Mesebetsi Tse Ikgethileng Tsa Lekgotla La Molao La Provense
+stylesheet: screen.css
+title: >-
+  Shejulu 5. Dibaka Tsa Mesebetsi Tse Ikgethileng Tsa Lekgotla La Molao La
+  Provense
+published: true
+layout: default
+style: chapter
 ---
 
 
@@ -39,7 +45,7 @@ Ho latelang dintlha tsa mmuso wa selehae ho ya ka tlhaloso ya karolo 155(6)(a) l
 *	Mebaraka
 *	Selakga sa masepala
 *	Dirapa tsa masepala le boithapollo
-*	Ditsela sa masepala
+*	Ditsela tsa masepala
 *	Lerata
 *	Boima
 *	Dibaka tsa setjhaba tsa boikgathollo
