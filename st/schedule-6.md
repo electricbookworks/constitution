@@ -276,7 +276,7 @@ Motho a ntseng a sebetsa ho latela dintlha tsa Shejule sena a nkileng kano ya mo
 
 1.	Dikarolo tsa 82(4)(b), 215, 218(1), 224 ho isa ho 228, 236(1), (2), (3), (6), (7)(b) le (8)	le 237(1) le 239(4) le(5) tsa Molaotheo wa kgale di ntse di le tshebetsong jwalo ka ha eka Molaotheo wa kgale ha o a phumulwa, ho ya ka—
 	1.	diphetoho dikarolong tse ngotsweng Sehlomathisong sa D;
-	1.	diphetoho tseding kapa ho phumulwa ha dikarolo tseo ka Molao wa Palamente o fetisitsweng ka tlasa dipehelo tsa karolo ya 75 ya Molaotheo o motjha, ha mmoho; le
+	1.	diphetoho tse ding kapa ho phumulwa ha dikarolo tseo ka Molao wa Palamente o fetisitsweng ka tlasa dipehelo tsa karolo ya 75 ya Molaotheo o motjha, hammoho; le
 	1.	tumellano le Molaotheo o motjha.
 2.	Khomishene ya Tshebeletso ya Setjhaba le dikhomishene tsa ditshebeletso tsa diprovense tse hlaloswang Kgaolong 13 ya Molaotheo wa kgale, di dula di le tshebetsong tlasa dipehelo tsa Kgaolo eo mme molao o sebediswang ho yona jwalo ka ha eka Kgaolo eo e hlakotswe ho fihlela Khomishene le dikhomishene tsa diprovense di fediswa ka Molao wa Palamente o fetisitsweng ka dipehelo tsa dikarolo tsa 75 tsa Molaotheo o motjha.
 3.	Ho phumulwa ha Molaotheo wa kgale ha ho ame kgweletso efe kapa efe e ntshitsweng ho ya ka karolo ya 237(3) ya Molaotheo wa kgale mme kgweletso ya mofuta oo e tla tswela pele tshebetsong ho ya ka—
