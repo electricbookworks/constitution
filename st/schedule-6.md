@@ -178,20 +178,20 @@ dumelang mme mang kapa mang ya sebetsang ofising e le mosebeletsi wa molao o tla
 4.	
 	1.	Karolo ya provense kapa ya selehae ya Lekgotla le Phahameng la Afrika Borwa kapa lekgotla le phahameng la mahaeng kapa karolo ya kakaretso ya lekgotla le jwalo, e ba lekgotla le phahameng ka tlasa Molaotheo o motjha ka ntle le ho tokiso sebakeng seo e sebetsang ho sona, ho latela temana (6).
 	1.	Mang kapa mang ya sebetsang ofising kapa a thonngwe ho ka sebetsa ofising e le Moahlodi wa Mopresidente, Motlatsi wa Moahlodi wa Mopresidente kapa moahlodi wa lekgotla la dinyewe eo a hlalositsweng temaneng ya (a) ha Molaotheo o sebediswa e tla ba Moahlodi wa Mopresidente kapa moahlodi wa lekgotla le jwalo la dinyewe ho ya ka Molaotheo o motjha ho ya le ka ho arolwa ho nahannweng temanyaneng (6).
-5.	Ka ntle ha eba ho se tumellano le tikoloho kapa e sa loka hohang feela ho hlaloswa molaong ofe kapa ofe kapa tsamaiso ho—
-	1.	Lekgotla la Molaotheo ka tlsa Molaotheo wa mehleng ho tshwanetse ho amohelwa e le ho bolela Lekgotla la Molaotheo ka tlasa Molaotheo o motjha.
+5.	Ka ntle le haeba ho se tumellano le tikoloho kapa e sa loka ho hang feela ho hlaloswa molaong ofe kapa ofe kapa tsamaiso ho—
+	1.	Lekgotla la Molaotheo ka tlasa Molaotheo wa mehleng ho tshwanetse ho amohelwa e le ho bolela Lekgotla la Molaotheo ka tlasa Molaotheo o motjha.
 	1.	Karolo ya Boipiletso ya Lekgotla le Phahameng la Afrika Borwa e amohelwe e bolela Lekgotla le Phahameng la Boipiletso; le
 	1.	Karolo ya provense kapa ya selehae ya Lekgotla le Phahameng la Afrika Borwa kapa lekgotla le phahameng la lehae kapa karolo e akaretsang ya lekgotla leo e nkwe e bolela Lekgotla le Phahameng.
 6.	
 	1.	Ha ho ka kgoneha ka pele ka mora hoba Molaotheo o motjha o sebediswe makgotla ohle mmoho le moralo a ona, sebopeho, tshebetso le matla a tshebetso le molao o lokelang, o lokela ho hlophiswa botjha ka sepheo sa ho theha tsamaiso ya toka e tshwanelang ditlhoko tsa Molaotheo o motjha.
-	1.	Setho sa Kabinete se ikarabellang ho tsa toka mme e sebetsa nakwanafeela ka mora therisano le Khomishene ya Ditshebeletso ya Molao, a qaletlhophiso e ntjha e lebeletsweng temaneng ya (a).
+	1.	Setho sa Kabinete se ikarabellang ho tsa toka mme e sebetsa nakwana feela ka mora therisano le Khomishene ya Ditshebeletso ya Molao, a qale tlhophiso e ntjha e lebeletsweng temaneng ya (a).
 7.	
-	1.	Mang kapa mang ya ofising ha Molao wa tukiso ya Molaotheo wa Afrika Borwa ya 2001e kena tshebetsong, ele—
-		1.	Mopresidente wa Lekgotla la Molaotheo, e ba Moahlodi e moholo jwalo ka ha ho hlalositswe karolong 167 (1) ya Molaotheo o motjha
-		1.	Motlatsi wa Mopresidente wa Lekgotla la Molaotheo, e ba Motlatsi wa Moahlodi e moholo jwalo ka ha ho hlalositswe karolong 167(1) ya Molaotheo o motjha
-		1.	Moahlodi e moholo e ba Mopresidente wa Lekgotla le Phahameng la Boipiletso jwalo ka ha ho hlalositswe karolong 168(1) ya Molaotheo o motjha
+	1.	Mang kapa mang ya ofising ha Molao wa tokiso ya Molaotheo wa Afrika Borwa ya 2001 e kena tshebetsong, ele—
+		1.	Mopresidente wa Lekgotla la Molaotheo, e ba Moahlodi e moholo jwalo ka ha ho hlalositswe karolong 167 (1) ya Molaotheo o motjha;
+		1.	Motlatsi wa Mopresidente wa Lekgotla la Molaotheo, e ba Motlatsi wa Moahlodi e moholo jwalo ka ha ho hlalositswe karolong 167(1) ya Molaotheo o motjha;
+		1.	Moahlodi e moholo e ba Mopresidente wa Lekgotla le Phahameng la Boipiletso jwalo ka ha ho hlalositswe karolong 168(1) ya Molaotheo o motjha;
 		1.	Motlatsi wa Moahlodi e moholo e ba Motlatsi wa Mopresidente wa Lekgotla le Phahameng la Boipiletso jwalo ka ha ho hlalositswe karolong 168(1) ya Molaotheo o motjha.
-	1.	Melao kapa ditaelo tsohle tse entsweng ke Mopresidente wa Lekgotla la Molaotheo kapa Moahlodi e moholo pele ho Molao wa tukiso ya Molaotheo wa Rephaboliki ya Afrika Borwa wa 2001 o kena tshebetsong, di ntse di sebetsa ho fihlela di hlakolwa kapa di lokiswa.
+	1.	Melao kapa ditaelo tsohle tse entsweng ke Mopresidente wa Lekgotla la Molaotheo kapa Moahlodi e moholo pele ho Molao wa tokiso ya Molaotheo wa Rephaboliki ya Afrika Borwa wa 2001 o kena tshebetsong, di ntse di sebetsa ho fihlela di hlakolwa kapa di lokiswa.
 	1.	Ntle le ha e sa tsamaisane le sengolwa kapa e sa loka, tebiso molaong o mong le o mong kapa tsamaiso ho ya ho Moahlodi e moholo kapa Mopresidente wa Lekgotla la Molaotheo e tshwanetse e nkuwe e le tebiso ho Moahlodi e moholo jwalo ka ha ho hlalositswe karolong 167(1) ya Molaotheo o motjha.
 
 	> [Temananyana (7) e kentswe ke karolo 20(b) ya Moalo 6 wa 2001.]
@@ -235,7 +235,7 @@ Motho a ntseng a sebetsa ho latela dintlha tsa Shejule sena a nkileng kano ya mo
 	1.	Lekgotla la Volkstaat le thehilweng tlasa dipehelo tsa Molaotheo wa kgale le tla tswela pele ho sebetsa tlasa dipehelo tsa molao o etswang o tobaneng le lona mme mang kapa mang ya neng a na le maemo ho yona ha Molaotheo o motjha o sebediswa o tla tswela pele maemong ao tlasa dipehelo tsa molao o tobaneng le lona, ho ya ka—
 		1.	hore phetolo kapa ho phumulwa ha molao; mmoho le
 		1.	hore o dumellane le Molaotheo.
-	1.	Dikarolo tsa 184 A, 184 B(1)(a), (b) le (d) tsa Molaotheo wa kgaledi dula di sebetsa ho fihlela di hlakolwa ka Molao wa Palamente ofetisitsweng tlasa dipehelo tsa karolo ya 75 ya Molaotheo o motjha.
+	1.	Dikarolo tsa 184 A, 184 B(1)(a), (b) le (d) tsa Molaotheo wa kgale di dula di sebetsa ho fihlela di hlakolwa ka Molao wa Palamente ofetisitsweng tlasa dipehelo tsa karolo ya 75 ya Molaotheo o motjha.
 
 ## 21. Ho fetiswa ha molao o hlokwang ke Molaotheo
 
