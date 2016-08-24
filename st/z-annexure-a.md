@@ -80,13 +80,13 @@ style: chapter
 	>	1.	seo lebitso la hae le hlahellang lenaneng la bonkgetheng leo setho se tlohang se neng se ileng sa kgethwa ho lona, mme
 	>	1.	ya latelang ebile a ka ba teng lenaneng.
 	> 1.	Kgetho ya ho tlatsa sekgeo e tla romelwa ho Sepikara ka ho ngola.
-	> 1.	Ha eba mokga o emetsweng lekgotleng la ketsamolao o qhalana kapa o kgaotsa ho sebetsa mme ditho tseo di lesa ditulo tsa tsona ho ya ka ntlha 23A(1) ditulo tseo di tla abelwa mekga e meng ho ya ka diphetoho jwalo ka ha eka ditulo tseo di ne di lahluwe ho ya ka ntlha 7 kapa 14, ho ya ka moo ho ka etswang ka teng.
+	> 1.	Haeba mokga o emetsweng lekgotleng la ketsamolao o qhalana kapa o kgaotsa ho sebetsa mme ditho tseo di lesa ditulo tsa tsona ho ya ka ntlha 23A(1) ditulo tseo di tla abelwa mekga e meng ho ya ka diphetoho jwalo ka ha eka ditulo tseo di ne di lahluwe ho ya ka ntlha 7 kapa 14, ho ya ka moo ho ka etswang ka teng.
 
 13.	Ho kenyeletswa ha ntlha e latelang ka mora ntlha 23:
 
 	> 23\. Ho ekeletswa ha matla ha ho lahlehelwa ke botho ba makgotla a ketsamolao
 	> 
-	> 1.	Setho se lahlehelwa ke botho ba lekgotla la ketsamolao boo Shejulu ena e sebediswang ho yona ha eba motho eo jwalo ka setho sa mokga o kgethileng motho eo jwalo ka setho sa lekgotla la ketsamolao.
+	> 1.	Setho se lahlehelwa ke botho ba lekgotla la ketsamolao boo Shejulu ena e sebediswang ho yona haeba motho eo jwalo ka setho sa mokga o kgethileng motho eo jwalo ka setho sa lekgotla la ketsamolao.
 	> 1.	Le ka ntle ho temananyana (1) mokga ofe kapa ofe o teng wa dipolotiki o ka fetola lebitso la ona nako e nngwe le e nngwe feela.
 	> 1.	Molao wa Palamente o ka, ho ya ka nako e seng kae ka mora hoba Molaomotheo o be teng, fetiswa ho ya ka karolo 76(1) ya Molaotheo o motjha ho fetola ntlha ena le ntlha 23 ho fana ka mokgwa oo ka ona setho sa lekgotla la ketsamolao eo a kgaotsang ho ba setho sa mokga o mo kgethileng, a boloke botho ba lekgotla la ketsamolao.
 	> 1.	Molao wa Palamente oo o hlalositsweng temananyaneng (3) o ka fana ka—
