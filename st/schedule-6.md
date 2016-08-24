@@ -286,9 +286,9 @@ Motho a ntseng a sebetsa ho latela dintlha tsa Shejule sena a nkileng kano ya mo
 ## 25. Keketseho ya ho se atlehe ho kgethweng makgotleng a ketsamolao
 
 1.	Mang kapa mang eo Molaotheo o motjha o sebetsa a ahlotswe Rephaboliking nako e fetang kgwedi tse 12 a le tjhankaneng a ne a sa fuwa boikgethelo ba faene, ha a tshwanela ho kgethelwa ho ba setho sa Seboka sa Naha kapa lekgotla la ketsamolao la provense.
-2.	Ho se atlehe ha motho tlasa dipehelo tsa temanenyana (1)—
+2.	Ho se atlehe ha motho tlasa dipehelo tsa temananyana (1)—
 	1.	ho a fela ha kahlolo e ka qhelelwa thoko ha ho entswe boipiletso kapa nako ya kahlolo ya fokotswa ha ho entswe boipiletso hore e se hlole e ka mo sitisa; hape
-	1.	ho fela ha ho feta dilemo tse hlano kahlolo e phethilwe Mmuso wa selehae.
+	1.	ho fela ha ho feta dilemo tse hlano kahlolo e phethilwe.
 
 ## 26. Mmuso wa selehae
 
