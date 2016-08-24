@@ -13,7 +13,7 @@ style: chapter
 
 ## 1. Ditlhaloso
 
-Shejulung ena, ka ntle ha eba e sa dumelane le sengolwa—
+Shejulung ena, ka ntle le haeba e sa dumelane le sengolwa—
 
 “lehae” le hlalosa karolo ya Rephaboliki, eo pele Molaotheo wa mehleng o neng o sebetsa ka yona, e ile ya sebetswa lekgotleng la ketsamolao la Afrika Borwa e le lebatowa le ikemetseng kapa le ipusang;
 
@@ -29,31 +29,31 @@ Shejulung ena, ka ntle ha eba e sa dumelane le sengolwa—
 	1.	ho fetolwa kapa ho phumulwa; le
 	1.	ho tsamaelana le Molaotheo o motjha.
 2.	Molao o entsweng wa kgale o sa ntseng o sebetsa ho ya ka dintlha tsa karolwana (1)—
-	1.	ha e sebediswe hohle, lebatoweng kapa kae kapa kae jwalo ka pele ho Molaotheo wa mehleng o neng o sebetsa ka ntle ha eba o ile wa fetolwahore o be le ho sebediswa ka bophara; mme
+	1.	ha e sebediswe hohle, lebatoweng kapa kae kapa kae jwalo ka pele ho Molaotheo wa mehleng o neng o sebetsa ka ntle haeba o ile wa fetolwa hore o be le ho sebediswa ka bophara; mme
 	1.	o ntse o laolwa ke balaodi ba laolang Molaotheo o motjha o ntseng o sebetsa, o ikamahantse le Molaotheo o motjha.
 
 ## 3. Kutlwisiso ya molao o teng
 
-1.	Ka ntle ha eba e sa dumellane le sengolwa kapa ho bonahala hore ha e a tshwanela, sesupo sa molao ofe kapa ofe o neng o le teng ha Molaotheo o motjha o sebediswa—
+1.	Ka ntle le haeba e sa dumellane le sengolwa kapa ho bonahala hore ha e a tshwanela, sesupo sa molao ofe kapa ofe o neng o le teng ha Molaotheo o motjha o sebediswa—
 	1.	Rephaboliking ya Afrka Borwa kapa lehaeng (ntle le ha ho bolelwa lebatowa), e lokela ho nkwa e bolela Rephaboliki ya Afrika Borwa ho ya ka Molaotheo o motjha;
 	1.	Palamenteng, Seboka sa Naha kapa Senate, di lokela ho nkuwa di hlalosa Palamente, Seboka sa Naha kapa Lekgotla la Naha la Diprovense ho ya ka Molaotheo;
-	1.	ho MoPresidente, Motlatsi wa Mopresidente wa Phethahatso, Letona, Motlatsi wa Letona kapa Kabinete, le nkuwe le hlalosa Mopresidente, Letona, Motlatsi wa Mopresidente kapa Kabinete ho ya ka Molaotheo o motjha, o ikamahanyang le ntlha ya 9 ya Shejulu ena;
+	1.	Ho Mopresidente, Motlatsi wa Mopresidente wa Phethahatso, Letona, Motlatsi wa Letona kapa Kabinete, le nkuwe le hlalosa Mopresidente, Letona, Motlatsi wa Mopresidente kapa Kabinete ho ya ka Molaotheo o motjha, o ikamahanyang le ntlha ya 9 ya Shejulu ena;
 	1.	ho Mopresidente wa Senate le nkuwe e le ho bolela Modulasetulo wa Lekgotla la Naha la Diprovense;
 	1.	ho lekgotla la ketsamolao la provense, Tonakgolo, setho sa Lekgotla la Phethahatso le setho sa Lekgotla la Phethahatso la provense, e nkuwe e supa lekgotla la ketsamolao la provense, tonakgolo, Lekgotla la Phethahatso kapa setho sa Lekgotla la Phethahatso ka tlasa Molaotheo o motjha, ho ya ka ntlha ya 12 ya Shejulu ena; kapa
 	1.	ho puo ya mmuso kapa dipuo tsa mmuso e nkuwe e supa puo efe kapa efe ya mmuso ho ya ka Molaotheo o motjha.
-2.	Ka ntle ha eba e sa dumellane le maemo kapa e sa lokela, sesupo se setseng molaong wa kgale wa tsamaiso—
+2.	Ka ntle le haeba e sa dumellane le maemo kapa e sa lokela, sesupo se setseng molaong wa kgale wa tsamaiso—
 	1.	Palamenteng, Ntlo ya Palamente kapa seboka se etsang molao kapa mokgatlo wa Rephaboliki kapa wa lehae, o nkuwe o hlalosa—
 		1.	Palamente ho ya ka Molaotheo o motjha ha eba taolo ya molao oo e abetswe kapa o behetswe ho ya ka Molaotheo wa kgale kapa ka Shejulu ena phethahatsong ya naha; kapa
-		1.	Lekgotla la ketsamolao la provense, ha eba taolo ya molao oo e abetswe kapa e behetswe ho ya ka Molaotheo wa kgale kapa ka Shejulu lekgotleng la provense la phethahatso; ka
+		1.	Lekgotla la ketsamolao la provense, haeba taolo ya molao oo e abetswe kapa e behetswe ho ya ka Molaotheo wa kgale kapa ka Shejulu lekgotleng la provense la phethahatso; ka
 	1.	ho Mopresidente, Tonakgolo, Molaodi, kapa mosebeletsi e moholo e mong wa phethahatso, Kabinete, Lekgotla la Matona kapa lekgotla la phethahatso la Rephaboliki kapa la lehae, le nkuwe le hlalosa—
 		1.	Mopresidente ka tlasa Molaotheo o motjha, ha taolo ya molao oo e abetswe kapa e behetswe ho ya ka Molaotheo wa kgale kapa Shejulung ena ho lekgotla la phethahatso la naha; kapa
-		1.	Tonakgolo ya provense ho ya ka Molaotheo o motjha ha eba taolo ya molao oo e abetswe kapa e behetswe ho ya ka Molaotheo wa kgale Shejulu ena lekgotleng la phethahatso la provense.
+		1.	Tonakgolo ya provense ho ya ka Molaotheo o motjha haeba taolo ya molao oo e abetswe kapa e behetswe ho ya ka Molaotheo wa kgale Shejulu ena lekgotleng la phethahatso la provense.
 
 ## 4. Seboka sa Naha
 
 1.	Motho ofe kapa ofe eo e neng e le setho kapa mosebeletsi wa mmuso wa Seboka sa Naha ha Molaotheo o motjha o qala ho sebediswa, e eba setho kapa mosebeletsi wa mmuso wa Seboka sa Naha ho ya ka Molaotheo o motjha mme o sebetsa e le setho kapa mosebeletsi wa mmuso ho ya ka dipehelo tsa Molaotheo o motjha.
 2.	Seboka sa Naha se thehilweng ho ya ka dipehelo tsa karolwana (1) se lokela ho nkuwa jwalo ka ha eka se kgethilwe ho ya ka Molaotheo o motjha o felang ka 30 Mmesa 1999.
-3.	Seboka sa naha se bopilwe ka ditho tse 400 ho fihlela ka 30 Mmesa 1999. ho ya ka karolo ya 49(4) ya Molaotheo o motjha.
+3.	Seboka sa naha se bopilwe ka ditho tse 400 ho fihlela ka 30 Mmesa 1999, ho ya ka karolo ya 49(4) ya Molaotheo o motjha.
 4.	Melawana le ditaelo tsa Seboka sa Naha tse sebetsang ha Molaotheo o motjha o sebediswa di tla tswela pele ka ho sebetsa mme di laolwa ke ho fetolwa kapa ho phumulwa.
 
 ## 5. Dikgetho tsa Seboka sa Naha
