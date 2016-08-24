@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Shejulu 3. Ditsamaiso tsa Dikgetho
+published: true
+layout: default
+style: chapter
 ---
 
 # Shejulu 3: Ditsamaiso tsa Dikgetho
@@ -24,7 +28,7 @@ Motho eo e leng modulasetulo kopanong eo Shejulu ena e lebaneng le yena o lokela
 
 1.	Ho thonngwe ka foromo e balletsweng ke melawana e ngotsweng karolong 9.
 1.	Foromo eo ho thontsweng ka yona e lokelwa ho saenwa—
-	1.	ke ditho tse pedi tsa Seboka sa Naha ha eba ho kgethwa Mopresidente kapa Sepikara kapa Motlatsi wa Sepikara sa Seboka sa naha;
+	1.	ke ditho tse pedi tsa Seboka sa Naha haeba ho kgethwa Mopresidente kapa Sepikara kapa Motlatsi wa Sepikara sa Seboka sa naha;
 	1.	lebitsong la baromuwa ba diprovense tse pedi, ha ho kgethwa Modulasetulo kapa Motlatsi wa Moduasetulo wa Lekgotla la Naha la Diprovense a ka kgethwa; kapa
 	1.	ke ditho tse pedi tsa lekgotla la ketsamolao la provense e amehang ha eba Tonakgolo ya Provense kapa Sepikara kapa Motlatsi wa Sepikara sa lekgotla la ketsamolao.
 1.	Motho ya thontsweng o lokela ho bontsha hore o amohela ho thonngwa ka ho saena foromo eo a thontsweng ka yona kapa ka bopaki bofe kapa bofe bo ngotsweng.
