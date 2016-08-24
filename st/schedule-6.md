@@ -140,11 +140,11 @@ Molaotheo wa provense o ileng wa fetiswa pele Molaotheo o motjha o kena tshebets
 1.	Molao mabapi le morero o sebakeng sa tshebetso o lenaneng le Shejulung 4 kapa 5 ya Molaotheo o motjha oo ha Molaotheo o motjha o sebediswa o ile wa tsamaiswa ka taolo lekgotleng la phethahatso la setjhaba o ka ajwa ke Mopresidente ka kgweletso ho ya nang le matla lekgotleng la phethahatso la provense ka tumello ya Lekgotla la Phethahatso la provense.
 2.	Ho fihlela ho hlokeha hore mosebetsi wa lekgotla la ketsamolao ho ya ka temananyana (1) o tle o atlehe, Mopresidente ho ya ka kgweletso, a nna a—
 	1.	fetola molao oo kapa a o betla hore a tle a laole tlhaloso ya ona kapa taolo ya ona;
-	1.	moo mosebetsi o sa sebedisweng molaong kaofela ho phumulwa le ho phethiswa ka diphetoho le ka ntle ho diphetoho dife kapa dife kapa dikamohelo tse hlalositsweng temaneng (a), dipehelo tseo mesebetsi e phethilweng ho tsona kapa ho fihlela moo mosebetsi o phethwang teng kapa laola morero ofe kapa ofe wa bohlokwa ka lebaka la kabo ha mmoho le ho falliswa kapa kadimano ya basebetsi kapa ho fetiswa ha thepa, melato, ditokelo le ditlamo, ho di isa kapa ho di amohela ho tswa lekgotleng la phethahatso la mmuso kapa la provense kapa lefapha lefe kapa lefe la puso, taolo, tshebeletso ya tshireletso kapa mekgatlo e meng feela
+	1.	moo mosebetsi o sa sebedisweng molaong kaofela ho phumulwa le ho phethiswa ka diphetoho le ka ntle ho diphetoho dife kapa dife kapa dikamohelo tse hlalositsweng temaneng (a), dipehelo tseo mesebetsi e phethilweng ho tsona kapa ho fihlela moo mosebetsi o phethwang teng kapa laola morero ofe kapa ofe wa bohlokwa ka lebaka la kabo hammoho le ho falliswa kapa kadimano ya basebetsi kapa ho fetiswa ha thepa, melato, ditokelo le ditlamo, ho di isa kapa ho di amohela ho tswa lekgotleng la phethahatso la mmuso kapa la provense kapa lefapha lefe kapa lefe la puso, taolo, tshebeletso ya tshireletso kapa mekgatlo e meng feela
 	1.	laola ntlha e nngwe le e nngwe e hlokahalang e le sephetho sa tshebetso, ho kenyeleditse phethiso kapa basebetsi ba bang kapa phethiso ya thepa, mekitlane, ditokelo le setlamo, ho ya kapa ho tswa phethahatsong ya naha kapa provense kapa lefapha la mmuso, tsamaiso, ditshebeletso tsa tshireletso kapa motheo o mong.
 3.	
 	1.	Kgatiso ya kgweletso ka nngwe e entsweng ho ya ka dipehelo tsa temananyana ya (1) kapa (2) e lokela ho nehelwa Seboka sa Naha le Lekgotla la Naha la Diprovense matsatsing a 10 a phatlalatso ya kgweletso.
-	1.	Ha Seboka sa Naha ha mmoho le Lekgotla la Diprovense a sa ananele kgweletso eo kapa pehelo efe kapa efe ya yona, kgweletso eo e fellwa ke nako empa e sa ame—
+	1.	Ha Seboka sa Naha hammoho le Lekgotla la Diprovense a sa ananele kgweletso eo kapa pehelo efe kapa efe ya yona, kgweletso eo e fellwa ke nako empa e sa ame—
 		1.	tshebetso ya eng kapa eng e entsweng ka dipehelo tsa kgweletso eo kapa pehelo eo, pele e fellwa ke nako; kapa
 		1.	tokelo kapa tshwanelo e fumanweng kapa tlameho kapa molao o hlahileng pele e fellwa ke nako.
 4.	Ha molao o ajwa ho ya ka dipehelo tsa temananyana (1), tlhaloso efe kapa efe ya molao ho molaodi ya e laolang e amohelwe e le tlhaloso ho molaodi eo a filweng mosebetsi oo.
@@ -157,9 +157,9 @@ Molaotheo wa provense o ileng wa fetiswa pele Molaotheo o motjha o kena tshebets
 
 ## 16. Makgotla a dinyewe
 
-1.	Lekgotla le leng le le leng la dinyewe ha mmoho le makgotla a setso a neng a leng teng pele ho kenngwa tshebetsong Molaotheo o motjha le tla tswela pele ka mosebetsi wa lona mme le sebedise matla a tshebetso ya molao ka moo molao o
+1.	Lekgotla le leng le le leng la dinyewe hammoho le makgotla a setso a neng a leng teng pele ho kenngwa tshebetsong Molaotheo o motjha le tla tswela pele ka mosebetsi wa lona mme le sebedise matla a tshebetso ya molao ka moo molao o
 dumelang mme mang kapa mang ya sebetsang ofising e le mosebeletsi wa molao o tla tswela pele ho sebetsa ho ya ka molao o sebedisetswang maemo ao, le ho ya ka—
-	1.	phetoho efe kapa efe kapa ho phumulwa ha molao oo; ha mmoho le
+	1.	phetoho efe kapa efe kapa ho phumulwa ha molao oo; hammoho le
 	1.	tumellano le Molaotheo o motjha.
 2.	
 	1.	Lekgotla la Molaotheo le thehilweng ke Molaotheo wa mehleng le fetoha Lekgotla la Molaotheo tlasa Molaotheo o motjha.
