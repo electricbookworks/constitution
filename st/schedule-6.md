@@ -267,7 +267,7 @@ Motho a ntseng a sebetsa ho latela dintlha tsa Shejule sena a nkileng kano ya mo
 		“Motho e mong le e mong o na le tokelo ya—\\
 		(a) ho ba le ho nka mohato wa molao ha e le hore ditokelo tsa hae kapa ditabatabelo tsa hae di a hanelwa kapa di bang kotsing;\\
 		(b) ka tsamaiso e nepahetseng mohato wa toka wa molao moo e leng hore tse ding tsa ditokelo kapa ditebello tsa molao tsa bona di a ameha kapa di bang kotsing;\\
-		(c) a fuwe mabaka ka ho ngola mabapi le mohato wa taolo a mang ditokelo ife kapa dife tsa bona le ditabatabelo ka ntle ha eba mabaka a mohato oo a se a phatlaladitswe; le\\
+		(c) a fuwe mabaka ka ho ngola mabapi le mohato wa taolo amang ditokelo dife kapa dife tsa bona le ditabatabelo ka ntle le haeba mabaka a mohato oo a se a phatlaladitswe; le\\
 		(d) mohato wa taolo wa toka ho ya ka mabaka a filweng moo ditokelo tsa bona di amehang teng kapa di bang kotsing.”.
 
 3.	Dikarolo tsa 32(2) le 33(3) tsa Molaotheo o motjha di fela ha eba molao o lebeletsweng dikarolong tseo ha di a fetiswa ka dilemo tse tharo tsa mohla Molaotheo o sebediswang.
