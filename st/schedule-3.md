@@ -45,13 +45,13 @@ Moo ho thontsweng nkgetheng a le mong, modulasetulo o lokela ho phatlalatsa hore
 
 1.	Ha ho thontswe bonkgetheng ba fetang bonngwe—
 	1.	ho lokela hore ho etswe kgetho ya sephiri;
-	1.	setho ka seng se teng, kapa ha eba e le kopano ya Lekgotla la Naha la Diprovense, provense ka nngwe le e nngwe e emetsweng kopanong e lokela ho kgetha hang hape; mme
+	1.	setho ka seng se teng, kapa haeba e le kopano ya Lekgotla la Naha la Diprovense, provense ka nngwe le e nngwe e emetsweng kopanong e lokela ho kgetha hang hape; mme
 	1.	modulasetulo o lokela ho phatlalatsa hore motho ya kgethuweng ke ya tla fumana dikgetho tse ngata.
 
 ### 7. Tsamaiso ya ho ntshwa
 
-1.	Ha ho se nkgetheng ya fumaneng dikgetho tse ngata, nkgetheng ya fumaneng dikgetho tse nnyane ka ho fetisa o lokela ho ntshwa ebe ho boetse ho kgethwe bonkgetheng ba setseng ka moo karolo 6 e hlalosang ka teng. mokgwa ona o nne o tswele pele jwalo ho fohlela ho fumaneha nkgetheng ya fumanang dikgetho tse ngata.
-2.	Ha ho sebediswa karolwana (i), ha eba bonkgetheng ba babedi kapa ka bomong ba na le dikgetho tse tlase, kgetho e ka thoko e etswe ho bonkgetheng bao mme e phetse kgafetsa ka moo ho ka hlokahalang ka teng ho akanya hore ke nkgetheng ofe ya tla ntshwa.
+1.	Ha ho se nkgetheng ya fumaneng dikgetho tse ngata, nkgetheng ya fumaneng dikgetho tse nnyane ka ho fetisa o lokela ho ntshwa ebe ho boetse ho kgethwe bonkgetheng ba setseng ka moo karolo 6 e hlalosang ka teng. Mokgwa ona o nne o tswele pele jwalo ho fihlela ho fumaneha nkgetheng ya fumanang dikgetho tse ngata.
+2.	Ha ho sebediswa karolwana (i), haeba bonkgetheng ba babedi kapa ka bomong ba na le dikgetho tse tlase, kgetho e ka thoko e etswe ho bonkgetheng bao mme e phetse kgafetsa ka moo ho ka hlokahalang ka teng ho akanya hore ke nkgetheng ofe ya tla ntshwa.
 
 ### 8. Dikopano tse ding
 
