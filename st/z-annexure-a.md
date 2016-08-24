@@ -47,19 +47,19 @@ style: chapter
 
 7.	Phetolo ya karolo 10 ka ntlha e latelang:
 
-	> 10. Palo ya ditho lekgotleng la ketsamolao provenseng di tla behwa hoya ka dipehelo tsa karolo 105 ya Molaotheo o motjha.
+	> 10. Palo ya ditho lekgotleng la ketsamolao provenseng di tla behwa ho ya ka dipehelo tsa karolo 105 ya Molaotheo o motjha.
 	> {:start='10'}
 
 8.	Phetolo ya ntlha 11 ka ho ngola ka ntlha e latelang:
 
-	> 11. Mekga e ngodisitsweng ho ya ka dipehelo tsa molao wa naha mme diphehisana ka dikgetho tsa lekgotla la ketsamolao la provense le tlakgetha bakgethwa hore ba kgethelwe lekgotla la ketsamolao mananeng aprovense a lokiseditsweng ho ya ka Shejulu ena le molao wa naha.
+	> 11. Mekga e ngodisitsweng ho ya ka dipehelo tsa molao wa naha mme diphehisana ka dikgetho tsa lekgotla la ketsamolao la provense le tla kgetha bakgethwa hore ba kgethelwe lekgotla la ketsamolao mananeng a provense a lokiseditsweng ho ya ka Shejulu ena le molao wa naha.
 	> {:start='11'}
 
 9.	Phetolo ya karolo 16 ka ntlha e latelang:
 
 	> 16\. Ho kgethwa ha ditho
 	> 
-	1.	Ka mora hore ho balwa ha dikgethoho qetwe, palo ya baemedi bamokga ka mong o hlalositswe mme sephetho sa dikgetho se phatlaladitsweho ya ka dipehelo tsa karolo 190 tsa Molaotheo o motjha, Molaotheo o tla, kamora matsatsi a mabedi ka mora phatlalatso, kgetha ho tswa lenaneng kaleng bakgethwa ba phatlaladitswe ho ya ka molao wa naha, baemedi bamokga ka mong lekgotleng la ketsamolao.\\
+	1.	Ka mora hore ho balwa ha dikgetho ho qetwe, palo ya baemedi bamokga ka mong o hlalositswe mme sephetho sa dikgetho se phatlaladitsweho ya ka dipehelo tsa karolo 190 tsa Molaotheo o motjha, Molaotheo o tla, kamora matsatsi a mabedi ka mora phatlalatso, kgetha ho tswa lenaneng kaleng bakgethwa ba phatlaladitswe ho ya ka molao wa naha, baemedi bamokga ka mong lekgotleng la ketsamolao.\\
 	2. Ho ya ka kgetho ya dipehelo tsa temananyana (1) ha lebitso la mokgethwa le hlahella hangata mananeng a mang a Seboka sa Naha le lekgotla la ketsamolao la provense ( ha eba kgetho ya Seboka le lekgotla la ketsamolao a tshwerwe ka nako e le nngwe) mme mokgethwa eo a tla kgethwa e le moemedi dibakeng tse ngata, mokga o rometseng lenane le jwalo o tla, ka mora matsatsi a mabedi ka mora phatlalatso e jwalo, hlalosetsa Khomishene hore mokgethwa eo o tla kgethwa lenaneng lefe kapa mokgethwa o tla sebetsa lekgotleng lefe la ketsamolao, ho ya ka moo a ratang ka teng mmeho latela maemo ana , lebitso la mokgethwa le tla hlakolwa mananeng amang.\\
 	3. Khomishene e tla phatlalatsa ke hona mabitso a baemedi lekgotleng la ketsamolao kapa makgotleng a ketsamolao...
 
