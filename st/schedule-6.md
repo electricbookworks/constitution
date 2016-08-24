@@ -123,7 +123,7 @@ motjha mme o sebetsa e le setho kapa mosebeletsi wa mmuso ho ya ka Molaotheo o m
 1.	Le ha Molaotheo wa kgale o phumutswe, Shejulu 2 ya Molaotheo oo jwalo ka ha e fetotswe ho ya ka Sehlomathiso sa A sa Shejulu, e sebetsa—
 	1.	dikgethong tsa pele tsa lekgotla la ketsamolao la provense ho ya ka Molaotheo o motjha;
 	1.	ho lahlehelwa ke ho ba setho sa lekgotla la ketsamolao maemong a mang ho ao ho fanweng ka ona karolong 106 (3) ya Molaotheo o motjha; le
-	1.	ho tlatsweng ha dikgeo tse teng tsa mosebetsi lekgotleng la ketsamolao le tlatseletsong ho lekolweng le ho sebedisweng ha mananeo a dikgeo tsa mosebetsi ho fihlela dikgetho tsa bobedi tsa lekgotla la ketsamolao hoya ka Molaotheo o motjha.
+	1.	ho tlatsweng ha dikgeo tse teng tsa mosebetsi lekgotleng la ketsamolao le tlatseletsong ho lekolweng le ho sebedisweng ha mananeo a dikgeo tsa mosebetsi ho fihlela dikgetho tsa bobedi tsa lekgotla la ketsamolao ho ya ka Molaotheo o motjha.
 2.	Karolo 106 (4) ya Molaotheo o motjha e emisitswe bakeng sa lekgotla la ketsamolao la provense ho fihlela nako ya dikgetho tsa bobedi tsa lekgotla la ketsamolao ho ya ka Molaotheo o motjha.
 
 ## 12. Makgotla a phethahatso a diprovense
