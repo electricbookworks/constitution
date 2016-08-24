@@ -235,7 +235,7 @@ Motho a ntseng a sebetsa ho latela dintlha tsa Shejule sena a nkileng kano ya mo
 	1.	Lekgotla la Volkstaat le thehilweng tlasa dipehelo tsa Molaotheo wa kgale le tla tswela pele ho sebetsa tlasa dipehelo tsa molao o etswang o tobaneng le lona mme mang kapa mang ya neng a na le maemo ho yona ha Molaotheo o motjha o sebediswa o tla tswela pele maemong ao tlasa dipehelo tsa molao o tobaneng le lona, ho ya ka—
 		1.	hore phetolo kapa ho phumulwa ha molao; mmoho le
 		1.	hore o dumellane le Molaotheo.
-	1.	Dikarolo tsa 184 A, 184 B(1)(a), (b) le (d) tsa Molaotheo wa kgale di dula di sebetsa ho fihlela di hlakolwa ka Molao wa Palamente ofetisitsweng tlasa dipehelo tsa karolo ya 75 ya Molaotheo o motjha.
+	1.	Dikarolo tsa 184 A, 184 B(1)(a), (b) le (d) tsa Molaotheo wa kgale di dula di sebetsa ho fihlela di hlakolwa ka Molao wa Palamente o fetisitsweng tlasa dipehelo tsa karolo ya 75 ya Molaotheo o motjha.
 
 ## 21. Ho fetiswa ha molao o hlokwang ke Molaotheo
 
@@ -248,8 +248,8 @@ Motho a ntseng a sebetsa ho latela dintlha tsa Shejule sena a nkileng kano ya mo
 
 ## 22. Kopano ya setjhaba le poelano
 
-1.	Le ha ho ena le dipehelo dife kapa dife tse ding tsa Molaotheo o motjha le ka ntle ho ho phumulwa ha Molaotheo wa kgale, dipehelo tsohle tse tsamaelanang le tshwarelo e fuperweng Molaotheong wa mehleng ho ya ka sehlooho sa“Kopano ya Setjhaba le Poelano”di lokela ho ba karolo ya Molaotheo o motjha mabapi le Molao wa Nthsetsopele ya Kopano ya Setjhaba le Poelano wa 1995 (Molao wa 34 wa 1995) jwalo ka ha o fetotswe, ho kenyeletswa mabaka a yona a bonnete.
-2.	Bakeng la maikemisetso a temananyana (1), letsatsi la “6 Tshitwe 1993”, moo le hlahellang teng Molaotheong o fetileng ka tlasa “Kopano ya Setjhaba le Poelano”, ditshwanetse dibalwe e le “11 Motsheanong 1994”.
+1.	Le ha ho ena le dipehelo dife kapa dife tse ding tsa Molaotheo o motjha le ka ntle ho phumulwa ha Molaotheo wa kgale, dipehelo tsohle tse tsamaelanang le tshwarelo e fuperweng Molaotheong wa mehleng ho ya ka sehlooho sa“Kopano ya Setjhaba le Poelano” di lokela ho ba karolo ya Molaotheo o motjha mabapi le Molao wa Nthsetsopele ya Kopano ya Setjhaba le Poelano wa 1995 (Molao wa 34 wa 1995) jwalo ka ha o fetotswe, ho kenyeletswa mabaka a yona a bonnete.
+2.	Bakeng la maikemisetso a temananyana (1), letsatsi la “6 Tshitwe 1993”, moo le hlahellang teng Molaotheong o fetileng ka tlasa “Kopano ya Setjhaba le Poelano”, di tshwanetse di balwe e le “11 Motsheanong 1994”.
 
 	> [Temananyana (2) e kentswe ke karolo 3 ya Molao wa tokiso ya pele ya Molaotheo wa 1997.]
 	{:.note}
