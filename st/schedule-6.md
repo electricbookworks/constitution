@@ -293,12 +293,12 @@ Motho a ntseng a sebetsa ho latela dintlha tsa Shejule sena a nkileng kano ya mo
 ## 26. Mmuso wa selehae
 
 1.	Ho fihlela dipehelo tsohle tsa dikarolo tsa 151, 155, 156 le 157 tsa Molaotheo o motjha—
-	1.	dipehelo tsa Molao wa Phethoho wa Mmuso wa Selehae wa 1993 (Molao wa 209 wa 1993), jwalo ka ha o ka fetolwa nako le nako ke lekgotla la ketsamolao le tsamaelana le Molaotheo o motjha o tla dula ho fihlela ka 30 Mmesa 1999 kapa ho fihlala o phumulwa ho tswa feela hore ke efe e potlakileng; le
+	1.	dipehelo tsa Molao wa Phethoho wa Mmuso wa Selehae wa 1993 (Molao wa 209 wa 1993), jwalo ka ha o ka fetolwa nako le nako ke lekgotla la ketsamolao le tsamaelana le Molaotheo o motjha o tla dula ho fihlela ka 30 Mmesa 1999 kapa ho fihlela o phumulwa ho tswa feela hore ke efe e potlakileng; le
 
 		> [Temananyana (a) e fetotswe ke karolo 5(a) ya Molao 2 wa 1998.]
 		{:.note}
 
-	1.	morena wa setjhaba ya hlokometseng melo ya setso mme a dula sebakeng seo e leng sa lekgotla la phetoho la selehae, lekgotla la phetoho la mahaeng kapa lekgotla la boemedi la phethoho le hlalositsweng Molaong wa Phethoho wa Mmuso wa 1993 mme o hlwailwe jwalo ka ha o ngotswe karolong 182 ya Molaotheo wa kgale, mme e ka ba setho se seng molaong se tshwanelang ho ba setho sa lekgotla leo ho fihlela 30 Mmesa 1999 kapa ho fihlela Molao wa Palamente o fana ka molao o mong.
+	1.	morena wa setjhaba ya hlokometseng melao ya setso mme a dula sebakeng seo e leng sa lekgotla la phetoho la selehae, lekgotla la phetoho la mahaeng kapa lekgotla la boemedi la phethoho le hlalositsweng Molaong wa Phethoho wa Mmuso wa 1993 mme o hlwailwe jwalo ka ha o ngotswe karolong 182 ya Molaotheo wa kgale, mme e ka ba setho se seng molaong se tshwanelang ho ba setho sa lekgotla leo ho fihlela 30 Mmesa 1999 kapa ho fihlela Molao wa Palamente o fana ka molao o mong.
 
 		> [Temananyana (b) e fetotswe ke karolo 5(b) ya Molao 2 wa1998.]
 		{:.note}
