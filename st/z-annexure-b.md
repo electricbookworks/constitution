@@ -1,5 +1,9 @@
 ---
-title: Sehlomathiso sa B. Mmuso wa Kopano ya Setjhaba&#58; Boemong ba naha
+stylesheet: screen.css
+title: 'Sehlomathiso sa B. Mmuso wa Kopano ya Setjhaba&#58; Boemong ba naha'
+published: true
+layout: default
+style: chapter
 ---
 
 # Sehlomathiso sa B: Mmuso wa Kopano ya Setjhaba: Boemong ba naha
@@ -9,7 +13,7 @@ title: Sehlomathiso sa B. Mmuso wa Kopano ya Setjhaba&#58; Boemong ba naha
 	> 3.	Mopresidente a rerisane le Motlatsi wa Mopresidente wa Phethahatso—
 	>	1.	ntshetso peleng le phethahatsong ya maano a mmuso wa naha;
 	>	1.	mererong yohle e lebaneng le taolo ya kabinete le phethahatsong ya mosebetsi wa Kabinete;
-	>	1.	kabelong ya mesebtsi ho Motlatsi wa Mopresidente wa Phethahatso;
+	>	1.	kabelong ya mosebtsi ho Motlatsi wa Mopresidente wa Phethahatso;
 	>	1.	pele a ka kgetha mang kapa mang ho ya ka Molaotheo kapa molao ofe kapa ofe ho kenyeletswa le ho kgethwa ha lenqosa kapa baemedi bafe kapa bafe ba mmuso;
 	>	1.	pele a thonya dikhomishene tsa dipatlisiso;
 	>	1.	pele a ka epa pitso ya reforandamo; le
@@ -31,18 +35,18 @@ title: Sehlomathiso sa B. Mmuso wa Kopano ya Setjhaba&#58; Boemong ba naha
 	> 
 	> 1.	Kabinete e bopilwe ka Mopresidente, Motlatsi wa Mopresidente wa Phethahatso le—
 	>	1.	ho se be le Matona a fetang 27 ao e leng ditho tsa Seboka sa Naha mme ba kgethilwe ho ya ka dipehelo tsa karolwana (8) ho fihlela ho (12); le
-	>	1.	ho se be le Letona le le leng leo e seng setho sa 175 Seboka sa Naha mme le kgethilwe ho ya ka dipehelo tsa karolwana (13), ka ntle ha eba Mopresidente a sebetsa ho ya ka therisano le Motlatsi wa Mopresidente wa Phethahatso le baetapele ba mekga e teng, ba bona ho kgathwa ha Letona le jwalo ho hlokeha.
+	>	1.	ho se be le Letona le le leng leo e seng setho sa 175 Seboka sa Naha mme le kgethilwe ho ya ka dipehelo tsa karolwana (13), ka ntle le haeba Mopresidente a sebetsa ho ya ka therisano le Motlatsi wa Mopresidente wa Phethahatso le baetapele ba mekga e teng, ba bona ho kgathwa ha Letona le jwalo ho hlokeha.
 	> 2.	Mokga ka mong o nang le ditulo tse 80 kapa ditulo tse ngata Sebokeng sa Naha o na le tokelo ya ho kgetha Motlatsi wa Mopresidente wa Phethahatso ho ditho tsa Seboka.
 	> 3.	Ha ho se mokga kapa ho na le mokga o le mong o nang le ditulo tse 80 kapa ho feta Sebokeng, mokga o nang le ditulo tse ngata ho feta le mokga o hlahellang ka bobedi e le o moholo ka ditulo ka bomong e na le tokelo ya ho kgetha Motlatsi wa Mopresidente wa Phethahatso ho ditho tsa Seboka.
 	> 4.	Ka ho kgethwa Motlatsi wa Mopresidente wa Phethahatso a ka ikgethela ho sala kapa ho kgaotsa ho ba setho sa Seboka.
-	> 5.	Motlatsi wa Mopresidente wa Phethahatso a ka nna a sebedisa matla a hae mme a phethise mesebetsi eo a e tshepetsweng ofising ya Motlatsi wa Mopresidente wa Phethahatso ho ya ka Molaotheo kapa a kgetheilwe ka ho sebetsa ofising eo ke Mopresidente.
+	> 5.	Motlatsi wa Mopresidente wa Phethahatso a ka nna a sebedisa matla a hae mme a phethise mesebetsi eo a e tshepetsweng ofising ya Motlatsi wa Mopresidente wa Phethahatso ho ya ka Molaotheo kapa a kgethilwe ka ho sebetsa ofising eo ke Mopresidente.
 	> 6.	Motlatsi wa Mopresidente wa Phethahatso o tshwara marapo—
 	>	1.	ho fihlela 30 Mmesa 1999 ka ntle ha eba a ka tshwarelwa ke e mong kapa a bitswa ke mokga o tlamehang ho kgetha ho ya ka dipehelo tsa karolwana (2) le (3); kapa
 	>	1.	ho fihlela motho ya kgethilweng ho ba Mopresidente ka mora kgetho efe kapa efe ya Seboka sa Naha e tshwerweng pele ho 30 Mmesa 1999, a qala ho sebetsa.
 	> 7.	Sekgeo ofising ya Motlatsi wa Mopresidente wa Phethahatso se ka tlatswa ke mokga oo Motlatsi wa Mopresidente a o kgethetsweng.
-	> 8.	Mokga o nang le ditulo tse 20 Sebokeng sa Naha mme o ikemiseditse ho kenya letsoho mmusong wa kopanelo, o na le tokelo ya ho abelwa mosebetsi o le mong kapa e mengata ya Kabineteho ya ka moo Matona a hlalositsweng ka teng karolwaneng (1)(a) a tla kgethwa ho ya le ka palohare ya ditulo tse tshwerweng ke ona Sebokeng sa Naha ka ho tshwana le palo ya ditulo tse tshwerweng ke mekga e teng.
+	> 8.	Mokga o nang le ditulo tse 20 Sebokeng sa Naha mme o ikemiseditse ho kenya letsoho mmusong wa kopanelo, o na le tokelo ya ho abelwa mosebetsi o le mong kapa e mengata ya Kabinete ho ya ka moo Matona a hlalositsweng ka teng karolwaneng (1)(a) a tla kgethwa ho ya le ka palohare ya ditulo tse tshwerweng ke ona Sebokeng sa Naha ka ho tshwana le palo ya ditulo tse tshwerweng ke mekga e teng.
 	> 9.	Mesebetsi ya Kabinete e abelwe mekga e sebetsang mmoho ho ya ka moralo o latelang:
-	>	1.	Palo ya ditulo ho ya ka mosebetsi e laolwe ka ho arola palo yohle ka ditulo Sebokeng sa Naha se tshwerweng mmoho le mekga e sebetsang mmoho ka palo ya mesebetsi ho ya ka moo Matona a hlalositsweng ka teng karolwaneng (1)(a) a kgethilwe, le le le leng.
+	>	1.	Palo ya ditulo ho ya ka mosebetsi e laolwe ka ho arola palo yohle ka ditulo Sebokeng sa Naha se tshwerweng mmoho le mekga e sebetsang mmoho ka palo ya mesebetsi ho ya ka moo Matona a hlalositsweng ka teng karolwaneng (1)(a) a kgethilwe, le le leng.
 	>	1.	Sephetho ho sa natswe di desimale tsa boraro le tse latelang, ha eba di teng, ke palo ya ditulo ho ya ka mosebetsi.
 	>	1.	Palo ya mesebetsi e ka ajwang mokgeng o sebetsang mmoho o laolwaka ho arola palo yohle ya ditulo tse tshwerweng ke mokga Sebokeng sa Naha ka palo e hlalositsweng serapeng (b).
 	>	1.	Sephetho, ho ya ka serapa (e), e bontsha palo ya mesebetsi e ka abelwang mokga oo.
