@@ -7,7 +7,18 @@ prose:
     - .gitattributes
     - .gitignore
     - _config.yml
+    - _config.en.yml
+    - _config.no-audio.yml
+    - _config.pdf-ebook.yml
     - _prose.yml
+    - Gemfile
+    - Gemfile.lock
+    - linux-pdf.sh
+    - mac-pdf.command
+    - win-epub.bat
+    - win-pdf-ebook.bat
+    - win-pdf.bat
+    - win-web.bat
     - /_data
     - /_source
     - /download
