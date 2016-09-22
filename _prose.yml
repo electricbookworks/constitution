@@ -8,6 +8,7 @@ prose:
     - .gitignore
     - _config.yml
     - _config.en.yml
+    - _config.epub.yml
     - _config.no-audio.yml
     - _config.pdf-ebook.yml
     - _prose.yml
