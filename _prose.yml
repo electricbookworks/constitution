@@ -38,6 +38,7 @@ prose:
     - /*/css
     - /*/*/0-0-cover.md
     - /*/*/index.md
+    - /*/*/print-list
   media: "media"
   metadata:
     "":
