@@ -14,7 +14,7 @@ function ebMonetizationCounter() {
         sessionStorage.setItem("isContinuedSession", "true");
 
         // set up the tracking pixel information
-        const awsS3 = "https://monetization-images.s3.us-east-2.amazonaws.com/";
+        let awsS3 = "https://monetization-images.s3.us-east-2.amazonaws.com/";
         awsS3 = awsS3 + "my-constitution/"
 
         // log it by loading the new user session tracking pixel

@@ -89,7 +89,9 @@
 	</script>
 
     {% comment %}Enable web monetization{% endcomment %}
-    <meta name="monetization" content="$ilp.uphold.com/F3RZGkKfwaBG">
+    {% if site.data.settings.web.monetization.enabled == true %}
+        <meta name="monetization" content={{ site.data.settings.web.monetization.ilp-pointer }}>
+    {% endif %}
 
 </head>
 <body class="{{ page.style }}" ontouchstart="" onmouseover="">
