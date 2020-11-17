@@ -47,3 +47,6 @@ To find out more about this project, copy the source text, or to contribute, ple
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)\\
 You may freely copy and redistribute this edition of the Constitution. There is no copyright in the text or the layout.
+
+This site has web monetization enabled as part of a [research study](https://electricbookworks.com/thinking/researching-web-monetization/) on the use of web monetization as a means of generating revenue on open-access content. Web monetization operates in accordance with the [Interledger protocol](https://interledger.org/) and maintains complete user privacy. If you have a web monetization wallet set up, you will be making tiny payments to this site while you browse, which helps us create more open-access content.
+{:.box}
