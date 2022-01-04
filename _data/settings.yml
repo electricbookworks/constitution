@@ -1,8 +1,0 @@
-# Web-specific settings
-web:
-  # --------------
-  # Monetization
-  # --------------
-  monetization:
-    enabled: true
-    ilp-pointer: "$ilp.uphold.com/F3RZGkKfwaBG"
