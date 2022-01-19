@@ -88,6 +88,11 @@
 		}
 	</script>
 
+    {% comment %}Enable web monetization{% endcomment %}
+    {% if site.data.settings.web.monetization.enabled == true %}
+        <meta name="monetization" content={{ site.data.settings.web.monetization.ilp-pointer }}>
+    {% endif %}
+
 </head>
 <body class="{{ page.style }}" ontouchstart="" onmouseover="">
 <!-- ontouchstart="" onmouseover="" makes :hover/:focus/:active work on iOS touch devices -->
