@@ -1,3 +1,4 @@
 # Live website build config
 # Use this to override defaults in _config.yml
 
+baseurl: ""
