@@ -4,5 +4,5 @@ web:
   # Monetization
   # --------------
   monetization:
-    enabled: true
+    enabled: false
     ilp-pointer: "$ilp.uphold.com/F3RZGkKfwaBG"
