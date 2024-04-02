@@ -61,7 +61,6 @@
 # FTP... variables are only necessary for FTP deployment (uses LFTP).
 # Set these for each of your destination servers.
 
-
 echo "Starting deployment..."
 
 # Unshallow to get tags
@@ -71,7 +70,7 @@ then
 fi
 
 # Get the short hash of the latest commit
-commit=$(git log --pretty=format:"%h" -n 1^ 2>&1)
+commit=$(git rev-parse --short=7 HEAD 2>&1)
 
 # Get the tag on the last commit
 tag=$(git describe --tags --exact-match $commit 2>&1)
@@ -109,7 +108,10 @@ then
             ssh_port=$SSH_LIVE_PORT
         fi
 
+        # Exit if rsync fails
+        set -e
         rsync -a -v -e "ssh -p $ssh_port" --stats --progress "$HOME/cache/_site/" "$SSH_LIVE":"$DESTINATIONPATH_LIVE"
+        set +e
     else
         lftp -d -c "open -u $FTP_USER_LIVE,$FTP_PASSWORD_LIVE $FTP_HOST_LIVE; set ssl:verify-certificate no; mirror -Rv '$HOME/cache/_site/' '$DESTINATIONPATH_LIVE'"
     fi
@@ -136,12 +138,16 @@ else
                 ssh_port=$SSH_PREVIEWS_PORT
             fi
 
+            # Exit if rsync fails
+            set -e
             rsync -a -v -e "ssh -p $ssh_port" --stats --progress "$HOME/cache/_site/" "$SSH_PREVIEWS":"$DESTINATIONPATH_PREVIEWS/$tag"
+            set +e
         else
             # If your server can't handle a queue of FTP commands,
             # you may need to remove `set ftp:sync-mode false;`
             lftp -d -c "open -u $FTP_USER_PREVIEWS,$FTP_PASSWORD_PREVIEWS $FTP_HOST_PREVIEWS; set ssl:verify-certificate no; set ftp:sync-mode false; mirror -Rv '$HOME/cache/_site/' '$DESTINATIONPATH_PREVIEWS/$tag'"
         fi
+        echo "Preview site deployed."
     else
         if [[ $DEPLOY_METHOD_STAGING == 'SSH' ]]
         then
@@ -151,13 +157,15 @@ else
                 ssh_port=$SSH_STAGING_PORT
             fi
 
+            # Exit if rsync fails
+            set -e
             rsync -a -v -e "ssh -p $ssh_port" --stats --progress "$HOME/cache/_site/" "$SSH_STAGING":"$DESTINATIONPATH_STAGING"
+            set +e
         else
             # If your server can't handle a queue of FTP commands,
             # you may need to remove `set ftp:sync-mode false;`
             lftp -d -c "open -u $FTP_USER_STAGING,$FTP_PASSWORD_STAGING $FTP_HOST_STAGING; set ssl:verify-certificate no; set ftp:sync-mode false; mirror -Rv '$HOME/cache/_site/' '$DESTINATIONPATH_STAGING'"
         fi
+        echo "Staging site deployed."
     fi
-    echo "Staging site deployed."
-
 fi
