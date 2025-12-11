@@ -1,0 +1,22 @@
+{
+  "ftp-ssh": {
+    "configs-comment": "All configs are relative to the _configs folder. ",
+    "configs": ["_config.live.yml"],
+    "builds": [
+      {
+        "configs": [],
+        "dir": ""
+      }
+    ],
+    "staging":{
+      "type": "ssh",
+      "web-root": "public_html",
+      "path": ""
+    },
+    "live": {
+      "type": "ssh", 
+      "web-root": "public_html",
+      "path": ""
+    }
+  }
+}
