@@ -6,7 +6,7 @@ on:
 
 jobs:
   deploy:
-    uses: electricbookworks/electric-book-deploy-workflow-ftp-ssh/.github/workflows/deploy.yml@v1.0.2
+    uses: electricbookworks/electric-book-deploy-workflow-ftp-ssh/.github/workflows/deploy.yml@v1.2.2
     secrets: inherit
     with:
       setup-command: 'bundle install'
